@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-06T08:31:33.240545Z",
+  "aggiornato_il": "2026-08-06T09:12:32.793421Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,51 +12,101 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53846.12,
-      "variazione_1g_pct": 0.75,
+      "prezzo": 54017.17,
+      "variazione_1g_pct": 1.07,
+      "variazione_1m_pct": 2.98,
+      "variazione_1a_pct": 31.72,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": true
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
       "prezzo": 7723.55,
       "variazione_1g_pct": -0.17,
+      "variazione_1m_pct": 2.47,
+      "variazione_1a_pct": 22.61,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": true
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 658.92,
-      "variazione_1g_pct": 0.27,
+      "prezzo": 660.73,
+      "variazione_1g_pct": 0.55,
+      "variazione_1m_pct": 2.23,
+      "variazione_1a_pct": 22.12,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": true
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
       "prezzo": 209.15,
       "variazione_1g_pct": -0.04,
+      "variazione_1m_pct": 2.3,
+      "variazione_1a_pct": 24.24,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": true
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
-    "VIX (volatilità USA)": {
-      "prezzo": 15.85,
-      "variazione_1g_pct": 0.25,
+    "VIX (volatilitÃ  USA)": {
+      "prezzo": 15.9,
+      "variazione_1g_pct": 0.57,
+      "variazione_1m_pct": -1.43,
+      "variazione_1a_pct": -5.19,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": false
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     }
   },
-  "macro": {
-    "spread_10y_2y_usa": {
+  "macro": [
+    {
+      "nome": "Spread rendimenti USA 10Y-2Y",
+      "unita": "punti %",
       "data": "2026-08-05",
-      "valore": 0.45
+      "valore": 0.45,
+      "valore_anno_fa": 0.5,
+      "variazione": -0.05
     },
-    "inflazione_usa_cpi": {
+    {
+      "nome": "Inflazione USA (CPI annuo)",
+      "unita": "%",
+      "valore": 3.46,
+      "valore_anno_fa": null,
+      "variazione": null,
+      "data": "2026-06-01"
+    },
+    {
+      "nome": "Disoccupazione USA",
+      "unita": "%",
       "data": "2026-06-01",
-      "valore": 332.568
+      "valore": 4.2,
+      "valore_anno_fa": 4.1,
+      "variazione": 0.1
     },
-    "debito_pil_usa": {
+    {
+      "nome": "Debito/PIL USA",
+      "unita": "%",
       "data": "2026-01-01",
-      "valore": 122.59387
+      "valore": 122.59387,
+      "valore_anno_fa": 120.54515,
+      "variazione": 2.05
     },
-    "inflazione_eurozona_hicp": 2.0
-  },
+    {
+      "nome": "Inflazione Eurozona (HICP)",
+      "periodo": "2025-12",
+      "valore": 2.0,
+      "valore_anno_fa": 2.4,
+      "variazione": -0.4,
+      "unita": "%"
+    },
+    {
+      "nome": "Inflazione Italia (HICP)",
+      "periodo": "2025-12",
+      "valore": 1.2,
+      "valore_anno_fa": 1.4,
+      "variazione": -0.2,
+      "unita": "%"
+    }
+  ],
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
@@ -80,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bce, incertezza elevata, impatto shock energia deve ancora arrivare",
+      "titolo": "Nuburu, 'via libera del Governo all'acquisizione di Tekne'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/nuburu-via-libera-del-governo-allacquisizione-di-tekne_81c7ed54-25b7-440a-9c15-ef0439a87700.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "La raccolta Fineco a luglio a 1,78 miliardi, da inizio anno oltre 10 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/la-raccolta-fineco-a-luglio-a-178-miliardi-da-inizio-anno-oltre-10-miliardi_1cc195fb-b080-4c64-b077-065a395d8d14.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Bce, caro energia pesa su famiglie a basso reddito e ne erode risparmi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-caro-energia-pesa-su-famiglie-a-basso-reddito-e-ne-erode-risparmi_c129eb7b-1e6c-441e-8fde-d0bfc2df1206.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Bce: 'Incertezza elevata, l'impatto shock energetico deve ancora arrivare'",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-incertezza-elevata-impatto-shock-energia-deve-ancora-arrivare_36bb802f-3733-479f-b096-8e996c1c4d55.html"
     },
     {
       "fonte": "ANSA Economia",
       "titolo": "Swisscom, nel semestre utile +6,9% a 668 milioni di franchi, conferma target 2026",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/swisscom-nel-semestre-utile-69-a-668-milioni-di-franchi-conferma-target-2026_5ea4c177-6915-4e9b-b290-c8c1b5fa9aa6.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "++ Antitrust, 'ostacolo a corse gratis', multa milionaria a monopattini e bikesharing ++",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/antitrust-ostacolo-a-corse-gratis-multa-milionaria-a-monopattini-e-bikesharing_ad463bb2-0c4a-40d8-aa06-cd1333870eea.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "++ Istat, produzione industriale in calo dell'1% a giugno, su anno -0,6% ++",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/istat-produzione-industriale-in-calo-dell1-a-giugno-su-anno-06_d26aef6a-89c2-466a-b156-30012c29e5ef.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Per Mediolanum raccolta luglio da record, da inizio anno 7,78 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/per-mediolanum-raccolta-luglio-da-record-da-inizio-anno-778-miliardi_f7b40406-4a66-4cbb-a5e3-32eae1851f4d.html"
     }
   ]
 }
