@@ -1,0 +1,107 @@
+{
+  "aggiornato_il": "2026-08-06T08:31:33.240545Z",
+  "sentiment": {
+    "punteggio": 95.0,
+    "semaforo": "verde",
+    "dettaglio": {
+      "volatilita": 100,
+      "momentum": 100.0,
+      "curva_rendimenti": 80,
+      "inflazione": 100.0
+    }
+  },
+  "mercati": {
+    "FTSE MIB (Italia)": {
+      "prezzo": 53846.12,
+      "variazione_1g_pct": 0.75,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true
+    },
+    "S&P 500 (USA)": {
+      "prezzo": 7723.55,
+      "variazione_1g_pct": -0.17,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true
+    },
+    "Stoxx 600 (Eurozona)": {
+      "prezzo": 658.92,
+      "variazione_1g_pct": 0.27,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true
+    },
+    "MSCI World ETF": {
+      "prezzo": 209.15,
+      "variazione_1g_pct": -0.04,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true
+    },
+    "VIX (volatilità USA)": {
+      "prezzo": 15.85,
+      "variazione_1g_pct": 0.25,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": false
+    }
+  },
+  "macro": {
+    "spread_10y_2y_usa": {
+      "data": "2026-08-05",
+      "valore": 0.45
+    },
+    "inflazione_usa_cpi": {
+      "data": "2026-06-01",
+      "valore": 332.568
+    },
+    "debito_pil_usa": {
+      "data": "2026-01-01",
+      "valore": 122.59387
+    },
+    "inflazione_eurozona_hicp": 2.0
+  },
+  "news": [
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "UniCredit, la Bafin dà il via libera alla domanda per superare il 30% di Commerz",
+      "link": "https://www.ilsole24ore.com/art/unicredit-bafin-da-via-libera-domanda-superare-30percento-commerz-AJqPoie"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Aramco registra utili in crescita del 44% nel Q2 2026 nonostante attacchi Houthi",
+      "link": "https://www.ilsole24ore.com/art/colosso-petrolio-saudita-aramco-44percento-utili-attacchi-houthi-ininfluenti-AJieIMe"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Anthropic ammette che la sua AI ha violato i sistemi di tre aziende durante un test",
+      "link": "https://www.ilsole24ore.com/art/anthropic-ammette-che-sua-ha-violato-sistemi-tre-aziende-un-test-AJ9NFPb"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Tesla, rumors su piano di scissione in Cina in vista di una fusione con SpaceX",
+      "link": "https://www.ilsole24ore.com/art/tesla-rumors-piano-scissione-cina-vista-una-fusione-spacex-AJhk2Qb"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Bce, incertezza elevata, impatto shock energia deve ancora arrivare",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-incertezza-elevata-impatto-shock-energia-deve-ancora-arrivare_36bb802f-3733-479f-b096-8e996c1c4d55.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Swisscom, nel semestre utile +6,9% a 668 milioni di franchi, conferma target 2026",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/swisscom-nel-semestre-utile-69-a-668-milioni-di-franchi-conferma-target-2026_5ea4c177-6915-4e9b-b290-c8c1b5fa9aa6.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "++ Antitrust, 'ostacolo a corse gratis', multa milionaria a monopattini e bikesharing ++",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/antitrust-ostacolo-a-corse-gratis-multa-milionaria-a-monopattini-e-bikesharing_ad463bb2-0c4a-40d8-aa06-cd1333870eea.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "++ Istat, produzione industriale in calo dell'1% a giugno, su anno -0,6% ++",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/istat-produzione-industriale-in-calo-dell1-a-giugno-su-anno-06_d26aef6a-89c2-466a-b156-30012c29e5ef.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Per Mediolanum raccolta luglio da record, da inizio anno 7,78 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/per-mediolanum-raccolta-luglio-da-record-da-inizio-anno-778-miliardi_f7b40406-4a66-4cbb-a5e3-32eae1851f4d.html"
+    }
+  ]
+}
