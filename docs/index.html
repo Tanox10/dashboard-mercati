@@ -3,14 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Dashboard mercati</title>
+<title>Investi con Tano</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.47.0/tabler-icons.min.css">
 <style>
   :root{
     --bg: #0B0E11;
     --card: #151A20;
+    --card-2: #1B2129;
     --border: #262C34;
     --text: #E8E6DF;
     --text-muted: #8B9099;
+    --oro: #E8B84B;
     --verde: #2DD4A7;
     --giallo: #F2A623;
     --rosso: #E8583E;
@@ -20,90 +23,126 @@
     background:var(--bg);
     color:var(--text);
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-    padding:24px 16px 60px;
-    max-width:920px;
+    padding:32px 16px 60px;
+    max-width:960px;
     margin:0 auto;
   }
   .mono{font-family:"SF Mono","Roboto Mono",Consolas,monospace}
-  header{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:28px;flex-wrap:wrap;gap:8px}
-  h1{font-size:19px;font-weight:600;letter-spacing:-0.01em}
-  .aggiornato{font-size:12px;color:var(--text-muted)}
+
+  .brand{display:flex;flex-direction:column;align-items:center;text-align:center;margin-bottom:8px}
+  .brand-mark{width:52px;height:52px;margin-bottom:10px}
+  .brand-nome{font-size:26px;font-weight:700;letter-spacing:-0.01em}
+  .brand-nome span{color:var(--oro)}
+  .brand-tagline{font-size:13px;color:var(--text-muted);margin-top:4px}
+  .aggiornato{font-size:12px;color:var(--text-muted);text-align:center;margin:14px 0 28px;display:flex;align-items:center;justify-content:center;gap:6px}
 
   .gauge{
-    background:var(--card);
+    background:linear-gradient(180deg, var(--card) 0%, var(--card-2) 100%);
     border:1px solid var(--border);
-    border-radius:12px;
+    border-radius:14px;
     padding:28px 24px;
-    margin-bottom:24px;
-    display:flex;
-    align-items:center;
-    gap:24px;
+    margin-bottom:28px;
   }
+  .gauge-top{display:flex;align-items:center;gap:24px}
   .gauge-score{font-size:52px;font-weight:700;line-height:1}
   .gauge-info{flex:1}
-  .gauge-label{font-size:13px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+  .gauge-label{font-size:13px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;display:flex;align-items:center;gap:6px}
   .gauge-semaforo{font-size:20px;font-weight:600;text-transform:capitalize}
   .badge-verde{color:var(--verde)}
   .badge-giallo{color:var(--giallo)}
   .badge-rosso{color:var(--rosso)}
   .barra{height:6px;border-radius:3px;background:#262C34;margin-top:14px;overflow:hidden}
   .barra-fill{height:100%;border-radius:3px}
+  .gauge-spiegazione{font-size:13px;color:var(--text-muted);line-height:1.6;margin-top:18px;padding-top:16px;border-top:1px solid var(--border)}
 
-  .sezione-titolo{font-size:13px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.06em;margin:28px 0 12px}
+  .sezione-titolo{
+    font-size:13px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.06em;
+    margin:32px 0 12px;display:flex;align-items:center;gap:7px;
+  }
+  .sezione-titolo i{font-size:15px;color:var(--oro)}
 
-  .griglia{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+  .griglia{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
   .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}
   .card-nome{font-size:13px;color:var(--text-muted);margin-bottom:8px}
   .card-prezzo{font-size:20px;font-weight:600}
-  .card-var{font-size:13px;margin-top:4px}
+  .var-riga{display:flex;gap:10px;margin-top:10px;font-size:12px}
+  .var-blocco{display:flex;flex-direction:column;gap:2px}
+  .var-blocco-label{color:var(--text-muted);font-size:10px;text-transform:uppercase;letter-spacing:.04em}
   .var-pos{color:var(--verde)}
   .var-neg{color:var(--rosso)}
+  .tag-trend{
+    display:inline-block;margin-top:10px;font-size:11px;padding:3px 8px;border-radius:5px;
+    text-transform:capitalize;
+  }
+  .tag-bear{background:rgba(232,88,62,0.15);color:var(--rosso)}
+  .tag-correzione{background:rgba(242,166,35,0.15);color:var(--giallo)}
+  .tag-positivo{background:rgba(45,212,167,0.15);color:var(--verde)}
 
-  .macro-riga{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px solid var(--border);font-size:14px}
-  .macro-riga:last-child{border-bottom:none}
-  .macro-valore{font-weight:600}
+  .macro-griglia{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  .macro-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}
+  .macro-nome{font-size:13px;color:var(--text-muted);margin-bottom:10px}
+  .macro-valori{display:flex;align-items:baseline;gap:10px}
+  .macro-attuale{font-size:22px;font-weight:600}
+  .macro-delta{font-size:13px;display:flex;align-items:center;gap:3px}
+  .macro-confronto{font-size:11px;color:var(--text-muted);margin-top:6px}
 
-  .news-item{padding:14px 0;border-bottom:1px solid var(--border)}
+  .card-news{background:var(--card);border:1px solid var(--border);border-radius:10px}
+  .news-item{padding:14px 16px;border-bottom:1px solid var(--border)}
   .news-item:last-child{border-bottom:none}
   .news-fonte{font-size:11px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px}
   .news-titolo{font-size:14px;line-height:1.4}
   .news-titolo a{color:var(--text);text-decoration:none}
   .news-titolo a:hover{text-decoration:underline}
 
-  .vuoto{color:var(--text-muted);font-size:13px;padding:16px 0}
-  footer{margin-top:40px;font-size:11px;color:var(--text-muted);text-align:center}
+  .vuoto{color:var(--text-muted);font-size:13px;padding:16px}
+  footer{margin-top:44px;font-size:11px;color:var(--text-muted);text-align:center;line-height:1.6}
 </style>
 </head>
 <body>
 
-<header>
-  <h1>Dashboard mercati</h1>
-  <div class="aggiornato mono" id="aggiornato">caricamento...</div>
-</header>
+<div class="brand">
+  <svg class="brand-mark" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="26" cy="26" r="25" stroke="#E8B84B" stroke-width="1.5"/>
+    <path d="M14 32L21 24L27 29L38 16" stroke="#E8B84B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31 16H38V23" stroke="#E8B84B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  <div class="brand-nome">Investi con <span>Tano</span></div>
+  <div class="brand-tagline">Il polso dei mercati, ogni giorno, in un colpo d'occhio</div>
+</div>
+
+<div class="aggiornato mono"><i class="ti ti-clock"></i><span id="aggiornato">caricamento...</span></div>
 
 <div class="gauge" id="gauge">
-  <div class="gauge-score mono" id="score">--</div>
-  <div class="gauge-info">
-    <div class="gauge-label">Sentiment attuale</div>
-    <div class="gauge-semaforo" id="semaforo">in caricamento</div>
-    <div class="barra"><div class="barra-fill" id="barra-fill" style="width:0%"></div></div>
+  <div class="gauge-top">
+    <div class="gauge-score mono" id="score">--</div>
+    <div class="gauge-info">
+      <div class="gauge-label"><i class="ti ti-gauge"></i>Sentiment attuale</div>
+      <div class="gauge-semaforo" id="semaforo">in caricamento</div>
+      <div class="barra"><div class="barra-fill" id="barra-fill" style="width:0%"></div></div>
+    </div>
+  </div>
+  <div class="gauge-spiegazione">
+    Il sentiment sintetizza in un unico numero (0-100) le condizioni <strong>attuali</strong> dei mercati â€” non Ã¨ una previsione. Combina volatilitÃ , momentum degli indici, curva dei rendimenti e inflazione. <strong>Verde</strong>: condizioni favorevoli. <strong>Giallo</strong>: cautela, segnali misti. <strong>Rosso</strong>: rischio elevato, prudenza.
   </div>
 </div>
 
-<div class="sezione-titolo">Indici e ETF</div>
+<div class="sezione-titolo"><i class="ti ti-chart-candle"></i>Indici e ETF</div>
 <div class="griglia" id="mercati"></div>
 
-<div class="sezione-titolo">Quadro macro</div>
-<div class="card" id="macro"></div>
+<div class="sezione-titolo"><i class="ti ti-building-bank"></i>Quadro macro</div>
+<div class="macro-griglia" id="macro"></div>
 
-<div class="sezione-titolo">Ultime notizie</div>
-<div class="card" id="news"></div>
+<div class="sezione-titolo"><i class="ti ti-news"></i>Ultime notizie</div>
+<div class="card-news" id="news"></div>
 
-<footer>Dati aggiornati automaticamente una volta al giorno &middot; non è consulenza finanziaria</footer>
+<footer>
+  Dati aggiornati automaticamente una volta al giorno &middot; fotografia dello stato attuale dei mercati, non una previsione &middot; non Ã¨ consulenza finanziaria
+</footer>
 
 <script>
 const coloriSemaforo = { verde: "var(--verde)", giallo: "var(--giallo)", rosso: "var(--rosso)" };
 const classiSemaforo = { verde: "badge-verde", giallo: "badge-giallo", rosso: "badge-rosso" };
+const classiTag = { "bear market": "tag-bear", "correzione": "tag-correzione", "trend positivo": "tag-positivo", "trend positivo forte": "tag-positivo" };
 
 fetch("data.json?" + Date.now())
   .then(r => r.json())
@@ -111,6 +150,12 @@ fetch("data.json?" + Date.now())
   .catch(() => {
     document.getElementById("aggiornato").textContent = "dati non ancora disponibili";
   });
+
+function formattaVar(v){
+  if (v === null || v === undefined) return "n/d";
+  const segno = v >= 0 ? "+" : "";
+  return segno + v + "%";
+}
 
 function renderizza(d){
   document.getElementById("aggiornato").textContent =
@@ -129,25 +174,44 @@ function renderizza(d){
   mercatiEl.innerHTML = "";
   Object.entries(d.mercati || {}).forEach(([nome, v]) => {
     if (v.errore) return;
-    const variazione = v.variazione_1g_pct;
-    const cls = variazione >= 0 ? "var-pos" : "var-neg";
-    const segno = variazione >= 0 ? "+" : "";
+    const cls1g = (v.variazione_1g_pct || 0) >= 0 ? "var-pos" : "var-neg";
+    const cls1m = (v.variazione_1m_pct || 0) >= 0 ? "var-pos" : "var-neg";
+    const cls1a = (v.variazione_1a_pct || 0) >= 0 ? "var-pos" : "var-neg";
+    const tagClass = classiTag[v.trend] || "";
     mercatiEl.innerHTML += `
       <div class="card">
         <div class="card-nome">${nome}</div>
         <div class="card-prezzo mono">${v.prezzo}</div>
-        <div class="card-var mono ${cls}">${segno}${variazione}%</div>
+        <div class="var-riga mono">
+          <div class="var-blocco"><span class="var-blocco-label">1g</span><span class="${cls1g}">${formattaVar(v.variazione_1g_pct)}</span></div>
+          <div class="var-blocco"><span class="var-blocco-label">1m</span><span class="${cls1m}">${formattaVar(v.variazione_1m_pct)}</span></div>
+          <div class="var-blocco"><span class="var-blocco-label">1a</span><span class="${cls1a}">${formattaVar(v.variazione_1a_pct)}</span></div>
+        </div>
+        ${v.trend ? `<div class="tag-trend ${tagClass}">${v.trend}</div>` : ""}
       </div>`;
   });
 
   const macroEl = document.getElementById("macro");
-  const m = d.macro || {};
-  let macroHtml = "";
-  if (m.spread_10y_2y_usa) macroHtml += riga("Spread 10Y-2Y USA", m.spread_10y_2y_usa.valore + " %");
-  if (m.inflazione_usa_cpi) macroHtml += riga("Inflazione USA (CPI)", m.inflazione_usa_cpi.valore);
-  if (m.inflazione_eurozona_hicp != null) macroHtml += riga("Inflazione Eurozona (HICP)", m.inflazione_eurozona_hicp + " %");
-  if (m.debito_pil_usa) macroHtml += riga("Debito/PIL USA", m.debito_pil_usa.valore + " %");
-  macroEl.innerHTML = macroHtml || `<div class="vuoto">dati macro non disponibili (verifica la chiave FRED_API_KEY)</div>`;
+  const macroList = d.macro || [];
+  if (macroList.length === 0) {
+    macroEl.innerHTML = `<div class="vuoto">dati macro non disponibili (verifica la chiave FRED_API_KEY)</div>`;
+  } else {
+    macroEl.innerHTML = macroList.map(m => {
+      const haConfronto = m.valore_anno_fa !== null && m.valore_anno_fa !== undefined;
+      const delta = m.variazione;
+      const deltaCls = (delta || 0) >= 0 ? "var-pos" : "var-neg";
+      const icona = (delta || 0) >= 0 ? "ti-trending-up" : "ti-trending-down";
+      return `
+        <div class="macro-card">
+          <div class="macro-nome">${m.nome}</div>
+          <div class="macro-valori mono">
+            <span class="macro-attuale">${m.valore} ${m.unita || ""}</span>
+            ${haConfronto ? `<span class="macro-delta ${deltaCls}"><i class="ti ${icona}"></i>${formattaVar(delta)}</span>` : ""}
+          </div>
+          ${haConfronto ? `<div class="macro-confronto">un anno fa: ${m.valore_anno_fa} ${m.unita || ""}</div>` : `<div class="macro-confronto">variazione annua giÃ  inclusa nel valore</div>`}
+        </div>`;
+    }).join("");
+  }
 
   const newsEl = document.getElementById("news");
   const news = d.news || [];
@@ -156,10 +220,6 @@ function renderizza(d){
       <div class="news-fonte">${n.fonte}</div>
       <div class="news-titolo"><a href="${n.link}" target="_blank" rel="noopener">${n.titolo}</a></div>
     </div>`).join("") : `<div class="vuoto">nessuna notizia disponibile</div>`;
-}
-
-function riga(label, valore){
-  return `<div class="macro-riga"><span>${label}</span><span class="macro-valore mono">${valore}</span></div>`;
 }
 </script>
 </body>
