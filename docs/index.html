@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard mercati</title>
+<style>
+  :root{
+    --bg: #0B0E11;
+    --card: #151A20;
+    --border: #262C34;
+    --text: #E8E6DF;
+    --text-muted: #8B9099;
+    --verde: #2DD4A7;
+    --giallo: #F2A623;
+    --rosso: #E8583E;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    padding:24px 16px 60px;
+    max-width:920px;
+    margin:0 auto;
+  }
+  .mono{font-family:"SF Mono","Roboto Mono",Consolas,monospace}
+  header{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:28px;flex-wrap:wrap;gap:8px}
+  h1{font-size:19px;font-weight:600;letter-spacing:-0.01em}
+  .aggiornato{font-size:12px;color:var(--text-muted)}
+
+  .gauge{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:12px;
+    padding:28px 24px;
+    margin-bottom:24px;
+    display:flex;
+    align-items:center;
+    gap:24px;
+  }
+  .gauge-score{font-size:52px;font-weight:700;line-height:1}
+  .gauge-info{flex:1}
+  .gauge-label{font-size:13px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+  .gauge-semaforo{font-size:20px;font-weight:600;text-transform:capitalize}
+  .badge-verde{color:var(--verde)}
+  .badge-giallo{color:var(--giallo)}
+  .badge-rosso{color:var(--rosso)}
+  .barra{height:6px;border-radius:3px;background:#262C34;margin-top:14px;overflow:hidden}
+  .barra-fill{height:100%;border-radius:3px}
+
+  .sezione-titolo{font-size:13px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.06em;margin:28px 0 12px}
+
+  .griglia{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}
+  .card-nome{font-size:13px;color:var(--text-muted);margin-bottom:8px}
+  .card-prezzo{font-size:20px;font-weight:600}
+  .card-var{font-size:13px;margin-top:4px}
+  .var-pos{color:var(--verde)}
+  .var-neg{color:var(--rosso)}
+
+  .macro-riga{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px solid var(--border);font-size:14px}
+  .macro-riga:last-child{border-bottom:none}
+  .macro-valore{font-weight:600}
+
+  .news-item{padding:14px 0;border-bottom:1px solid var(--border)}
+  .news-item:last-child{border-bottom:none}
+  .news-fonte{font-size:11px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px}
+  .news-titolo{font-size:14px;line-height:1.4}
+  .news-titolo a{color:var(--text);text-decoration:none}
+  .news-titolo a:hover{text-decoration:underline}
+
+  .vuoto{color:var(--text-muted);font-size:13px;padding:16px 0}
+  footer{margin-top:40px;font-size:11px;color:var(--text-muted);text-align:center}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Dashboard mercati</h1>
+  <div class="aggiornato mono" id="aggiornato">caricamento...</div>
+</header>
+
+<div class="gauge" id="gauge">
+  <div class="gauge-score mono" id="score">--</div>
+  <div class="gauge-info">
+    <div class="gauge-label">Sentiment attuale</div>
+    <div class="gauge-semaforo" id="semaforo">in caricamento</div>
+    <div class="barra"><div class="barra-fill" id="barra-fill" style="width:0%"></div></div>
+  </div>
+</div>
+
+<div class="sezione-titolo">Indici e ETF</div>
+<div class="griglia" id="mercati"></div>
+
+<div class="sezione-titolo">Quadro macro</div>
+<div class="card" id="macro"></div>
+
+<div class="sezione-titolo">Ultime notizie</div>
+<div class="card" id="news"></div>
+
+<footer>Dati aggiornati automaticamente una volta al giorno &middot; non è consulenza finanziaria</footer>
+
+<script>
+const coloriSemaforo = { verde: "var(--verde)", giallo: "var(--giallo)", rosso: "var(--rosso)" };
+const classiSemaforo = { verde: "badge-verde", giallo: "badge-giallo", rosso: "badge-rosso" };
+
+fetch("data.json?" + Date.now())
+  .then(r => r.json())
+  .then(renderizza)
+  .catch(() => {
+    document.getElementById("aggiornato").textContent = "dati non ancora disponibili";
+  });
+
+function renderizza(d){
+  document.getElementById("aggiornato").textContent =
+    "aggiornato " + new Date(d.aggiornato_il).toLocaleString("it-IT");
+
+  const s = d.sentiment || {};
+  document.getElementById("score").textContent = s.punteggio != null ? s.punteggio : "--";
+  const semEl = document.getElementById("semaforo");
+  semEl.textContent = s.semaforo || "n/d";
+  semEl.className = "gauge-semaforo " + (classiSemaforo[s.semaforo] || "");
+  const fill = document.getElementById("barra-fill");
+  fill.style.width = (s.punteggio || 0) + "%";
+  fill.style.background = coloriSemaforo[s.semaforo] || "#555";
+
+  const mercatiEl = document.getElementById("mercati");
+  mercatiEl.innerHTML = "";
+  Object.entries(d.mercati || {}).forEach(([nome, v]) => {
+    if (v.errore) return;
+    const variazione = v.variazione_1g_pct;
+    const cls = variazione >= 0 ? "var-pos" : "var-neg";
+    const segno = variazione >= 0 ? "+" : "";
+    mercatiEl.innerHTML += `
+      <div class="card">
+        <div class="card-nome">${nome}</div>
+        <div class="card-prezzo mono">${v.prezzo}</div>
+        <div class="card-var mono ${cls}">${segno}${variazione}%</div>
+      </div>`;
+  });
+
+  const macroEl = document.getElementById("macro");
+  const m = d.macro || {};
+  let macroHtml = "";
+  if (m.spread_10y_2y_usa) macroHtml += riga("Spread 10Y-2Y USA", m.spread_10y_2y_usa.valore + " %");
+  if (m.inflazione_usa_cpi) macroHtml += riga("Inflazione USA (CPI)", m.inflazione_usa_cpi.valore);
+  if (m.inflazione_eurozona_hicp != null) macroHtml += riga("Inflazione Eurozona (HICP)", m.inflazione_eurozona_hicp + " %");
+  if (m.debito_pil_usa) macroHtml += riga("Debito/PIL USA", m.debito_pil_usa.valore + " %");
+  macroEl.innerHTML = macroHtml || `<div class="vuoto">dati macro non disponibili (verifica la chiave FRED_API_KEY)</div>`;
+
+  const newsEl = document.getElementById("news");
+  const news = d.news || [];
+  newsEl.innerHTML = news.length ? news.map(n => `
+    <div class="news-item">
+      <div class="news-fonte">${n.fonte}</div>
+      <div class="news-titolo"><a href="${n.link}" target="_blank" rel="noopener">${n.titolo}</a></div>
+    </div>`).join("") : `<div class="vuoto">nessuna notizia disponibile</div>`;
+}
+
+function riga(label, valore){
+  return `<div class="macro-riga"><span>${label}</span><span class="macro-valore mono">${valore}</span></div>`;
+}
+</script>
+</body>
+</html>
