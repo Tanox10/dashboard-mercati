@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-06T09:12:32.793421Z",
+  "aggiornato_il": "2026-08-07T10:16:22.974399Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 54017.17,
-      "variazione_1g_pct": 1.07,
-      "variazione_1m_pct": 2.98,
-      "variazione_1a_pct": 31.72,
+      "prezzo": 53854.63,
+      "variazione_1g_pct": 0.32,
+      "variazione_1m_pct": 3.93,
+      "variazione_1a_pct": 30.11,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7723.55,
-      "variazione_1g_pct": -0.17,
-      "variazione_1m_pct": 2.47,
-      "variazione_1a_pct": 22.61,
+      "prezzo": 7709.96,
+      "variazione_1g_pct": -0.18,
+      "variazione_1m_pct": 2.75,
+      "variazione_1a_pct": 21.51,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 660.73,
-      "variazione_1g_pct": 0.55,
-      "variazione_1m_pct": 2.23,
-      "variazione_1a_pct": 22.12,
+      "prezzo": 661.54,
+      "variazione_1g_pct": 0.51,
+      "variazione_1m_pct": 4.03,
+      "variazione_1a_pct": 21.15,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.15,
-      "variazione_1g_pct": -0.04,
-      "variazione_1m_pct": 2.3,
-      "variazione_1a_pct": 24.24,
+      "prezzo": 208.63,
+      "variazione_1g_pct": -0.25,
+      "variazione_1m_pct": 2.71,
+      "variazione_1a_pct": 22.96,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.9,
-      "variazione_1g_pct": 0.57,
-      "variazione_1m_pct": -1.43,
-      "variazione_1a_pct": -5.19,
+      "prezzo": 15.28,
+      "variazione_1g_pct": 0.86,
+      "variazione_1m_pct": -9.59,
+      "variazione_1a_pct": -7.79,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-05",
-      "valore": 0.45,
-      "valore_anno_fa": 0.5,
-      "variazione": -0.05
+      "data": "2026-08-06",
+      "valore": 0.44,
+      "valore_anno_fa": 0.53,
+      "variazione": -0.09
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "UniCredit, la Bafin dà il via libera alla domanda per superare il 30% di Commerz",
-      "link": "https://www.ilsole24ore.com/art/unicredit-bafin-da-via-libera-domanda-superare-30percento-commerz-AJqPoie"
+      "titolo": "Mps batte le attese, utile a 1,1 miliardi (+25%)",
+      "link": "https://www.ilsole24ore.com/art/mps-batte-attese-utile-11-miliardi-25percento-AJyW0Ch"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Aramco registra utili in crescita del 44% nel Q2 2026 nonostante attacchi Houthi",
-      "link": "https://www.ilsole24ore.com/art/colosso-petrolio-saudita-aramco-44percento-utili-attacchi-houthi-ininfluenti-AJieIMe"
+      "titolo": "Unipol, semestre record. L’utile balza del 42%",
+      "link": "https://www.ilsole24ore.com/art/unipol-semestre-record-l-utile-balza-42percento-AJhV92g"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Anthropic ammette che la sua AI ha violato i sistemi di tre aziende durante un test",
-      "link": "https://www.ilsole24ore.com/art/anthropic-ammette-che-sua-ha-violato-sistemi-tre-aziende-un-test-AJ9NFPb"
+      "titolo": "Primo colpo dopo il Nasdaq: Bending Spoons rileva Airtable per 1,285 miliardi",
+      "link": "https://www.ilsole24ore.com/art/primo-colpo-il-nasdaq-bending-spoons-rileva-airtable-1285-miliardi-AJFycKe"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Tesla, rumors su piano di scissione in Cina in vista di una fusione con SpaceX",
-      "link": "https://www.ilsole24ore.com/art/tesla-rumors-piano-scissione-cina-vista-una-fusione-spacex-AJhk2Qb"
+      "titolo": "Ft: AstraZeneca tratta con Bristol Myers Squibb maxi fusione da 400 miliardi",
+      "link": "https://www.ilsole24ore.com/art/ft-astrazeneca-tratta-bristol-myers-squibb-maxi-fusione-400-miliardi-AJibvHd"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nuburu, 'via libera del Governo all'acquisizione di Tekne'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/nuburu-via-libera-del-governo-allacquisizione-di-tekne_81c7ed54-25b7-440a-9c15-ef0439a87700.html"
+      "titolo": "Fao, prezzi alimentari +0,6% in un mese, impattano caldo e guerre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/fao-prezzi-alimentari-06-in-un-mese-impattano-caldo-e-guerre_7c99aee6-d903-458b-8841-be395bf17f03.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La raccolta Fineco a luglio a 1,78 miliardi, da inizio anno oltre 10 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/la-raccolta-fineco-a-luglio-a-178-miliardi-da-inizio-anno-oltre-10-miliardi_1cc195fb-b080-4c64-b077-065a395d8d14.html"
+      "titolo": "Borsa: l'Europa sulla parità guarda a Hormuz e petrolio, Francoforte +0,4%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-leuropa-sulla-parita-guarda-a-hormuz-e-petrolio-francoforte-04_44e84581-9187-4019-b0f6-668efb2b14ca.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bce, caro energia pesa su famiglie a basso reddito e ne erode risparmi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-caro-energia-pesa-su-famiglie-a-basso-reddito-e-ne-erode-risparmi_c129eb7b-1e6c-441e-8fde-d0bfc2df1206.html"
+      "titolo": "Antitrust, rimborsi e sconti per 30 milioni di euro per skipass in Veneto e Trentino",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/antitrust-rimborsi-e-sconti-per-30-milioni-di-euro-per-skipass-in-veneto-e-trentino_63eef9e6-ac42-4487-a25f-c756cd2e0f45.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bce: 'Incertezza elevata, l'impatto shock energetico deve ancora arrivare'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/bce-incertezza-elevata-impatto-shock-energia-deve-ancora-arrivare_36bb802f-3733-479f-b096-8e996c1c4d55.html"
+      "titolo": "Risale il prezzo del gas in Italia, indice Igi a 60,29 euro al MegaWattora",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/risale-il-prezzo-del-gas-in-italia-indice-igi-a-6029-euro-al-megawattora_abda9078-77c0-46b0-9acd-6c2fc6eea9e4.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Swisscom, nel semestre utile +6,9% a 668 milioni di franchi, conferma target 2026",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/06/swisscom-nel-semestre-utile-69-a-668-milioni-di-franchi-conferma-target-2026_5ea4c177-6915-4e9b-b290-c8c1b5fa9aa6.html"
+      "titolo": "Borsa: Milano incerta con l'Europa in attesa dell'accordo su Hormuz, giù Stellantis",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-milano-incerta-con-leuropa-in-attesa-dellaccordo-su-hormuz-giu-stellantis_22be8a87-72cc-4a3d-bf9f-6bd6425b8594.html"
     }
   ]
 }
