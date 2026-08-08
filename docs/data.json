@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-07T10:16:22.974399Z",
+  "aggiornato_il": "2026-08-08T09:20:54.796291Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,59 +12,59 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53854.63,
-      "variazione_1g_pct": 0.32,
-      "variazione_1m_pct": 3.93,
-      "variazione_1a_pct": 30.11,
+      "prezzo": 53717.0,
+      "variazione_1g_pct": 0.06,
+      "variazione_1m_pct": 3.67,
+      "variazione_1a_pct": 29.77,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7709.96,
-      "variazione_1g_pct": -0.18,
-      "variazione_1m_pct": 2.75,
-      "variazione_1a_pct": 21.51,
+      "prezzo": 7757.64,
+      "variazione_1g_pct": 0.62,
+      "variazione_1m_pct": 3.67,
+      "variazione_1a_pct": 22.36,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 661.54,
-      "variazione_1g_pct": 0.51,
-      "variazione_1m_pct": 4.03,
-      "variazione_1a_pct": 21.15,
+      "prezzo": 660.25,
+      "variazione_1g_pct": 0.31,
+      "variazione_1m_pct": 3.83,
+      "variazione_1a_pct": 20.91,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 208.63,
-      "variazione_1g_pct": -0.25,
-      "variazione_1m_pct": 2.71,
-      "variazione_1a_pct": 22.96,
+      "prezzo": 210.47,
+      "variazione_1g_pct": 0.88,
+      "variazione_1m_pct": 4.04,
+      "variazione_1a_pct": 23.93,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.28,
-      "variazione_1g_pct": 0.86,
-      "variazione_1m_pct": -9.59,
-      "variazione_1a_pct": -7.79,
+      "prezzo": 14.9,
+      "variazione_1g_pct": -1.65,
+      "variazione_1m_pct": -11.83,
+      "variazione_1a_pct": -10.08,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "trend": "correzione"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-06",
-      "valore": 0.44,
-      "valore_anno_fa": 0.53,
-      "variazione": -0.09
+      "data": "2026-08-07",
+      "valore": 0.46,
+      "valore_anno_fa": 0.51,
+      "variazione": -0.05
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -77,10 +77,10 @@
     {
       "nome": "Disoccupazione USA",
       "unita": "%",
-      "data": "2026-06-01",
-      "valore": 4.2,
-      "valore_anno_fa": 4.1,
-      "variazione": 0.1
+      "data": "2026-07-01",
+      "valore": 4.1,
+      "valore_anno_fa": 4.3,
+      "variazione": -0.2
     },
     {
       "nome": "Debito/PIL USA",
@@ -110,7 +110,7 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Mps batte le attese, utile a 1,1 miliardi (+25%)",
+      "titolo": "Mps batte le attese, utile a 1,1 miliardi (+25%). Lovaglio: «Supereremo i target»",
       "link": "https://www.ilsole24ore.com/art/mps-batte-attese-utile-11-miliardi-25percento-AJyW0Ch"
     },
     {
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fao, prezzi alimentari +0,6% in un mese, impattano caldo e guerre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/fao-prezzi-alimentari-06-in-un-mese-impattano-caldo-e-guerre_7c99aee6-d903-458b-8841-be395bf17f03.html"
+      "titolo": "Confartigianato: allarme credito per le pmi, 'bruciati 34 miliardi in 7 anni'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confartigianato-allarme-credito-per-le-pmi-bruciati-34-miliardi-in-7-anni_5faedcc9-afa0-4912-a5ab-c11364d8e171.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa sulla parità guarda a Hormuz e petrolio, Francoforte +0,4%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-leuropa-sulla-parita-guarda-a-hormuz-e-petrolio-francoforte-04_44e84581-9187-4019-b0f6-668efb2b14ca.html"
+      "titolo": "Confesercenti, la mappa del Pil 2026: prima Bolzano +1,8%, frena Valle d'Aosta -0,1%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confesercenti-la-mappa-del-pil-2026-prima-bolzano-18-frena-valle-daosta_b274d58e-8389-49e2-aa90-5bd6441a4458.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Antitrust, rimborsi e sconti per 30 milioni di euro per skipass in Veneto e Trentino",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/antitrust-rimborsi-e-sconti-per-30-milioni-di-euro-per-skipass-in-veneto-e-trentino_63eef9e6-ac42-4487-a25f-c756cd2e0f45.html"
+      "titolo": "Da Confesercenti la mappa di Pil e prezzi: Bolzano prima per crescita, Valle d'Aosta frena",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/da-confesercenti-la-mappa-di-pil-e-prezzi-bolzano-prima-per-crescita-valle-daosta_5fee7b77-26e7-44fc-8bba-675ea627eb28.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Risale il prezzo del gas in Italia, indice Igi a 60,29 euro al MegaWattora",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/risale-il-prezzo-del-gas-in-italia-indice-igi-a-6029-euro-al-megawattora_abda9078-77c0-46b0-9acd-6c2fc6eea9e4.html"
+      "titolo": "All'Italia la siccità può costare fino a 74 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/allitalia-la-siccita-puo-costare-fino-a-74-miliardi_263addfe-a92f-4327-9bf3-d9d2cf50d84a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano incerta con l'Europa in attesa dell'accordo su Hormuz, giù Stellantis",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/borsa-milano-incerta-con-leuropa-in-attesa-dellaccordo-su-hormuz-giu-stellantis_22be8a87-72cc-4a3d-bf9f-6bd6425b8594.html"
+      "titolo": "Il prezzo del gas è poco mosso sotto i 56 euro al megawattora",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/il-prezzo-del-gas-e-poco-mosso-sotto-i-56-euro-al-megawattora_4cd77346-52d4-4858-a5b7-3e0244890512.html"
     }
   ]
 }
