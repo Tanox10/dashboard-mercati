@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-08T09:20:54.796291Z",
+  "aggiornato_il": "2026-08-09T09:22:24.846979Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -110,23 +110,33 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Mps batte le attese, utile a 1,1 miliardi (+25%). Lovaglio: «Supereremo i target»",
-      "link": "https://www.ilsole24ore.com/art/mps-batte-attese-utile-11-miliardi-25percento-AJyW0Ch"
+      "titolo": "Berkshire Hathaway al mercato di Wall Street compra azioni proprie",
+      "link": "https://www.ilsole24ore.com/art/berkshire-hathaway-mercato-wall-street-compra-azioni-proprie-AJRq9Fi"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Unipol, semestre record. L’utile balza del 42%",
-      "link": "https://www.ilsole24ore.com/art/unipol-semestre-record-l-utile-balza-42percento-AJhV92g"
+      "titolo": "Ion di Andrea Pignataro: ritardi nei pagamenti degli affitti in Australia, Germania e Usa",
+      "link": "https://www.ilsole24ore.com/art/la-ion-pignataro-salda-ritardo-affitti-australia-germania-e-usa-AJFUzoh"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Primo colpo dopo il Nasdaq: Bending Spoons rileva Airtable per 1,285 miliardi",
-      "link": "https://www.ilsole24ore.com/art/primo-colpo-il-nasdaq-bending-spoons-rileva-airtable-1285-miliardi-AJFycKe"
+      "titolo": "Castlelake si ritira dalla corsa per EasyJet. La compagnia al fondo Apollo",
+      "link": "https://www.ilsole24ore.com/art/castlelake-si-ritira-corsa-easyjet-compagnia-fondo-apollo-AJWwPrg"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Ft: AstraZeneca tratta con Bristol Myers Squibb maxi fusione da 400 miliardi",
-      "link": "https://www.ilsole24ore.com/art/ft-astrazeneca-tratta-bristol-myers-squibb-maxi-fusione-400-miliardi-AJibvHd"
+      "titolo": "Aramco registra utili in crescita del 44% nel Q2 2026 nonostante attacchi Houthi",
+      "link": "https://www.ilsole24ore.com/art/colosso-petrolio-saudita-aramco-44percento-utili-attacchi-houthi-ininfluenti-AJieIMe"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Patenti a 17 anni e modifiche alle multe, novità in arrivo al codice",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/novita-allo-studio-per-il-codice-strada-da-bici-a-multe-e-patente-a-17-anni_cf688690-85fd-4b27-abba-6f464b829f55.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Codacons, su primo esodo estivo stangata carburanti da 370 milioni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/codacons-su-primo-esodo-estivo-stangata-carburanti-da-370-milioni_1a1a7e7f-684e-4d10-a1a3-c1a13948a704.html"
     },
     {
       "fonte": "ANSA Economia",
@@ -135,23 +145,13 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Confesercenti, la mappa del Pil 2026: prima Bolzano +1,8%, frena Valle d'Aosta -0,1%",
+      "titolo": "Bolzano prima per crescita davanti a Roma e Milano, la Valle d'Aosta frena",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confesercenti-la-mappa-del-pil-2026-prima-bolzano-18-frena-valle-daosta_b274d58e-8389-49e2-aa90-5bd6441a4458.html"
     },
     {
       "fonte": "ANSA Economia",
       "titolo": "Da Confesercenti la mappa di Pil e prezzi: Bolzano prima per crescita, Valle d'Aosta frena",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/da-confesercenti-la-mappa-di-pil-e-prezzi-bolzano-prima-per-crescita-valle-daosta_5fee7b77-26e7-44fc-8bba-675ea627eb28.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "All'Italia la siccità può costare fino a 74 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/allitalia-la-siccita-puo-costare-fino-a-74-miliardi_263addfe-a92f-4327-9bf3-d9d2cf50d84a.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Il prezzo del gas è poco mosso sotto i 56 euro al megawattora",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/07/il-prezzo-del-gas-e-poco-mosso-sotto-i-56-euro-al-megawattora_4cd77346-52d4-4858-a5b7-3e0244890512.html"
     }
   ]
 }
