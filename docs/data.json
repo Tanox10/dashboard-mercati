@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-09T09:22:24.846979Z",
+  "aggiornato_il": "2026-08-10T10:48:38.275311Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,10 +12,10 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53717.0,
-      "variazione_1g_pct": 0.06,
-      "variazione_1m_pct": 3.67,
-      "variazione_1a_pct": 29.77,
+      "prezzo": 53754.78,
+      "variazione_1g_pct": 0.07,
+      "variazione_1m_pct": 2.17,
+      "variazione_1a_pct": 29.14,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -30,10 +30,10 @@
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 660.25,
-      "variazione_1g_pct": 0.31,
-      "variazione_1m_pct": 3.83,
-      "variazione_1a_pct": 20.91,
+      "prezzo": 661.04,
+      "variazione_1g_pct": 0.12,
+      "variazione_1m_pct": 3.11,
+      "variazione_1a_pct": 20.83,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -48,13 +48,13 @@
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.9,
-      "variazione_1g_pct": -1.65,
-      "variazione_1m_pct": -11.83,
-      "variazione_1a_pct": -10.08,
+      "prezzo": 15.45,
+      "variazione_1g_pct": 3.69,
+      "variazione_1m_pct": 2.79,
+      "variazione_1a_pct": 1.98,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "correzione"
+      "trend": "trend positivo"
     }
   },
   "macro": [
@@ -110,8 +110,8 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Berkshire Hathaway al mercato di Wall Street compra azioni proprie",
-      "link": "https://www.ilsole24ore.com/art/berkshire-hathaway-mercato-wall-street-compra-azioni-proprie-AJRq9Fi"
+      "titolo": "Tisg apre all’ingresso di nuovi investitori, il titolo vola in Borsa  (+10%)",
+      "link": "https://www.ilsole24ore.com/art/tisg-apre-all-ingresso-nuovi-investitori-AJjoLxi"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -120,38 +120,38 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "ProSiebenSat.1 svetta a Francoforte dopo la trimestrale e taglio costi",
+      "link": "https://www.ilsole24ore.com/art/prosiebensat1-svetta-francoforte-la-trimestrale-e-taglio-costi-AJURPUg"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Castlelake si ritira dalla corsa per EasyJet. La compagnia al fondo Apollo",
       "link": "https://www.ilsole24ore.com/art/castlelake-si-ritira-corsa-easyjet-compagnia-fondo-apollo-AJWwPrg"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Aramco registra utili in crescita del 44% nel Q2 2026 nonostante attacchi Houthi",
-      "link": "https://www.ilsole24ore.com/art/colosso-petrolio-saudita-aramco-44percento-utili-attacchi-houthi-ininfluenti-AJieIMe"
+      "fonte": "ANSA Economia",
+      "titolo": "Con caldo rovente danni potenziali fino a 16mila euro per le auto",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/con-caldo-rovente-danni-potenziali-fino-a-16mila-euro-per-le-auto_fed7f5b4-b6cf-4149-9b42-5f50e363b677.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Patenti a 17 anni e modifiche alle multe, novità in arrivo al codice",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/novita-allo-studio-per-il-codice-strada-da-bici-a-multe-e-patente-a-17-anni_cf688690-85fd-4b27-abba-6f464b829f55.html"
+      "titolo": "Ecogest emette nuovo bond da 3 milioni di euro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/ecogest-emette-nuovo-bond-da-3-milioni-di-euro_b2e520f2-6a73-4153-bdeb-ef589f4f49ee.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Codacons, su primo esodo estivo stangata carburanti da 370 milioni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/codacons-su-primo-esodo-estivo-stangata-carburanti-da-370-milioni_1a1a7e7f-684e-4d10-a1a3-c1a13948a704.html"
+      "titolo": "In Italia il 34% di mare e laghi inquinati, colpa della maladepurazione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/in-italia-il-34-di-mare-e-laghi-inquinati-colpa-della-maladepurazione_60f7936b-1e7b-485f-af3d-f99a0704965e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Confartigianato: allarme credito per le pmi, 'bruciati 34 miliardi in 7 anni'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confartigianato-allarme-credito-per-le-pmi-bruciati-34-miliardi-in-7-anni_5faedcc9-afa0-4912-a5ab-c11364d8e171.html"
+      "titolo": "Borsa: Milano si riporta in parità, balzo di Prysmian, giù Diasorin",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-si-riporta-in-parita-balzo-di-prysmian-giu-diasorin_c3969c0a-eb0c-4d19-9a0b-ad66f3f71879.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bolzano prima per crescita davanti a Roma e Milano, la Valle d'Aosta frena",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/confesercenti-la-mappa-del-pil-2026-prima-bolzano-18-frena-valle-daosta_b274d58e-8389-49e2-aa90-5bd6441a4458.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Da Confesercenti la mappa di Pil e prezzi: Bolzano prima per crescita, Valle d'Aosta frena",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/08/da-confesercenti-la-mappa-di-pil-e-prezzi-bolzano-prima-per-crescita-valle-daosta_5fee7b77-26e7-44fc-8bba-675ea627eb28.html"
+      "titolo": "Dal Mase fino a 400 milioni l'anno per la produzione di idrogeno rinnovabile",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/dal-mase-fino-a-400-milioni-lanno-per-la-produzione-di-idrogeno-rinnovabile_6ba8b7f8-3f02-434d-ab6e-3757bfef8863.html"
     }
   ]
 }
