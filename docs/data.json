@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-10T10:48:38.275311Z",
+  "aggiornato_il": "2026-08-11T10:14:58.596281Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53754.78,
-      "variazione_1g_pct": 0.07,
-      "variazione_1m_pct": 2.17,
-      "variazione_1a_pct": 29.14,
+      "prezzo": 53676.93,
+      "variazione_1g_pct": 0.02,
+      "variazione_1m_pct": 2.02,
+      "variazione_1a_pct": 29.08,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7757.64,
-      "variazione_1g_pct": 0.62,
-      "variazione_1m_pct": 3.67,
-      "variazione_1a_pct": 22.36,
+      "prezzo": 7753.11,
+      "variazione_1g_pct": -0.06,
+      "variazione_1m_pct": 2.35,
+      "variazione_1a_pct": 21.34,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 661.04,
-      "variazione_1g_pct": 0.12,
-      "variazione_1m_pct": 3.11,
-      "variazione_1a_pct": 20.83,
+      "prezzo": 660.26,
+      "variazione_1g_pct": -0.03,
+      "variazione_1m_pct": 2.99,
+      "variazione_1a_pct": 20.76,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 210.47,
-      "variazione_1g_pct": 0.88,
-      "variazione_1m_pct": 4.04,
-      "variazione_1a_pct": 23.93,
+      "prezzo": 210.11,
+      "variazione_1g_pct": -0.17,
+      "variazione_1m_pct": 2.68,
+      "variazione_1a_pct": 22.81,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.45,
-      "variazione_1g_pct": 3.69,
-      "variazione_1m_pct": 2.79,
-      "variazione_1a_pct": 1.98,
+      "prezzo": 15.53,
+      "variazione_1g_pct": 0.45,
+      "variazione_1m_pct": 3.33,
+      "variazione_1a_pct": -4.43,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-07",
-      "valore": 0.46,
+      "data": "2026-08-10",
+      "valore": 0.47,
       "valore_anno_fa": 0.51,
-      "variazione": -0.05
+      "variazione": -0.04
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Tisg apre all’ingresso di nuovi investitori, il titolo vola in Borsa  (+10%)",
-      "link": "https://www.ilsole24ore.com/art/tisg-apre-all-ingresso-nuovi-investitori-AJjoLxi"
+      "titolo": "The Italian Sea Group prosegue il rally, anche Baglietto interessata",
+      "link": "https://www.ilsole24ore.com/art/the-italian-sea-group-prosegue-rally-anche-baglietto-interessata-AJ0Heyj"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Ion di Andrea Pignataro: ritardi nei pagamenti degli affitti in Australia, Germania e Usa",
-      "link": "https://www.ilsole24ore.com/art/la-ion-pignataro-salda-ritardo-affitti-australia-germania-e-usa-AJFUzoh"
+      "titolo": "Corrono i titoli del petrolio in tutta Europa, a Milano brillano Eni e Tenaris",
+      "link": "https://www.ilsole24ore.com/art/corrono-titoli-petrolio-tutta-europa-milano-brillano-eni-e-tenaris-AJ8Lbxj"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Generali, utile a 2,5 miliardi. Donnet: «Tuteleremo l’integrità del gruppo»",
+      "link": "https://www.ilsole24ore.com/art/generali-utile-25-miliardi-semestre-batte-attese-mercato-AJFpukg"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/prosiebensat1-svetta-francoforte-la-trimestrale-e-taglio-costi-AJURPUg"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Castlelake si ritira dalla corsa per EasyJet. La compagnia al fondo Apollo",
-      "link": "https://www.ilsole24ore.com/art/castlelake-si-ritira-corsa-easyjet-compagnia-fondo-apollo-AJWwPrg"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: l'Europa resta incerta in attesa dei dati Usa, il Btp tocca il 4%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-leuropa-resta-incerta-in-attesa-dei-dati-usa-il-btp-tocca_efcb42c6-8195-4ff0-8cb4-afd94dc54634.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Con caldo rovente danni potenziali fino a 16mila euro per le auto",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/con-caldo-rovente-danni-potenziali-fino-a-16mila-euro-per-le-auto_fed7f5b4-b6cf-4149-9b42-5f50e363b677.html"
+      "titolo": "Heathrow cede a Istanbul primato di aeroporto più trafficato d'Europa",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/heathrow-cede-a-istanbul-primato-di-aeroporto-piu-trafficato-deuropa_f07550ff-161c-48e6-ba67-88f359c06aba.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ecogest emette nuovo bond da 3 milioni di euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/ecogest-emette-nuovo-bond-da-3-milioni-di-euro_b2e520f2-6a73-4153-bdeb-ef589f4f49ee.html"
+      "titolo": "Da Capri a Cernobbio, per i dipendenti di Poste vacanze negli alloggi aziendali",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/da-capri-a-cernobbio-per-i-dipendenti-di-poste-vacanze-negli-alloggi-aziendali_fa566e9a-f4cb-4a3d-911f-c2fb3fa6f1e5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "In Italia il 34% di mare e laghi inquinati, colpa della maladepurazione",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/in-italia-il-34-di-mare-e-laghi-inquinati-colpa-della-maladepurazione_60f7936b-1e7b-485f-af3d-f99a0704965e.html"
+      "titolo": "Pirelli, know how per Luna Rossa, materiali innovativi dai motori ai foil",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/pirelli-know-how-per-luna-rossa-materiali-innovativi-dai-motori_681bbd6e-b7f6-419e-ba23-d18093a4746c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano si riporta in parità, balzo di Prysmian, giù Diasorin",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-si-riporta-in-parita-balzo-di-prysmian-giu-diasorin_c3969c0a-eb0c-4d19-9a0b-ad66f3f71879.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Dal Mase fino a 400 milioni l'anno per la produzione di idrogeno rinnovabile",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/dal-mase-fino-a-400-milioni-lanno-per-la-produzione-di-idrogeno-rinnovabile_6ba8b7f8-3f02-434d-ab6e-3757bfef8863.html"
+      "titolo": "Corre il prezzo del petrolio, Brent torna a 90 dollari al barile",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/corre-il-prezzo-del-petrolio-brent-torna-a-90-dollari-al-barile_28f3c476-fea5-4a62-bbc9-dbdd32c557e4.html"
     }
   ]
 }
