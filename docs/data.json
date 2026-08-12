@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-11T10:14:58.596281Z",
+  "aggiornato_il": "2026-08-12T10:41:33.292248Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53676.93,
-      "variazione_1g_pct": 0.02,
-      "variazione_1m_pct": 2.02,
-      "variazione_1a_pct": 29.08,
+      "prezzo": 53842.14,
+      "variazione_1g_pct": 0.25,
+      "variazione_1m_pct": 1.96,
+      "variazione_1a_pct": 28.39,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7753.11,
-      "variazione_1g_pct": -0.06,
-      "variazione_1m_pct": 2.35,
-      "variazione_1a_pct": 21.34,
+      "prezzo": 7728.2,
+      "variazione_1g_pct": -0.32,
+      "variazione_1m_pct": 2.02,
+      "variazione_1a_pct": 21.26,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 660.26,
-      "variazione_1g_pct": -0.03,
-      "variazione_1m_pct": 2.99,
-      "variazione_1a_pct": 20.76,
+      "prezzo": 661.45,
+      "variazione_1g_pct": 0.14,
+      "variazione_1m_pct": 3.19,
+      "variazione_1a_pct": 20.73,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 210.11,
-      "variazione_1g_pct": -0.17,
-      "variazione_1m_pct": 2.68,
-      "variazione_1a_pct": 22.81,
+      "prezzo": 209.69,
+      "variazione_1g_pct": -0.2,
+      "variazione_1m_pct": 2.47,
+      "variazione_1a_pct": 22.93,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.53,
-      "variazione_1g_pct": 0.45,
-      "variazione_1m_pct": 3.33,
-      "variazione_1a_pct": -4.43,
+      "prezzo": 15.39,
+      "variazione_1g_pct": 0.72,
+      "variazione_1m_pct": -10.31,
+      "variazione_1a_pct": 4.48,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-10",
-      "valore": 0.47,
+      "data": "2026-08-11",
+      "valore": 0.48,
       "valore_anno_fa": 0.51,
-      "variazione": -0.04
+      "variazione": -0.03
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -115,7 +115,7 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Corrono i titoli del petrolio in tutta Europa, a Milano brillano Eni e Tenaris",
+      "titolo": "Salgono i titoli del petrolio in tutta Europa, a Milano brillano Eni e Tenaris",
       "link": "https://www.ilsole24ore.com/art/corrono-titoli-petrolio-tutta-europa-milano-brillano-eni-e-tenaris-AJ8Lbxj"
     },
     {
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa resta incerta in attesa dei dati Usa, il Btp tocca il 4%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-leuropa-resta-incerta-in-attesa-dei-dati-usa-il-btp-tocca_efcb42c6-8195-4ff0-8cb4-afd94dc54634.html"
+      "titolo": "Marevivo, 'l'overturism compromette l'equilibrio ambientale'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/marevivo-loverturism-compromette-lequilibrio-ambientale_78bd7f31-2821-4bc2-8ab9-6a83c1301d49.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Heathrow cede a Istanbul primato di aeroporto più trafficato d'Europa",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/heathrow-cede-a-istanbul-primato-di-aeroporto-piu-trafficato-deuropa_f07550ff-161c-48e6-ba67-88f359c06aba.html"
+      "titolo": "Borsa: Milano sale (+0,25%), balzo di Prysmian, Inwit e Unipol",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-milano-sale-025-balzo-di-prysmian-inwit-e-unipol_c83e1fd7-bc61-428f-b9a3-2a4d0ec0d49b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Da Capri a Cernobbio, per i dipendenti di Poste vacanze negli alloggi aziendali",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/da-capri-a-cernobbio-per-i-dipendenti-di-poste-vacanze-negli-alloggi-aziendali_fa566e9a-f4cb-4a3d-911f-c2fb3fa6f1e5.html"
+      "titolo": "Fs, nel 2026 consegnati 31 treni regionali per 370 milioni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/fs-nel-2026-consegnati-31-treni-regionali-per-370-milioni_9b4892f7-6585-4119-86b6-544a13afabb3.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Pirelli, know how per Luna Rossa, materiali innovativi dai motori ai foil",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/pirelli-know-how-per-luna-rossa-materiali-innovativi-dai-motori_681bbd6e-b7f6-419e-ba23-d18093a4746c.html"
+      "titolo": "Rapporto Camera, rinnovabili coprono 20% dei consumi energia, al 2030 serve il doppio",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/rapporto-camera-rinnovabili-coprono-20-dei-consumi-energia-al-2030-serve-il-doppio_a198c83c-4837-45c2-88a3-5536b2260709.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Corre il prezzo del petrolio, Brent torna a 90 dollari al barile",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/corre-il-prezzo-del-petrolio-brent-torna-a-90-dollari-al-barile_28f3c476-fea5-4a62-bbc9-dbdd32c557e4.html"
+      "titolo": "Le rinnovabili coprono 20% consumi energia, al 2030 serve il doppio",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/le-rinnovabili-coprono-20-consumi-energia-al-2030-serve-il-doppio_9eba23c9-a62b-415f-ba1c-13e26738ad1d.html"
     }
   ]
 }
