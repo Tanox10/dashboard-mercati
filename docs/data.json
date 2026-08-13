@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-12T10:41:33.292248Z",
+  "aggiornato_il": "2026-08-13T10:44:09.663577Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53842.14,
-      "variazione_1g_pct": 0.25,
-      "variazione_1m_pct": 1.96,
-      "variazione_1a_pct": 28.39,
+      "prezzo": 53966.91,
+      "variazione_1g_pct": 0.5,
+      "variazione_1m_pct": 2.09,
+      "variazione_1a_pct": 27.93,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7728.2,
-      "variazione_1g_pct": -0.32,
-      "variazione_1m_pct": 2.02,
-      "variazione_1a_pct": 21.26,
+      "prezzo": 7748.5,
+      "variazione_1g_pct": 0.26,
+      "variazione_1m_pct": 3.1,
+      "variazione_1a_pct": 20.21,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 661.45,
-      "variazione_1g_pct": 0.14,
-      "variazione_1m_pct": 3.19,
-      "variazione_1a_pct": 20.73,
+      "prezzo": 661.02,
+      "variazione_1g_pct": 0.23,
+      "variazione_1m_pct": 2.95,
+      "variazione_1a_pct": 20.0,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.69,
-      "variazione_1g_pct": -0.2,
-      "variazione_1m_pct": 2.47,
-      "variazione_1a_pct": 22.93,
+      "prezzo": 210.38,
+      "variazione_1g_pct": 0.33,
+      "variazione_1m_pct": 3.63,
+      "variazione_1a_pct": 21.92,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.39,
-      "variazione_1g_pct": 0.72,
-      "variazione_1m_pct": -10.31,
-      "variazione_1a_pct": 4.48,
+      "prezzo": 14.61,
+      "variazione_1g_pct": 0.41,
+      "variazione_1m_pct": -11.45,
+      "variazione_1a_pct": 0.83,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,18 +61,18 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-11",
+      "data": "2026-08-12",
       "valore": 0.48,
-      "valore_anno_fa": 0.51,
-      "variazione": -0.03
+      "valore_anno_fa": 0.57,
+      "variazione": -0.09
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
       "unita": "%",
-      "valore": 3.46,
+      "valore": 3.3,
       "valore_anno_fa": null,
       "variazione": null,
-      "data": "2026-06-01"
+      "data": "2026-07-01"
     },
     {
       "nome": "Disoccupazione USA",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "The Italian Sea Group prosegue il rally, anche Baglietto interessata",
-      "link": "https://www.ilsole24ore.com/art/the-italian-sea-group-prosegue-rally-anche-baglietto-interessata-AJ0Heyj"
+      "titolo": "Nuova spinta all'AI dalle trimestrali Usa, salgono Prysmian e St",
+      "link": "https://www.ilsole24ore.com/art/nuova-spinta-ai-trimestrali-usa-salgono-prysmian-e-st-AJwAUjk"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Salgono i titoli del petrolio in tutta Europa, a Milano brillano Eni e Tenaris",
-      "link": "https://www.ilsole24ore.com/art/corrono-titoli-petrolio-tutta-europa-milano-brillano-eni-e-tenaris-AJ8Lbxj"
+      "titolo": "Diasorin declassata a \"sell\", per Ubs salgono pressioni competitive",
+      "link": "https://www.ilsole24ore.com/art/diasorin-declassata-sell-ubs-salgono-pressioni-competitive-AJrO8kk"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Mps batte le attese, utile a 1,1 miliardi (+25%). Lovaglio: «Supereremo i target»",
+      "link": "https://www.ilsole24ore.com/art/mps-batte-attese-utile-11-miliardi-25percento-AJyW0Ch"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/generali-utile-25-miliardi-semestre-batte-attese-mercato-AJFpukg"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "ProSiebenSat.1 svetta a Francoforte dopo la trimestrale e taglio costi",
-      "link": "https://www.ilsole24ore.com/art/prosiebensat1-svetta-francoforte-la-trimestrale-e-taglio-costi-AJURPUg"
+      "fonte": "ANSA Economia",
+      "titolo": "De Nora installa un elettrolizzatore da 1 Mw in Maffei Sarda Silicati",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/de-nora-installa-un-elettrolizzatore-da-1-mw-in-maffei-sarda-silicati_efda33e4-0e18-4f13-b2b2-dcc3b64f07d1.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Marevivo, 'l'overturism compromette l'equilibrio ambientale'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/marevivo-loverturism-compromette-lequilibrio-ambientale_78bd7f31-2821-4bc2-8ab9-6a83c1301d49.html"
+      "titolo": "Ft, ipo Anthropic potrebbe valere la cifra record di 2mila miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/ft-ipo-anthropic-potrebbe-valere-la-cifra-record-di-2mila-miliardi_484ac22d-b728-42df-b2b6-84f2d6b2f880.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano sale (+0,25%), balzo di Prysmian, Inwit e Unipol",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/borsa-milano-sale-025-balzo-di-prysmian-inwit-e-unipol_c83e1fd7-bc61-428f-b9a3-2a4d0ec0d49b.html"
+      "titolo": "Terna, a luglio record assoluto della domanda di elettricità",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/terna-a-luglio-record-assoluto-della-domanda-di-elettricita_ef3ca3ee-9835-4f45-b5ba-8a7cfd08f491.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fs, nel 2026 consegnati 31 treni regionali per 370 milioni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/fs-nel-2026-consegnati-31-treni-regionali-per-370-milioni_9b4892f7-6585-4119-86b6-544a13afabb3.html"
+      "titolo": "Fipe-Confcommercio, Ferragosto d'oro per ristorazione, a tavola spesa supera miliardo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/fipe-confcommercio-ferragosto-doro-per-ristorazione-a-tavola-spesa-supera-miliardo_0dbea935-afa8-4ba1-9d1c-55fe4e139bba.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Rapporto Camera, rinnovabili coprono 20% dei consumi energia, al 2030 serve il doppio",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/rapporto-camera-rinnovabili-coprono-20-dei-consumi-energia-al-2030-serve-il-doppio_a198c83c-4837-45c2-88a3-5536b2260709.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Le rinnovabili coprono 20% consumi energia, al 2030 serve il doppio",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/12/le-rinnovabili-coprono-20-consumi-energia-al-2030-serve-il-doppio_9eba23c9-a62b-415f-ba1c-13e26738ad1d.html"
+      "titolo": "Bce, il contante resta il metodo di pagamento più accettato nell'Eurozona",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/bce-il-contante-resta-il-metodo-di-pagamento-piu-accettato-nelleurozona_77e0e147-df97-4450-a7a4-72ebabcd8408.html"
     }
   ]
 }
