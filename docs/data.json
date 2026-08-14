@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-13T10:44:09.663577Z",
+  "aggiornato_il": "2026-08-14T10:36:41.929564Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53966.91,
-      "variazione_1g_pct": 0.5,
-      "variazione_1m_pct": 2.09,
-      "variazione_1a_pct": 27.93,
+      "prezzo": 53695.32,
+      "variazione_1g_pct": 0.0,
+      "variazione_1m_pct": 2.45,
+      "variazione_1a_pct": 25.89,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7748.5,
-      "variazione_1g_pct": 0.26,
-      "variazione_1m_pct": 3.1,
-      "variazione_1a_pct": 20.21,
+      "prezzo": 7798.99,
+      "variazione_1g_pct": 0.65,
+      "variazione_1m_pct": 3.39,
+      "variazione_1a_pct": 20.6,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 661.02,
-      "variazione_1g_pct": 0.23,
-      "variazione_1m_pct": 2.95,
-      "variazione_1a_pct": 20.0,
+      "prezzo": 659.55,
+      "variazione_1g_pct": 0.05,
+      "variazione_1m_pct": 2.62,
+      "variazione_1a_pct": 19.08,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 210.38,
-      "variazione_1g_pct": 0.33,
-      "variazione_1m_pct": 3.63,
-      "variazione_1a_pct": 21.92,
+      "prezzo": 211.51,
+      "variazione_1g_pct": 0.54,
+      "variazione_1m_pct": 3.69,
+      "variazione_1a_pct": 22.12,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.61,
-      "variazione_1g_pct": 0.41,
-      "variazione_1m_pct": -11.45,
-      "variazione_1a_pct": 0.83,
+      "prezzo": 14.56,
+      "variazione_1g_pct": -0.48,
+      "variazione_1m_pct": -7.08,
+      "variazione_1a_pct": -1.82,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,7 +61,7 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-12",
+      "data": "2026-08-13",
       "valore": 0.48,
       "valore_anno_fa": 0.57,
       "variazione": -0.09
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Nuova spinta all'AI dalle trimestrali Usa, salgono Prysmian e St",
-      "link": "https://www.ilsole24ore.com/art/nuova-spinta-ai-trimestrali-usa-salgono-prysmian-e-st-AJwAUjk"
+      "titolo": "Bff tratta con Pimco e altri fondi per la cartolarizzazione da 1,2 miliardi",
+      "link": "https://www.ilsole24ore.com/art/bff-tratta-pimco-e-altri-fondi-la-cartolarizzazione-12-miliardi-AJjS2Mm"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Diasorin declassata a \"sell\", per Ubs salgono pressioni competitive",
-      "link": "https://www.ilsole24ore.com/art/diasorin-declassata-sell-ubs-salgono-pressioni-competitive-AJrO8kk"
+      "titolo": "Trasporto aereo: dopo la stagione delle low cost, ondata di acquisizioni tra vettori",
+      "link": "https://www.ilsole24ore.com/art/trasporto-aereo-la-stagione-low-cost-ondata-acquisizioni-vettori-AJYxFKl"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Unipol, semestre record. L’utile balza del 42%",
+      "link": "https://www.ilsole24ore.com/art/unipol-semestre-record-l-utile-balza-42percento-AJhV92g"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/mps-batte-attese-utile-11-miliardi-25percento-AJyW0Ch"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Generali, utile a 2,5 miliardi. Donnet: «Tuteleremo l’integrità del gruppo»",
-      "link": "https://www.ilsole24ore.com/art/generali-utile-25-miliardi-semestre-batte-attese-mercato-AJFpukg"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: l'Europa piatta in attesa dei dati Usa, bene l'euro a 1,155 contro il dollaro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-piatta-in-attesa-dei-dati-usa-bene-leuro-a-1155_a1f875a0-974d-4031-8ef3-f9c155f40012.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "De Nora installa un elettrolizzatore da 1 Mw in Maffei Sarda Silicati",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/de-nora-installa-un-elettrolizzatore-da-1-mw-in-maffei-sarda-silicati_efda33e4-0e18-4f13-b2b2-dcc3b64f07d1.html"
+      "titolo": "Ilo, nel mondo 67 milioni di giovani disoccupati, meno lavoro per l'Ia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ilo-nel-mondo-67-milioni-di-giovani-disoccupati-meno-lavoro-per-lia_62827697-5ee4-425d-913c-3d25652d02c3.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ft, ipo Anthropic potrebbe valere la cifra record di 2mila miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/ft-ipo-anthropic-potrebbe-valere-la-cifra-record-di-2mila-miliardi_484ac22d-b728-42df-b2b6-84f2d6b2f880.html"
+      "titolo": "Quasi 4 giovani disoccupati per ogni adulto disoccupato in Italia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ilo-quasi-4-giovani-disoccupati-per-ogni-adulto-disoccupato-in-italia_b4c2a54f-938e-4700-a828-116304919c9c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Terna, a luglio record assoluto della domanda di elettricità",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/terna-a-luglio-record-assoluto-della-domanda-di-elettricita_ef3ca3ee-9835-4f45-b5ba-8a7cfd08f491.html"
+      "titolo": "Nell'Eurozona il Pil sale dello 0,4% nel secondo trimestre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/nelleurozona-il-pil-sale-dello-04-nel-secondo-trimestre_1cb86fe1-2974-48d0-b4ed-07dc90cb8155.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fipe-Confcommercio, Ferragosto d'oro per ristorazione, a tavola spesa supera miliardo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/fipe-confcommercio-ferragosto-doro-per-ristorazione-a-tavola-spesa-supera-miliardo_0dbea935-afa8-4ba1-9d1c-55fe4e139bba.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Bce, il contante resta il metodo di pagamento più accettato nell'Eurozona",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/13/bce-il-contante-resta-il-metodo-di-pagamento-piu-accettato-nelleurozona_77e0e147-df97-4450-a7a4-72ebabcd8408.html"
+      "titolo": "Oxford Economics, 'più che il caldo l'Europa deve temere l'inverno'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/oxford-economics-piu-che-il-caldo-leuropa-deve-temere-linverno_b2ce67e3-b013-440a-aee5-221619ca1dab.html"
     }
   ]
 }
