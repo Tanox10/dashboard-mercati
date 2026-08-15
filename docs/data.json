@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-14T10:36:41.929564Z",
+  "aggiornato_il": "2026-08-15T07:56:42.836347Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53695.32,
-      "variazione_1g_pct": 0.0,
-      "variazione_1m_pct": 2.45,
-      "variazione_1a_pct": 25.89,
+      "prezzo": 53584.0,
+      "variazione_1g_pct": -0.2,
+      "variazione_1m_pct": 2.24,
+      "variazione_1a_pct": 25.62,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7798.99,
-      "variazione_1g_pct": 0.65,
-      "variazione_1m_pct": 3.39,
-      "variazione_1a_pct": 20.6,
+      "prezzo": 7785.76,
+      "variazione_1g_pct": -0.17,
+      "variazione_1m_pct": 2.82,
+      "variazione_1a_pct": 20.36,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 659.55,
-      "variazione_1g_pct": 0.05,
-      "variazione_1m_pct": 2.62,
-      "variazione_1a_pct": 19.08,
+      "prezzo": 657.86,
+      "variazione_1g_pct": -0.21,
+      "variazione_1m_pct": 2.36,
+      "variazione_1a_pct": 18.78,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 211.51,
-      "variazione_1g_pct": 0.54,
-      "variazione_1m_pct": 3.69,
-      "variazione_1a_pct": 22.12,
+      "prezzo": 211.21,
+      "variazione_1g_pct": -0.14,
+      "variazione_1m_pct": 3.16,
+      "variazione_1a_pct": 22.06,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.56,
-      "variazione_1g_pct": -0.48,
-      "variazione_1m_pct": -7.08,
-      "variazione_1a_pct": -1.82,
+      "prezzo": 14.25,
+      "variazione_1g_pct": -2.6,
+      "variazione_1m_pct": -9.06,
+      "variazione_1a_pct": -3.91,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-13",
-      "valore": 0.48,
-      "valore_anno_fa": 0.57,
-      "variazione": -0.09
+      "data": "2026-08-14",
+      "valore": 0.51,
+      "valore_anno_fa": 0.55,
+      "variazione": -0.04
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa piatta in attesa dei dati Usa, bene l'euro a 1,155 contro il dollaro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-piatta-in-attesa-dei-dati-usa-bene-leuro-a-1155_a1f875a0-974d-4031-8ef3-f9c155f40012.html"
+      "titolo": "Il gas si mantiene a cavallo dei 61 euro sulla piazza Ttf di Amsterdam",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/il-gas-si-mantiene-a-cavallo-dei-61-euro-sulla-piazza-ttf-di-amsterdam_dfa37223-05b1-4203-9630-505c739e877b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ilo, nel mondo 67 milioni di giovani disoccupati, meno lavoro per l'Ia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ilo-nel-mondo-67-milioni-di-giovani-disoccupati-meno-lavoro-per-lia_62827697-5ee4-425d-913c-3d25652d02c3.html"
+      "titolo": "Ferrero acquisisce Purely Elizabeth e rafforza la sua presenza negli Usa",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ferrero-acquisisce-purely-elizabeth-e-rafforza-la-sua-presenza-negli-usa_e0270c41-00eb-4432-84f1-12951260244a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Quasi 4 giovani disoccupati per ogni adulto disoccupato in Italia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ilo-quasi-4-giovani-disoccupati-per-ogni-adulto-disoccupato-in-italia_b4c2a54f-938e-4700-a828-116304919c9c.html"
+      "titolo": "Borsa: Milano chiude in calo (-0,2%), realizzi su Prysmian ed Stm",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-milano-chiude-in-calo-02-realizzi-su-prysmian-ed-stm_69d72c76-5583-4527-85a4-fee5887d547a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nell'Eurozona il Pil sale dello 0,4% nel secondo trimestre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/nelleurozona-il-pil-sale-dello-04-nel-secondo-trimestre_1cb86fe1-2974-48d0-b4ed-07dc90cb8155.html"
+      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo sopra i 78 punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-sopra-i-78-punti_4fd983be-3a7e-4b59-abac-c4468b66f10c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Oxford Economics, 'più che il caldo l'Europa deve temere l'inverno'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/oxford-economics-piu-che-il-caldo-leuropa-deve-temere-linverno_b2ce67e3-b013-440a-aee5-221619ca1dab.html"
+      "titolo": "Borsa: l'Europa chiude contrastata, Parigi -0,16%, Francoforte +0,53%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-chiude-contrastata-parigi-016-francoforte-053_2fe369b4-00b8-4f0c-bad5-62809ce4653d.html"
     }
   ]
 }
