@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-16T07:56:36.662189Z",
+  "aggiornato_il": "2026-08-17T09:23:26.679554Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,10 +12,10 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53584.0,
-      "variazione_1g_pct": -0.2,
-      "variazione_1m_pct": 2.24,
-      "variazione_1a_pct": 25.62,
+      "prezzo": 53793.31,
+      "variazione_1g_pct": 0.39,
+      "variazione_1m_pct": 3.68,
+      "variazione_1a_pct": 26.12,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -30,10 +30,10 @@
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 657.86,
-      "variazione_1g_pct": -0.21,
-      "variazione_1m_pct": 2.36,
-      "variazione_1a_pct": 18.78,
+      "prezzo": 658.38,
+      "variazione_1g_pct": 0.08,
+      "variazione_1m_pct": 2.63,
+      "variazione_1a_pct": 18.94,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -48,10 +48,10 @@
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.25,
-      "variazione_1g_pct": -2.6,
-      "variazione_1m_pct": -9.06,
-      "variazione_1a_pct": -3.91,
+      "prezzo": 14.95,
+      "variazione_1g_pct": 4.91,
+      "variazione_1m_pct": -20.35,
+      "variazione_1a_pct": -0.93,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il gas si mantiene a cavallo dei 61 euro sulla piazza Ttf di Amsterdam",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/il-gas-si-mantiene-a-cavallo-dei-61-euro-sulla-piazza-ttf-di-amsterdam_dfa37223-05b1-4203-9630-505c739e877b.html"
+      "titolo": "In Usa i super-ricchi pagano più tasse, dall'1% 38,4% dell'imposta federale su reddito",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/in-usa-i-super-ricchi-pagano-piu-tasse-dall1-384-dellimposta-federale_8cc0b4cd-aae0-4df6-a78e-9d0d01e056aa.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ferrero acquisisce Purely Elizabeth e rafforza la sua presenza negli Usa",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/ferrero-acquisisce-purely-elizabeth-e-rafforza-la-sua-presenza-negli-usa_e0270c41-00eb-4432-84f1-12951260244a.html"
+      "titolo": "Caldo, la produzione di latte per il Parmigiano giù del 10%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/caldo-la-produzione-di-latte-per-il-parmigiano-giu-del-10_2d92dc41-77b3-4d9a-a51a-fff0dd07ab2a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano chiude in calo (-0,2%), realizzi su Prysmian ed Stm",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-milano-chiude-in-calo-02-realizzi-su-prysmian-ed-stm_69d72c76-5583-4527-85a4-fee5887d547a.html"
+      "titolo": "Cna, in Italia vita lavorativa di appena 33 anni, ai minimi nell'Ue",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/cna-in-italia-vita-lavorativa-di-appena-33-anni-ai-minimi-nellue_4d40c96e-0b60-49d8-a688-a2eaad80042b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in rialzo sopra i 78 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-sopra-i-78-punti_4fd983be-3a7e-4b59-abac-c4468b66f10c.html"
+      "titolo": "Vendite al dettaglio in Cina rallentano a luglio, +0,6%, consumi sotto le attese",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendite-al-dettaglio-in-cina-rallentano-a-luglio-06-consumi-sotto-le-attese_34270d90-7a5f-4ce3-9191-4d53feaf319e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa chiude contrastata, Parigi -0,16%, Francoforte +0,53%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/14/borsa-leuropa-chiude-contrastata-parigi-016-francoforte-053_2fe369b4-00b8-4f0c-bad5-62809ce4653d.html"
+      "titolo": "La crescita dell'industria rallenta in Cina. Male anche le vendite e gli investimenti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_baae2881-2563-423d-bcbb-5412d0df2b41.html"
     }
   ]
 }
