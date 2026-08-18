@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-08-17T09:23:26.679554Z",
+  "aggiornato_il": "2026-08-18T08:19:04.624898Z",
   "sentiment": {
-    "punteggio": 95.0,
+    "punteggio": 88.8,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 100.0,
+      "momentum": 75.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53793.31,
-      "variazione_1g_pct": 0.39,
-      "variazione_1m_pct": 3.68,
-      "variazione_1a_pct": 26.12,
+      "prezzo": 53197.65,
+      "variazione_1g_pct": -0.72,
+      "variazione_1m_pct": 2.54,
+      "variazione_1a_pct": 24.75,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7785.76,
-      "variazione_1g_pct": -0.17,
-      "variazione_1m_pct": 2.82,
-      "variazione_1a_pct": 20.36,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "prezzo": NaN,
+      "variazione_1g_pct": NaN,
+      "variazione_1m_pct": NaN,
+      "variazione_1a_pct": NaN,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 658.38,
-      "variazione_1g_pct": 0.08,
-      "variazione_1m_pct": 2.63,
-      "variazione_1a_pct": 18.94,
+      "prezzo": 652.85,
+      "variazione_1g_pct": -0.76,
+      "variazione_1m_pct": 1.76,
+      "variazione_1a_pct": 17.84,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 211.21,
-      "variazione_1g_pct": -0.14,
-      "variazione_1m_pct": 3.16,
-      "variazione_1a_pct": 22.06,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "prezzo": NaN,
+      "variazione_1g_pct": NaN,
+      "variazione_1m_pct": NaN,
+      "variazione_1a_pct": NaN,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.95,
-      "variazione_1g_pct": 4.91,
-      "variazione_1m_pct": -20.35,
-      "variazione_1a_pct": -0.93,
+      "prezzo": 16.01,
+      "variazione_1g_pct": 12.35,
+      "variazione_1m_pct": -14.7,
+      "variazione_1a_pct": 6.8,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,9 +61,9 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-14",
-      "valore": 0.51,
-      "valore_anno_fa": 0.55,
+      "data": "2026-08-17",
+      "valore": 0.53,
+      "valore_anno_fa": 0.57,
       "variazione": -0.04
     },
     {
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "In Usa i super-ricchi pagano più tasse, dall'1% 38,4% dell'imposta federale su reddito",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/in-usa-i-super-ricchi-pagano-piu-tasse-dall1-384-dellimposta-federale_8cc0b4cd-aae0-4df6-a78e-9d0d01e056aa.html"
+      "titolo": "Borsa: Milano (-0,4%) fiacca con l'Europa, deboli Banco Bpm e Generali",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-04-fiacca-con-leuropa-deboli-banco-bpm-e-generali_ba586bf7-b8c9-4cdc-91a6-79f68b44e6d6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Caldo, la produzione di latte per il Parmigiano giù del 10%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/caldo-la-produzione-di-latte-per-il-parmigiano-giu-del-10_2d92dc41-77b3-4d9a-a51a-fff0dd07ab2a.html"
+      "titolo": "Gme, sale l'indice italiano del prezzo del gas",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/gme-sale-lindice-italiano-del-prezzo-del-gas_a7fed4b1-5cd3-4773-8a86-f240f8bc2686.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cna, in Italia vita lavorativa di appena 33 anni, ai minimi nell'Ue",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/cna-in-italia-vita-lavorativa-di-appena-33-anni-ai-minimi-nellue_4d40c96e-0b60-49d8-a688-a2eaad80042b.html"
+      "titolo": "Ue, con clausola energia sovvenzioni a pompe di calore e centrali nucleari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/ue-con-clausola-energia-sovvenzioni-a-pompe-di-calore-e-centrali-nucleari_1450800c-2755-4a65-9da2-4d20c403a26d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Vendite al dettaglio in Cina rallentano a luglio, +0,6%, consumi sotto le attese",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/vendite-al-dettaglio-in-cina-rallentano-a-luglio-06-consumi-sotto-le-attese_34270d90-7a5f-4ce3-9191-4d53feaf319e.html"
+      "titolo": "Borsa: l'Europa parte in ordine sparso, Londra +0,1%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-leuropa-parte-in-ordine-sparso-londra-01_51339c7c-3483-481c-84c0-1e35a779c4c7.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La crescita dell'industria rallenta in Cina. Male anche le vendite e gli investimenti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/industria-cinese-crescita-rallenta-al-45-a-luglio_baae2881-2563-423d-bcbb-5412d0df2b41.html"
+      "titolo": "Borsa: Milano apre in lieve calo, Ftse Mib -0,18%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-apre-in-lieve-calo-ftse-mib-018_7e86ce2e-c6d0-4c4f-a196-4549029241f2.html"
     }
   ]
 }
