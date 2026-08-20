@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-19T09:07:17.865833Z",
+  "aggiornato_il": "2026-08-20T09:05:14.459088Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 53020.27,
-      "variazione_1g_pct": 0.0,
-      "variazione_1m_pct": 2.23,
-      "variazione_1a_pct": 23.24,
+      "prezzo": 52731.35,
+      "variazione_1g_pct": 0.22,
+      "variazione_1m_pct": 0.85,
+      "variazione_1a_pct": 23.02,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7691.76,
-      "variazione_1g_pct": -0.69,
-      "variazione_1m_pct": 3.14,
-      "variazione_1a_pct": 19.27,
+      "prezzo": 7707.98,
+      "variazione_1g_pct": 0.21,
+      "variazione_1m_pct": 3.56,
+      "variazione_1a_pct": 20.22,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 651.97,
-      "variazione_1g_pct": 0.01,
-      "variazione_1m_pct": 1.93,
-      "variazione_1a_pct": 16.88,
+      "prezzo": 650.3,
+      "variazione_1g_pct": -0.13,
+      "variazione_1m_pct": 1.11,
+      "variazione_1a_pct": 16.31,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 208.74,
-      "variazione_1g_pct": -0.8,
-      "variazione_1m_pct": 3.39,
-      "variazione_1a_pct": 20.69,
+      "prezzo": 209.22,
+      "variazione_1g_pct": 0.23,
+      "variazione_1m_pct": 4.04,
+      "variazione_1a_pct": 21.47,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.8,
-      "variazione_1g_pct": -0.25,
-      "variazione_1m_pct": -15.28,
-      "variazione_1a_pct": 1.48,
+      "prezzo": 15.27,
+      "variazione_1g_pct": 2.55,
+      "variazione_1m_pct": -10.44,
+      "variazione_1a_pct": -2.68,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-18",
-      "valore": 0.52,
-      "valore_anno_fa": 0.57,
-      "variazione": -0.05
+      "data": "2026-08-19",
+      "valore": 0.46,
+      "valore_anno_fa": 0.55,
+      "variazione": -0.09
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa si muove cauta, future Usa positivi, Milano -0,1%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-leuropa-si-muove-cauta-future-usa-positivi-milano-01_9e156b82-f85d-40dc-a9ad-97c55aee596a.html"
+      "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_e403a1a7-97c9-45b3-acb5-ab5bee42c96b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lagarde, l'economia europea regge, rimuovere le barriere nazionali a imprese e Borse",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/lagarde-leconomia-europea-regge-rimuovere-le-barriere-nazionali-a-imprese-e-borse_0c32349b-f010-4f8c-ac7a-d847fd5a4ad8.html"
+      "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9ff97ecb-7b32-4557-b0aa-d61a4c95ed9e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano fiacca (-0,07%), sprint di Stellantis, giù Stm",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-fiacca-007-sprint-di-stellantis-giu-stm_0ab24c76-05e0-4e9c-a2ec-3e963fa8b0e5.html"
+      "titolo": "Il risiko bancario in Borsa, scatta Banca Generali +2,3%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-risiko-bancario-in-borsa-scatta-banca-generali-23_b9bf10a9-57f0-42f2-89bb-5c3e9d8c885d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Inflazione nel Regno Unito sale al 2,9% a luglio, pesa la guerra con l'Iran",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/inflazione-nel-regno-unito-sale-al-29-a-luglio-pesa-la-guerra-con-liran_0601a79d-068f-432b-b596-870eb2db8b41.html"
+      "titolo": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Continua il rialzo del prezzo del gasolio, in autostrada 2,178 euro al litro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/continua-il-rialzo-del-prezzo-del-gasolio-in-autostrada-2178-euro-al-litro_28171a52-8bcb-4bc6-84f1-94cc25f289c2.html"
+      "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-apre-in-cauto-rialzo-ftse-mib-01_00dd6485-9c7c-45f2-8a4c-a629610fadcc.html"
     }
   ]
 }
