@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-20T09:05:14.459088Z",
+  "aggiornato_il": "2026-08-21T09:10:01.927570Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52731.35,
-      "variazione_1g_pct": 0.22,
-      "variazione_1m_pct": 0.85,
-      "variazione_1a_pct": 23.02,
+      "prezzo": 52975.53,
+      "variazione_1g_pct": 0.59,
+      "variazione_1m_pct": 0.35,
+      "variazione_1a_pct": 23.16,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7707.98,
-      "variazione_1g_pct": 0.21,
-      "variazione_1m_pct": 3.56,
-      "variazione_1a_pct": 20.22,
+      "prezzo": 7641.16,
+      "variazione_1g_pct": -0.87,
+      "variazione_1m_pct": 1.76,
+      "variazione_1a_pct": 19.47,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 650.3,
-      "variazione_1g_pct": -0.13,
-      "variazione_1m_pct": 1.11,
-      "variazione_1a_pct": 16.31,
+      "prezzo": 652.08,
+      "variazione_1g_pct": 0.27,
+      "variazione_1m_pct": 0.8,
+      "variazione_1a_pct": 16.64,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.22,
-      "variazione_1g_pct": 0.23,
-      "variazione_1m_pct": 4.04,
-      "variazione_1a_pct": 21.47,
+      "prezzo": 207.83,
+      "variazione_1g_pct": -0.66,
+      "variazione_1m_pct": 2.31,
+      "variazione_1a_pct": 20.75,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.27,
-      "variazione_1g_pct": 2.55,
-      "variazione_1m_pct": -10.44,
-      "variazione_1a_pct": -2.68,
+      "prezzo": 15.73,
+      "variazione_1g_pct": -1.75,
+      "variazione_1m_pct": -5.47,
+      "variazione_1a_pct": -5.24,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-19",
-      "valore": 0.46,
+      "data": "2026-08-20",
+      "valore": 0.5,
       "valore_anno_fa": 0.55,
-      "variazione": -0.09
+      "variazione": -0.05
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/sale-il-petrolio-brent-sopra-93-dollari-con-guerra-economica-devastante-di-trump_e403a1a7-97c9-45b3-acb5-ab5bee42c96b.html"
+      "titolo": "Con debito Usa da record le valute dei Paesi emergenti ai massimi storici",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/con-debito-usa-da-record-le-valute-dei-paesi-emergenti-ai-massimi-storici_5f735472-1019-466d-bb13-cb23f1768d62.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa debole, guarda al 'D-day economico'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-europa-debole-guarda-al-d-day-economico_9ff97ecb-7b32-4557-b0aa-d61a4c95ed9e.html"
+      "titolo": "Unc, governo non faccia come Ponzio Pilato sulla benzina",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/unc-governo-non-faccia-come-ponzio-pilato-sulla-benzina_fe1baef6-cace-42ca-a7b5-3e0896c7c71b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il risiko bancario in Borsa, scatta Banca Generali +2,3%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-risiko-bancario-in-borsa-scatta-banca-generali-23_b9bf10a9-57f0-42f2-89bb-5c3e9d8c885d.html"
+      "titolo": "Borsa: Europa in rimbalzo, Francoforte +0,3%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-europa-in-rimbalzo-francoforte-03_af5ab5e6-87f3-44e5-8f98-a5d5c8afac51.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html"
+      "titolo": "Migliora l'industria europea, in Germania Pmi manifattura top dal 2022",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/migliora-lindustria-europea-in-germania-pmi-manifattura-top-dal-2022_e0e7c361-3661-4900-bcc7-dc610f44be42.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano apre in cauto rialzo, Ftse Mib +0,1%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-apre-in-cauto-rialzo-ftse-mib-01_00dd6485-9c7c-45f2-8a4c-a629610fadcc.html"
+      "titolo": "Cna, tessuto produttivo italiano diffuso, traina il Centro-Nord",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/cna-tessuto-produttivo-italiano-diffuso-traina-il-centro-nord_b8e2af54-134d-44a4-b67d-00d48996bee1.html"
     }
   ]
 }
