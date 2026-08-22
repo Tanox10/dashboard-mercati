@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-21T09:10:01.927570Z",
+  "aggiornato_il": "2026-08-22T07:58:33.932126Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52975.53,
-      "variazione_1g_pct": 0.59,
-      "variazione_1m_pct": 0.35,
-      "variazione_1a_pct": 23.16,
+      "prezzo": 52668.0,
+      "variazione_1g_pct": 0.0,
+      "variazione_1m_pct": -0.23,
+      "variazione_1a_pct": 22.45,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7641.16,
-      "variazione_1g_pct": -0.87,
-      "variazione_1m_pct": 1.76,
-      "variazione_1a_pct": 19.47,
+      "prezzo": 7674.37,
+      "variazione_1g_pct": 0.43,
+      "variazione_1m_pct": 2.34,
+      "variazione_1a_pct": 20.47,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 652.08,
-      "variazione_1g_pct": 0.27,
-      "variazione_1m_pct": 0.8,
-      "variazione_1a_pct": 16.64,
+      "prezzo": 654.18,
+      "variazione_1g_pct": 0.59,
+      "variazione_1m_pct": 1.12,
+      "variazione_1a_pct": 17.01,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 207.83,
-      "variazione_1g_pct": -0.66,
-      "variazione_1m_pct": 2.31,
-      "variazione_1a_pct": 20.75,
+      "prezzo": 209.07,
+      "variazione_1g_pct": 0.6,
+      "variazione_1m_pct": 2.94,
+      "variazione_1a_pct": 21.97,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.73,
-      "variazione_1g_pct": -1.75,
-      "variazione_1m_pct": -5.47,
-      "variazione_1a_pct": -5.24,
+      "prezzo": 15.13,
+      "variazione_1g_pct": -5.5,
+      "variazione_1m_pct": -9.07,
+      "variazione_1a_pct": -8.86,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-20",
+      "data": "2026-08-21",
       "valore": 0.5,
-      "valore_anno_fa": 0.55,
-      "variazione": -0.05
+      "valore_anno_fa": 0.54,
+      "variazione": -0.04
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Con debito Usa da record le valute dei Paesi emergenti ai massimi storici",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/con-debito-usa-da-record-le-valute-dei-paesi-emergenti-ai-massimi-storici_5f735472-1019-466d-bb13-cb23f1768d62.html"
+      "titolo": "Codacons, 'controesodo può costare fino a 270 euro a famiglia'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/codacons-controesodo-puo-costare-fino-a-270-euro-a-famiglia_7084760e-0a1c-4d55-a8ce-89c66722260b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Unc, governo non faccia come Ponzio Pilato sulla benzina",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/unc-governo-non-faccia-come-ponzio-pilato-sulla-benzina_fe1baef6-cace-42ca-a7b5-3e0896c7c71b.html"
+      "titolo": "Non si arresta la corsa dei carburanti, gasolio a 2,200 euro al litro in autostrada",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-gasolio-a-2200-euro-al-litro-in-autostrada_ff20488d-b1c5-404a-9db2-949675cc8857.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa in rimbalzo, Francoforte +0,3%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-europa-in-rimbalzo-francoforte-03_af5ab5e6-87f3-44e5-8f98-a5d5c8afac51.html"
+      "titolo": "Non si arresta la corsa dei carburanti, il gasolio vola a 2,200 euro al litro in autostrada",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/non-si-arresta-la-corsa-dei-carburanti-il-gasolio-vola-a-2200-euro-al-litro_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Migliora l'industria europea, in Germania Pmi manifattura top dal 2022",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/migliora-lindustria-europea-in-germania-pmi-manifattura-top-dal-2022_e0e7c361-3661-4900-bcc7-dc610f44be42.html"
+      "titolo": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_7ed464f4-28a5-4a05-9d74-283c19205a18.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cna, tessuto produttivo italiano diffuso, traina il Centro-Nord",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/cna-tessuto-produttivo-italiano-diffuso-traina-il-centro-nord_b8e2af54-134d-44a4-b67d-00d48996bee1.html"
+      "titolo": "Borsa: Milano sulla parità con le banche deboli, recupera Stellantis (+4%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/21/borsa-milano-sulla-parita-con-le-banche-deboli-recupera-stellantis-4_c37e4adc-6bae-4c22-ab86-ae422a4b1504.html"
     }
   ]
 }
