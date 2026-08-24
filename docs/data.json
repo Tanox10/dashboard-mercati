@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-23T07:59:35.530494Z",
+  "aggiornato_il": "2026-08-24T09:31:50.471911Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,10 +12,10 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52668.0,
-      "variazione_1g_pct": 0.0,
-      "variazione_1m_pct": -0.23,
-      "variazione_1a_pct": 22.45,
+      "prezzo": 52731.5,
+      "variazione_1g_pct": 0.12,
+      "variazione_1m_pct": 1.79,
+      "variazione_1a_pct": 21.75,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -30,10 +30,10 @@
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 654.18,
-      "variazione_1g_pct": 0.59,
-      "variazione_1m_pct": 1.12,
-      "variazione_1a_pct": 17.01,
+      "prezzo": 655.05,
+      "variazione_1g_pct": 0.13,
+      "variazione_1m_pct": 1.64,
+      "variazione_1a_pct": 16.7,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -48,10 +48,10 @@
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.13,
-      "variazione_1g_pct": -5.5,
-      "variazione_1m_pct": -9.07,
-      "variazione_1a_pct": -8.86,
+      "prezzo": 15.88,
+      "variazione_1g_pct": 4.96,
+      "variazione_1m_pct": -14.53,
+      "variazione_1a_pct": 11.67,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Countdown per la stangata delle accise. Spunta una tassa Ue sui profitti dei petrolieri",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/countdown-per-la-stangata-delle-accise.-spunta-una-tassa-ue-sui-profitti_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html"
+      "titolo": "La benzina sull'autostrada della Cisa sfiora i 2,50 euro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/la-benzina-sullautostrada-della-cisa-sfiora-i-250-euro_fd6ec86b-6b07-40f6-9779-46a647ab98a3.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Sei paesi Ue chiedono tassa su extraprofitti compagnie petrolifere, anche l'Italia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/sei-paesi-ue-chiedono-tassa-su-extraprofitti-compagnie-petrolifere-anche-litalia_a10d0422-ce65-485d-b139-da5300b4b04e.html"
+      "titolo": "Produzione industriale Ue è tornata a crescere nel 2025, prima volta dal 2022",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/produzione-industriale-ue-e-tornata-a-crescere-nel-2025-prima-volta-dal-2022_b1232976-f173-451f-b9ea-96508acc5eeb.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'offerta di Mps sul tavolo del cda del Banco Bpm, cruciale il Credit Agricole",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/lofferta-di-mps-sul-tavolo-del-cda-del-banco-bpm-cruciale_d331439e-51c4-4edf-ad96-a10ee605baaf.html"
+      "titolo": "Weidmann (Commerzbank), 'voglio parlare con Orcel'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/weidmann-commerzbank-voglio-parlare-con-orcel_2b97e1fa-fcd4-4c57-b10b-d545e0367aa6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fava, per la pensione dei giovani 'salvadanaio' all'Inps con un chip dello Stato",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/fava-per-la-pensione-dei-giovani-salvadanaio-allinps-con-un-chip-dello_65c5215a-9df1-4af4-a30a-7441da484802.html"
+      "titolo": "Cna, con la guerra in Iran all'Italia un conto energetico da quasi 12 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/cna-con-la-guerra-in-iran-allitalia-un-conto-energetico-da-quasi-12-miliardi_fac4e026-5d3f-49f2-a39f-981df433d36f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Open Fiber al Meeting di Rimini, 'i nostri visori mostrano la casa del futuro'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/22/open-fiber-al-meeting-di-rimini-i-nostri-visori-mostrano-la-casa-del-futuro_84827616-f23f-4004-9c80-1c3057d97463.html"
+      "titolo": "Borsa: Europa ferma in attesa dei dettagli sul D-day economico",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-europa-ferma-in-attesa-dei-dettagli-sul-d-day-economico_a9a664ec-2b1a-441d-a51d-1a021b6f1e2e.html"
     }
   ]
 }
