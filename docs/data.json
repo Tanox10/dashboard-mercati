@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-24T09:31:50.471911Z",
+  "aggiornato_il": "2026-08-25T09:10:35.252635Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52731.5,
-      "variazione_1g_pct": 0.12,
-      "variazione_1m_pct": 1.79,
-      "variazione_1a_pct": 21.75,
+      "prezzo": 52761.28,
+      "variazione_1g_pct": 0.42,
+      "variazione_1m_pct": 1.85,
+      "variazione_1a_pct": 22.05,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7674.37,
-      "variazione_1g_pct": 0.43,
-      "variazione_1m_pct": 2.34,
-      "variazione_1a_pct": 20.47,
+      "prezzo": 7652.86,
+      "variazione_1g_pct": -0.28,
+      "variazione_1m_pct": 3.25,
+      "variazione_1a_pct": 18.34,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 655.05,
-      "variazione_1g_pct": 0.13,
-      "variazione_1m_pct": 1.64,
-      "variazione_1a_pct": 16.7,
+      "prezzo": 656.23,
+      "variazione_1g_pct": 0.31,
+      "variazione_1m_pct": 1.82,
+      "variazione_1a_pct": 17.43,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.07,
-      "variazione_1g_pct": 0.6,
-      "variazione_1m_pct": 2.94,
-      "variazione_1a_pct": 21.97,
+      "prezzo": 208.48,
+      "variazione_1g_pct": -0.28,
+      "variazione_1m_pct": 3.78,
+      "variazione_1a_pct": 19.83,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.88,
-      "variazione_1g_pct": 4.96,
-      "variazione_1m_pct": -14.53,
-      "variazione_1a_pct": 11.67,
+      "prezzo": 15.8,
+      "variazione_1g_pct": -0.32,
+      "variazione_1m_pct": -14.96,
+      "variazione_1a_pct": 6.83,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-21",
-      "valore": 0.5,
-      "valore_anno_fa": 0.54,
-      "variazione": -0.04
+      "data": "2026-08-24",
+      "valore": 0.46,
+      "valore_anno_fa": 0.55,
+      "variazione": -0.09
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La benzina sull'autostrada della Cisa sfiora i 2,50 euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/la-benzina-sullautostrada-della-cisa-sfiora-i-250-euro_fd6ec86b-6b07-40f6-9779-46a647ab98a3.html"
+      "titolo": "Salvini, avanti senza remore sul contributo da grandi banche ed energetici",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/salvini-avanti-senza-remore-sul-contributo-da-grandi-banche-ed-energetici_c4c4638c-853d-4d1b-b77a-6ec1a91efd6a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Produzione industriale Ue è tornata a crescere nel 2025, prima volta dal 2022",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/produzione-industriale-ue-e-tornata-a-crescere-nel-2025-prima-volta-dal-2022_b1232976-f173-451f-b9ea-96508acc5eeb.html"
+      "titolo": "Metinvest Adria alla ricerca di un terzo socio, slittano cantieri Piombino",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/metinvest-adria-alla-ricerca-di-un-terzo-socio-slittano-cantieri-piombino_966f79de-4ac0-43b7-9c5b-937cfd215b19.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Weidmann (Commerzbank), 'voglio parlare con Orcel'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/weidmann-commerzbank-voglio-parlare-con-orcel_2b97e1fa-fcd4-4c57-b10b-d545e0367aa6.html"
+      "titolo": "In Germania mini-crescita del pil, +0,3% nel secondo trimestre. Aumenta la fiducia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/in-germania-mini-crescita-del-pil-03-nel-secondo-trimestre.-aumenta-la-fiducia_c44d1c11-6af7-403a-aa9f-05e511b9d1a8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cna, con la guerra in Iran all'Italia un conto energetico da quasi 12 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/cna-con-la-guerra-in-iran-allitalia-un-conto-energetico-da-quasi-12-miliardi_fac4e026-5d3f-49f2-a39f-981df433d36f.html"
+      "titolo": "Nasce Think Tank europeo con Draghi per rilanciare la competitività Ue",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/nasce-think-tank-europeo-con-draghi-per-rilanciare-la-competitivita-ue_cd3e45f9-1439-45f4-9884-6d300a32bc24.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa ferma in attesa dei dettagli sul D-day economico",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/24/borsa-europa-ferma-in-attesa-dei-dettagli-sul-d-day-economico_a9a664ec-2b1a-441d-a51d-1a021b6f1e2e.html"
+      "titolo": "Supreme diesel al servito oltre 3,1 euro al litro sulla A22",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/supreme-diesel-al-servito-oltre-31-euro-al-litro-sulla-a22_31b298ee-1d0c-4984-a61d-bf09856b150d.html"
     }
   ]
 }
