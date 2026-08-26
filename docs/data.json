@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-25T09:10:35.252635Z",
+  "aggiornato_il": "2026-08-26T09:24:47.509817Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52761.28,
-      "variazione_1g_pct": 0.42,
-      "variazione_1m_pct": 1.85,
-      "variazione_1a_pct": 22.05,
+      "prezzo": 52860.46,
+      "variazione_1g_pct": 0.27,
+      "variazione_1m_pct": 1.55,
+      "variazione_1a_pct": 23.93,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7652.86,
-      "variazione_1g_pct": -0.28,
-      "variazione_1m_pct": 3.25,
-      "variazione_1a_pct": 18.34,
+      "prezzo": 7677.28,
+      "variazione_1g_pct": 0.32,
+      "variazione_1m_pct": 3.58,
+      "variazione_1a_pct": 19.23,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 656.23,
-      "variazione_1g_pct": 0.31,
-      "variazione_1m_pct": 1.82,
-      "variazione_1a_pct": 17.43,
+      "prezzo": 657.08,
+      "variazione_1g_pct": 0.09,
+      "variazione_1m_pct": 1.93,
+      "variazione_1a_pct": 18.56,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 208.48,
-      "variazione_1g_pct": -0.28,
-      "variazione_1m_pct": 3.78,
-      "variazione_1a_pct": 19.83,
+      "prezzo": 209.33,
+      "variazione_1g_pct": 0.41,
+      "variazione_1m_pct": 4.21,
+      "variazione_1a_pct": 21.05,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.8,
-      "variazione_1g_pct": -0.32,
-      "variazione_1m_pct": -14.96,
-      "variazione_1a_pct": 6.83,
+      "prezzo": 15.7,
+      "variazione_1g_pct": 1.62,
+      "variazione_1m_pct": -15.91,
+      "variazione_1a_pct": 7.39,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-24",
-      "valore": 0.46,
+      "data": "2026-08-25",
+      "valore": 0.47,
       "valore_anno_fa": 0.55,
-      "variazione": -0.09
+      "variazione": -0.08
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Salvini, avanti senza remore sul contributo da grandi banche ed energetici",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/salvini-avanti-senza-remore-sul-contributo-da-grandi-banche-ed-energetici_c4c4638c-853d-4d1b-b77a-6ec1a91efd6a.html"
+      "titolo": "Hormuz vale il 20% del Gnl e il 3% dell'offerta globale di gas",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/hormuz-vale-il-20-del-gnl-e-il-3-dellofferta-globale-di-gas_97a5af6e-4d04-400e-8581-0e5a999ab7d6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Metinvest Adria alla ricerca di un terzo socio, slittano cantieri Piombino",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/metinvest-adria-alla-ricerca-di-un-terzo-socio-slittano-cantieri-piombino_966f79de-4ac0-43b7-9c5b-937cfd215b19.html"
+      "titolo": "Pm Milano, 'i rider di Glovo ancora sottopagati, vanno assunti'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/pm-milano-i-rider-di-glovo-ancora-sottopagati-vanno-assunti_15eedcb8-88a2-4514-a2dd-982b4aef552c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "In Germania mini-crescita del pil, +0,3% nel secondo trimestre. Aumenta la fiducia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/in-germania-mini-crescita-del-pil-03-nel-secondo-trimestre.-aumenta-la-fiducia_c44d1c11-6af7-403a-aa9f-05e511b9d1a8.html"
+      "titolo": "Confesercenti, su vacanze italiani aggravio 1,8 miliardi da caro carburanti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/confesercenti-su-vacanze-italiani-aggravio-18-miliardi-da-caro-carburanti_627ade55-d4bf-465d-967b-f4264f24e58f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nasce Think Tank europeo con Draghi per rilanciare la competitività Ue",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/nasce-think-tank-europeo-con-draghi-per-rilanciare-la-competitivita-ue_cd3e45f9-1439-45f4-9884-6d300a32bc24.html"
+      "titolo": "Borsa: Europa e future Usa contrastati, occhi su Hormuz, Milano +0,15%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-europa-e-future-usa-contrastati-occhi-su-hormuz-milano-015_67854f12-2f18-4c80-b86c-290e321a9f67.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Supreme diesel al servito oltre 3,1 euro al litro sulla A22",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/25/supreme-diesel-al-servito-oltre-31-euro-al-litro-sulla-a22_31b298ee-1d0c-4984-a61d-bf09856b150d.html"
+      "titolo": "Schnabel, serve rialzo tassi Bce, inflazione sopra il 2% a lungo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/schnabel-serve-rialzo-tassi-bce-inflazione-sopra-il-2-a-lungo_ce8d1197-2239-483d-bbe6-cc8bf579b068.html"
     }
   ]
 }
