@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-26T09:24:47.509817Z",
+  "aggiornato_il": "2026-08-28T21:32:09.002698Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52860.46,
-      "variazione_1g_pct": 0.27,
-      "variazione_1m_pct": 1.55,
-      "variazione_1a_pct": 23.93,
+      "prezzo": 52616.12,
+      "variazione_1g_pct": 0.67,
+      "variazione_1m_pct": 2.28,
+      "variazione_1a_pct": 23.96,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7677.28,
-      "variazione_1g_pct": 0.32,
-      "variazione_1m_pct": 3.58,
-      "variazione_1a_pct": 19.23,
+      "prezzo": 7711.76,
+      "variazione_1g_pct": -0.25,
+      "variazione_1m_pct": 5.41,
+      "variazione_1a_pct": 18.61,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 657.08,
-      "variazione_1g_pct": 0.09,
-      "variazione_1m_pct": 1.93,
-      "variazione_1a_pct": 18.56,
+      "prezzo": 655.16,
+      "variazione_1g_pct": 0.51,
+      "variazione_1m_pct": 1.57,
+      "variazione_1a_pct": 18.33,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.33,
-      "variazione_1g_pct": 0.41,
-      "variazione_1m_pct": 4.21,
-      "variazione_1a_pct": 21.05,
+      "prezzo": 209.43,
+      "variazione_1g_pct": -0.24,
+      "variazione_1m_pct": 5.15,
+      "variazione_1a_pct": 20.13,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.7,
-      "variazione_1g_pct": 1.62,
-      "variazione_1m_pct": -15.91,
-      "variazione_1a_pct": 7.39,
+      "prezzo": 14.43,
+      "variazione_1g_pct": -0.55,
+      "variazione_1m_pct": -30.15,
+      "variazione_1a_pct": 0.0,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-25",
-      "valore": 0.47,
-      "valore_anno_fa": 0.55,
-      "variazione": -0.08
+      "data": "2026-08-28",
+      "valore": 0.39,
+      "valore_anno_fa": 0.6,
+      "variazione": -0.21
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Hormuz vale il 20% del Gnl e il 3% dell'offerta globale di gas",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/hormuz-vale-il-20-del-gnl-e-il-3-dellofferta-globale-di-gas_97a5af6e-4d04-400e-8581-0e5a999ab7d6.html"
+      "titolo": "Il petrolio chiude a New York in leggero calo, a 83,45 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/il-petrolio-chiude-a-new-york-in-leggero-calo-a-8345-dollari_22a5e77c-435a-406f-a3f9-b7c5ab4c886e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Pm Milano, 'i rider di Glovo ancora sottopagati, vanno assunti'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/pm-milano-i-rider-di-glovo-ancora-sottopagati-vanno-assunti_15eedcb8-88a2-4514-a2dd-982b4aef552c.html"
+      "titolo": "Il gas prosegue la seduta in calo sul mercato di Amsterdam (-2,9%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/il-gas-prosegue-la-seduta-in-calo-sul-mercato-di-amsterdam-29_c51fd797-2d3b-4ac4-827d-18eea5b2e36a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Confesercenti, su vacanze italiani aggravio 1,8 miliardi da caro carburanti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/confesercenti-su-vacanze-italiani-aggravio-18-miliardi-da-caro-carburanti_627ade55-d4bf-465d-967b-f4264f24e58f.html"
+      "titolo": "Lo spread Btp-Bund poco mosso a 82 punti, salgono i rendimenti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/lo-spread-btp-bund-poco-mosso-a-82-punti-salgono-i-rendimenti_d5743119-7cf6-4c92-b926-76e230ea6304.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa e future Usa contrastati, occhi su Hormuz, Milano +0,15%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/borsa-europa-e-future-usa-contrastati-occhi-su-hormuz-milano-015_67854f12-2f18-4c80-b86c-290e321a9f67.html"
+      "titolo": "Borsa: Milano in rialzo con Lottomatica e Stellantis, scivola Leonardo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/borsa-milano-in-rialzo-con-lottomatica-e-stellantis-scivola-leonardo_ff24267d-6bd5-4943-b415-268edb4320bd.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Schnabel, serve rialzo tassi Bce, inflazione sopra il 2% a lungo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/schnabel-serve-rialzo-tassi-bce-inflazione-sopra-il-2-a-lungo_ce8d1197-2239-483d-bbe6-cc8bf579b068.html"
+      "titolo": "Borsa: l'Europa chiude in rialzo con l'impegno di Warsh sull'inflazione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/borsa-leuropa-chiude-in-rialzo-con-limpegno-di-warsh-sullinflazione_c8277d18-37a2-4908-b72a-eb32dc908362.html"
     }
   ]
 }
