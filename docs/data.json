@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-08-28T21:32:09.002698Z",
+  "aggiornato_il": "2026-08-29T07:06:49.608363Z",
   "sentiment": {
-    "punteggio": 95.0,
+    "punteggio": 87.2,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 100.0,
+      "momentum": 68.75,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52616.12,
-      "variazione_1g_pct": 0.67,
-      "variazione_1m_pct": 2.28,
-      "variazione_1a_pct": 23.96,
-      "sopra_media_50gg": true,
+      "prezzo": 52265.0,
+      "variazione_1g_pct": -1.17,
+      "variazione_1m_pct": 1.1,
+      "variazione_1a_pct": 23.41,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7711.76,
-      "variazione_1g_pct": -0.25,
-      "variazione_1m_pct": 5.41,
-      "variazione_1a_pct": 18.61,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "prezzo": NaN,
+      "variazione_1g_pct": NaN,
+      "variazione_1m_pct": NaN,
+      "variazione_1a_pct": NaN,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 655.16,
-      "variazione_1g_pct": 0.51,
-      "variazione_1m_pct": 1.57,
-      "variazione_1a_pct": 18.33,
+      "prezzo": 651.85,
+      "variazione_1g_pct": -0.69,
+      "variazione_1m_pct": 0.77,
+      "variazione_1a_pct": 17.5,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.43,
-      "variazione_1g_pct": -0.24,
-      "variazione_1m_pct": 5.15,
-      "variazione_1a_pct": 20.13,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "prezzo": NaN,
+      "variazione_1g_pct": NaN,
+      "variazione_1m_pct": NaN,
+      "variazione_1a_pct": NaN,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.43,
-      "variazione_1g_pct": -0.55,
-      "variazione_1m_pct": -30.15,
-      "variazione_1a_pct": 0.0,
+      "prezzo": 14.51,
+      "variazione_1g_pct": -4.6,
+      "variazione_1m_pct": -20.32,
+      "variazione_1a_pct": -2.29,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -130,6 +130,11 @@
     },
     {
       "fonte": "ANSA Economia",
+      "titolo": "Canale di Panama, record di 5,3 milioni di dollari per un transito",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/29/canale-di-panama-record-di-53-milioni-di-dollari-per-un-transito_54b76ea3-5db8-41b7-aac9-18a60e3627e8.html"
+    },
+    {
+      "fonte": "ANSA Economia",
       "titolo": "Il petrolio chiude a New York in leggero calo, a 83,45 dollari",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/il-petrolio-chiude-a-new-york-in-leggero-calo-a-8345-dollari_22a5e77c-435a-406f-a3f9-b7c5ab4c886e.html"
     },
@@ -147,11 +152,6 @@
       "fonte": "ANSA Economia",
       "titolo": "Borsa: Milano in rialzo con Lottomatica e Stellantis, scivola Leonardo",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/borsa-milano-in-rialzo-con-lottomatica-e-stellantis-scivola-leonardo_ff24267d-6bd5-4943-b415-268edb4320bd.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa chiude in rialzo con l'impegno di Warsh sull'inflazione",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/borsa-leuropa-chiude-in-rialzo-con-limpegno-di-warsh-sullinflazione_c8277d18-37a2-4908-b72a-eb32dc908362.html"
     }
   ]
 }
