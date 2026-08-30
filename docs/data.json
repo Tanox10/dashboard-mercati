@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-08-29T07:06:49.608363Z",
+  "aggiornato_il": "2026-08-30T07:07:14.798801Z",
   "sentiment": {
-    "punteggio": 87.2,
+    "punteggio": 95.0,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 68.75,
+      "momentum": 100.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52265.0,
-      "variazione_1g_pct": -1.17,
-      "variazione_1m_pct": 1.1,
-      "variazione_1a_pct": 23.41,
-      "sopra_media_50gg": false,
+      "prezzo": 52616.0,
+      "variazione_1g_pct": 0.67,
+      "variazione_1m_pct": 2.28,
+      "variazione_1a_pct": 23.96,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": NaN,
-      "variazione_1g_pct": NaN,
-      "variazione_1m_pct": NaN,
-      "variazione_1a_pct": NaN,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "prezzo": 7711.76,
+      "variazione_1g_pct": -0.25,
+      "variazione_1m_pct": 5.41,
+      "variazione_1a_pct": 18.61,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 651.85,
-      "variazione_1g_pct": -0.69,
-      "variazione_1m_pct": 0.77,
-      "variazione_1a_pct": 17.5,
+      "prezzo": 655.16,
+      "variazione_1g_pct": 0.51,
+      "variazione_1m_pct": 1.57,
+      "variazione_1a_pct": 18.33,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": NaN,
-      "variazione_1g_pct": NaN,
-      "variazione_1m_pct": NaN,
-      "variazione_1a_pct": NaN,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "prezzo": 209.43,
+      "variazione_1g_pct": -0.24,
+      "variazione_1m_pct": 5.15,
+      "variazione_1a_pct": 20.13,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.51,
-      "variazione_1g_pct": -4.6,
-      "variazione_1m_pct": -20.32,
-      "variazione_1a_pct": -2.29,
+      "prezzo": 14.43,
+      "variazione_1g_pct": -0.55,
+      "variazione_1m_pct": -30.15,
+      "variazione_1a_pct": 0.0,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Canale di Panama, record di 5,3 milioni di dollari per un transito",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/29/canale-di-panama-record-di-53-milioni-di-dollari-per-un-transito_54b76ea3-5db8-41b7-aac9-18a60e3627e8.html"
+      "titolo": "Benzina, corredo scolastico e alimentari: rientro salato dalle vacanze",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/29/benzina-corredo-scolastico-e-alimentari-un-rientro-dalle-vacanze-con-rincari_8813e929-b795-4fb3-9e5c-ee4017adb2f3.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il petrolio chiude a New York in leggero calo, a 83,45 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/il-petrolio-chiude-a-new-york-in-leggero-calo-a-8345-dollari_22a5e77c-435a-406f-a3f9-b7c5ab4c886e.html"
+      "titolo": "Firenze ricorda Vittorio Frescobaldi, rami di olivo e vite sopra la bara",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/29/firenze-ricorda-vittorio-frescobaldi-rami-di-olivo-e-vite-sopra-la-bara_d1c0704e-d1f4-439c-a238-c2dca7ed4b85.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il gas prosegue la seduta in calo sul mercato di Amsterdam (-2,9%)",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/il-gas-prosegue-la-seduta-in-calo-sul-mercato-di-amsterdam-29_c51fd797-2d3b-4ac4-827d-18eea5b2e36a.html"
+      "titolo": "In Europa uno su sei fuma o svapa quotidianamente. Italia in linea",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/29/in-europa-uno-su-sei-fuma-o-svapa-quotidianamente.-italia-in-linea_356e2e4e-d754-4e8d-b733-ec461331a1c9.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread Btp-Bund poco mosso a 82 punti, salgono i rendimenti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/lo-spread-btp-bund-poco-mosso-a-82-punti-salgono-i-rendimenti_d5743119-7cf6-4c92-b926-76e230ea6304.html"
+      "titolo": "Codacons: 'Caos controesodo tra cantieri, traffico bloccato e stangata sui carburanti'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/29/caos-controesodo-tra-cantieri-traffico-bloccato-e-stangata-carburanti_a1daa0aa-bb2c-4721-8a75-b34c8a1b7e0a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano in rialzo con Lottomatica e Stellantis, scivola Leonardo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/28/borsa-milano-in-rialzo-con-lottomatica-e-stellantis-scivola-leonardo_ff24267d-6bd5-4943-b415-268edb4320bd.html"
+      "titolo": "Ad agosto l'inflazione in Ue e in Italia attesa ai massimi da 3 anni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/29/ad-agosto-linflazione-in-ue-e-in-italia-attesa-ai-massimi-da-3-anni_38cbc36d-f3a5-45b9-866b-ced3272c8d4d.html"
     }
   ]
 }
