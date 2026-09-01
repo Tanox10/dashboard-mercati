@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-08-31T07:07:15.928063Z",
+  "aggiornato_il": "2026-09-01T07:13:10.722255Z",
   "sentiment": {
     "punteggio": 95.0,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52616.0,
+      "prezzo": 52613.0,
       "variazione_1g_pct": 0.67,
-      "variazione_1m_pct": 2.28,
-      "variazione_1a_pct": 23.96,
+      "variazione_1m_pct": 0.84,
+      "variazione_1a_pct": 24.69,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7711.76,
-      "variazione_1g_pct": -0.25,
-      "variazione_1m_pct": 5.41,
-      "variazione_1a_pct": 18.61,
+      "prezzo": 7686.14,
+      "variazione_1g_pct": -0.58,
+      "variazione_1m_pct": 2.62,
+      "variazione_1a_pct": 18.98,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 655.16,
-      "variazione_1g_pct": 0.51,
-      "variazione_1m_pct": 1.57,
-      "variazione_1a_pct": 18.33,
+      "prezzo": 651.1,
+      "variazione_1g_pct": -0.12,
+      "variazione_1m_pct": 0.29,
+      "variazione_1a_pct": 18.35,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.43,
-      "variazione_1g_pct": -0.24,
-      "variazione_1m_pct": 5.15,
-      "variazione_1a_pct": 20.13,
+      "prezzo": 208.82,
+      "variazione_1g_pct": -0.53,
+      "variazione_1m_pct": 2.68,
+      "variazione_1a_pct": 20.49,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.43,
-      "variazione_1g_pct": -0.55,
-      "variazione_1m_pct": -30.15,
-      "variazione_1a_pct": 0.0,
+      "prezzo": 14.92,
+      "variazione_1g_pct": 2.83,
+      "variazione_1m_pct": -6.69,
+      "variazione_1a_pct": -2.86,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,9 +61,9 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-28",
-      "valore": 0.39,
-      "valore_anno_fa": 0.6,
+      "data": "2026-08-31",
+      "valore": 0.41,
+      "valore_anno_fa": 0.62,
       "variazione": -0.21
     },
     {
@@ -110,48 +110,33 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Bff tratta con Pimco e altri fondi per la cartolarizzazione da 1,2 miliardi",
-      "link": "https://www.ilsole24ore.com/art/bff-tratta-pimco-e-altri-fondi-la-cartolarizzazione-12-miliardi-AJjS2Mm"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
       "titolo": "Trasporto aereo: dopo la stagione delle low cost, ondata di acquisizioni tra vettori",
       "link": "https://www.ilsole24ore.com/art/trasporto-aereo-la-stagione-low-cost-ondata-acquisizioni-vettori-AJYxFKl"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Unipol, semestre record. L’utile balza del 42%",
-      "link": "https://www.ilsole24ore.com/art/unipol-semestre-record-l-utile-balza-42percento-AJhV92g"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Mps batte le attese, utile a 1,1 miliardi (+25%). Lovaglio: «Supereremo i target»",
-      "link": "https://www.ilsole24ore.com/art/mps-batte-attese-utile-11-miliardi-25percento-AJyW0Ch"
+      "fonte": "ANSA Economia",
+      "titolo": "Lo spread Btp-Bund in tensione, sale a 83,1 punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/lo-spread-btp-bund-in-tensione-sale-a-831-punti_63992812-f7e8-49c9-8d28-a3255c88456e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Asia in calo con tecnologici, in Europa occhi a energia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/borsa-asia-in-calo-con-tecnologici-in-europa-occhi-a-energia_bdd8187b-a48d-49ab-b141-3199615c84e7.html"
+      "titolo": "Borsa: Asia in rialzo, corre Taiwan con i tecnologici",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/borsa-asia-in-rialzo-corre-taiwan-con-i-tecnologici_a7c7298c-e6c7-4f6c-b69b-29ed47384a7f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread Btp-Bund a 82 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/lo-spread-btp-bund-a-82-punti_a31e9af4-5908-416d-8dd2-5cfd45bb3553.html"
+      "titolo": "L'oro in calo, il prezzo spot a 4.431 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/loro-in-calo-il-prezzo-spot-a-4.431-dollari_84cfae63-b0d5-4e26-bae6-9757efc79e3c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Prezzo oro in calo, Spot scambiato a 4.438 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/prezzo-oro-in-calo-spot-scambiato-a-4.438-dollari_149b3f85-ef1c-4cdf-b620-1ac8a7f8bb3d.html"
+      "titolo": "Petrolio ancora in rialzo, Wti a 86,50 dollari al barile",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/petrolio-ancora-in-rialzo-wti-a-8650-dollari-al-barile_71556046-e11d-4010-b53e-9cf208cbe758.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Future sul gas in rincorsa con la ripresa degli attacchi in Medio Oriente",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/future-sul-gas-in-rincorsa-con-la-ripresa-degli-attacchi-in-medio-oriente_1085fe9f-0918-4f99-8869-654a8ba3c8e1.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Euro poco mosso, scambiato a 1,1589 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/08/31/euro-poco-mosso-scambiato-a-11589-dollari_a4fbf732-7059-43aa-ae45-bb8b6ccb4674.html"
+      "titolo": "Euro poco mosso, scambiato a 1,1609 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/euro-poco-mosso-scambiato-a-11609-dollari_2769cc1c-6a36-458e-ab09-c9942eb0a47e.html"
     }
   ]
 }
