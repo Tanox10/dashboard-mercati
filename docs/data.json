@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-09-01T07:13:10.722255Z",
+  "aggiornato_il": "2026-09-02T07:12:38.967543Z",
   "sentiment": {
-    "punteggio": 95.0,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 100.0,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52613.0,
-      "variazione_1g_pct": 0.67,
-      "variazione_1m_pct": 0.84,
-      "variazione_1a_pct": 24.69,
-      "sopra_media_50gg": true,
+      "prezzo": 51915.0,
+      "variazione_1g_pct": -1.33,
+      "variazione_1m_pct": -0.49,
+      "variazione_1a_pct": 22.41,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7686.14,
-      "variazione_1g_pct": -0.58,
-      "variazione_1m_pct": 2.62,
-      "variazione_1a_pct": 18.98,
+      "prezzo": 7631.47,
+      "variazione_1g_pct": -0.71,
+      "variazione_1m_pct": 1.89,
+      "variazione_1a_pct": 18.13,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 651.1,
-      "variazione_1g_pct": -0.12,
-      "variazione_1m_pct": 0.29,
-      "variazione_1a_pct": 18.35,
-      "sopra_media_50gg": true,
+      "prezzo": 647.46,
+      "variazione_1g_pct": -0.56,
+      "variazione_1m_pct": -0.27,
+      "variazione_1a_pct": 17.41,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 208.82,
-      "variazione_1g_pct": -0.53,
-      "variazione_1m_pct": 2.68,
-      "variazione_1a_pct": 20.49,
+      "prezzo": 207.03,
+      "variazione_1g_pct": -0.86,
+      "variazione_1m_pct": 1.8,
+      "variazione_1a_pct": 19.46,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.92,
-      "variazione_1g_pct": 2.83,
-      "variazione_1m_pct": -6.69,
-      "variazione_1a_pct": -2.86,
+      "prezzo": 16.34,
+      "variazione_1g_pct": 9.52,
+      "variazione_1m_pct": 2.19,
+      "variazione_1a_pct": 6.38,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-08-31",
-      "valore": 0.41,
+      "data": "2026-09-01",
+      "valore": 0.4,
       "valore_anno_fa": 0.62,
-      "variazione": -0.21
+      "variazione": -0.22
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,33 +110,33 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Trasporto aereo: dopo la stagione delle low cost, ondata di acquisizioni tra vettori",
-      "link": "https://www.ilsole24ore.com/art/trasporto-aereo-la-stagione-low-cost-ondata-acquisizioni-vettori-AJYxFKl"
+      "titolo": "Snam, per il biometano sfida tra F2i, Edison e Retina",
+      "link": "https://www.ilsole24ore.com/art/snam-il-biometano-sfida-f2i-edison-e-retina-AJTHWq0"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread Btp-Bund in tensione, sale a 83,1 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/lo-spread-btp-bund-in-tensione-sale-a-831-punti_63992812-f7e8-49c9-8d28-a3255c88456e.html"
+      "titolo": "Borsa: Asia in rosso con la corsa del petrolio e dei rendimenti dei bond",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/borsa-asia-in-rosso-con-la-corsa-del-petrolio-e-dei-rendimenti-dei_e47e3a38-bcaf-48a4-bba5-975172c05637.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Asia in rialzo, corre Taiwan con i tecnologici",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/borsa-asia-in-rialzo-corre-taiwan-con-i-tecnologici_a7c7298c-e6c7-4f6c-b69b-29ed47384a7f.html"
+      "titolo": "Lo spread tra Btp e Bund in avvio in calo a 80 punti base",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/lo-spread-tra-btp-e-bund-in-avvio-in-calo-a-80-punti-base_95d9b218-e330-4eb5-995b-e2a6f84a61ea.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'oro in calo, il prezzo spot a 4.431 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/loro-in-calo-il-prezzo-spot-a-4.431-dollari_84cfae63-b0d5-4e26-bae6-9757efc79e3c.html"
+      "titolo": "Prezzo oro in lieve calo, Spot scambiato a 4.321 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/prezzo-oro-in-lieve-calo-spot-scambiato-a-4.321-dollari_66358274-9b4b-4931-8119-ea4e45ded5ba.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Petrolio ancora in rialzo, Wti a 86,50 dollari al barile",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/petrolio-ancora-in-rialzo-wti-a-8650-dollari-al-barile_71556046-e11d-4010-b53e-9cf208cbe758.html"
+      "titolo": "Il prezzo del gas ancora in rialzo, sopra 73 euro con scontri Usa-Iran",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/il-prezzo-del-gas-ancora-in-rialzo-sopra-73-euro-con-scontri-usa_5829031f-089f-4186-9ccf-afeb35b7f079.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Euro poco mosso, scambiato a 1,1609 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/01/euro-poco-mosso-scambiato-a-11609-dollari_2769cc1c-6a36-458e-ab09-c9942eb0a47e.html"
+      "titolo": "Euro poco mosso, scambiato a 1,1581 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/euro-poco-mosso-scambiato-a-11581-dollari_bb058008-c397-475f-b12b-ea9034f0e9ad.html"
     }
   ]
 }
