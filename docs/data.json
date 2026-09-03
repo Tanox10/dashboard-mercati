@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-02T07:12:38.967543Z",
+  "aggiornato_il": "2026-09-03T07:13:39.481997Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,56 +12,56 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51915.0,
-      "variazione_1g_pct": -1.33,
-      "variazione_1m_pct": -0.49,
-      "variazione_1a_pct": 22.41,
+      "prezzo": 51792.0,
+      "variazione_1g_pct": -0.24,
+      "variazione_1m_pct": -2.04,
+      "variazione_1a_pct": 24.12,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7631.47,
-      "variazione_1g_pct": -0.71,
-      "variazione_1m_pct": 1.89,
-      "variazione_1a_pct": 18.13,
+      "prezzo": 7666.6,
+      "variazione_1g_pct": 0.46,
+      "variazione_1m_pct": 0.87,
+      "variazione_1a_pct": 19.5,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 647.46,
-      "variazione_1g_pct": -0.56,
-      "variazione_1m_pct": -0.27,
-      "variazione_1a_pct": 17.41,
+      "prezzo": 645.91,
+      "variazione_1g_pct": -0.24,
+      "variazione_1m_pct": -0.95,
+      "variazione_1a_pct": 18.91,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 207.03,
-      "variazione_1g_pct": -0.86,
-      "variazione_1m_pct": 1.8,
-      "variazione_1a_pct": 19.46,
+      "prezzo": 208.0,
+      "variazione_1g_pct": 0.47,
+      "variazione_1m_pct": 1.04,
+      "variazione_1a_pct": 20.93,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 16.34,
-      "variazione_1g_pct": 9.52,
-      "variazione_1m_pct": 2.19,
-      "variazione_1a_pct": 6.38,
+      "prezzo": 15.2,
+      "variazione_1g_pct": -6.98,
+      "variazione_1m_pct": -4.16,
+      "variazione_1a_pct": -11.47,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "trend": "correzione"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-01",
+      "data": "2026-09-02",
       "valore": 0.4,
       "valore_anno_fa": 0.62,
       "variazione": -0.22
@@ -110,33 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Snam, per il biometano sfida tra F2i, Edison e Retina",
-      "link": "https://www.ilsole24ore.com/art/snam-il-biometano-sfida-f2i-edison-e-retina-AJTHWq0"
+      "titolo": "Lottomatica, via alla fusione con Cirsa. Nasce il secondo colosso al mondo per giochi e scommesse",
+      "link": "https://www.ilsole24ore.com/art/lottomatica-via-all-accordo-fusione-la-spagnola-cirsa-AJSAkC1"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Ryanair taglia le stime di traffico a causa del caro carburante",
+      "link": "https://www.ilsole24ore.com/art/ryanair-taglia-stime-traffico-causa-caro-carburante-AJ5mCO1"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Scalable cambia passo: Iban italiano, liquidità al 2,60% e rivoluzione Ai",
+      "link": "https://www.ilsole24ore.com/art/scalable-cambia-passo-iban-italiano-liquidita-260percento-e-rivoluzione-ai-AJkgZRz"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Perché le Borse non possono ignorare la bufera sui Bond",
+      "link": "https://www.ilsole24ore.com/art/perche-borse-non-possono-ignorare-bufera-bond-AJrzKa0"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Asia in rosso con la corsa del petrolio e dei rendimenti dei bond",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/borsa-asia-in-rosso-con-la-corsa-del-petrolio-e-dei-rendimenti-dei_e47e3a38-bcaf-48a4-bba5-975172c05637.html"
+      "titolo": "Borsa: Milano apre in lieve rialzo, +0,08%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/borsa-milano-apre-in-lieve-rialzo-008_69e2da8c-5e8f-4bd0-afd9-30d35123a9b5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread tra Btp e Bund in avvio in calo a 80 punti base",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/lo-spread-tra-btp-e-bund-in-avvio-in-calo-a-80-punti-base_95d9b218-e330-4eb5-995b-e2a6f84a61ea.html"
+      "titolo": "Borsa: Asia senza direzione, future positivi, Tokyo -0,17%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/borsa-asia-senza-direzione-future-positivi-tokyo-017_54f8ab31-0138-4786-bf65-d8d9c8208d69.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Prezzo oro in lieve calo, Spot scambiato a 4.321 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/prezzo-oro-in-lieve-calo-spot-scambiato-a-4.321-dollari_66358274-9b4b-4931-8119-ea4e45ded5ba.html"
+      "titolo": "L'oro in rialzo, il prezzo spot a 4.424 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/loro-in-rialzo-il-prezzo-spot-a-4.424-dollari_aa9b4e23-b021-4bf3-9f71-09f703e77f17.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il prezzo del gas ancora in rialzo, sopra 73 euro con scontri Usa-Iran",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/il-prezzo-del-gas-ancora-in-rialzo-sopra-73-euro-con-scontri-usa_5829031f-089f-4186-9ccf-afeb35b7f079.html"
+      "titolo": "Lo spread tra Btp e Bund tedeschi apre in calo a 82,9 punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/lo-spread-tra-btp-e-bund-tedeschi-apre-in-calo-a-829-punti_d4abe1da-2568-4cc6-b068-0166a78dde74.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Euro poco mosso, scambiato a 1,1581 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/euro-poco-mosso-scambiato-a-11581-dollari_bb058008-c397-475f-b12b-ea9034f0e9ad.html"
+      "titolo": "Il prezzo del petrolio in calo, Wti a 89,92 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/il-prezzo-del-petrolio-in-calo-wti-a-8992-dollari_a34364a2-98b7-4357-9e06-d3a4852f5a01.html"
     }
   ]
 }
