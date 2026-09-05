@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-09-04T07:12:44.361135Z",
+  "aggiornato_il": "2026-09-05T07:11:38.512663Z",
   "sentiment": {
-    "punteggio": 85.6,
+    "punteggio": 93.4,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 62.5,
+      "momentum": 93.75,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51792.0,
-      "variazione_1g_pct": -0.24,
-      "variazione_1m_pct": -2.04,
-      "variazione_1a_pct": 24.12,
+      "prezzo": 52100.0,
+      "variazione_1g_pct": -0.28,
+      "variazione_1m_pct": -2.52,
+      "variazione_1a_pct": 24.08,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": NaN,
-      "variazione_1g_pct": NaN,
-      "variazione_1m_pct": NaN,
-      "variazione_1a_pct": NaN,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "prezzo": 7718.6,
+      "variazione_1g_pct": -0.38,
+      "variazione_1m_pct": -0.06,
+      "variazione_1a_pct": 18.71,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 645.91,
-      "variazione_1g_pct": -0.24,
-      "variazione_1m_pct": -0.95,
-      "variazione_1a_pct": 18.91,
-      "sopra_media_50gg": false,
+      "prezzo": 649.88,
+      "variazione_1g_pct": 0.12,
+      "variazione_1m_pct": -1.1,
+      "variazione_1a_pct": 18.14,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": NaN,
-      "variazione_1g_pct": NaN,
-      "variazione_1m_pct": NaN,
-      "variazione_1a_pct": NaN,
+      "prezzo": 209.82,
+      "variazione_1g_pct": -0.25,
+      "variazione_1m_pct": 0.32,
+      "variazione_1a_pct": 20.53,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
+    },
+    "VIX (volatilitÃ  USA)": {
+      "prezzo": 14.53,
+      "variazione_1g_pct": 1.47,
+      "variazione_1m_pct": -8.1,
+      "variazione_1a_pct": -5.03,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
-    },
-    "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.2,
-      "variazione_1g_pct": -6.98,
-      "variazione_1m_pct": -4.16,
-      "variazione_1a_pct": -11.47,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
-      "trend": "correzione"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-03",
-      "valore": 0.43,
-      "valore_anno_fa": 0.61,
-      "variazione": -0.18
+      "data": "2026-09-04",
+      "valore": 0.41,
+      "valore_anno_fa": 0.58,
+      "variazione": -0.17
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -77,7 +77,7 @@
     {
       "nome": "Disoccupazione USA",
       "unita": "%",
-      "data": "2026-07-01",
+      "data": "2026-08-01",
       "valore": 4.1,
       "valore_anno_fa": 4.3,
       "variazione": -0.2
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il gas apre in leggero rialzo sul mercato di Amsterdam (+0,3%)",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/il-gas-apre-in-leggero-rialzo-sul-mercato-di-amsterdam-03_f950db47-becc-4d9b-8463-4fcbaf77815c.html"
+      "titolo": "Multa da 1,75 milioni a Rfi per il caos treni a Termini dovuto al 'chiodo'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/multa-da-175-milioni-a-rfi-per-il-caos-treni-a-termini-dovuto-al-chiodo_73fddfbf-20a0-4f0e-b048-f5cbb2c6d5e5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread Btp-Bund apre invariato a 81 punti base",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/lo-spread-btp-bund-apre-invariato-a-81-punti-base_d6330661-04f0-4b12-b038-ab0a31981adf.html"
+      "titolo": "Mazzotta (Fincantieri), 'innovazione e competenze vantaggi competitivi per l'Italia'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/mazzotta-fincantieri-innovazione-e-competenze-vantaggi-competitivi-per-litalia_061156cd-6716-4237-913b-09e90ebf6670.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Prezzo oro in lieve calo, Spot scambiato a 4.470 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/prezzo-oro-in-lieve-calo-spot-scambiato-a-4.470-dollari_ba667300-7c5d-42a2-bed7-92c97dca91c0.html"
+      "titolo": "Borsa: Milano incerta con l'Europa. Scivola Eni, calme le banche, bene Prysmian",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/borsa-milano-incerta-con-leuropa.-scivola-eni-calme-le-banche-bene_0609e3b4-8281-45e8-b10f-d09fab6924b6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Asia avanza con le scommesse sulla Fed, stabile il petrolio",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/borsa-lasia-avanza-con-le-scommesse-sulla-fed-stabile-il-petrolio_709b1be3-ec38-4a06-a1fb-500e86c88c9a.html"
+      "titolo": "Mef, in asta il 9 settembre Bot annuali per 9 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/mef-in-asta-il-9-settembre-bot-annuali-per-9-miliardi_61a55322-c459-49cb-af74-354b3ade0e2a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Euro in lieve aumento, scambiato a 1,1630 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/euro-in-lieve-aumento-scambiato-a-11630-dollari_4d4a9cf5-a4c2-4e25-a21c-b3718466cb29.html"
+      "titolo": "Il gas in leggero rialzo (+0,9%) a 72 euro al Megawattora",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/04/il-gas-in-leggero-rialzo-09-a-72-euro-al-megawattora_d2095072-e777-4bec-9a27-a598a76b380c.html"
     }
   ]
 }
