@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-07T13:21:17.078751Z",
+  "aggiornato_il": "2026-09-08T12:02:25.591662Z",
   "sentiment": {
     "punteggio": 93.4,
     "semaforo": "verde",
@@ -12,10 +12,10 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52138.09,
-      "variazione_1g_pct": 0.07,
-      "variazione_1m_pct": -2.94,
-      "variazione_1a_pct": 25.31,
+      "prezzo": 52048.51,
+      "variazione_1g_pct": -0.35,
+      "variazione_1m_pct": -3.11,
+      "variazione_1a_pct": 24.74,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -30,10 +30,10 @@
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 650.29,
-      "variazione_1g_pct": 0.06,
-      "variazione_1m_pct": -1.51,
-      "variazione_1a_pct": 18.4,
+      "prezzo": 649.63,
+      "variazione_1g_pct": -0.04,
+      "variazione_1m_pct": -1.61,
+      "variazione_1a_pct": 17.68,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -48,10 +48,10 @@
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.17,
-      "variazione_1g_pct": 4.4,
-      "variazione_1m_pct": 1.81,
-      "variazione_1a_pct": -0.07,
+      "prezzo": 15.75,
+      "variazione_1g_pct": 2.94,
+      "variazione_1m_pct": 5.7,
+      "variazione_1a_pct": 4.24,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -110,8 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Sottratti 320 milioni dollari in Bitcoin dalla rete Liquid Network. Quale impatto per gli investitori?",
-      "link": "https://www.ilsole24ore.com/art/sottratti-320-milioni-bitcoin-rete-liquid-network-quale-impatto-gli-investitori-AJvOpV5"
+      "titolo": "Unicredit ottiene l’autorizzazione della Bce sul “Danish compromise”. Cosa cambia e perché è importante per il risiko bancario",
+      "link": "https://www.ilsole24ore.com/art/unicredit-ottiene-l-autorizzazione-bce-danish-compromise-AJTv8X6"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Poste rilancia l’Opas su Tim: 18% del valore in più sulla parte cash e rinuncia alla soglia minima di adesioni",
+      "link": "https://www.ilsole24ore.com/art/poste-italiane-vara-rilancio-tim-ritoccata-componente-cash-AJ0SJT6"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Lusso sotto pressione in Europa, a Milano giù Cucinelli",
+      "link": "https://www.ilsole24ore.com/art/lusso-sotto-pressione-europa-milano-giu-cucinelli-AJIZ6Y5"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -119,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/lottomatica-via-all-accordo-fusione-la-spagnola-cirsa-AJSAkC1"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Scalable cambia passo: Iban italiano, liquidità al 2,60% e rivoluzione Ai",
-      "link": "https://www.ilsole24ore.com/art/scalable-cambia-passo-iban-italiano-liquidita-260percento-e-rivoluzione-ai-AJkgZRz"
+      "fonte": "ANSA Economia",
+      "titolo": "Pichetto Fratin, di fronte a cambiamento clima accelerare su opere e gestione idrica",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/pichetto-fratin-di-fronte-a-cambiamento-clima-accelerare-su-opere-e-gestione-idrica_37990203-cfc4-4fe4-ba8c-128a1dce6310.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cgil, pensione anticipata a 64 anni con il Tfr scarica costo sui lavoratori",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/cgil-pensione-anticipata-a-64-anni-con-il-tfr-scarica-costo-sui-lavoratori_a1ea1df9-465e-45c2-b05e-ad549c7e3caa.html"
+      "titolo": "Fitch conferma il rating di Intesa Sanpaolo a 'A-‌'‌",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/fitch-conferma-il-rating-di-intesa-sanpaolo-a-a-_5ad4a532-db69-4c18-b3ca-6eb2085d6847.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Electrolux, assemblea lavoratori di Cerreto d'Esi 'disillusi, non rassegnati'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/electrolux-assemblea-lavoratori-di-cerreto-desi-disillusi-non-rassegnati_2708cefc-a424-4a9f-9aed-c201392cad48.html"
+      "titolo": "I ricavi di Inaz nel semestre salgono a 34,4 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/i-ricavi-di-inaz-nel-semestre-salgono-a-344-miliardi_eee0003c-e1c0-498b-9cd3-9234ae56a04c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: riparte il petrolio, Europa fiacca e bond sotto pressione",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/borsa-riparte-il-petrolio-europa-fiacca-e-bond-sotto-pressione_0186b841-f15b-4f51-b224-abbc028a83bc.html"
+      "titolo": "Fondazione musica per Roma, American Express è Official payment partner",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/fondazione-musica-per-roma-american-express-e-official-payment-partner_de5438e4-4b1e-4153-a9ef-e1ce78e26602.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La raccolta di Mediolanum in 8 mesi a 8,46 miliardi di euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/la-raccolta-di-mediolanum-in-8-mesi-a-846-miliardi-di-euro_c3cd2ea1-2c76-42e6-8399-5a28dc46fcc2.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Argotec supporta la missione MiniCor della Nasa per il meteo spaziale",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/argotec-supporta-la-missione-minicor-della-nasa-per-il-meteo-spaziale_95ae8273-7a70-4183-80dc-63a64a61d68f.html"
+      "titolo": "Borsa: l'Europa senza una direzione, deboli Madrid e Milano (-0,4%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/borsa-leuropa-senza-una-direzione-deboli-madrid-e-milano-04_1bb5b2c4-2813-4b1c-8218-232e4c97acb8.html"
     }
   ]
 }
