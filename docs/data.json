@@ -1,58 +1,58 @@
 {
-  "aggiornato_il": "2026-09-08T12:02:25.591662Z",
+  "aggiornato_il": "2026-09-09T12:12:58.056305Z",
   "sentiment": {
-    "punteggio": 93.4,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 93.75,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52048.51,
-      "variazione_1g_pct": -0.35,
-      "variazione_1m_pct": -3.11,
-      "variazione_1a_pct": 24.74,
+      "prezzo": 51444.46,
+      "variazione_1g_pct": -1.4,
+      "variazione_1m_pct": -4.14,
+      "variazione_1a_pct": 22.46,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7718.6,
-      "variazione_1g_pct": -0.38,
-      "variazione_1m_pct": -0.06,
-      "variazione_1a_pct": 18.71,
+      "prezzo": 7673.52,
+      "variazione_1g_pct": -0.58,
+      "variazione_1m_pct": -1.08,
+      "variazione_1a_pct": 18.14,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 649.63,
-      "variazione_1g_pct": -0.04,
-      "variazione_1m_pct": -1.61,
-      "variazione_1a_pct": 17.68,
-      "sopra_media_50gg": true,
+      "prezzo": 640.07,
+      "variazione_1g_pct": -1.47,
+      "variazione_1m_pct": -3.09,
+      "variazione_1a_pct": 15.87,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.82,
-      "variazione_1g_pct": -0.25,
-      "variazione_1m_pct": 0.32,
-      "variazione_1a_pct": 20.53,
+      "prezzo": 208.63,
+      "variazione_1g_pct": -0.57,
+      "variazione_1m_pct": -0.87,
+      "variazione_1a_pct": 19.44,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.75,
-      "variazione_1g_pct": 2.94,
-      "variazione_1m_pct": 5.7,
-      "variazione_1a_pct": 4.24,
-      "sopra_media_50gg": false,
+      "prezzo": 16.32,
+      "variazione_1g_pct": 3.82,
+      "variazione_1m_pct": 5.56,
+      "variazione_1a_pct": 8.51,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-04",
+      "data": "2026-09-08",
       "valore": 0.41,
-      "valore_anno_fa": 0.58,
-      "variazione": -0.17
+      "valore_anno_fa": 0.56,
+      "variazione": -0.15
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "Seconda vita per GameStop: Pokémon, prodotti da collezione e eBay",
+      "link": "https://www.ilsole24ore.com/art/seconda-vita-gamestop-pokemon-prodotti-collezione-e-ebay-AJZdEA7"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Unicredit ottiene l’autorizzazione della Bce sul “Danish compromise”. Cosa cambia e perché è importante per il risiko bancario",
       "link": "https://www.ilsole24ore.com/art/unicredit-ottiene-l-autorizzazione-bce-danish-compromise-AJTv8X6"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Poste rilancia l’Opas su Tim: 18% del valore in più sulla parte cash e rinuncia alla soglia minima di adesioni",
-      "link": "https://www.ilsole24ore.com/art/poste-italiane-vara-rilancio-tim-ritoccata-componente-cash-AJ0SJT6"
+      "titolo": "A Zurigo Novartis in calo, farmaco cardiovascolare non supera il test finale",
+      "link": "https://www.ilsole24ore.com/art/a-zurigo-novartis-calo-farmaco-cardiovascolare-non-supera-test-finale-AJt4Vi5"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/lusso-sotto-pressione-europa-milano-giu-cucinelli-AJIZ6Y5"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Lottomatica, via alla fusione con Cirsa. Nasce il secondo colosso al mondo per giochi e scommesse",
-      "link": "https://www.ilsole24ore.com/art/lottomatica-via-all-accordo-fusione-la-spagnola-cirsa-AJSAkC1"
+      "fonte": "ANSA Economia",
+      "titolo": "Venice Glass Week, la decima edizione con 200 eventi e 311 partecipanti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/venice-glass-week-la-decima-edizione-con-200-eventi-e-311-partecipanti_40d7b019-6cd8-45b7-a11c-784ea0c88a08.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Pichetto Fratin, di fronte a cambiamento clima accelerare su opere e gestione idrica",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/pichetto-fratin-di-fronte-a-cambiamento-clima-accelerare-su-opere-e-gestione-idrica_37990203-cfc4-4fe4-ba8c-128a1dce6310.html"
+      "titolo": "Assoreti, a luglio la raccolta cresce a 5,8 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/assoreti-a-luglio-la-raccolta-cresce-a-58-miliardi_9e3f42b8-c9bd-4b9f-a7b0-9e2501976688.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fitch conferma il rating di Intesa Sanpaolo a 'A-‌'‌",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/fitch-conferma-il-rating-di-intesa-sanpaolo-a-a-_5ad4a532-db69-4c18-b3ca-6eb2085d6847.html"
+      "titolo": "L'Ue riforma le regole sugli appalti pubblici, arriva la preferenza europea",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/lue-riforma-le-regole-sugli-appalti-pubblici-arriva-la-preferenza-europea_9584ee73-c690-45b0-8b17-7f6fc1adeb6b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "I ricavi di Inaz nel semestre salgono a 34,4 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/i-ricavi-di-inaz-nel-semestre-salgono-a-344-miliardi_eee0003c-e1c0-498b-9cd3-9234ae56a04c.html"
+      "titolo": "Borsa: Milano (-1%) pesante con l'Europa e le banche, corrono petrolio e gas",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/borsa-milano-1-pesante-con-leuropa-e-le-banche-corrono-petrolio-e-gas_b771311d-0753-4870-a6ad-249563cede16.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fondazione musica per Roma, American Express è Official payment partner",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/fondazione-musica-per-roma-american-express-e-official-payment-partner_de5438e4-4b1e-4153-a9ef-e1ce78e26602.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa senza una direzione, deboli Madrid e Milano (-0,4%)",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/08/borsa-leuropa-senza-una-direzione-deboli-madrid-e-milano-04_1bb5b2c4-2813-4b1c-8218-232e4c97acb8.html"
+      "titolo": "Accordo da 30 milioni tra Cdp e Alexbank per supportare microimprese egiziane",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/accordo-da-30-milioni-tra-cdp-e-alexbank-per-supportare-microimprese-egiziane_f8df873c-8117-4712-abcc-73f429116c83.html"
     }
   ]
 }
