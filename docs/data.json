@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-09T12:12:58.056305Z",
+  "aggiornato_il": "2026-09-10T12:06:33.719827Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51444.46,
-      "variazione_1g_pct": -1.4,
-      "variazione_1m_pct": -4.14,
-      "variazione_1a_pct": 22.46,
+      "prezzo": 52061.88,
+      "variazione_1g_pct": 0.36,
+      "variazione_1m_pct": -3.06,
+      "variazione_1a_pct": 23.78,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7673.52,
-      "variazione_1g_pct": -0.58,
-      "variazione_1m_pct": -1.08,
-      "variazione_1a_pct": 18.14,
+      "prezzo": 7636.36,
+      "variazione_1g_pct": -0.48,
+      "variazione_1m_pct": -1.51,
+      "variazione_1a_pct": 17.25,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 640.07,
-      "variazione_1g_pct": -1.47,
-      "variazione_1m_pct": -3.09,
-      "variazione_1a_pct": 15.87,
+      "prezzo": 639.49,
+      "variazione_1g_pct": -0.14,
+      "variazione_1m_pct": -3.18,
+      "variazione_1a_pct": 15.79,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 208.63,
+      "prezzo": 207.45,
       "variazione_1g_pct": -0.57,
-      "variazione_1m_pct": -0.87,
-      "variazione_1a_pct": 19.44,
+      "variazione_1m_pct": -1.27,
+      "variazione_1a_pct": 18.57,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 16.32,
-      "variazione_1g_pct": 3.82,
-      "variazione_1m_pct": 5.56,
-      "variazione_1a_pct": 8.51,
+      "prezzo": 16.77,
+      "variazione_1g_pct": 1.88,
+      "variazione_1m_pct": 9.75,
+      "variazione_1a_pct": 9.25,
       "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-08",
-      "valore": 0.41,
-      "valore_anno_fa": 0.56,
-      "variazione": -0.15
+      "data": "2026-09-09",
+      "valore": 0.4,
+      "valore_anno_fa": 0.54,
+      "variazione": -0.14
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Seconda vita per GameStop: Pokémon, prodotti da collezione e eBay",
-      "link": "https://www.ilsole24ore.com/art/seconda-vita-gamestop-pokemon-prodotti-collezione-e-ebay-AJZdEA7"
+      "titolo": "Opas su Mps, il 97% dei soci di Intesa Sanpaolo dice sì all’aumento. Messina: «Passo fondamentale»",
+      "link": "https://www.ilsole24ore.com/art/opas-mps-97percento-soci-intesa-sanpaolo-dice-si-all-aumento-capitale-AJATrv8"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Unicredit ottiene l’autorizzazione della Bce sul “Danish compromise”. Cosa cambia e perché è importante per il risiko bancario",
-      "link": "https://www.ilsole24ore.com/art/unicredit-ottiene-l-autorizzazione-bce-danish-compromise-AJTv8X6"
+      "titolo": "Mps, depositati in Consob i documenti delle offerte su Banca Generali e BancoBpm",
+      "link": "https://www.ilsole24ore.com/art/mps-depositati-consob-documenti-offerte-banca-generali-e-bancobpm-AJxbZz8"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "A Zurigo Novartis in calo, farmaco cardiovascolare non supera il test finale",
-      "link": "https://www.ilsole24ore.com/art/a-zurigo-novartis-calo-farmaco-cardiovascolare-non-supera-test-finale-AJt4Vi5"
+      "titolo": "Euro digitale, verso un modello di remunerazione a tutela degli esercenti",
+      "link": "https://www.ilsole24ore.com/art/euro-digitale-un-modello-remunerazione-tutela-esercenti-AJ8XyG8"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Lusso sotto pressione in Europa, a Milano giù Cucinelli",
-      "link": "https://www.ilsole24ore.com/art/lusso-sotto-pressione-europa-milano-giu-cucinelli-AJIZ6Y5"
+      "titolo": "Realizzi su Inditex a Madrid, analisti delusi dai margini del secondo trimestre",
+      "link": "https://www.ilsole24ore.com/art/realizzi-inditex-madrid-analisti-delusi-margini-secondo-trimestre-AJoLTm7"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Venice Glass Week, la decima edizione con 200 eventi e 311 partecipanti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/venice-glass-week-la-decima-edizione-con-200-eventi-e-311-partecipanti_40d7b019-6cd8-45b7-a11c-784ea0c88a08.html"
+      "titolo": "Borsa: Milano positiva (+0,45%), balzo di Lottomatica e Leonardo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/borsa-milano-positiva-045-balzo-di-lottomatica-e-leonardo_a049e78e-6808-4b86-aee3-93e3a0745e70.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Assoreti, a luglio la raccolta cresce a 5,8 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/assoreti-a-luglio-la-raccolta-cresce-a-58-miliardi_9e3f42b8-c9bd-4b9f-a7b0-9e2501976688.html"
+      "titolo": "Il gas supera 81 euro sulla piazza Ttf di Amsterdam",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/il-gas-supera-81-euro-sulla-piazza-ttf-di-amsterdam_7e57c546-38a2-4115-9cea-5cde69e62d72.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'Ue riforma le regole sugli appalti pubblici, arriva la preferenza europea",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/lue-riforma-le-regole-sugli-appalti-pubblici-arriva-la-preferenza-europea_9584ee73-c690-45b0-8b17-7f6fc1adeb6b.html"
+      "titolo": "Stabili nel secondo trimestre le compravendite residenziali, aumentano gli affitti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/stabili-nel-secondo-trimestre-le-compravendite-residenziali-aumentano-gli-affitti_4be5a5a7-7aa8-4ed0-bf68-53462ac6e12c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano (-1%) pesante con l'Europa e le banche, corrono petrolio e gas",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/borsa-milano-1-pesante-con-leuropa-e-le-banche-corrono-petrolio-e-gas_b771311d-0753-4870-a6ad-249563cede16.html"
+      "titolo": "Istat, dal 2021 1,6 milioni di occupati in più, ma lavoratori invecchiano",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/istat-dal-2021-16-milioni-di-occupati-in-piu-ma-lavoratori-invecchiano_b438942d-5ece-488d-ba2a-7d4a2603f898.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Accordo da 30 milioni tra Cdp e Alexbank per supportare microimprese egiziane",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/accordo-da-30-milioni-tra-cdp-e-alexbank-per-supportare-microimprese-egiziane_f8df873c-8117-4712-abcc-73f429116c83.html"
+      "titolo": "Petrolio senza freni, sfonda anche 102 dollari al barile",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/10/petrolio-senza-freni-sfonda-anche-102-dollari-al-barile_d9c8beca-b989-4b41-8aaa-46be0aa363c1.html"
     }
   ]
 }
