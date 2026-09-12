@@ -1,78 +1,78 @@
 {
-  "aggiornato_il": "2026-09-11T12:04:58.848968Z",
+  "aggiornato_il": "2026-09-12T11:31:19.160949Z",
   "sentiment": {
-    "punteggio": 88.8,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 75.0,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52162.53,
-      "variazione_1g_pct": 0.69,
-      "variazione_1m_pct": -2.86,
-      "variazione_1a_pct": 22.93,
+      "prezzo": 52512.0,
+      "variazione_1g_pct": 1.36,
+      "variazione_1m_pct": -2.21,
+      "variazione_1a_pct": 23.76,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7591.7,
-      "variazione_1g_pct": -0.58,
-      "variazione_1m_pct": -1.77,
-      "variazione_1a_pct": 16.22,
-      "sopra_media_50gg": false,
+      "prezzo": 7656.98,
+      "variazione_1g_pct": 0.86,
+      "variazione_1m_pct": -1.18,
+      "variazione_1a_pct": 16.24,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 639.51,
-      "variazione_1g_pct": 0.56,
-      "variazione_1m_pct": -3.03,
-      "variazione_1a_pct": 15.16,
+      "prezzo": 639.1,
+      "variazione_1g_pct": 0.49,
+      "variazione_1m_pct": -3.09,
+      "variazione_1a_pct": 15.08,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 205.87,
-      "variazione_1g_pct": -0.76,
-      "variazione_1m_pct": -1.82,
-      "variazione_1a_pct": 17.47,
-      "sopra_media_50gg": false,
+      "prezzo": 207.69,
+      "variazione_1g_pct": 0.88,
+      "variazione_1m_pct": -1.28,
+      "variazione_1a_pct": 17.44,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.09,
-      "variazione_1g_pct": -4.2,
-      "variazione_1m_pct": 17.46,
-      "variazione_1a_pct": 16.18,
-      "sopra_media_50gg": true,
+      "prezzo": 15.84,
+      "variazione_1g_pct": -11.21,
+      "variazione_1m_pct": 8.87,
+      "variazione_1a_pct": 7.68,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-10",
-      "valore": 0.39,
-      "valore_anno_fa": 0.5,
-      "variazione": -0.11
+      "data": "2026-09-11",
+      "valore": 0.33,
+      "valore_anno_fa": 0.49,
+      "variazione": -0.16
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
       "unita": "%",
-      "valore": 3.3,
+      "valore": 3.35,
       "valore_anno_fa": null,
       "variazione": null,
-      "data": "2026-07-01"
+      "data": "2026-08-01"
     },
     {
       "nome": "Disoccupazione USA",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Il cda di Trevi boccia l’offerta di Icop:  «Non è conveniente per gli azionisti»",
-      "link": "https://www.ilsole24ore.com/art/il-cda-trevi-boccia-l-offerta-icop-non-e-conveniente-gli-azionisti-AJS1Vi9"
+      "titolo": "Oracle, il miliardario Ellison va all’incasso di 7,5 miliardi",
+      "link": "https://www.ilsole24ore.com/art/oracle-miliardario-ellison-vendita-e-incasso-75-miliardi-AJwzSPBB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Intesa Sanpaolo, il 97% dei soci dice sì all’Opas su Mps. Messina: «Passo fondamentale»",
-      "link": "https://www.ilsole24ore.com/art/opas-mps-97percento-soci-intesa-sanpaolo-dice-si-all-aumento-capitale-AJATrv8"
+      "titolo": "Mfe e Vivendi, prove di disgelo a dieci anni dalla rottura",
+      "link": "https://www.ilsole24ore.com/art/mfe-e-vivendi-prove-disgelo-dieci-anni-rottura-AJ0HU0AB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "La corsa del greggio sostiene il comparto oil, a Milano sale Eni",
+      "link": "https://www.ilsole24ore.com/art/la-corsa-greggio-sostiene-comparto-oil-milano-sale-eni-AJMpxr7"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/euro-digitale-un-modello-remunerazione-tutela-esercenti-AJ8XyG8"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Realizzi su Inditex a Madrid, analisti delusi dai margini del secondo trimestre",
-      "link": "https://www.ilsole24ore.com/art/realizzi-inditex-madrid-analisti-delusi-margini-secondo-trimestre-AJoLTm7"
+      "fonte": "ANSA Economia",
+      "titolo": "Louis Vuitton vince in tribunale in Cina, ma le vendite crollano per la vendetta dei social",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/louis-vuitton-vince-in-tribunale-in-cina-ma-le-vendite-crollano-per-la-vendetta-dei_3a2ca315-c79d-42f5-857c-a1bbd501f1e0.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Sindacati, 'governo salvaguardi lavoratori, subito tavolo su ex Ilva'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/sindacati-governo-salvaguardi-lavoratori-subito-tavolo-su-ex-ilva_a4c18813-1561-4665-8123-34b7ead3a773.html"
+      "titolo": "Trovata per la prima volta in Veneto la mosca orientale della frutta",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/trovata-per-la-prima-volta-in-veneto-la-mosca-orientale-della-frutta_834107ae-561f-4a37-8848-09f5511ebc19.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Meloni, 'aiuti mirati contro il caro carburanti in arrivo a chi ha più bisogno",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/meloni-aiuti-mirati-contro-il-caro-carburanti-in-arrivo-a-chi-ha-piu-bisogno_2dbffc43-ebf0-4f5e-9d94-43bf6a5bb0e0.html"
+      "titolo": "Ex Ilva, \"fuoriuscita materiale schiumoso verso i canali\"",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/ex-ilva-fuoriuscita-materiale-schiumoso-verso-i-canali_8173a464-ec8c-4d9e-bd79-042e434a7a2f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Morselli, piani ambiziosi, vogliamo che Pininfarina resti costruttore",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/morselli-piani-ambiziosi-vogliamo-che-pininfarina-resti-costruttore_d0d64ce5-2416-4f85-80a5-b4d62a8c36e5.html"
+      "titolo": "Pozzo (Confindustria Udine), come per il sisma in Friuli siamo a passaggio epocale",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/pozzo-confindustria-udine-come-per-il-sisma-in-friuli-siamo-a-passaggio-epocale_e2812b4e-058f-402e-9da8-e26de57dbfe7.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Agea, oltre 270 milioni di euro erogati per il riso italiano",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/agea-oltre-270-milioni-di-euro-erogati-per-il-riso-italiano_69e722e4-ea60-42dc-a05f-d8da74c6d50a.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Bianchi (Confindustria), nel Mercosur 'potenziale enorme per le pmi italiane'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/bianchi-confindustria-nel-mercosur-potenziale-enorme-per-le-pmi-italiane_0b16ad6c-2121-443f-8258-c0cf844347ef.html"
+      "titolo": "Cgia Mestre, la Pa paga più velocemente i fornitori ma aumenta il debito",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/cgia-mestre-la-pa-paga-piu-velocemente-i-fornitori-ma-aumenta-il-debito_627e809a-5075-4d18-8247-23f9fb38f450.html"
     }
   ]
 }
