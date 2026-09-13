@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-12T11:31:19.160949Z",
+  "aggiornato_il": "2026-09-13T12:36:58.729413Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -110,13 +110,13 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Oracle, il miliardario Ellison va all’incasso di 7,5 miliardi",
+      "titolo": "Oracle, il miliardario Ellison ferma il piano per incassare   7,5 miliardi",
       "link": "https://www.ilsole24ore.com/art/oracle-miliardario-ellison-vendita-e-incasso-75-miliardi-AJwzSPBB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Mfe e Vivendi, prove di disgelo a dieci anni dalla rottura",
-      "link": "https://www.ilsole24ore.com/art/mfe-e-vivendi-prove-disgelo-dieci-anni-rottura-AJ0HU0AB"
+      "titolo": "Telco europee contro Musk: alleanza per i servizi satellitari",
+      "link": "https://www.ilsole24ore.com/art/telco-europee-contro-musk-alleanza-i-servizi-satellitari-AJMJ0M8"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +124,29 @@
       "link": "https://www.ilsole24ore.com/art/la-corsa-greggio-sostiene-comparto-oil-milano-sale-eni-AJMpxr7"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Euro digitale, verso un modello di remunerazione a tutela degli esercenti",
-      "link": "https://www.ilsole24ore.com/art/euro-digitale-un-modello-remunerazione-tutela-esercenti-AJ8XyG8"
+      "fonte": "ANSA Economia",
+      "titolo": "Petrillo (Accenture), Ia sempre più veloce, banche cambino passo su reazione a rischi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/petrillo-accenture-ia-sempre-piu-veloce-banche-cambino-passo-su-reazione-a-rischi_3f0e8f1b-6b8e-4671-a449-59f6ec59f1b9.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Louis Vuitton vince in tribunale in Cina, ma le vendite crollano per la vendetta dei social",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/louis-vuitton-vince-in-tribunale-in-cina-ma-le-vendite-crollano-per-la-vendetta-dei_3a2ca315-c79d-42f5-857c-a1bbd501f1e0.html"
+      "titolo": "Ai cda banche l'esame sui rischi Ia, per le big piano azione entro ottobre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/ai-cda-banche-lesame-sui-rischi-ia-per-le-big-piano-azione-entro_8ea94f16-fec3-4b13-8316-2bb2a9279012.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Trovata per la prima volta in Veneto la mosca orientale della frutta",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/trovata-per-la-prima-volta-in-veneto-la-mosca-orientale-della-frutta_834107ae-561f-4a37-8848-09f5511ebc19.html"
+      "titolo": "Giorgetti: 'Con l'aumento dei tassi è importante tenere sotto controllo il debito'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/giorgetti-con-laumento-dei-tassi-e-importante-tenere-sotto-controllo-il-debito_e126b138-8e64-45fd-a13e-94588b25e07e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ex Ilva, \"fuoriuscita materiale schiumoso verso i canali\"",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/ex-ilva-fuoriuscita-materiale-schiumoso-verso-i-canali_8173a464-ec8c-4d9e-bd79-042e434a7a2f.html"
+      "titolo": "Giorgetti, con aumento tassi importante tenere sotto controllo debito",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/giorgetti-con-aumento-tassi-importante-tenere-sotto-controllo-debito_215ee19e-43c9-48dc-ad10-e668ddbde819.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Pozzo (Confindustria Udine), come per il sisma in Friuli siamo a passaggio epocale",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/pozzo-confindustria-udine-come-per-il-sisma-in-friuli-siamo-a-passaggio-epocale_e2812b4e-058f-402e-9da8-e26de57dbfe7.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Cgia Mestre, la Pa paga più velocemente i fornitori ma aumenta il debito",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/cgia-mestre-la-pa-paga-piu-velocemente-i-fornitori-ma-aumenta-il-debito_627e809a-5075-4d18-8247-23f9fb38f450.html"
+      "titolo": "Il governo studia nuovo ecobonus al 65% per infissi e condizionatori",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/il-governo-studia-nuovo-ecobonus-al-65-per-infissi-e-condizionatori_85047a3a-8a90-4fbf-993d-e0a519b312ec.html"
     }
   ]
 }
