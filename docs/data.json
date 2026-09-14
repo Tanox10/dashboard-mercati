@@ -1,60 +1,60 @@
 {
-  "aggiornato_il": "2026-09-13T12:36:58.729413Z",
+  "aggiornato_il": "2026-09-14T13:44:52.770150Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 88.8,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 75.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52512.0,
-      "variazione_1g_pct": 1.36,
-      "variazione_1m_pct": -2.21,
-      "variazione_1a_pct": 23.76,
+      "prezzo": 51725.13,
+      "variazione_1g_pct": -1.5,
+      "variazione_1m_pct": -3.47,
+      "variazione_1a_pct": 21.52,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7656.98,
-      "variazione_1g_pct": 0.86,
-      "variazione_1m_pct": -1.18,
-      "variazione_1a_pct": 16.24,
-      "sopra_media_50gg": true,
+      "prezzo": 7607.65,
+      "variazione_1g_pct": -0.64,
+      "variazione_1m_pct": -2.29,
+      "variazione_1a_pct": 15.54,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 639.1,
-      "variazione_1g_pct": 0.49,
-      "variazione_1m_pct": -3.09,
-      "variazione_1a_pct": 15.08,
+      "prezzo": 637.75,
+      "variazione_1g_pct": -0.21,
+      "variazione_1m_pct": -3.06,
+      "variazione_1a_pct": 14.94,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.69,
-      "variazione_1g_pct": 0.88,
-      "variazione_1m_pct": -1.28,
-      "variazione_1a_pct": 17.44,
-      "sopra_media_50gg": true,
+      "prezzo": 206.38,
+      "variazione_1g_pct": -0.63,
+      "variazione_1m_pct": -2.29,
+      "variazione_1a_pct": 16.84,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.84,
-      "variazione_1g_pct": -11.21,
-      "variazione_1m_pct": 8.87,
-      "variazione_1a_pct": 7.68,
-      "sopra_media_50gg": false,
+      "prezzo": 17.65,
+      "variazione_1g_pct": 11.43,
+      "variazione_1m_pct": 23.86,
+      "variazione_1a_pct": 19.58,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     }
   },
   "macro": [
@@ -110,43 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Oracle, il miliardario Ellison ferma il piano per incassare   7,5 miliardi",
-      "link": "https://www.ilsole24ore.com/art/oracle-miliardario-ellison-vendita-e-incasso-75-miliardi-AJwzSPBB"
+      "titolo": "AirBaltic ricorre al Chapter 11 per evitare la bancarotta",
+      "link": "https://www.ilsole24ore.com/art/airbaltic-ricorre-chapter-11-evitare-bancarotta-AJYIngCB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Telco europee contro Musk: alleanza per i servizi satellitari",
-      "link": "https://www.ilsole24ore.com/art/telco-europee-contro-musk-alleanza-i-servizi-satellitari-AJMJ0M8"
+      "titolo": "Sell off globale sui tecnologici, a Milano giù St e Prysmian",
+      "link": "https://www.ilsole24ore.com/art/sell-off-globale-tecnologici-milano-giu-st-e-prysmian-AJyaodCB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "La corsa del greggio sostiene il comparto oil, a Milano sale Eni",
-      "link": "https://www.ilsole24ore.com/art/la-corsa-greggio-sostiene-comparto-oil-milano-sale-eni-AJMpxr7"
+      "titolo": "Intesa Sanpaolo, il 97% dei soci dice sì all’Opas su Mps. Messina: «Passo fondamentale»",
+      "link": "https://www.ilsole24ore.com/art/opas-mps-97percento-soci-intesa-sanpaolo-dice-si-all-aumento-capitale-AJATrv8"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Focus su St dopo messaggi positivi Cfo e lancio nuovo iPhone",
+      "link": "https://www.ilsole24ore.com/art/focus-st-messaggi-positivi-cfo-e-lancio-nuovo-iphone-AJ4ub28"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Petrillo (Accenture), Ia sempre più veloce, banche cambino passo su reazione a rischi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/petrillo-accenture-ia-sempre-piu-veloce-banche-cambino-passo-su-reazione-a-rischi_3f0e8f1b-6b8e-4671-a449-59f6ec59f1b9.html"
+      "titolo": "Nvidia in calo a Wall Street con l'allarme sull'IA, perde il 3,88%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/nvidia-in-calo-a-wall-street-con-lallarme-sullia-perde-il-388_e571bba7-3a69-4eb9-b457-7dc40ec207d6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ai cda banche l'esame sui rischi Ia, per le big piano azione entro ottobre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/ai-cda-banche-lesame-sui-rischi-ia-per-le-big-piano-azione-entro_8ea94f16-fec3-4b13-8316-2bb2a9279012.html"
+      "titolo": "Wall Street apre in calo, Dj -0,27%, Nasdaq -1,28%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/wall-street-apre-in-calo-dj-027-nasdaq-128_a6162dd8-a201-4b7f-ad5a-9a70cc74e439.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti: 'Con l'aumento dei tassi è importante tenere sotto controllo il debito'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/giorgetti-con-laumento-dei-tassi-e-importante-tenere-sotto-controllo-il-debito_e126b138-8e64-45fd-a13e-94588b25e07e.html"
+      "titolo": "Il petrolio in rialzo a New York a 104,14 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/il-petrolio-in-rialzo-a-new-york-a-10414-dollari_c80abd3b-042c-4eff-b4de-2b1c83045745.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti, con aumento tassi importante tenere sotto controllo debito",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/giorgetti-con-aumento-tassi-importante-tenere-sotto-controllo-debito_215ee19e-43c9-48dc-ad10-e668ddbde819.html"
+      "titolo": "Terra Madre dal 24 al 27 settembre, all'inaugurazione Mattarella",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/terra-madre-dal-24-al-27-settembre-allinaugurazione-mattarella_d427d289-4a5b-4044-8c00-5c0ca3535f31.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il governo studia nuovo ecobonus al 65% per infissi e condizionatori",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/il-governo-studia-nuovo-ecobonus-al-65-per-infissi-e-condizionatori_85047a3a-8a90-4fbf-993d-e0a519b312ec.html"
+      "titolo": "Stop all'export di magneti cinesi, l'allarme di Confindustria per Lafert",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/stop-allexport-di-magneti-cinesi-lallarme-di-confindustria-per-lafert_8cc0a63d-4440-432e-8791-1026dbcd5a2e.html"
     }
   ]
 }
