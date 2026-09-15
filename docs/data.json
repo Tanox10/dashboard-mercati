@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-09-14T13:44:52.770150Z",
+  "aggiornato_il": "2026-09-15T12:31:16.533325Z",
   "sentiment": {
-    "punteggio": 88.8,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 75.0,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51725.13,
-      "variazione_1g_pct": -1.5,
-      "variazione_1m_pct": -3.47,
-      "variazione_1a_pct": 21.52,
+      "prezzo": 51637.7,
+      "variazione_1g_pct": 0.02,
+      "variazione_1m_pct": -3.63,
+      "variazione_1a_pct": 19.94,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7607.65,
-      "variazione_1g_pct": -0.64,
-      "variazione_1m_pct": -2.29,
-      "variazione_1a_pct": 15.54,
-      "sopra_media_50gg": false,
+      "prezzo": 7619.98,
+      "variazione_1g_pct": -0.48,
+      "variazione_1m_pct": -2.13,
+      "variazione_1a_pct": 15.73,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 637.75,
-      "variazione_1g_pct": -0.21,
-      "variazione_1m_pct": -3.06,
-      "variazione_1a_pct": 14.94,
+      "prezzo": 635.13,
+      "variazione_1g_pct": -0.14,
+      "variazione_1m_pct": -3.46,
+      "variazione_1a_pct": 13.99,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 206.38,
-      "variazione_1g_pct": -0.63,
-      "variazione_1m_pct": -2.29,
-      "variazione_1a_pct": 16.84,
-      "sopra_media_50gg": false,
+      "prezzo": 206.8,
+      "variazione_1g_pct": -0.43,
+      "variazione_1m_pct": -2.09,
+      "variazione_1a_pct": 17.08,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.65,
-      "variazione_1g_pct": 11.43,
-      "variazione_1m_pct": 23.86,
-      "variazione_1a_pct": 19.58,
+      "prezzo": 17.0,
+      "variazione_1g_pct": -0.58,
+      "variazione_1m_pct": 19.3,
+      "variazione_1a_pct": 8.35,
       "sopra_media_50gg": true,
       "sopra_media_200gg": false,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-11",
-      "valore": 0.33,
-      "valore_anno_fa": 0.49,
-      "variazione": -0.16
+      "data": "2026-09-14",
+      "valore": 0.32,
+      "valore_anno_fa": 0.51,
+      "variazione": -0.19
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nvidia in calo a Wall Street con l'allarme sull'IA, perde il 3,88%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/nvidia-in-calo-a-wall-street-con-lallarme-sullia-perde-il-388_e571bba7-3a69-4eb9-b457-7dc40ec207d6.html"
+      "titolo": "Via libera del Pe per l'italiano Comporti alla guida dell'Autorità dei mercati Esma",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/via-libera-del-pe-per-litaliano-comporti-alla-guida-dellautorita-dei_69987638-29c9-44e6-8380-df53348d4cda.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre in calo, Dj -0,27%, Nasdaq -1,28%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/wall-street-apre-in-calo-dj-027-nasdaq-128_a6162dd8-a201-4b7f-ad5a-9a70cc74e439.html"
+      "titolo": "Ex Ilva, governo lavora a ipotesi decreto con misure per lavoratori indotto",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/ex-ilva-governo-lavora-a-ipotesi-decreto-con-misure-per-lavoratori-indotto_c3e719ab-f914-486b-9e54-b2f539d84985.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il petrolio in rialzo a New York a 104,14 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/il-petrolio-in-rialzo-a-new-york-a-10414-dollari_c80abd3b-042c-4eff-b4de-2b1c83045745.html"
+      "titolo": "Lvmh soffre in Borsa, esce dalla top 10 europea delle aziende di maggior valore",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/lvmh-soffre-in-borsa-esce-dalla-top-10-europea-delle-aziende-di-maggior_ee0948c5-fd60-4dec-866f-ddb3da6d7f54.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Terra Madre dal 24 al 27 settembre, all'inaugurazione Mattarella",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/terra-madre-dal-24-al-27-settembre-allinaugurazione-mattarella_d427d289-4a5b-4044-8c00-5c0ca3535f31.html"
+      "titolo": "Penna (Ispra): 'In Italia mobilità green è disomogenea, obiettivo è uniformità'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/penna-ispra-in-italia-mobilita-green-e-disomogenea-obiettivo-e-uniformita_fc2f575f-ef12-4665-8718-89086c034dce.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Stop all'export di magneti cinesi, l'allarme di Confindustria per Lafert",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/stop-allexport-di-magneti-cinesi-lallarme-di-confindustria-per-lafert_8cc0a63d-4440-432e-8791-1026dbcd5a2e.html"
+      "titolo": "Ismea, proroga al 15 dicembre per domande al fondo Inail ammodernamento trattori",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/ismea-proroga-al-15-dicembre-per-domande-al-fondo-inail-ammodernamento-trattori_b2032ffe-a9f9-47bf-bef4-a87282a2523d.html"
     }
   ]
 }
