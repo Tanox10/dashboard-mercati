@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-09-15T12:31:16.533325Z",
+  "aggiornato_il": "2026-09-16T12:29:21.294606Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 88.8,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 75.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51637.7,
-      "variazione_1g_pct": 0.02,
-      "variazione_1m_pct": -3.63,
-      "variazione_1a_pct": 19.94,
+      "prezzo": 52004.24,
+      "variazione_1g_pct": 0.87,
+      "variazione_1m_pct": -2.95,
+      "variazione_1a_pct": 22.35,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7619.98,
-      "variazione_1g_pct": -0.48,
-      "variazione_1m_pct": -2.13,
-      "variazione_1a_pct": 15.73,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
-    },
-    "Stoxx 600 (Eurozona)": {
-      "prezzo": 635.13,
-      "variazione_1g_pct": -0.14,
-      "variazione_1m_pct": -3.46,
-      "variazione_1a_pct": 13.99,
+      "prezzo": 7585.73,
+      "variazione_1g_pct": -0.45,
+      "variazione_1m_pct": -2.57,
+      "variazione_1a_pct": 14.67,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
+    "Stoxx 600 (Eurozona)": {
+      "prezzo": 638.12,
+      "variazione_1g_pct": 0.62,
+      "variazione_1m_pct": -2.79,
+      "variazione_1a_pct": 15.86,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
+    },
     "MSCI World ETF": {
-      "prezzo": 206.8,
-      "variazione_1g_pct": -0.43,
-      "variazione_1m_pct": -2.09,
-      "variazione_1a_pct": 17.08,
-      "sopra_media_50gg": true,
+      "prezzo": 205.63,
+      "variazione_1g_pct": -0.57,
+      "variazione_1m_pct": -2.64,
+      "variazione_1a_pct": 15.82,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.0,
-      "variazione_1g_pct": -0.58,
-      "variazione_1m_pct": 19.3,
-      "variazione_1a_pct": 8.35,
+      "prezzo": 16.76,
+      "variazione_1g_pct": -2.56,
+      "variazione_1m_pct": 10.34,
+      "variazione_1a_pct": 2.44,
       "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-14",
-      "valore": 0.32,
+      "data": "2026-09-15",
+      "valore": 0.33,
       "valore_anno_fa": 0.51,
-      "variazione": -0.19
+      "variazione": -0.18
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "AirBaltic ricorre al Chapter 11 per evitare la bancarotta",
-      "link": "https://www.ilsole24ore.com/art/airbaltic-ricorre-chapter-11-evitare-bancarotta-AJYIngCB"
+      "titolo": "L’Ivass dà il via libera a Intesa Sanpaolo nell’Opas su Mps",
+      "link": "https://www.ilsole24ore.com/art/opas-mps-intesa-incassa-via-libera-dell-ivass-partecipazioni-assicurative-AJS8GqEB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Sell off globale sui tecnologici, a Milano giù St e Prysmian",
-      "link": "https://www.ilsole24ore.com/art/sell-off-globale-tecnologici-milano-giu-st-e-prysmian-AJyaodCB"
+      "titolo": "Tisg, ricevute 11 offerte di acquisto non vincolanti",
+      "link": "https://www.ilsole24ore.com/art/tisg-ricevute-11-offerte-acquisto-non-vincolanti-AJowbREB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Intesa Sanpaolo, il 97% dei soci dice sì all’Opas su Mps. Messina: «Passo fondamentale»",
-      "link": "https://www.ilsole24ore.com/art/opas-mps-97percento-soci-intesa-sanpaolo-dice-si-all-aumento-capitale-AJATrv8"
+      "titolo": "Difesa sugli scudi in Europa con calo munizioni Usa, corre Leonardo",
+      "link": "https://www.ilsole24ore.com/art/difesa-scudi-europa-calo-munizioni-usa-corre-leonardo-AJLnfmDB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Focus su St dopo messaggi positivi Cfo e lancio nuovo iPhone",
-      "link": "https://www.ilsole24ore.com/art/focus-st-messaggi-positivi-cfo-e-lancio-nuovo-iphone-AJ4ub28"
+      "titolo": "Puig sotto pressione a Madrid, per i broker troppo cara la conquista di Isdin",
+      "link": "https://www.ilsole24ore.com/art/puig-sotto-pressione-madrid-i-broker-troppo-cara-conquista-isdin-AJcNMjDB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Via libera del Pe per l'italiano Comporti alla guida dell'Autorità dei mercati Esma",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/via-libera-del-pe-per-litaliano-comporti-alla-guida-dellautorita-dei_69987638-29c9-44e6-8380-df53348d4cda.html"
+      "titolo": "Borsa: l'Europa consolida i rialzi col calo del petrolio, Milano +0,8%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-leuropa-consolida-i-rialzi-col-calo-del-petrolio-milano-08_aff98705-7a2d-4fe9-8133-dd8b85be13de.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ex Ilva, governo lavora a ipotesi decreto con misure per lavoratori indotto",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/ex-ilva-governo-lavora-a-ipotesi-decreto-con-misure-per-lavoratori-indotto_c3e719ab-f914-486b-9e54-b2f539d84985.html"
+      "titolo": "Dadda (LegaCoop) rieletto nel board globale dell'Ica",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/dadda-legacoop-rieletto-nel-board-globale-dellica_4b607c7c-033e-4508-81eb-c075a9340295.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lvmh soffre in Borsa, esce dalla top 10 europea delle aziende di maggior valore",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/lvmh-soffre-in-borsa-esce-dalla-top-10-europea-delle-aziende-di-maggior_ee0948c5-fd60-4dec-866f-ddb3da6d7f54.html"
+      "titolo": "Scocchia (illycaffè), Stati Uniti sarà il nostro secondo mercato 'domestico'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/scocchia-illycaffe-stati-uniti-sara-il-nostro-secondo-mercato-domestico_94bfde9c-7d62-485d-8a96-419e7685ed99.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Penna (Ispra): 'In Italia mobilità green è disomogenea, obiettivo è uniformità'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/penna-ispra-in-italia-mobilita-green-e-disomogenea-obiettivo-e-uniformita_fc2f575f-ef12-4665-8718-89086c034dce.html"
+      "titolo": "La Rovere (Amazon), 'contiamo di raddoppiare veicoli elettrici in Italia entro 2030'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-rovere-amazon-contiamo-di-raddoppiare-veicoli-elettrici-in-italia-entro-2030_1c932548-008f-41fb-904e-8b0483ae63f7.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ismea, proroga al 15 dicembre per domande al fondo Inail ammodernamento trattori",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/ismea-proroga-al-15-dicembre-per-domande-al-fondo-inail-ammodernamento-trattori_b2032ffe-a9f9-47bf-bef4-a87282a2523d.html"
+      "titolo": "Triplica l'utile di Somec nel primo semestre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/triplica-lutile-di-somec-nel-primo-semestre_4eb18721-2787-4cfd-ba73-b84fd5e8fcdb.html"
     }
   ]
 }
