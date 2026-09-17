@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-16T12:29:21.294606Z",
+  "aggiornato_il": "2026-09-17T12:28:59.017810Z",
   "sentiment": {
     "punteggio": 88.8,
     "semaforo": "verde",
@@ -12,47 +12,47 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52004.24,
-      "variazione_1g_pct": 0.87,
-      "variazione_1m_pct": -2.95,
-      "variazione_1a_pct": 22.35,
+      "prezzo": 52378.46,
+      "variazione_1g_pct": 0.79,
+      "variazione_1m_pct": -1.21,
+      "variazione_1a_pct": 24.84,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7585.73,
+      "prezzo": 7551.81,
       "variazione_1g_pct": -0.45,
-      "variazione_1m_pct": -2.57,
-      "variazione_1a_pct": 14.67,
+      "variazione_1m_pct": -2.5,
+      "variazione_1a_pct": 14.3,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 638.12,
-      "variazione_1g_pct": 0.62,
-      "variazione_1m_pct": -2.79,
-      "variazione_1a_pct": 15.86,
+      "prezzo": 641.71,
+      "variazione_1g_pct": 0.73,
+      "variazione_1m_pct": -1.56,
+      "variazione_1a_pct": 16.54,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 205.63,
-      "variazione_1g_pct": -0.57,
-      "variazione_1m_pct": -2.64,
-      "variazione_1a_pct": 15.82,
+      "prezzo": 204.71,
+      "variazione_1g_pct": -0.45,
+      "variazione_1m_pct": -2.72,
+      "variazione_1a_pct": 15.41,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 16.76,
-      "variazione_1g_pct": -2.56,
-      "variazione_1m_pct": 10.34,
-      "variazione_1a_pct": 2.44,
-      "sopra_media_50gg": true,
+      "prezzo": 15.7,
+      "variazione_1g_pct": -11.35,
+      "variazione_1m_pct": -0.88,
+      "variazione_1a_pct": -0.13,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-15",
-      "valore": 0.33,
-      "valore_anno_fa": 0.51,
-      "variazione": -0.18
+      "data": "2026-09-16",
+      "valore": 0.27,
+      "valore_anno_fa": 0.53,
+      "variazione": -0.26
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -115,8 +115,13 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Tisg, ricevute 11 offerte di acquisto non vincolanti",
-      "link": "https://www.ilsole24ore.com/art/tisg-ricevute-11-offerte-acquisto-non-vincolanti-AJowbREB"
+      "titolo": "AirAsia in cerca di finanziatori esteri per sopravvivere",
+      "link": "https://www.ilsole24ore.com/art/airasia-cerca-finanziatori-esteri-sopravvivere-AJcQHqEB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Trevi, la Consob dà il via libera all’opa di Webuild",
+      "link": "https://www.ilsole24ore.com/art/trevi-consob-da-via-libera-all-opa-webuild-AJvFtGEB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/difesa-scudi-europa-calo-munizioni-usa-corre-leonardo-AJLnfmDB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Puig sotto pressione a Madrid, per i broker troppo cara la conquista di Isdin",
-      "link": "https://www.ilsole24ore.com/art/puig-sotto-pressione-madrid-i-broker-troppo-cara-conquista-isdin-AJcNMjDB"
+      "fonte": "ANSA Economia",
+      "titolo": "Il prezzo del gas in altalena sale a 78,5 euro al megawattora",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-in-altalena-sale-a-785-euro-al-megawattora_08c65d6e-cd8a-49d7-9c0f-d9ffed8e6c1a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa consolida i rialzi col calo del petrolio, Milano +0,8%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-leuropa-consolida-i-rialzi-col-calo-del-petrolio-milano-08_aff98705-7a2d-4fe9-8133-dd8b85be13de.html"
+      "titolo": "Per le donne metalmeccaniche c'è un gap retributivo del 12%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/per-le-donne-metalmeccaniche-ce-un-gap-retributivo-del-12_3578cf9d-1690-4fc7-a41f-ba3617c48ef4.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Dadda (LegaCoop) rieletto nel board globale dell'Ica",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/dadda-legacoop-rieletto-nel-board-globale-dellica_4b607c7c-033e-4508-81eb-c075a9340295.html"
+      "titolo": "Sogin, collaudata 'Scatola a Guanti' per cementare rifiuti liquidi contenenti plutonio",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/sogin-collaudata-scatola-a-guanti-per-cementare-rifiuti-liquidi-contenenti-plutonio_e74ccde2-2bd1-4082-9140-96cd889565dd.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Scocchia (illycaffè), Stati Uniti sarà il nostro secondo mercato 'domestico'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/scocchia-illycaffe-stati-uniti-sara-il-nostro-secondo-mercato-domestico_94bfde9c-7d62-485d-8a96-419e7685ed99.html"
+      "titolo": "Borsa: l'Europa si consolida con la Fed e la BoE, petrolio e gas in calo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-si-consolida-con-la-fed-e-la-boe-petrolio-e-gas-in-calo_9983b99c-0591-41e6-8f27-e7b73e278e71.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La Rovere (Amazon), 'contiamo di raddoppiare veicoli elettrici in Italia entro 2030'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-rovere-amazon-contiamo-di-raddoppiare-veicoli-elettrici-in-italia-entro-2030_1c932548-008f-41fb-904e-8b0483ae63f7.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Triplica l'utile di Somec nel primo semestre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/triplica-lutile-di-somec-nel-primo-semestre_4eb18721-2787-4cfd-ba73-b84fd5e8fcdb.html"
+      "titolo": "Ismea Investe, più flessibilità di accesso a strumenti finanziari per l'agroalimentare",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/ismea-investe-piu-flessibilita-di-accesso-a-strumenti-finanziari-per-lagroalimentare_8932fc9a-9b67-41a5-ad3c-cea9d4b843af.html"
     }
   ]
 }
