@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-09-17T12:28:59.017810Z",
+  "aggiornato_il": "2026-09-18T12:07:21.339480Z",
   "sentiment": {
-    "punteggio": 88.8,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 75.0,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52378.46,
-      "variazione_1g_pct": 0.79,
-      "variazione_1m_pct": -1.21,
-      "variazione_1a_pct": 24.84,
+      "prezzo": 51673.79,
+      "variazione_1g_pct": -1.36,
+      "variazione_1m_pct": -1.79,
+      "variazione_1a_pct": 22.14,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7551.81,
-      "variazione_1g_pct": -0.45,
-      "variazione_1m_pct": -2.5,
-      "variazione_1a_pct": 14.3,
+      "prezzo": 7637.76,
+      "variazione_1g_pct": 1.14,
+      "variazione_1m_pct": -0.7,
+      "variazione_1a_pct": 15.72,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
+    },
+    "Stoxx 600 (Eurozona)": {
+      "prezzo": 637.6,
+      "variazione_1g_pct": -0.78,
+      "variazione_1m_pct": -2.08,
+      "variazione_1a_pct": 14.88,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
-    "Stoxx 600 (Eurozona)": {
-      "prezzo": 641.71,
-      "variazione_1g_pct": 0.73,
-      "variazione_1m_pct": -1.56,
-      "variazione_1a_pct": 16.54,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
-    },
     "MSCI World ETF": {
-      "prezzo": 204.71,
-      "variazione_1g_pct": -0.45,
-      "variazione_1m_pct": -2.72,
-      "variazione_1a_pct": 15.41,
-      "sopra_media_50gg": false,
+      "prezzo": 207.21,
+      "variazione_1g_pct": 1.22,
+      "variazione_1m_pct": -0.73,
+      "variazione_1a_pct": 17.11,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.7,
-      "variazione_1g_pct": -11.35,
-      "variazione_1m_pct": -0.88,
-      "variazione_1a_pct": -0.13,
+      "prezzo": 15.39,
+      "variazione_1g_pct": -0.32,
+      "variazione_1m_pct": 3.36,
+      "variazione_1a_pct": -1.97,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-16",
+      "data": "2026-09-17",
       "valore": 0.27,
-      "valore_anno_fa": 0.53,
-      "variazione": -0.26
+      "valore_anno_fa": 0.54,
+      "variazione": -0.27
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,8 +110,8 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "L’Ivass dà il via libera a Intesa Sanpaolo nell’Opas su Mps",
-      "link": "https://www.ilsole24ore.com/art/opas-mps-intesa-incassa-via-libera-dell-ivass-partecipazioni-assicurative-AJS8GqEB"
+      "titolo": "Beretta Holding avvia l’Opa su Ruger per salire al 25%, il titolo vola",
+      "link": "https://www.ilsole24ore.com/art/beretta-avvia-l-opa-ruger-salire-fino-25percento-AJTM95FB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il prezzo del gas in altalena sale a 78,5 euro al megawattora",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-in-altalena-sale-a-785-euro-al-megawattora_08c65d6e-cd8a-49d7-9c0f-d9ffed8e6c1a.html"
+      "titolo": "Giorgetti, copertura del dl bollo con risparmi Pnrr sono soldi nazionali",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/giorgetti-copertura-del-dl-bollo-con-risparmi-pnrr-sono-soldi-nazionali_d07e7e2b-b9f6-4eee-bf20-2c45300e3639.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Per le donne metalmeccaniche c'è un gap retributivo del 12%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/per-le-donne-metalmeccaniche-ce-un-gap-retributivo-del-12_3578cf9d-1690-4fc7-a41f-ba3617c48ef4.html"
+      "titolo": "Giorgetti, 'sono speranzoso sull'uscita dalla procedura Ue per disavanzo'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/giorgetti-sono-speranzoso-sulluscita-dalla-procedura-ue-per-disavanzo_c32454d3-466c-4c5b-9b1c-dec9fce458a5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Sogin, collaudata 'Scatola a Guanti' per cementare rifiuti liquidi contenenti plutonio",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/sogin-collaudata-scatola-a-guanti-per-cementare-rifiuti-liquidi-contenenti-plutonio_e74ccde2-2bd1-4082-9140-96cd889565dd.html"
+      "titolo": "Buffett lascia la presidenza di Berkshire Hathaway, al suo posto il figlio",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/buffett-lascia-la-presidenza-di-berkshire-hathaway-al-suo-posto-il-figlio_e503e2dc-bf9f-4ed4-978c-0e24c9d4bf95.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa si consolida con la Fed e la BoE, petrolio e gas in calo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-si-consolida-con-la-fed-e-la-boe-petrolio-e-gas-in-calo_9983b99c-0591-41e6-8f27-e7b73e278e71.html"
+      "titolo": "Giorgetti, credo Bruxelles aperta a concederci spazio flessibilità energia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/giorgetti-credo-bruxelles-aperta-a-concederci-spazio-flessibilita-energia_523a71b4-ee25-44e2-9894-a264fb7afea2.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ismea Investe, più flessibilità di accesso a strumenti finanziari per l'agroalimentare",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/ismea-investe-piu-flessibilita-di-accesso-a-strumenti-finanziari-per-lagroalimentare_8932fc9a-9b67-41a5-ad3c-cea9d4b843af.html"
+      "titolo": "In rialzo i rendimenti dei titoli di Stato, Btp al 4,39%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/in-rialzo-i-rendimenti-dei-titoli-di-stato-btp-al-439_58c6af7f-a72f-4a7b-bcc5-da359192c42d.html"
     }
   ]
 }
