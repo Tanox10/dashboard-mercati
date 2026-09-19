@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-18T12:07:21.339480Z",
+  "aggiornato_il": "2026-09-19T11:50:20.809093Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51673.79,
-      "variazione_1g_pct": -1.36,
-      "variazione_1m_pct": -1.79,
-      "variazione_1a_pct": 22.14,
+      "prezzo": 51545.0,
+      "variazione_1g_pct": -1.61,
+      "variazione_1m_pct": -2.04,
+      "variazione_1a_pct": 21.83,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7637.76,
-      "variazione_1g_pct": 1.14,
-      "variazione_1m_pct": -0.7,
-      "variazione_1a_pct": 15.72,
+      "prezzo": 7650.5,
+      "variazione_1g_pct": 0.17,
+      "variazione_1m_pct": -0.75,
+      "variazione_1a_pct": 15.36,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 637.6,
-      "variazione_1g_pct": -0.78,
-      "variazione_1m_pct": -2.08,
-      "variazione_1a_pct": 14.88,
+      "prezzo": 635.45,
+      "variazione_1g_pct": -1.11,
+      "variazione_1m_pct": -2.41,
+      "variazione_1a_pct": 14.49,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.21,
-      "variazione_1g_pct": 1.22,
-      "variazione_1m_pct": -0.73,
-      "variazione_1a_pct": 17.11,
+      "prezzo": 206.77,
+      "variazione_1g_pct": -0.21,
+      "variazione_1m_pct": -1.17,
+      "variazione_1a_pct": 16.25,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.39,
-      "variazione_1g_pct": -0.32,
-      "variazione_1m_pct": 3.36,
-      "variazione_1a_pct": -1.97,
+      "prezzo": 14.81,
+      "variazione_1g_pct": -4.08,
+      "variazione_1m_pct": -0.54,
+      "variazione_1a_pct": -5.67,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-17",
-      "valore": 0.27,
+      "data": "2026-09-18",
+      "valore": 0.25,
       "valore_anno_fa": 0.54,
-      "variazione": -0.27
+      "variazione": -0.29
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Beretta Holding avvia l’Opa su Ruger per salire al 25%, il titolo vola",
-      "link": "https://www.ilsole24ore.com/art/beretta-avvia-l-opa-ruger-salire-fino-25percento-AJTM95FB"
+      "titolo": "Volkswagen, nuovo allarme per i conti",
+      "link": "https://www.ilsole24ore.com/art/volkswagen-riduce-previsioni-il-2026-fatturato-315-miliardi-AJjqvdHB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "AirAsia in cerca di finanziatori esteri per sopravvivere",
-      "link": "https://www.ilsole24ore.com/art/airasia-cerca-finanziatori-esteri-sopravvivere-AJcQHqEB"
+      "titolo": "Webuild, parte l’Opa su Trevi: adesione dal 28 settembre",
+      "link": "https://www.ilsole24ore.com/art/webuild-parte-l-opa-trevi-adesione-28-settembre-AJi1jyGB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Trevi, la Consob dà il via libera all’opa di Webuild",
-      "link": "https://www.ilsole24ore.com/art/trevi-consob-da-via-libera-all-opa-webuild-AJvFtGEB"
+      "titolo": "Settore scommesse debole a Londra, spunta l'ipotesi di un aumento della tasse. Giù Entain",
+      "link": "https://www.ilsole24ore.com/art/settore-scommesse-debole-londra-spunta-ipotesi-un-aumento-tasse-giu-entain-AJ9QcoEB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Difesa sugli scudi in Europa con calo munizioni Usa, corre Leonardo",
-      "link": "https://www.ilsole24ore.com/art/difesa-scudi-europa-calo-munizioni-usa-corre-leonardo-AJLnfmDB"
+      "titolo": "Vendite su Stellantis, Berenberg taglia giudizio e target con i timori sui margini",
+      "link": "https://www.ilsole24ore.com/art/vendite-stellantis-berenberg-taglia-giudizio-e-target-i-timori-margini-AJx4ukEB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti, copertura del dl bollo con risparmi Pnrr sono soldi nazionali",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/giorgetti-copertura-del-dl-bollo-con-risparmi-pnrr-sono-soldi-nazionali_d07e7e2b-b9f6-4eee-bf20-2c45300e3639.html"
+      "titolo": "Spaziani (Confedilizia),in manovra chiediamo cedolare secca sui negozi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/spaziani-confediliziain-manovra-chiediamo-cedolare-secca-sui-negozi_64e1d380-bc0a-4b77-a22e-1fb34671b6d8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti, 'sono speranzoso sull'uscita dalla procedura Ue per disavanzo'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/giorgetti-sono-speranzoso-sulluscita-dalla-procedura-ue-per-disavanzo_c32454d3-466c-4c5b-9b1c-dec9fce458a5.html"
+      "titolo": "Allarme Codacons, gasolio sfiora 2,9 in autostrada; fino a 3,1 euro per il servito",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/allarme-codacons-gasolio-sfiora-29-in-autostrada-fino-a-31-euro-per-il-servito_845a1f48-499e-4a82-be96-ea0e56c03a0f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Buffett lascia la presidenza di Berkshire Hathaway, al suo posto il figlio",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/buffett-lascia-la-presidenza-di-berkshire-hathaway-al-suo-posto-il-figlio_e503e2dc-bf9f-4ed4-978c-0e24c9d4bf95.html"
+      "titolo": "Cgia, il credito al consumo sfiora i 178 miliardi, in 9 anni +62%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/cgia-il-credito-al-consumo-sfiora-i-178-miliardi-in-9-anni-62_05abb6b6-e380-4b59-a078-c891014e6eed.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti, credo Bruxelles aperta a concederci spazio flessibilità energia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/giorgetti-credo-bruxelles-aperta-a-concederci-spazio-flessibilita-energia_523a71b4-ee25-44e2-9894-a264fb7afea2.html"
+      "titolo": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "In rialzo i rendimenti dei titoli di Stato, Btp al 4,39%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/in-rialzo-i-rendimenti-dei-titoli-di-stato-btp-al-439_58c6af7f-a72f-4a7b-bcc5-da359192c42d.html"
+      "titolo": "Cna, \"la bolletta dell'energia aumenta ancora per tre pmi su quattro\"",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/cna-la-bolletta-dellenergia-aumenta-ancora-per-tre-pmi-su-quattro_e37f5aa0-7517-467d-88c6-52e7eec9d952.html"
     }
   ]
 }
