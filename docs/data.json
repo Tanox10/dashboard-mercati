@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-20T12:05:53.993953Z",
+  "aggiornato_il": "2026-09-21T13:44:12.384116Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51545.0,
-      "variazione_1g_pct": -1.61,
-      "variazione_1m_pct": -2.04,
-      "variazione_1a_pct": 21.83,
+      "prezzo": 52257.57,
+      "variazione_1g_pct": 1.38,
+      "variazione_1m_pct": -0.78,
+      "variazione_1a_pct": 23.51,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7650.5,
-      "variazione_1g_pct": 0.17,
-      "variazione_1m_pct": -0.75,
-      "variazione_1a_pct": 15.36,
+      "prezzo": 7697.01,
+      "variazione_1g_pct": 0.61,
+      "variazione_1m_pct": 0.3,
+      "variazione_1a_pct": 15.5,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 635.45,
-      "variazione_1g_pct": -1.11,
-      "variazione_1m_pct": -2.41,
-      "variazione_1a_pct": 14.49,
+      "prezzo": 642.83,
+      "variazione_1g_pct": 1.16,
+      "variazione_1m_pct": -1.73,
+      "variazione_1a_pct": 16.01,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 206.77,
-      "variazione_1g_pct": -0.21,
-      "variazione_1m_pct": -1.17,
-      "variazione_1a_pct": 16.25,
+      "prezzo": 208.07,
+      "variazione_1g_pct": 0.63,
+      "variazione_1m_pct": -0.48,
+      "variazione_1a_pct": 16.64,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.81,
-      "variazione_1g_pct": -4.08,
-      "variazione_1m_pct": -0.54,
-      "variazione_1a_pct": -5.67,
+      "prezzo": 14.9,
+      "variazione_1g_pct": 0.61,
+      "variazione_1m_pct": -1.52,
+      "variazione_1a_pct": -3.56,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Mimit, ancora aumenti gasolio self in autostrada a 2,413 euro al litro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/mimit-ancora-aumenti-gasolio-self-in-autostrada-a-2413-euro-al-litro_fe4b135e-b537-45a8-8982-5f7fd95efa0e.html"
+      "titolo": "Wall Street apre in rialzo, Dj +0,49%, Nasdaq +0,79%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/wall-street-apre-in-rialzo-dj-049-nasdaq-079_5094804c-7ea5-4e09-9a72-74f37ff371bb.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Guerra e incertezza pesano sui conti del settore del lusso",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/guerra-e-incertezza-pesano-sui-conti-del-settore-del-lusso_4437028e-cb8f-4417-a183-01195bc8f7af.html"
+      "titolo": "Azimut sale al 100% di Kennedy Capital Management negli Usa",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/azimut-sale-al-100-di-kennedy-capital-management-negli-usa_674635a7-5de4-49ed-a5ab-6749de7e9252.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bruxelles chiarisce su fondi Pnrr per il taglio del bollo, 'ci sono margini'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/bruxelles-chiarisce-su-fondi-pnrr-per-il-taglio-del-bollo-ci-sono-margini_60f8c90f-671c-4530-8048-de1e819f00e3.html"
+      "titolo": "Borsa: l'Europa corre col petrolio e il dialogo Cina-Usa",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-leuropa-corre-col-petrolio-e-il-dialogo-cina-usa_7d952b78-1bbf-488a-a8f0-0cc3963a5d0f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ue, non si perda il treno della Ia. Esposto a rischio il 60% dei posti di lavoro europei",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/ue-non-si-perda-il-treno-della-ia.-esposto-a-rischio-il-60-dei-posti-di-lavoro_d3f92af5-dc71-4015-b785-846704e22b8a.html"
+      "titolo": "Dall'assemblea di Unicredit via libera alla lista della cda",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/dallassemblea-di-unicredit-via-libera-alla-lista-della-cda_c3b93f53-aa41-469f-81e9-884e872b4e34.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Dombrovskis, 'pagamenti del Pnrr possono non essere allineati ai costi'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/dombrovskis-pagamenti-del-pnrr-possono-non-essere-allineati-ai-costi_79b1e971-66f4-48bd-bc2c-3d10f4a56370.html"
+      "titolo": "A Bologna inaugurata la 43/a edizione di Cersaie, quasi 600 espositori",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/a-bologna-inaugurata-la-43a-edizione-di-cersaie-quasi-600-espositori_767ea8ba-840a-496f-b0f4-df5446ff9897.html"
     }
   ]
 }
