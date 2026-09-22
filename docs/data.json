@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-21T13:44:12.384116Z",
+  "aggiornato_il": "2026-09-22T12:27:10.976454Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52257.57,
-      "variazione_1g_pct": 1.38,
-      "variazione_1m_pct": -0.78,
-      "variazione_1a_pct": 23.51,
+      "prezzo": 52202.83,
+      "variazione_1g_pct": -0.32,
+      "variazione_1m_pct": -0.88,
+      "variazione_1a_pct": 23.05,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7697.01,
-      "variazione_1g_pct": 0.61,
-      "variazione_1m_pct": 0.3,
-      "variazione_1a_pct": 15.5,
+      "prezzo": 7764.7,
+      "variazione_1g_pct": 1.49,
+      "variazione_1m_pct": 1.18,
+      "variazione_1a_pct": 16.51,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 642.83,
-      "variazione_1g_pct": 1.16,
-      "variazione_1m_pct": -1.73,
-      "variazione_1a_pct": 16.01,
+      "prezzo": 644.26,
+      "variazione_1g_pct": 0.36,
+      "variazione_1m_pct": -1.52,
+      "variazione_1a_pct": 16.42,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 208.07,
-      "variazione_1g_pct": 0.63,
-      "variazione_1m_pct": -0.48,
-      "variazione_1a_pct": 16.64,
+      "prezzo": 209.7,
+      "variazione_1g_pct": 1.42,
+      "variazione_1m_pct": 0.3,
+      "variazione_1a_pct": 17.55,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.9,
-      "variazione_1g_pct": 0.61,
-      "variazione_1m_pct": -1.52,
-      "variazione_1a_pct": -3.56,
+      "prezzo": 14.66,
+      "variazione_1g_pct": -1.41,
+      "variazione_1m_pct": -3.11,
+      "variazione_1a_pct": -8.94,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-18",
-      "valore": 0.25,
+      "data": "2026-09-21",
+      "valore": 0.2,
       "valore_anno_fa": 0.54,
-      "variazione": -0.29
+      "variazione": -0.34
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Volkswagen, nuovo allarme per i conti",
-      "link": "https://www.ilsole24ore.com/art/volkswagen-riduce-previsioni-il-2026-fatturato-315-miliardi-AJjqvdHB"
+      "titolo": "Paramount, accordo con gli Stati Usa per l’acquisto di Warner Bros Discovery",
+      "link": "https://www.ilsole24ore.com/art/da-paramount-15-miliardi-sbloccare-l-acquisto-warner-bros-discovery-AJlrkjJB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Webuild, parte l’Opa su Trevi: adesione dal 28 settembre",
-      "link": "https://www.ilsole24ore.com/art/webuild-parte-l-opa-trevi-adesione-28-settembre-AJi1jyGB"
+      "titolo": "Novo Nordisk cade a Copenaghen, il piano non convince il mercato",
+      "link": "https://www.ilsole24ore.com/art/novo-nordisk-cade-copenaghen-piano-non-convince-mercato-AJTyHpJB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "L’Antitrust avvia un’istruttoria per valutare l’Opas di Intesa Sanpaolo su Mps",
+      "link": "https://www.ilsole24ore.com/art/istruttoria-antitrust-valutare-l-opas-intesa-sanpaolo-mps-AJlrpAEB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/settore-scommesse-debole-londra-spunta-ipotesi-un-aumento-tasse-giu-entain-AJ9QcoEB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Vendite su Stellantis, Berenberg taglia giudizio e target con i timori sui margini",
-      "link": "https://www.ilsole24ore.com/art/vendite-stellantis-berenberg-taglia-giudizio-e-target-i-timori-margini-AJx4ukEB"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: l'Europa sale mentre il petrolio scende",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-leuropa-sale-mentre-il-petrolio-scende_6e6b50f5-2471-485f-8343-b4fbb9d48d94.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre in rialzo, Dj +0,49%, Nasdaq +0,79%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/wall-street-apre-in-rialzo-dj-049-nasdaq-079_5094804c-7ea5-4e09-9a72-74f37ff371bb.html"
+      "titolo": "Salvini, iter Ponte Stretto in fase molto avanzata, obiettivo 2026",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/salvini-iter-ponte-stretto-in-fase-molto-avanzata-obiettivo-2026_ad7c8d30-69c1-455b-882b-14433246c71d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Azimut sale al 100% di Kennedy Capital Management negli Usa",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/azimut-sale-al-100-di-kennedy-capital-management-negli-usa_674635a7-5de4-49ed-a5ab-6749de7e9252.html"
+      "titolo": "Il calendario della manovra, tutte le scadenze fino al 31 dicembre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/il-calendario-della-manovra-tutte-le-scadenze-fino-al-31-dicembre_07dda593-d694-48d7-8afd-590f9caa83a5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa corre col petrolio e il dialogo Cina-Usa",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-leuropa-corre-col-petrolio-e-il-dialogo-cina-usa_7d952b78-1bbf-488a-a8f0-0cc3963a5d0f.html"
+      "titolo": "Mineo (FiberCop), importanti piani di assunzioni per tecnici e laureati Stem",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mineo-fibercop-importanti-piani-di-assunzioni-per-tecnici-e-laureati-stem_14a23975-a703-44e2-af31-99350fcc125d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Dall'assemblea di Unicredit via libera alla lista della cda",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/dallassemblea-di-unicredit-via-libera-alla-lista-della-cda_c3b93f53-aa41-469f-81e9-884e872b4e34.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "A Bologna inaugurata la 43/a edizione di Cersaie, quasi 600 espositori",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/a-bologna-inaugurata-la-43a-edizione-di-cersaie-quasi-600-espositori_767ea8ba-840a-496f-b0f4-df5446ff9897.html"
+      "titolo": "Sky si rafforza in Italia, diventa un vero operatore virtuale mobile",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/sky-si-rafforza-in-italia-diventa-un-vero-operatore-virtuale-mobile_2568bdec-2e8a-412a-8918-bcc782f826eb.html"
     }
   ]
 }
