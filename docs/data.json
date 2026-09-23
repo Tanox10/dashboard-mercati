@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-09-22T12:27:10.976454Z",
+  "aggiornato_il": "2026-09-23T12:38:06.667833Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 85.6,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 62.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52202.83,
-      "variazione_1g_pct": -0.32,
-      "variazione_1m_pct": -0.88,
-      "variazione_1a_pct": 23.05,
+      "prezzo": 51836.33,
+      "variazione_1g_pct": -1.02,
+      "variazione_1m_pct": -1.34,
+      "variazione_1a_pct": 22.03,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7764.7,
-      "variazione_1g_pct": 1.49,
-      "variazione_1m_pct": 1.18,
-      "variazione_1a_pct": 16.51,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "prezzo": NaN,
+      "variazione_1g_pct": NaN,
+      "variazione_1m_pct": NaN,
+      "variazione_1a_pct": NaN,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 644.26,
-      "variazione_1g_pct": 0.36,
-      "variazione_1m_pct": -1.52,
-      "variazione_1a_pct": 16.42,
+      "prezzo": 639.6,
+      "variazione_1g_pct": -0.36,
+      "variazione_1m_pct": -2.23,
+      "variazione_1a_pct": 15.25,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 209.7,
-      "variazione_1g_pct": 1.42,
-      "variazione_1m_pct": 0.3,
-      "variazione_1a_pct": 17.55,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
-    },
-    "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.66,
-      "variazione_1g_pct": -1.41,
-      "variazione_1m_pct": -3.11,
-      "variazione_1a_pct": -8.94,
+      "prezzo": NaN,
+      "variazione_1g_pct": NaN,
+      "variazione_1m_pct": NaN,
+      "variazione_1a_pct": NaN,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
+    },
+    "VIX (volatilitÃ  USA)": {
+      "prezzo": 14.33,
+      "variazione_1g_pct": -3.63,
+      "variazione_1m_pct": -9.59,
+      "variazione_1a_pct": -13.88,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": false,
+      "trend": "correzione"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-21",
-      "valore": 0.2,
+      "data": "2026-09-22",
+      "valore": 0.25,
       "valore_anno_fa": 0.54,
-      "variazione": -0.34
+      "variazione": -0.29
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,43 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Paramount, accordo con gli Stati Usa per l’acquisto di Warner Bros Discovery",
-      "link": "https://www.ilsole24ore.com/art/da-paramount-15-miliardi-sbloccare-l-acquisto-warner-bros-discovery-AJlrkjJB"
+      "titolo": "Pirelli, Marco Tronchetti Provera sale al 29,9%",
+      "link": "https://www.ilsole24ore.com/art/pirelli-marco-tronchetti-provera-sale-299percento-AJrZC2LB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Novo Nordisk cade a Copenaghen, il piano non convince il mercato",
-      "link": "https://www.ilsole24ore.com/art/novo-nordisk-cade-copenaghen-piano-non-convince-mercato-AJTyHpJB"
+      "titolo": "Exor, nel primo semestre NAV per azione in calo del 4%",
+      "link": "https://www.ilsole24ore.com/art/exor-primo-semestre-nav-azione-calo-4percento-AJSFiRLB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "L’Antitrust avvia un’istruttoria per valutare l’Opas di Intesa Sanpaolo su Mps",
-      "link": "https://www.ilsole24ore.com/art/istruttoria-antitrust-valutare-l-opas-intesa-sanpaolo-mps-AJlrpAEB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Settore scommesse debole a Londra, spunta l'ipotesi di un aumento della tasse. Giù Entain",
-      "link": "https://www.ilsole24ore.com/art/settore-scommesse-debole-londra-spunta-ipotesi-un-aumento-tasse-giu-entain-AJ9QcoEB"
+      "titolo": "Titoli Nestlé sotto pressione dopo la confisca degli asset russi",
+      "link": "https://www.ilsole24ore.com/art/titoli-nestle-sotto-pressione-la-confisca-asset-russi-AJDju7GB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa sale mentre il petrolio scende",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-leuropa-sale-mentre-il-petrolio-scende_6e6b50f5-2471-485f-8343-b4fbb9d48d94.html"
+      "titolo": "Foti, raggiunti tutti gli obiettivi 10/ma rata Pnrr, successo del governo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/foti-raggiunti-tutti-gli-obiettivi-10ma-rata-pnrr-successo-del_ea0bde9c-04ba-445d-aed8-3d58bda029c8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Salvini, iter Ponte Stretto in fase molto avanzata, obiettivo 2026",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/salvini-iter-ponte-stretto-in-fase-molto-avanzata-obiettivo-2026_ad7c8d30-69c1-455b-882b-14433246c71d.html"
+      "titolo": "Rottamazione-quinquies, seconda rata entro il 30 settembre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/rottamazione-quinquies-seconda-rata-entro-il-30-settembre_2461bed5-7ddc-4447-ad13-213927619f36.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il calendario della manovra, tutte le scadenze fino al 31 dicembre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/il-calendario-della-manovra-tutte-le-scadenze-fino-al-31-dicembre_07dda593-d694-48d7-8afd-590f9caa83a5.html"
+      "titolo": "Borsa: Europa peggiora con il petrolio in crescita. A Milano (-0,44%) vendite su Unipol",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borsa-europa-peggiora-con-il-petrolio-in-crescita.-a-milano-044-vendite-su-unipol_f3862869-1bc5-4dc9-a532-d253ec943275.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Mineo (FiberCop), importanti piani di assunzioni per tecnici e laureati Stem",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mineo-fibercop-importanti-piani-di-assunzioni-per-tecnici-e-laureati-stem_14a23975-a703-44e2-af31-99350fcc125d.html"
+      "titolo": "All'Arsenale di Venezia torna il Salone dell'Alto artigianato italiano",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/allarsenale-di-venezia-torna-il-salone-dellalto-artigianato-italiano_4e727b8c-ea16-4bef-ab61-2ccfb5968653.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Sky si rafforza in Italia, diventa un vero operatore virtuale mobile",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/sky-si-rafforza-in-italia-diventa-un-vero-operatore-virtuale-mobile_2568bdec-2e8a-412a-8918-bcc782f826eb.html"
+      "titolo": "Parlamento svizzero vota aumento requisiti capitale per Ubs",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/parlamento-svizzero-vota-aumento-requisiti-capitale-per-ubs_d8296fb3-4e87-4408-bd76-3050aee3ff16.html"
     }
   ]
 }
