@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-09-23T12:38:06.667833Z",
+  "aggiornato_il": "2026-09-24T12:36:25.756014Z",
   "sentiment": {
-    "punteggio": 85.6,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 62.5,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51836.33,
-      "variazione_1g_pct": -1.02,
-      "variazione_1m_pct": -1.34,
-      "variazione_1a_pct": 22.03,
+      "prezzo": 51880.34,
+      "variazione_1g_pct": -0.21,
+      "variazione_1m_pct": -1.59,
+      "variazione_1a_pct": 22.29,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": NaN,
-      "variazione_1g_pct": NaN,
-      "variazione_1m_pct": NaN,
-      "variazione_1a_pct": NaN,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "prezzo": 7706.03,
+      "variazione_1g_pct": -0.76,
+      "variazione_1m_pct": 0.69,
+      "variazione_1a_pct": 15.76,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 639.6,
-      "variazione_1g_pct": -0.36,
-      "variazione_1m_pct": -2.23,
-      "variazione_1a_pct": 15.25,
+      "prezzo": 639.08,
+      "variazione_1g_pct": -0.13,
+      "variazione_1m_pct": -2.65,
+      "variazione_1a_pct": 15.38,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": NaN,
-      "variazione_1g_pct": NaN,
-      "variazione_1m_pct": NaN,
-      "variazione_1a_pct": NaN,
+      "prezzo": 207.84,
+      "variazione_1g_pct": -0.89,
+      "variazione_1m_pct": -0.31,
+      "variazione_1a_pct": 16.55,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
+    },
+    "VIX (volatilitÃ  USA)": {
+      "prezzo": 15.94,
+      "variazione_1g_pct": 5.01,
+      "variazione_1m_pct": 3.17,
+      "variazione_1a_pct": -1.48,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
-    },
-    "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.33,
-      "variazione_1g_pct": -3.63,
-      "variazione_1m_pct": -9.59,
-      "variazione_1a_pct": -13.88,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
-      "trend": "correzione"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-22",
-      "valore": 0.25,
-      "valore_anno_fa": 0.54,
-      "variazione": -0.29
+      "data": "2026-09-23",
+      "valore": 0.26,
+      "valore_anno_fa": 0.59,
+      "variazione": -0.33
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -115,8 +115,13 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Exor, nel primo semestre NAV per azione in calo del 4%",
-      "link": "https://www.ilsole24ore.com/art/exor-primo-semestre-nav-azione-calo-4percento-AJSFiRLB"
+      "titolo": "Il gruppo Ovs chiude il semestre con le vendite in crescita a oltre 877 milioni",
+      "link": "https://www.ilsole24ore.com/art/il-gruppo-ovs-chiude-semestre-le-vendite-crescita-oltre-877-milioni-AJyzKmMB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Webuild, parte l’Opa su Trevi: adesione dal 28 settembre",
+      "link": "https://www.ilsole24ore.com/art/webuild-parte-l-opa-trevi-adesione-28-settembre-AJi1jyGB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -125,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Foti, raggiunti tutti gli obiettivi 10/ma rata Pnrr, successo del governo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/foti-raggiunti-tutti-gli-obiettivi-10ma-rata-pnrr-successo-del_ea0bde9c-04ba-445d-aed8-3d58bda029c8.html"
+      "titolo": "Il 47% dei contribuenti versa solo il 5% dell'Irpef",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/-il-47-dei-contribuenti-versa-solo-il-5-dellirpef-_dc98a49f-a7ed-4fa6-829b-f8b08f00d0e2.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Rottamazione-quinquies, seconda rata entro il 30 settembre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/rottamazione-quinquies-seconda-rata-entro-il-30-settembre_2461bed5-7ddc-4447-ad13-213927619f36.html"
+      "titolo": "La Fao riconosce la comunità di Pollica come Eroe del Cibo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/la-fao-riconosce-la-comunita-di-pollica-come-eroe-del-cibo_b0607225-91be-489b-849f-2a8540e8b86e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa peggiora con il petrolio in crescita. A Milano (-0,44%) vendite su Unipol",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borsa-europa-peggiora-con-il-petrolio-in-crescita.-a-milano-044-vendite-su-unipol_f3862869-1bc5-4dc9-a532-d253ec943275.html"
+      "titolo": "Acea cresce in Perù, si aggiudica una gara per il trattamento di acque reflue a Lima",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/acea-cresce-in-peru-si-aggiudica-una-gara-per-il-trattamento-di-acque-reflue_da9fc790-d57e-480d-b67d-faaf5a911639.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "All'Arsenale di Venezia torna il Salone dell'Alto artigianato italiano",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/allarsenale-di-venezia-torna-il-salone-dellalto-artigianato-italiano_4e727b8c-ea16-4bef-ab61-2ccfb5968653.html"
+      "titolo": "Borsa: petrolio e IA frenano l'Europa, a Milano (-0,4%) vendite su St e Technoprobe",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/borsa-petrolio-e-ia-frenano-leuropa-a-milano-04-vendite-su-st-e-technoprobe_7f80fa2e-bc59-4b50-94ed-825615427d33.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Parlamento svizzero vota aumento requisiti capitale per Ubs",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/parlamento-svizzero-vota-aumento-requisiti-capitale-per-ubs_d8296fb3-4e87-4408-bd76-3050aee3ff16.html"
+      "titolo": "Fc Barcellona, nuovi finanziamenti da 500 milioni per completare Camp Nou",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/fc-barcellona-nuovi-finanziamenti-da-500-milioni-per-completare-camp-nou_a5439e58-9fc3-4a0c-809d-65f0a78353a8.html"
     }
   ]
 }
