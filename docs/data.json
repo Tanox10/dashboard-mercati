@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-24T12:36:25.756014Z",
+  "aggiornato_il": "2026-09-25T12:37:58.081943Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51880.34,
-      "variazione_1g_pct": -0.21,
-      "variazione_1m_pct": -1.59,
-      "variazione_1a_pct": 22.29,
+      "prezzo": 52016.63,
+      "variazione_1g_pct": 0.92,
+      "variazione_1m_pct": -1.64,
+      "variazione_1a_pct": 23.14,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7706.03,
-      "variazione_1g_pct": -0.76,
-      "variazione_1m_pct": 0.69,
-      "variazione_1a_pct": 15.76,
+      "prezzo": 7704.13,
+      "variazione_1g_pct": -0.02,
+      "variazione_1m_pct": 0.35,
+      "variazione_1a_pct": 16.06,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 639.08,
-      "variazione_1g_pct": -0.13,
-      "variazione_1m_pct": -2.65,
-      "variazione_1a_pct": 15.38,
+      "prezzo": 640.17,
+      "variazione_1g_pct": 0.59,
+      "variazione_1m_pct": -2.47,
+      "variazione_1a_pct": 16.35,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 207.84,
-      "variazione_1g_pct": -0.89,
-      "variazione_1m_pct": -0.31,
-      "variazione_1a_pct": 16.55,
+      "prezzo": 207.65,
+      "variazione_1g_pct": -0.09,
+      "variazione_1m_pct": -0.8,
+      "variazione_1a_pct": 16.97,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.94,
-      "variazione_1g_pct": 5.01,
-      "variazione_1m_pct": 3.17,
-      "variazione_1a_pct": -1.48,
+      "prezzo": 15.1,
+      "variazione_1g_pct": -3.64,
+      "variazione_1m_pct": -0.72,
+      "variazione_1a_pct": -9.8,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-23",
-      "valore": 0.26,
+      "data": "2026-09-24",
+      "valore": 0.31,
       "valore_anno_fa": 0.59,
-      "variazione": -0.33
+      "variazione": -0.28
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Pirelli, Marco Tronchetti Provera sale al 29,9%",
-      "link": "https://www.ilsole24ore.com/art/pirelli-marco-tronchetti-provera-sale-299percento-AJrZC2LB"
+      "titolo": "Ifis, cambio al vertice: arriva Zingone. Da Bankitalia ok alla fusione con illimity",
+      "link": "https://www.ilsole24ore.com/art/ifis-cambio-vertice-arriva-zingone-bankitalia-ok-fusione-illimity-AJCBloOB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Il gruppo Ovs chiude il semestre con le vendite in crescita a oltre 877 milioni",
-      "link": "https://www.ilsole24ore.com/art/il-gruppo-ovs-chiude-semestre-le-vendite-crescita-oltre-877-milioni-AJyzKmMB"
+      "titolo": "A Francoforte giù Hellofresh, taglia stime dell’anno dopo trimestre deludente",
+      "link": "https://www.ilsole24ore.com/art/a-francoforte-giu-hellofresh-taglia-stime-dell-anno-trimestre-deludente-AJ9u1pOB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Novo Nordisk cade a Copenaghen, il piano non convince il mercato",
+      "link": "https://www.ilsole24ore.com/art/novo-nordisk-cade-copenaghen-piano-non-convince-mercato-AJTyHpJB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/webuild-parte-l-opa-trevi-adesione-28-settembre-AJi1jyGB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Titoli Nestlé sotto pressione dopo la confisca degli asset russi",
-      "link": "https://www.ilsole24ore.com/art/titoli-nestle-sotto-pressione-la-confisca-asset-russi-AJDju7GB"
+      "fonte": "ANSA Economia",
+      "titolo": "L'Ue fissa a 2 euro la commissione di gestione sui pacchi extra-Ue",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/lue-fissa-a-2-euro-la-commissione-di-gestione-sui-pacchi-extra-ue_148c1977-a1e7-4d17-92c2-b2fb531540f8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il 47% dei contribuenti versa solo il 5% dell'Irpef",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/-il-47-dei-contribuenti-versa-solo-il-5-dellirpef-_dc98a49f-a7ed-4fa6-829b-f8b08f00d0e2.html"
+      "titolo": "Ufi Hydrogen inaugura in Trentino il nuovo polo per le tecnologie dell'idrogeno",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/ufi-hydrogen-inaugura-in-trentino-il-nuovo-polo-per-le-tecnologie-dellidrogeno_15ccbe82-490e-4b85-a98d-a6b9e9a0160d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La Fao riconosce la comunità di Pollica come Eroe del Cibo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/la-fao-riconosce-la-comunita-di-pollica-come-eroe-del-cibo_b0607225-91be-489b-849f-2a8540e8b86e.html"
+      "titolo": "Pichetto Fratin, 'sfida dell'idrogeno si vince unendo ricerca, industria e territorio'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/pichetto-fratin-sfida-dellidrogeno-si-vince-unendo-ricerca-industria-e-territorio_d53cb95f-2dc3-4390-874f-d956fde89487.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Acea cresce in Perù, si aggiudica una gara per il trattamento di acque reflue a Lima",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/acea-cresce-in-peru-si-aggiudica-una-gara-per-il-trattamento-di-acque-reflue_da9fc790-d57e-480d-b67d-faaf5a911639.html"
+      "titolo": "Borsa: l'Europa sale e guarda al Medio Oriente, Milano +1%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-leuropa-sale-e-guarda-al-medio-oriente-milano-1_b379ef93-8d28-44c6-8de5-a82225b64b1e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: petrolio e IA frenano l'Europa, a Milano (-0,4%) vendite su St e Technoprobe",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/borsa-petrolio-e-ia-frenano-leuropa-a-milano-04-vendite-su-st-e-technoprobe_7f80fa2e-bc59-4b50-94ed-825615427d33.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Fc Barcellona, nuovi finanziamenti da 500 milioni per completare Camp Nou",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/fc-barcellona-nuovi-finanziamenti-da-500-milioni-per-completare-camp-nou_a5439e58-9fc3-4a0c-809d-65f0a78353a8.html"
+      "titolo": "Unem, raffinerie italiane al 77% del tasso di utilizzo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/unem-raffinerie-italiane-al-77-del-tasso-di-utilizzo_cde1b764-6964-4131-a9fb-84124a380306.html"
     }
   ]
 }
