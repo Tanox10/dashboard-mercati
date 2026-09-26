@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-25T12:37:58.081943Z",
+  "aggiornato_il": "2026-09-26T12:06:48.323845Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,59 +12,59 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52016.63,
-      "variazione_1g_pct": 0.92,
-      "variazione_1m_pct": -1.64,
-      "variazione_1a_pct": 23.14,
+      "prezzo": 51867.0,
+      "variazione_1g_pct": 0.63,
+      "variazione_1m_pct": -1.92,
+      "variazione_1a_pct": 22.79,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7704.13,
-      "variazione_1g_pct": -0.02,
-      "variazione_1m_pct": 0.35,
-      "variazione_1a_pct": 16.06,
+      "prezzo": 7743.41,
+      "variazione_1g_pct": 0.51,
+      "variazione_1m_pct": 0.88,
+      "variazione_1a_pct": 17.24,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 640.17,
-      "variazione_1g_pct": 0.59,
-      "variazione_1m_pct": -2.47,
-      "variazione_1a_pct": 16.35,
+      "prezzo": 638.65,
+      "variazione_1g_pct": 0.35,
+      "variazione_1m_pct": -2.71,
+      "variazione_1a_pct": 16.07,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 207.65,
-      "variazione_1g_pct": -0.09,
-      "variazione_1m_pct": -0.8,
-      "variazione_1a_pct": 16.97,
+      "prezzo": 208.73,
+      "variazione_1g_pct": 0.52,
+      "variazione_1m_pct": -0.11,
+      "variazione_1a_pct": 18.11,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.1,
-      "variazione_1g_pct": -3.64,
-      "variazione_1m_pct": -0.72,
-      "variazione_1a_pct": -9.8,
+      "prezzo": 14.87,
+      "variazione_1g_pct": -5.11,
+      "variazione_1m_pct": -2.24,
+      "variazione_1a_pct": -11.17,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "trend": "correzione"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-24",
-      "valore": 0.31,
-      "valore_anno_fa": 0.59,
-      "variazione": -0.28
+      "data": "2026-09-25",
+      "valore": 0.36,
+      "valore_anno_fa": 0.54,
+      "variazione": -0.18
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Ifis, cambio al vertice: arriva Zingone. Da Bankitalia ok alla fusione con illimity",
+      "titolo": "Icop rilancia su Trevi, offerta migliorata del 24,1%",
+      "link": "https://www.ilsole24ore.com/art/icop-rilancia-trevi-offerta-migliorata-241percento-AJXIdaPB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Ifis, cambio al vertice: Zingone nuovo Ceo. Da Bankitalia ok alla fusione con illimity",
       "link": "https://www.ilsole24ore.com/art/ifis-cambio-vertice-arriva-zingone-bankitalia-ok-fusione-illimity-AJCBloOB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "A Francoforte giù Hellofresh, taglia stime dell’anno dopo trimestre deludente",
-      "link": "https://www.ilsole24ore.com/art/a-francoforte-giu-hellofresh-taglia-stime-dell-anno-trimestre-deludente-AJ9u1pOB"
+      "titolo": "Boeing, la svolta resta ancora lontana: ritardi e produzione sotto pressione",
+      "link": "https://www.ilsole24ore.com/art/boeing-svolta-resta-ancora-lontana-ritardi-e-produzione-sotto-pressione-AJ0EQGLB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Novo Nordisk cade a Copenaghen, il piano non convince il mercato",
-      "link": "https://www.ilsole24ore.com/art/novo-nordisk-cade-copenaghen-piano-non-convince-mercato-AJTyHpJB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Webuild, parte l’Opa su Trevi: adesione dal 28 settembre",
-      "link": "https://www.ilsole24ore.com/art/webuild-parte-l-opa-trevi-adesione-28-settembre-AJi1jyGB"
+      "titolo": "Pirelli, piano di investimenti da 1 miliardo negli Usa",
+      "link": "https://www.ilsole24ore.com/art/pirelli-piano-investimenti-1-miliardo-usa-AJnbNPLB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'Ue fissa a 2 euro la commissione di gestione sui pacchi extra-Ue",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/lue-fissa-a-2-euro-la-commissione-di-gestione-sui-pacchi-extra-ue_148c1977-a1e7-4d17-92c2-b2fb531540f8.html"
+      "titolo": "Stretta contro il greenwashing, da domani al via le nuove norme Ue",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretta-contro-il-greenwashing-da-domani-al-via-le-nuove-norme-ue_f6fd0410-dd1e-4e1a-a945-73617ad9f688.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ufi Hydrogen inaugura in Trentino il nuovo polo per le tecnologie dell'idrogeno",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/ufi-hydrogen-inaugura-in-trentino-il-nuovo-polo-per-le-tecnologie-dellidrogeno_15ccbe82-490e-4b85-a98d-a6b9e9a0160d.html"
+      "titolo": "Stretto di Messina: il direttore tecnico Mele passa ad Anas, il progetto del Ponte pronto per il Cipess",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretto-di-messina-mele-passa-ad-anas-progetto-del-ponte-pronto-per_02433380-3623-4b78-8f67-f76fc90a3784.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Pichetto Fratin, 'sfida dell'idrogeno si vince unendo ricerca, industria e territorio'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/pichetto-fratin-sfida-dellidrogeno-si-vince-unendo-ricerca-industria-e-territorio_d53cb95f-2dc3-4390-874f-d956fde89487.html"
+      "titolo": "Cgia, il caro carburante mette a rischio camionisti, taxisti e rappresentanti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cgia-il-caro-carburante-mette-a-rischio-camionisti-taxisti-e-rappresentanti_62768d9e-0348-4949-bb69-6c5cdc80fff4.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa sale e guarda al Medio Oriente, Milano +1%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-leuropa-sale-e-guarda-al-medio-oriente-milano-1_b379ef93-8d28-44c6-8de5-a82225b64b1e.html"
+      "titolo": "Cambia abbonamento a Av Trenitalia, meno caro ma prenotazione diventa a pagamento",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cambia-abbonamento-a-av-trenitalia-meno-caro-ma-prenotazione-diventa-a-pagamento_434f6b8b-014e-4f86-96b6-da2639c4042f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Unem, raffinerie italiane al 77% del tasso di utilizzo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/unem-raffinerie-italiane-al-77-del-tasso-di-utilizzo_cde1b764-6964-4131-a9fb-84124a380306.html"
+      "titolo": "Sconto accise si dimezza, diesel sale a 2,357 euro, in autostrada a 2,439",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/sconto-accise-si-dimezza-diesel-sale-a-2357-euro-in-autostrada-a-2439_a705299d-6958-48b5-8017-f4af8ccc9859.html"
     }
   ]
 }
