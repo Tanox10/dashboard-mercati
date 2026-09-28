@@ -1,60 +1,60 @@
 {
-  "aggiornato_il": "2026-09-27T12:51:36.464110Z",
+  "aggiornato_il": "2026-09-28T15:05:07.988502Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 90.3,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51867.0,
-      "variazione_1g_pct": 0.63,
-      "variazione_1m_pct": -1.92,
-      "variazione_1a_pct": 22.79,
+      "prezzo": 51891.84,
+      "variazione_1g_pct": 0.05,
+      "variazione_1m_pct": -1.38,
+      "variazione_1a_pct": 21.68,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7743.41,
-      "variazione_1g_pct": 0.51,
-      "variazione_1m_pct": 0.88,
-      "variazione_1a_pct": 17.24,
+      "prezzo": 7675.19,
+      "variazione_1g_pct": -0.88,
+      "variazione_1m_pct": -0.47,
+      "variazione_1a_pct": 15.53,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 638.65,
-      "variazione_1g_pct": 0.35,
-      "variazione_1m_pct": -2.71,
-      "variazione_1a_pct": 16.07,
+      "prezzo": 640.61,
+      "variazione_1g_pct": 0.31,
+      "variazione_1m_pct": -2.22,
+      "variazione_1a_pct": 15.53,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 208.73,
-      "variazione_1g_pct": 0.52,
-      "variazione_1m_pct": -0.11,
-      "variazione_1a_pct": 18.11,
-      "sopra_media_50gg": true,
+      "prezzo": 206.9,
+      "variazione_1g_pct": -0.88,
+      "variazione_1m_pct": -1.21,
+      "variazione_1a_pct": 16.46,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.87,
-      "variazione_1g_pct": -5.11,
-      "variazione_1m_pct": -2.24,
-      "variazione_1a_pct": -11.17,
-      "sopra_media_50gg": false,
+      "prezzo": 16.49,
+      "variazione_1g_pct": 10.89,
+      "variazione_1m_pct": 14.28,
+      "variazione_1a_pct": 7.85,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": false,
-      "trend": "correzione"
+      "trend": "trend positivo"
     }
   },
   "macro": [
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "Borse Ue caute con stallo Usa-Iran e balzo greggio. A Milano sale Eni",
+      "link": "https://www.ilsole24ore.com/art/borse-cinesi-rosso-shanghai-15percento-shenzhen-33percento-AJAD5ERB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Icop rilancia su Trevi, offerta migliorata del 24,1%",
       "link": "https://www.ilsole24ore.com/art/icop-rilancia-trevi-offerta-migliorata-241percento-AJXIdaPB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Ifis, cambio al vertice: Zingone nuovo Ceo. Da Bankitalia ok alla fusione con illimity",
-      "link": "https://www.ilsole24ore.com/art/ifis-cambio-vertice-arriva-zingone-bankitalia-ok-fusione-illimity-AJCBloOB"
+      "titolo": "Exor, nel primo semestre NAV per azione in calo del 4%",
+      "link": "https://www.ilsole24ore.com/art/exor-primo-semestre-nav-azione-calo-4percento-AJSFiRLB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,34 +129,29 @@
       "link": "https://www.ilsole24ore.com/art/boeing-svolta-resta-ancora-lontana-ritardi-e-produzione-sotto-pressione-AJ0EQGLB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Pirelli, piano di investimenti da 1 miliardo negli Usa",
-      "link": "https://www.ilsole24ore.com/art/pirelli-piano-investimenti-1-miliardo-usa-AJnbNPLB"
+      "fonte": "ANSA Economia",
+      "titolo": "Agea, domande entro il 30 settembre per il bonus gasolio agricoltura",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/agea-domande-entro-il-30-settembre-per-il-bonus-gasolio-agricoltura_a6ade7b0-bb4b-46e4-a6ce-32c782c3bda6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ceo Armani, non è scritto sulla pietra che il 15% vada a un solo partner",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ceo-armani-non-e-scritto-sulla-pietra-che-il-15-vada-a-un-solo-partner_589fa5e2-384e-46c0-832c-48f120f389e0.html"
+      "titolo": "Parte da circa 300 distributori limite prezzi Ip, tetto uguale ad Eni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/parte-da-circa-300-distributori-limite-prezzi-ip-tetto-uguale-ad-eni_954645af-a337-4eab-ba58-a19e874b8bdc.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cgia, 'bene sconto Eni ma la situazione resta comunque critica'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/cgia-bene-sconto-eni-ma-la-situazione-resta-comunque-critica_60dc55dd-0ecd-42ff-8e9f-e374eea854a5.html"
+      "titolo": "Ricerca e innovazione, Astrazeneca presenta strategia per competitività e crescita",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/ricerca-e-innovazione-astrazeneca-presenta-strategia-per-competitivita-e-crescita_47dba0af-25e5-401d-9b08-5728f277cbc0.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "'In Europa migliora puntualità aerei ma 3 su 10 in ritardo, rischio rincari'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/in-europa-migliora-puntualita-aerei-ma-3-su-10-in-ritardo-rischio-rincari_01312812-b346-4b46-82cc-71434f030bfa.html"
+      "titolo": "Borsa: l'Europa positiva dopo Wall Street, Milano +0,37%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-leuropa-positiva-dopo-wall-street-milano-037_4eed4655-6e06-4b24-bc2a-f7f2af685047.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "I bar sotto casa, ne scompaiono 11 al giorno. L'allarme di Confesercenti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/bar-sotto-casa-la-desertificazione-ne-cancella-24mila-in-6-anni-11-al-giorno_41129101-66b3-4b57-b8ee-ea35f41e224d.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Carburanti ancora in rialzo, il diesel si avvicina a 2,5 euro in autostrada",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/carburanti-ancora-in-rialzo-diesel-si-avvicina-a-25-euro-in-autostrada_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html"
+      "titolo": "Lagarde, i tassi a lungo termine freneranno la crescita",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/lagarde-i-tassi-a-lungo-termine-freneranno-la-crescita_329c2ee3-21d4-4cce-ba8e-608a05ff2d67.html"
     }
   ]
 }
