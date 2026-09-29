@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-28T15:05:07.988502Z",
+  "aggiornato_il": "2026-09-29T13:51:15.579096Z",
   "sentiment": {
     "punteggio": 90.3,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51891.84,
-      "variazione_1g_pct": 0.05,
-      "variazione_1m_pct": -1.38,
-      "variazione_1a_pct": 21.68,
+      "prezzo": 51866.06,
+      "variazione_1g_pct": 0.2,
+      "variazione_1m_pct": -1.43,
+      "variazione_1a_pct": 21.88,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7675.19,
-      "variazione_1g_pct": -0.88,
-      "variazione_1m_pct": -0.47,
-      "variazione_1a_pct": 15.53,
+      "prezzo": 7681.69,
+      "variazione_1g_pct": -0.03,
+      "variazione_1m_pct": -0.39,
+      "variazione_1a_pct": 15.32,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 640.61,
-      "variazione_1g_pct": 0.31,
-      "variazione_1m_pct": -2.22,
-      "variazione_1a_pct": 15.53,
+      "prezzo": 639.57,
+      "variazione_1g_pct": 0.14,
+      "variazione_1m_pct": -2.38,
+      "variazione_1a_pct": 15.13,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 206.9,
-      "variazione_1g_pct": -0.88,
-      "variazione_1m_pct": -1.21,
-      "variazione_1a_pct": 16.46,
+      "prezzo": 206.85,
+      "variazione_1g_pct": -0.16,
+      "variazione_1m_pct": -1.23,
+      "variazione_1a_pct": 16.02,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 16.49,
-      "variazione_1g_pct": 10.89,
-      "variazione_1m_pct": 14.28,
-      "variazione_1a_pct": 7.85,
+      "prezzo": 15.91,
+      "variazione_1g_pct": -1.0,
+      "variazione_1m_pct": 10.26,
+      "variazione_1a_pct": -1.3,
       "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-25",
-      "valore": 0.36,
-      "valore_anno_fa": 0.54,
-      "variazione": -0.18
+      "data": "2026-09-28",
+      "valore": 0.32,
+      "valore_anno_fa": 0.52,
+      "variazione": -0.2
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,48 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse Ue caute con stallo Usa-Iran e balzo greggio. A Milano sale Eni",
-      "link": "https://www.ilsole24ore.com/art/borse-cinesi-rosso-shanghai-15percento-shenzhen-33percento-AJAD5ERB"
+      "titolo": "Borse, Europa positiva al traino del tech. Il petrolio inverte la rotta",
+      "link": "https://www.ilsole24ore.com/art/obbligazioni-asiatiche-calo-scia-ribasso-treasury-usa-AJKJwPSB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Icop rilancia su Trevi, offerta migliorata del 24,1%",
-      "link": "https://www.ilsole24ore.com/art/icop-rilancia-trevi-offerta-migliorata-241percento-AJXIdaPB"
+      "titolo": "L’aereo cargo di Airbus è decollato per fare concorrenza alla Boeing",
+      "link": "https://www.ilsole24ore.com/art/l-aereo-cargo-airbus-e-decollato-fare-concorrenza-boeing-AJOPRdSB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Exor, nel primo semestre NAV per azione in calo del 4%",
-      "link": "https://www.ilsole24ore.com/art/exor-primo-semestre-nav-azione-calo-4percento-AJSFiRLB"
+      "titolo": "Emirates, l’operatività torna al 100% in Italia. Volumi in aumento per i prossimi mesi",
+      "link": "https://www.ilsole24ore.com/art/emirates-l-operativita-torna-100percento-italia-volumi-aumento-i-prossimi-mesi-AJpuTGPB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Boeing, la svolta resta ancora lontana: ritardi e produzione sotto pressione",
-      "link": "https://www.ilsole24ore.com/art/boeing-svolta-resta-ancora-lontana-ritardi-e-produzione-sotto-pressione-AJ0EQGLB"
+      "titolo": "Il gruppo Ovs chiude il semestre con le vendite in crescita a oltre 877 milioni",
+      "link": "https://www.ilsole24ore.com/art/il-gruppo-ovs-chiude-semestre-le-vendite-crescita-oltre-877-milioni-AJyzKmMB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Agea, domande entro il 30 settembre per il bonus gasolio agricoltura",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/agea-domande-entro-il-30-settembre-per-il-bonus-gasolio-agricoltura_a6ade7b0-bb4b-46e4-a6ce-32c782c3bda6.html"
+      "titolo": "Landini, 'abbiamo 120 anni e vogliamo andare avanti con forza'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/landini-abbiamo-120-anni-e-vogliamo-andare-avanti-con-forza_5fe904a2-968d-4ea6-85df-40db68ed8bb6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Parte da circa 300 distributori limite prezzi Ip, tetto uguale ad Eni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/parte-da-circa-300-distributori-limite-prezzi-ip-tetto-uguale-ad-eni_954645af-a337-4eab-ba58-a19e874b8bdc.html"
+      "titolo": "Il petrolio è in calo a New York, a -2,28%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/il-petrolio-e-in-calo-a-new-york-a-228_6b23bc91-fda7-4600-aafe-1c8954117314.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ricerca e innovazione, Astrazeneca presenta strategia per competitività e crescita",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/ricerca-e-innovazione-astrazeneca-presenta-strategia-per-competitivita-e-crescita_47dba0af-25e5-401d-9b08-5728f277cbc0.html"
+      "titolo": "Allarme energia dalla Uil di Milano, 'si rischia il black-out industriale'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/allarme-energia-dalla-uil-di-milano-si-rischia-il-black-out-industriale_d3211d4f-aeda-48db-a8e1-8124bb62c9f0.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa positiva dopo Wall Street, Milano +0,37%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-leuropa-positiva-dopo-wall-street-milano-037_4eed4655-6e06-4b24-bc2a-f7f2af685047.html"
+      "titolo": "Von der Leyen, 'completamento rete trasporti Ue farebbe crescere Pil europeo del 2,4%'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/von-der-leyen-completamento-rete-trasporti-ue-farebbe-crescere-pil-europeo_c3f30c58-dc96-4c8a-93b6-d81cc3fcd065.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lagarde, i tassi a lungo termine freneranno la crescita",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/lagarde-i-tassi-a-lungo-termine-freneranno-la-crescita_329c2ee3-21d4-4cce-ba8e-608a05ff2d67.html"
+      "titolo": "Nell'asta dei titoli di Stato rendimenti ai massimi degli ultimi tre anni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/nellasta-dei-titoli-di-stato-rendimenti-ai-massimi-degli-ultimi-tre-anni_569e060e-9e0b-4c18-bff6-e56a5944be62.html"
     }
   ]
 }
