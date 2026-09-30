@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-09-29T13:51:15.579096Z",
+  "aggiornato_il": "2026-09-30T13:25:01.180910Z",
   "sentiment": {
     "punteggio": 90.3,
     "semaforo": "verde",
@@ -12,47 +12,47 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51866.06,
-      "variazione_1g_pct": 0.2,
-      "variazione_1m_pct": -1.43,
-      "variazione_1a_pct": 21.88,
+      "prezzo": 51576.19,
+      "variazione_1g_pct": -0.44,
+      "variazione_1m_pct": -1.97,
+      "variazione_1a_pct": 20.72,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7681.69,
-      "variazione_1g_pct": -0.03,
-      "variazione_1m_pct": -0.39,
-      "variazione_1a_pct": 15.32,
+      "prezzo": 7670.84,
+      "variazione_1g_pct": -0.17,
+      "variazione_1m_pct": -0.53,
+      "variazione_1a_pct": 15.16,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 639.57,
-      "variazione_1g_pct": 0.14,
-      "variazione_1m_pct": -2.38,
-      "variazione_1a_pct": 15.13,
+      "prezzo": 638.12,
+      "variazione_1g_pct": 0.01,
+      "variazione_1m_pct": -1.99,
+      "variazione_1a_pct": 14.32,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 206.85,
-      "variazione_1g_pct": -0.16,
-      "variazione_1m_pct": -1.23,
-      "variazione_1a_pct": 16.02,
+      "prezzo": 206.71,
+      "variazione_1g_pct": -0.23,
+      "variazione_1m_pct": -1.3,
+      "variazione_1a_pct": 15.94,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.91,
-      "variazione_1g_pct": -1.0,
-      "variazione_1m_pct": 10.26,
-      "variazione_1a_pct": -1.3,
-      "sopra_media_50gg": true,
+      "prezzo": 15.77,
+      "variazione_1g_pct": -1.68,
+      "variazione_1m_pct": 5.7,
+      "variazione_1a_pct": -3.13,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-28",
-      "valore": 0.32,
+      "data": "2026-09-29",
+      "valore": 0.37,
       "valore_anno_fa": 0.52,
-      "variazione": -0.2
+      "variazione": -0.15
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -109,49 +109,29 @@
   ],
   "news": [
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, Europa positiva al traino del tech. Il petrolio inverte la rotta",
-      "link": "https://www.ilsole24ore.com/art/obbligazioni-asiatiche-calo-scia-ribasso-treasury-usa-AJKJwPSB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "L’aereo cargo di Airbus è decollato per fare concorrenza alla Boeing",
-      "link": "https://www.ilsole24ore.com/art/l-aereo-cargo-airbus-e-decollato-fare-concorrenza-boeing-AJOPRdSB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Emirates, l’operatività torna al 100% in Italia. Volumi in aumento per i prossimi mesi",
-      "link": "https://www.ilsole24ore.com/art/emirates-l-operativita-torna-100percento-italia-volumi-aumento-i-prossimi-mesi-AJpuTGPB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Il gruppo Ovs chiude il semestre con le vendite in crescita a oltre 877 milioni",
-      "link": "https://www.ilsole24ore.com/art/il-gruppo-ovs-chiude-semestre-le-vendite-crescita-oltre-877-milioni-AJyzKmMB"
+      "fonte": "ANSA Economia",
+      "titolo": "Nautica, nel 2025 fatturato complessivo Italia a 8,72 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/nautica-nel-2025-fatturato-complessivo-italia-a-872-miliardi_38ac9c27-07a7-44ec-93f1-3e44786de572.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Landini, 'abbiamo 120 anni e vogliamo andare avanti con forza'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/landini-abbiamo-120-anni-e-vogliamo-andare-avanti-con-forza_5fe904a2-968d-4ea6-85df-40db68ed8bb6.html"
+      "titolo": "Il Giappone riapre il mercato alla carne argentina dopo 20 anni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/il-giappone-riapre-il-mercato-alla-carne-argentina-dopo-20-anni_594afdb8-2d57-4fee-bd15-af78c903584b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il petrolio è in calo a New York, a -2,28%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/il-petrolio-e-in-calo-a-new-york-a-228_6b23bc91-fda7-4600-aafe-1c8954117314.html"
+      "titolo": "Mariani (Leonardo), 'scelta ottimale per tutti ospitare Mbda a Pomigliano'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/mariani-leonardo-scelta-ottimale-per-tutti-ospitare-mbda-a-pomigliano_e14bce3f-c52f-4026-be36-ef252f1f4446.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Allarme energia dalla Uil di Milano, 'si rischia il black-out industriale'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/allarme-energia-dalla-uil-di-milano-si-rischia-il-black-out-industriale_d3211d4f-aeda-48db-a8e1-8124bb62c9f0.html"
+      "titolo": "L'inflazione Usa in agosto al 3,4%, sotto le attese",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/linflazione-usa-in-agosto-al-34-sotto-le-attese_35ce9752-83ad-4828-b515-08298aed3f30.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Von der Leyen, 'completamento rete trasporti Ue farebbe crescere Pil europeo del 2,4%'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/von-der-leyen-completamento-rete-trasporti-ue-farebbe-crescere-pil-europeo_c3f30c58-dc96-4c8a-93b6-d81cc3fcd065.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Nell'asta dei titoli di Stato rendimenti ai massimi degli ultimi tre anni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/nellasta-dei-titoli-di-stato-rendimenti-ai-massimi-degli-ultimi-tre-anni_569e060e-9e0b-4c18-bff6-e56a5944be62.html"
+      "titolo": "Bmw punta un rialzo dei margini sull'auto fino al 5% nel 2028",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/bmw-punta-un-rialzo-dei-margini-sullauto-fino-al-5-nel-2028_7dac6dd7-6136-46ee-958f-b6e83e04c6c9.html"
     }
   ]
 }
