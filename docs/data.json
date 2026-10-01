@@ -1,58 +1,58 @@
 {
-  "aggiornato_il": "2026-09-30T13:25:01.180910Z",
+  "aggiornato_il": "2026-10-01T14:18:24.501343Z",
   "sentiment": {
-    "punteggio": 90.3,
+    "punteggio": 88.8,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 81.25,
+      "momentum": 75.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51576.19,
-      "variazione_1g_pct": -0.44,
-      "variazione_1m_pct": -1.97,
-      "variazione_1a_pct": 20.72,
+      "prezzo": 50505.24,
+      "variazione_1g_pct": -1.69,
+      "variazione_1m_pct": -2.72,
+      "variazione_1a_pct": 17.24,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7670.84,
-      "variazione_1g_pct": -0.17,
-      "variazione_1m_pct": -0.53,
-      "variazione_1a_pct": 15.16,
-      "sopra_media_50gg": true,
+      "prezzo": 7635.99,
+      "variazione_1g_pct": -0.2,
+      "variazione_1m_pct": 0.06,
+      "variazione_1a_pct": 13.78,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 638.12,
-      "variazione_1g_pct": 0.01,
-      "variazione_1m_pct": -1.99,
-      "variazione_1a_pct": 14.32,
+      "prezzo": 627.23,
+      "variazione_1g_pct": -1.21,
+      "variazione_1m_pct": -3.12,
+      "variazione_1a_pct": 11.09,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 206.71,
-      "variazione_1g_pct": -0.23,
-      "variazione_1m_pct": -1.3,
-      "variazione_1a_pct": 15.94,
+      "prezzo": 205.34,
+      "variazione_1g_pct": -0.43,
+      "variazione_1m_pct": -0.82,
+      "variazione_1a_pct": 14.27,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.77,
-      "variazione_1g_pct": -1.68,
-      "variazione_1m_pct": 5.7,
-      "variazione_1a_pct": -3.13,
-      "sopra_media_50gg": false,
+      "prezzo": 17.59,
+      "variazione_1g_pct": 7.65,
+      "variazione_1m_pct": 7.65,
+      "variazione_1a_pct": 7.98,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
@@ -61,9 +61,9 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-29",
-      "valore": 0.37,
-      "valore_anno_fa": 0.52,
+      "data": "2026-09-30",
+      "valore": 0.41,
+      "valore_anno_fa": 0.56,
       "variazione": -0.15
     },
     {
@@ -109,29 +109,49 @@
   ],
   "news": [
     {
-      "fonte": "ANSA Economia",
-      "titolo": "Nautica, nel 2025 fatturato complessivo Italia a 8,72 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/nautica-nel-2025-fatturato-complessivo-italia-a-872-miliardi_38ac9c27-07a7-44ec-93f1-3e44786de572.html"
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Eni, completato riassetto di Plenitude con aumento di capitale da 1,56 miliardi",
+      "link": "https://www.ilsole24ore.com/art/eni-completato-riassetto-plenitude-aumento-capitale-156-miliardi-AJxxFyUB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Wilson (Ryanair): «Con il caro energia le tariffe aeree europee saliranno»",
+      "link": "https://www.ilsole24ore.com/art/wilson-ryanair-con-caro-energia-tariffe-aeree-europee-saliranno-AJet05UB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "UCapital24, l’Ebitda sale del 44%, perdita più che dimezzata",
+      "link": "https://www.ilsole24ore.com/art/ucapital24-l-ebitda-sale-44percento-perdita-piu-che-dimezzata-AJVfl1TB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Ifis, cambio al vertice: Zingone nuovo Ceo. Da Bankitalia ok alla fusione con illimity",
+      "link": "https://www.ilsole24ore.com/art/ifis-cambio-vertice-arriva-zingone-bankitalia-ok-fusione-illimity-AJCBloOB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il Giappone riapre il mercato alla carne argentina dopo 20 anni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/il-giappone-riapre-il-mercato-alla-carne-argentina-dopo-20-anni_594afdb8-2d57-4fee-bd15-af78c903584b.html"
+      "titolo": "Borsa: Europa scende malgrado Wall Street, Milano -1,4%e spread a 112 punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-europa-scende-malgrado-wall-street-milano-14e-spread-a-112_24e8d629-9f83-4f5d-9cc7-bde44224be75.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Mariani (Leonardo), 'scelta ottimale per tutti ospitare Mbda a Pomigliano'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/mariani-leonardo-scelta-ottimale-per-tutti-ospitare-mbda-a-pomigliano_e14bce3f-c52f-4026-be36-ef252f1f4446.html"
+      "titolo": "Lagarde, l'Ia porta rischi a finanza, Europa sviluppi proprie capacità",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lagarde-lia-porta-rischi-a-finanza-europa-sviluppi-proprie-capacita_698b4ea0-c42d-40b1-b227-f5ca3c4cd3d4.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'inflazione Usa in agosto al 3,4%, sotto le attese",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/linflazione-usa-in-agosto-al-34-sotto-le-attese_35ce9752-83ad-4828-b515-08298aed3f30.html"
+      "titolo": "Lega Navale Italiana, 'accendere un faro sulla crisi della piccola nautica'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lega-navale-italiana-accendere-un-faro-sulla-crisi-della-piccola-nautica_2baaec82-b570-4bdd-b35c-83348ae40582.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bmw punta un rialzo dei margini sull'auto fino al 5% nel 2028",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/bmw-punta-un-rialzo-dei-margini-sullauto-fino-al-5-nel-2028_7dac6dd7-6136-46ee-958f-b6e83e04c6c9.html"
+      "titolo": "Pinton, sostenere la ricerca per produrre più cibo con meno impatto",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/pinton-sostenere-la-ricerca-per-produrre-piu-cibo-con-meno-impatto_bc3d7d18-4312-4724-a00a-fe162b97566c.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Wall Street apre positiva, Dj a +0,27% e Nasdaq a +0,24%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/wall-street-apre-positiva-dj-a-027-e-nasdaq-a-024_b580fa6a-6852-4955-a4aa-ee6f68758c8f.html"
     }
   ]
 }
