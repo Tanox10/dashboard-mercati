@@ -1,58 +1,58 @@
 {
-  "aggiornato_il": "2026-10-01T14:18:24.501343Z",
+  "aggiornato_il": "2026-10-02T13:41:32.500750Z",
   "sentiment": {
-    "punteggio": 88.8,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 75.0,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50505.24,
-      "variazione_1g_pct": -1.69,
-      "variazione_1m_pct": -2.72,
-      "variazione_1a_pct": 17.24,
+      "prezzo": 50243.9,
+      "variazione_1g_pct": 0.01,
+      "variazione_1m_pct": -2.99,
+      "variazione_1a_pct": 16.63,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7635.99,
-      "variazione_1g_pct": -0.2,
-      "variazione_1m_pct": 0.06,
-      "variazione_1a_pct": 13.78,
-      "sopra_media_50gg": false,
+      "prezzo": 7733.34,
+      "variazione_1g_pct": 0.87,
+      "variazione_1m_pct": 0.87,
+      "variazione_1a_pct": 15.16,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 627.23,
-      "variazione_1g_pct": -1.21,
-      "variazione_1m_pct": -3.12,
-      "variazione_1a_pct": 11.09,
+      "prezzo": 631.72,
+      "variazione_1g_pct": 0.81,
+      "variazione_1m_pct": -2.2,
+      "variazione_1a_pct": 11.3,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 205.34,
-      "variazione_1g_pct": -0.43,
-      "variazione_1m_pct": -0.82,
-      "variazione_1a_pct": 14.27,
-      "sopra_media_50gg": false,
+      "prezzo": 207.79,
+      "variazione_1g_pct": 0.95,
+      "variazione_1m_pct": -0.1,
+      "variazione_1a_pct": 15.46,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.59,
-      "variazione_1g_pct": 7.65,
-      "variazione_1m_pct": 7.65,
-      "variazione_1a_pct": 7.98,
-      "sopra_media_50gg": true,
+      "prezzo": 15.62,
+      "variazione_1g_pct": -4.7,
+      "variazione_1m_pct": 2.76,
+      "variazione_1a_pct": -6.07,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-09-30",
-      "valore": 0.41,
-      "valore_anno_fa": 0.56,
-      "variazione": -0.15
+      "data": "2026-10-01",
+      "valore": 0.46,
+      "valore_anno_fa": 0.57,
+      "variazione": -0.11
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -77,9 +77,9 @@
     {
       "nome": "Disoccupazione USA",
       "unita": "%",
-      "data": "2026-08-01",
-      "valore": 4.1,
-      "valore_anno_fa": 4.3,
+      "data": "2026-09-01",
+      "valore": 4.2,
+      "valore_anno_fa": 4.4,
       "variazione": -0.2
     },
     {
@@ -130,28 +130,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa scende malgrado Wall Street, Milano -1,4%e spread a 112 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-europa-scende-malgrado-wall-street-milano-14e-spread-a-112_24e8d629-9f83-4f5d-9cc7-bde44224be75.html"
+      "titolo": "Ericsson: Landini, faremo di tutto per lavoratori, impugneremo licenziamenti (2)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/ericsson-landini-faremo-di-tutto-per-lavoratori-impugneremo-licenziamenti-2_589bbb44-ef47-46cc-9034-73b7b5a214dd.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lagarde, l'Ia porta rischi a finanza, Europa sviluppi proprie capacità",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lagarde-lia-porta-rischi-a-finanza-europa-sviluppi-proprie-capacita_698b4ea0-c42d-40b1-b227-f5ca3c4cd3d4.html"
+      "titolo": "Arera, a settembre il prezzo del gas aumenta del 12,7% per i vulnerabili",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/arera-a-settembre-il-prezzo-del-gas-aumenta-del-127-per-i-vulnerabili_38f23948-41cd-4e02-afc1-9f12535a5ddb.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lega Navale Italiana, 'accendere un faro sulla crisi della piccola nautica'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lega-navale-italiana-accendere-un-faro-sulla-crisi-della-piccola-nautica_2baaec82-b570-4bdd-b35c-83348ae40582.html"
+      "titolo": "L'economia Usa crea a settembre 29.000 posti di lavoro, sotto le attese",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/leconomia-usa-crea-a-settembre-29.000-posti-di-lavoro-sotto-le-attese_bbaec089-3944-4503-9a1e-70d4689a718c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Pinton, sostenere la ricerca per produrre più cibo con meno impatto",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/pinton-sostenere-la-ricerca-per-produrre-piu-cibo-con-meno-impatto_bc3d7d18-4312-4724-a00a-fe162b97566c.html"
+      "titolo": "Ryanair supera i 20 milioni di passeggeri in settembre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/ryanair-supera-i-20-milioni-di-passeggeri-in-settembre_7cdd2457-8972-4f89-b272-24f3a824bc48.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre positiva, Dj a +0,27% e Nasdaq a +0,24%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/wall-street-apre-positiva-dj-a-027-e-nasdaq-a-024_b580fa6a-6852-4955-a4aa-ee6f68758c8f.html"
+      "titolo": "Borsa: Milano gira di nuovo in calo e cede lo 0,5% con le banche",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-milano-gira-di-nuovo-in-calo-e-cede-lo-05-con-le-banche_6706f9ea-3ba5-4515-b11e-d67e193b516f.html"
     }
   ]
 }
