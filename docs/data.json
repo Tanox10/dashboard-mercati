@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-10-02T13:41:32.500750Z",
+  "aggiornato_il": "2026-10-03T12:19:09.660256Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 90.3,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50243.9,
-      "variazione_1g_pct": 0.01,
-      "variazione_1m_pct": -2.99,
-      "variazione_1a_pct": 16.63,
+      "prezzo": 50483.0,
+      "variazione_1g_pct": 0.49,
+      "variazione_1m_pct": -2.53,
+      "variazione_1a_pct": 17.19,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7733.34,
-      "variazione_1g_pct": 0.87,
-      "variazione_1m_pct": 0.87,
-      "variazione_1a_pct": 15.16,
+      "prezzo": 7722.72,
+      "variazione_1g_pct": 0.73,
+      "variazione_1m_pct": 0.73,
+      "variazione_1a_pct": 15.0,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 631.72,
-      "variazione_1g_pct": 0.81,
-      "variazione_1m_pct": -2.2,
-      "variazione_1a_pct": 11.3,
+      "prezzo": 631.35,
+      "variazione_1g_pct": 0.75,
+      "variazione_1m_pct": -2.25,
+      "variazione_1a_pct": 11.23,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.79,
-      "variazione_1g_pct": 0.95,
-      "variazione_1m_pct": -0.1,
-      "variazione_1a_pct": 15.46,
-      "sopra_media_50gg": true,
+      "prezzo": 207.53,
+      "variazione_1g_pct": 0.82,
+      "variazione_1m_pct": -0.23,
+      "variazione_1a_pct": 15.31,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.62,
-      "variazione_1g_pct": -4.7,
-      "variazione_1m_pct": 2.76,
-      "variazione_1a_pct": -6.07,
+      "prezzo": 15.31,
+      "variazione_1g_pct": -6.59,
+      "variazione_1m_pct": 0.72,
+      "variazione_1a_pct": -7.94,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-01",
-      "valore": 0.46,
-      "valore_anno_fa": 0.57,
-      "variazione": -0.11
+      "data": "2026-10-02",
+      "valore": 0.45,
+      "valore_anno_fa": 0.55,
+      "variazione": -0.1
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,48 +110,43 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Eni, completato riassetto di Plenitude con aumento di capitale da 1,56 miliardi",
-      "link": "https://www.ilsole24ore.com/art/eni-completato-riassetto-plenitude-aumento-capitale-156-miliardi-AJxxFyUB"
+      "titolo": "Ecco come trarre profitto dalla crescita delle azioni",
+      "link": "https://www.ilsole24ore.com/art/ken-fisher-ecco-come-trarre-profitto-crescita-azioni-AJHmrEXB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Wilson (Ryanair): «Con il caro energia le tariffe aeree europee saliranno»",
-      "link": "https://www.ilsole24ore.com/art/wilson-ryanair-con-caro-energia-tariffe-aeree-europee-saliranno-AJet05UB"
+      "titolo": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene",
+      "link": "https://www.ilsole24ore.com/art/italgas-avanza-mercato-estero-firmato-accordo-il-225percento-portoghese-floene-AJxVxLWB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "UCapital24, l’Ebitda sale del 44%, perdita più che dimezzata",
-      "link": "https://www.ilsole24ore.com/art/ucapital24-l-ebitda-sale-44percento-perdita-piu-che-dimezzata-AJVfl1TB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Ifis, cambio al vertice: Zingone nuovo Ceo. Da Bankitalia ok alla fusione con illimity",
-      "link": "https://www.ilsole24ore.com/art/ifis-cambio-vertice-arriva-zingone-bankitalia-ok-fusione-illimity-AJCBloOB"
+      "titolo": "Icop rilancia su Trevi, offerta migliorata del 24,1%",
+      "link": "https://www.ilsole24ore.com/art/icop-rilancia-trevi-offerta-migliorata-241percento-AJXIdaPB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ericsson: Landini, faremo di tutto per lavoratori, impugneremo licenziamenti (2)",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/ericsson-landini-faremo-di-tutto-per-lavoratori-impugneremo-licenziamenti-2_589bbb44-ef47-46cc-9034-73b7b5a214dd.html"
+      "titolo": "Pnrr, dal Mit 1,55 miliardi, 59 interventi per acqua",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/pnrr-dal-mit-155-miliardi-59-interventi-per-acqua_bfb56cbc-de74-477b-976e-1283fb2e9f1e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Arera, a settembre il prezzo del gas aumenta del 12,7% per i vulnerabili",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/arera-a-settembre-il-prezzo-del-gas-aumenta-del-127-per-i-vulnerabili_38f23948-41cd-4e02-afc1-9f12535a5ddb.html"
+      "titolo": "Borsa: in Europa il settore auto è il peggiore da inizio anno",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/borsa-in-europa-il-settore-auto-e-il-peggiore-da-inizio-anno_b5e1031b-1245-4250-a124-a6435811748a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'economia Usa crea a settembre 29.000 posti di lavoro, sotto le attese",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/leconomia-usa-crea-a-settembre-29.000-posti-di-lavoro-sotto-le-attese_bbaec089-3944-4503-9a1e-70d4689a718c.html"
+      "titolo": "Mimit, oltre 10mila distributori hanno aderito a price cap carburanti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/mimit-oltre-10mila-distributori-hanno-aderito-a-price-cap-carburanti_c4488638-d85b-4156-a391-82cfdba965d9.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ryanair supera i 20 milioni di passeggeri in settembre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/ryanair-supera-i-20-milioni-di-passeggeri-in-settembre_7cdd2457-8972-4f89-b272-24f3a824bc48.html"
+      "titolo": "Oltre 10mila i distributori che hanno aderito al price cap",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/oltre-10mila-i-distributori-che-hanno-aderito-al-price-cap_d589a273-bd43-4b9a-bb4f-8ad19633e300.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano gira di nuovo in calo e cede lo 0,5% con le banche",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-milano-gira-di-nuovo-in-calo-e-cede-lo-05-con-le-banche_6706f9ea-3ba5-4515-b11e-d67e193b516f.html"
+      "titolo": "Urso, 'giovedì tavolo con società raffinazione per capire come aumentare produzione'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/urso-visita-stabilimenti-isab-a-priolo-tutelata-la-prima-raffineria-ditalia_47b1a14f-ad6d-4953-be6f-1f63e9e0a5fe.html"
     }
   ]
 }
