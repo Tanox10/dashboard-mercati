@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-05T15:39:55.616496Z",
+  "aggiornato_il": "2026-10-06T14:01:07.410375Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50726.17,
-      "variazione_1g_pct": 0.48,
-      "variazione_1m_pct": -2.64,
-      "variazione_1a_pct": 17.26,
+      "prezzo": 51094.51,
+      "variazione_1g_pct": 0.54,
+      "variazione_1m_pct": -1.93,
+      "variazione_1a_pct": 18.42,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7759.17,
-      "variazione_1g_pct": 0.47,
-      "variazione_1m_pct": 0.53,
-      "variazione_1a_pct": 15.54,
+      "prezzo": 7828.4,
+      "variazione_1g_pct": 0.7,
+      "variazione_1m_pct": 1.42,
+      "variazione_1a_pct": 16.14,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 632.83,
-      "variazione_1g_pct": 0.23,
-      "variazione_1m_pct": -2.62,
-      "variazione_1a_pct": 10.94,
+      "prezzo": 636.43,
+      "variazione_1g_pct": 0.44,
+      "variazione_1m_pct": -2.07,
+      "variazione_1a_pct": 11.61,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 208.15,
-      "variazione_1g_pct": 0.3,
-      "variazione_1m_pct": -0.8,
-      "variazione_1a_pct": 15.42,
+      "prezzo": 209.88,
+      "variazione_1g_pct": 0.64,
+      "variazione_1m_pct": 0.03,
+      "variazione_1a_pct": 16.0,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.53,
-      "variazione_1g_pct": 1.44,
-      "variazione_1m_pct": 6.88,
-      "variazione_1a_pct": -6.73,
+      "prezzo": 15.4,
+      "variazione_1g_pct": -0.77,
+      "variazione_1m_pct": 5.99,
+      "variazione_1a_pct": -5.93,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-02",
-      "valore": 0.45,
-      "valore_anno_fa": 0.55,
-      "variazione": -0.1
+      "data": "2026-10-05",
+      "valore": 0.47,
+      "valore_anno_fa": 0.58,
+      "variazione": -0.11
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,8 +110,8 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Ecco come trarre profitto dalla crescita delle azioni",
-      "link": "https://www.ilsole24ore.com/art/ken-fisher-ecco-come-trarre-profitto-crescita-azioni-AJHmrEXB"
+      "titolo": "Cvc e Gbl alzano l’offerta su Recordati a 53 euro per azione",
+      "link": "https://www.ilsole24ore.com/art/cvc-e-gbl-alzano-l-offerta-recordati-53-euro-azione-AJbA2caB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -120,43 +120,43 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "Váradi (Wizz Air): «Non siamo una compagnia fragile, abbiamo liquidità e aerei nuovi»",
+      "link": "https://www.ilsole24ore.com/art/varadi-wizz-air-non-siamo-compagnia-fragile-abbiamo-liquidita-e-aerei-nuovi-AJeYDiZB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Trevi scatta, Webuild alza il prezzo dell'Opa",
+      "link": "https://www.ilsole24ore.com/art/trevi-scatta-webuild-alza-prezzo-opa-AJl3KRZB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene",
       "link": "https://www.ilsole24ore.com/art/italgas-avanza-mercato-estero-firmato-accordo-il-225percento-portoghese-floene-AJxVxLWB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Da Novartis a Novo, le big pharma puntano sulle biotech cinesi",
-      "link": "https://www.ilsole24ore.com/art/da-novartis-novo-big-pharma-puntano-biotech-cinesi-AJKfovWB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Wilson (Ryanair): «Con il caro energia le tariffe aeree europee saliranno»",
-      "link": "https://www.ilsole24ore.com/art/wilson-ryanair-con-caro-energia-tariffe-aeree-europee-saliranno-AJet05UB"
+      "fonte": "ANSA Economia",
+      "titolo": "Da Bankitalia una proposta per una definizione unica di prestiti 'verdi' per edilizia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/da-bankitalia-una-proposta-per-una-definizione-unica-di-prestiti-verdi-per_6d63a47e-c144-4bf6-92ea-50830be0fd82.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Paoletti (Cciaa VG), 'su energia serve ripensamento politico internazionale'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/paoletti-cciaa-vg-su-energia-serve-ripensamento-politico-internazionale_5ba49480-95b1-4022-8fb2-623474f33e29.html"
+      "titolo": "Wall Street apre positiva, Dj a +0,31% e +0,72%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/wall-street-apre-positiva-dj-a-031-e-072_fe87d40d-92ee-464c-a9b4-e36cc9f56e63.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Scade a mezzanotte sconto carburanti, da domani accise mobili",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/scade-a-mezzanotte-sconto-carburanti-da-domani-accise-mobili_00b334a0-c9eb-4bbe-bd6f-0641f807961f.html"
+      "titolo": "Sella crea un polo unico del private banking da 55 miliardi di masse",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/sella-crea-un-polo-unico-del-private-banking-da-55-miliardi-di-masse_6d3bdbc2-4ca1-46d4-8cec-711c1f3c3f8d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "È morta la giornalista dell'ANSA Alessandra Moneti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/e-morta-la-giornalista-dellansa-alessandra-moneti_6c075924-092b-467f-b77a-4ad797b4e2b0.html"
+      "titolo": "Marcegaglia: 'Impatto enorme dei costi dell'energia, imprese non possono resistere molto'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/marcegaglia-impatto-enorme-dei-costi-dellenergia-imprese-non-possono-resistere_4fd882df-b63f-45cb-89b6-599da3c57f56.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Sindaco Cerreto, 'mantenimento temporaneo sito produttivo non è garanzia di futuro'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/sindaco-cerreto-mantenimento-temporaneo-sito-produttivo-non-e-garanzia-di-futuro_b16b9bd1-ee30-4d5e-9088-3130e52ed624.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Pichetto, sul nucleare valutiamo impianti di piccola stazza",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/pichetto-sul-nucleare-valutiamo-impianti-di-piccola-stazza_6778b0d4-2da5-4b42-816d-7fad54efd475.html"
+      "titolo": "Acea sbarca in Calabria, acquisito l'80% di Kratos",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/acea-sbarca-in-calabria-acquisito-l80-di-kratos_37bb6a53-160b-47c1-bbb2-3ebc25447daa.html"
     }
   ]
 }
