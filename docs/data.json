@@ -1,58 +1,58 @@
 {
-  "aggiornato_il": "2026-10-06T14:01:07.410375Z",
+  "aggiornato_il": "2026-10-07T14:18:18.856379Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 90.3,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51094.51,
-      "variazione_1g_pct": 0.54,
-      "variazione_1m_pct": -1.93,
-      "variazione_1a_pct": 18.42,
+      "prezzo": 49863.05,
+      "variazione_1g_pct": -2.73,
+      "variazione_1m_pct": -4.53,
+      "variazione_1a_pct": 15.77,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7828.4,
-      "variazione_1g_pct": 0.7,
-      "variazione_1m_pct": 1.42,
-      "variazione_1a_pct": 16.14,
+      "prezzo": 7772.09,
+      "variazione_1g_pct": -0.6,
+      "variazione_1m_pct": 0.69,
+      "variazione_1a_pct": 15.75,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 636.43,
-      "variazione_1g_pct": 0.44,
-      "variazione_1m_pct": -2.07,
-      "variazione_1a_pct": 11.61,
+      "prezzo": 628.97,
+      "variazione_1g_pct": -1.2,
+      "variazione_1m_pct": -3.22,
+      "variazione_1a_pct": 10.49,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 209.88,
-      "variazione_1g_pct": 0.64,
-      "variazione_1m_pct": 0.03,
-      "variazione_1a_pct": 16.0,
-      "sopra_media_50gg": true,
+      "prezzo": 207.98,
+      "variazione_1g_pct": -0.83,
+      "variazione_1m_pct": -0.88,
+      "variazione_1a_pct": 15.58,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.4,
-      "variazione_1g_pct": -0.77,
-      "variazione_1m_pct": 5.99,
-      "variazione_1a_pct": -5.93,
-      "sopra_media_50gg": false,
+      "prezzo": 15.72,
+      "variazione_1g_pct": 4.73,
+      "variazione_1m_pct": 2.75,
+      "variazione_1a_pct": -8.82,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-05",
-      "valore": 0.47,
+      "data": "2026-10-06",
+      "valore": 0.48,
       "valore_anno_fa": 0.58,
-      "variazione": -0.11
+      "variazione": -0.1
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Cvc e Gbl alzano l’offerta su Recordati a 53 euro per azione",
-      "link": "https://www.ilsole24ore.com/art/cvc-e-gbl-alzano-l-offerta-recordati-53-euro-azione-AJbA2caB"
+      "titolo": "Trevi, guerra di esposti in Consob: Webuild e Icop incrociano i guantoni",
+      "link": "https://www.ilsole24ore.com/art/trevi-guerra-esposti-consob-webuild-e-icop-incrociano-guantoni-AJfs8FbB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse europee in bilico tra rischio Francia e sorpresa Bolsonaro. Milano chiude a +0,6%",
-      "link": "https://www.ilsole24ore.com/art/borse-asia-rialzo-petrolio-calo-e-titoli-tech-tassi-focus-fed-AJXX9FZB"
+      "titolo": "Borse in rosso, nuova tempesta sui bond. Milano torna sotto 50mila punti",
+      "link": "https://www.ilsole24ore.com/art/borse-asia-calo-nonostante-rally-wall-street-petrolio-rialzo-AJ3hdhbB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Cvc e Gbl alzano l’offerta su Recordati a 53 euro per azione",
+      "link": "https://www.ilsole24ore.com/art/cvc-e-gbl-alzano-l-offerta-recordati-53-euro-azione-AJbA2caB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/trevi-scatta-webuild-alza-prezzo-opa-AJl3KRZB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene",
-      "link": "https://www.ilsole24ore.com/art/italgas-avanza-mercato-estero-firmato-accordo-il-225percento-portoghese-floene-AJxVxLWB"
+      "fonte": "ANSA Economia",
+      "titolo": "Core Stack e Green Arrow, 1 miliardo per rete di 13 data center in Italia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/core-stack-e-green-arrow-1-miliardo-per-rete-di-13-data-center-in-italia_3b98bfce-39ec-4323-8628-85acfa96a09a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Da Bankitalia una proposta per una definizione unica di prestiti 'verdi' per edilizia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/da-bankitalia-una-proposta-per-una-definizione-unica-di-prestiti-verdi-per_6d63a47e-c144-4bf6-92ea-50830be0fd82.html"
+      "titolo": "La mostra ANSA 'Le donne delle Repubblica' alla sede dell'Abi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/la-mostra-ansa-le-donne-delle-repubblica-alla-sede-dellabi_02884964-d5b0-478e-a9be-a39f0c596aa6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre positiva, Dj a +0,31% e +0,72%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/wall-street-apre-positiva-dj-a-031-e-072_fe87d40d-92ee-464c-a9b4-e36cc9f56e63.html"
+      "titolo": "Meloni, sulla richiesta di flessibilità per l'inflazione c'è interesse in Ue",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/meloni-sulla-richiesta-di-flessibilita-per-linflazione-ce-interesse-in-ue_68301e67-b9fd-4589-9ebe-6e367e62e8af.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Sella crea un polo unico del private banking da 55 miliardi di masse",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/sella-crea-un-polo-unico-del-private-banking-da-55-miliardi-di-masse_6d3bdbc2-4ca1-46d4-8cec-711c1f3c3f8d.html"
+      "titolo": "Borsa: Milano sotto i 50.000 punti dopo l'avvio di Wall Street, spread oltre 117",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-milano-sotto-i-50.000-punti-dopo-lavvio-di-wall-street-spread_6282b39c-61a5-42c0-8322-5f894b76c985.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Marcegaglia: 'Impatto enorme dei costi dell'energia, imprese non possono resistere molto'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/marcegaglia-impatto-enorme-dei-costi-dellenergia-imprese-non-possono-resistere_4fd882df-b63f-45cb-89b6-599da3c57f56.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Acea sbarca in Calabria, acquisito l'80% di Kratos",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/acea-sbarca-in-calabria-acquisito-l80-di-kratos_37bb6a53-160b-47c1-bbb2-3ebc25447daa.html"
+      "titolo": "Wall Street apre in calo, Dj -0,64%, Nasdaq -0,52%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/wall-street-apre-in-calo-dj-064-nasdaq-052_beaa9b3a-15e7-47e8-96fa-5e6f48440713.html"
     }
   ]
 }
