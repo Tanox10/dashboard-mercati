@@ -1,58 +1,58 @@
 {
-  "aggiornato_il": "2026-10-07T14:18:18.856379Z",
+  "aggiornato_il": "2026-10-08T14:26:32.300103Z",
   "sentiment": {
-    "punteggio": 90.3,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 81.25,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49863.05,
-      "variazione_1g_pct": -2.73,
-      "variazione_1m_pct": -4.53,
-      "variazione_1a_pct": 15.77,
+      "prezzo": 49620.85,
+      "variazione_1g_pct": -0.7,
+      "variazione_1m_pct": -4.9,
+      "variazione_1a_pct": 14.11,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7772.09,
-      "variazione_1g_pct": -0.6,
-      "variazione_1m_pct": 0.69,
-      "variazione_1a_pct": 15.75,
+      "prezzo": 7791.08,
+      "variazione_1g_pct": -0.14,
+      "variazione_1m_pct": 1.53,
+      "variazione_1a_pct": 15.36,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 628.97,
-      "variazione_1g_pct": -1.2,
-      "variazione_1m_pct": -3.22,
-      "variazione_1a_pct": 10.49,
+      "prezzo": 628.52,
+      "variazione_1g_pct": -0.27,
+      "variazione_1m_pct": -3.25,
+      "variazione_1a_pct": 9.54,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.98,
-      "variazione_1g_pct": -0.83,
-      "variazione_1m_pct": -0.88,
-      "variazione_1a_pct": 15.58,
-      "sopra_media_50gg": false,
+      "prezzo": 208.24,
+      "variazione_1g_pct": -0.2,
+      "variazione_1m_pct": -0.18,
+      "variazione_1a_pct": 15.16,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.72,
-      "variazione_1g_pct": 4.73,
-      "variazione_1m_pct": 2.75,
-      "variazione_1a_pct": -8.82,
-      "sopra_media_50gg": true,
+      "prezzo": 15.4,
+      "variazione_1g_pct": 2.12,
+      "variazione_1m_pct": -2.04,
+      "variazione_1a_pct": -5.52,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-06",
-      "valore": 0.48,
-      "valore_anno_fa": 0.58,
-      "variazione": -0.1
+      "data": "2026-10-07",
+      "valore": 0.51,
+      "valore_anno_fa": 0.57,
+      "variazione": -0.06
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,23 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Trevi, guerra di esposti in Consob: Webuild e Icop incrociano i guantoni",
-      "link": "https://www.ilsole24ore.com/art/trevi-guerra-esposti-consob-webuild-e-icop-incrociano-guantoni-AJfs8FbB"
+      "titolo": "Unipol lancia aumento da 2,5 miliardi per le filiali Mps, sconto del 18,75%",
+      "link": "https://www.ilsole24ore.com/art/unipol-lancia-aumento-25-miliardi-le-filiali-mps-sconto-1875percento-AJbt4ycB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse in rosso, nuova tempesta sui bond. Milano torna sotto 50mila punti",
-      "link": "https://www.ilsole24ore.com/art/borse-asia-calo-nonostante-rally-wall-street-petrolio-rialzo-AJ3hdhbB"
+      "titolo": "Borse contrastate, le banche pesano su Milano. Richieste sussidi Usa meglio delle attese",
+      "link": "https://www.ilsole24ore.com/art/borsa-indici-giovedi-8-ottobre-2026-AJhb1wcB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Stellantis prosegue il recupero dai minimi con il settore auto europeo",
+      "link": "https://www.ilsole24ore.com/art/stellantis-prosegue-recupero-minimi-il-settore-auto-europeo-AJpVssbB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Ieg arretra verso il prezzo di collocamento della quota del 3,4%",
+      "link": "https://www.ilsole24ore.com/art/ieg-arretra-il-prezzo-collocamento-quota-34percento-AJ97bqbB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,39 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/cvc-e-gbl-alzano-l-offerta-recordati-53-euro-azione-AJbA2caB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Váradi (Wizz Air): «Non siamo una compagnia fragile, abbiamo liquidità e aerei nuovi»",
-      "link": "https://www.ilsole24ore.com/art/varadi-wizz-air-non-siamo-compagnia-fragile-abbiamo-liquidita-e-aerei-nuovi-AJeYDiZB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Trevi scatta, Webuild alza il prezzo dell'Opa",
-      "link": "https://www.ilsole24ore.com/art/trevi-scatta-webuild-alza-prezzo-opa-AJl3KRZB"
+      "fonte": "ANSA Economia",
+      "titolo": "Olanda, flessibilità? 'stanchi di questa discussione, bisogna spendere di meno'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/olanda-flessibilita-stanchi-di-questa-discussione-bisogna-spendere-di-meno_fe6a6119-52cb-4225-8ab6-923ec8fbb6eb.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Core Stack e Green Arrow, 1 miliardo per rete di 13 data center in Italia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/core-stack-e-green-arrow-1-miliardo-per-rete-di-13-data-center-in-italia_3b98bfce-39ec-4323-8628-85acfa96a09a.html"
+      "titolo": "Bce, un ulteriore aumento dei tassi sarebbe giustificato dall'inflazione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/bce-un-ulteriore-aumento-dei-tassi-sarebbe-giustificato-dallinflazione_7ef2462f-2f6a-4a64-a78a-ed4a3688f67d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La mostra ANSA 'Le donne delle Repubblica' alla sede dell'Abi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/la-mostra-ansa-le-donne-delle-repubblica-alla-sede-dellabi_02884964-d5b0-478e-a9be-a39f0c596aa6.html"
+      "titolo": "Borsa: Milano (-0,6%) riduce le perdite con l'Europa, lo spread scende a 110 punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-06-riduce-le-perdite-con-leuropa-lo-spread-scende-a-110-punti_9e208748-4cfe-45c1-9a97-237f838794bf.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Meloni, sulla richiesta di flessibilità per l'inflazione c'è interesse in Ue",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/meloni-sulla-richiesta-di-flessibilita-per-linflazione-ce-interesse-in-ue_68301e67-b9fd-4589-9ebe-6e367e62e8af.html"
+      "titolo": "Klingbeil, flessibilità fiscale? Abbiamo appena rivisto le regole Ue",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/klingbeil-flessibilita-fiscale-abbiamo-appena-rivisto-le-regole-ue_037370ce-8b30-4951-a6ac-001245847487.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano sotto i 50.000 punti dopo l'avvio di Wall Street, spread oltre 117",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-milano-sotto-i-50.000-punti-dopo-lavvio-di-wall-street-spread_6282b39c-61a5-42c0-8322-5f894b76c985.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre in calo, Dj -0,64%, Nasdaq -0,52%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/wall-street-apre-in-calo-dj-064-nasdaq-052_beaa9b3a-15e7-47e8-96fa-5e6f48440713.html"
+      "titolo": "Nuovo piano di azionariato per i dipendenti di Generali. Donnet, 'percorso condiviso'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/nuovo-piano-di-azionariato-per-i-dipendenti-di-generali.-donnet-percorso-condiviso_2f334e12-0595-4fec-9e6d-d0ccc18cefb1.html"
     }
   ]
 }
