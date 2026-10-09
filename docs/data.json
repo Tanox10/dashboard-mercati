@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-10-08T14:26:32.300103Z",
+  "aggiornato_il": "2026-10-09T14:13:16.000246Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 90.3,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49620.85,
-      "variazione_1g_pct": -0.7,
-      "variazione_1m_pct": -4.9,
-      "variazione_1a_pct": 14.11,
+      "prezzo": 49833.2,
+      "variazione_1g_pct": 1.09,
+      "variazione_1m_pct": -3.94,
+      "variazione_1a_pct": 16.45,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7791.08,
-      "variazione_1g_pct": -0.14,
-      "variazione_1m_pct": 1.53,
-      "variazione_1a_pct": 15.36,
+      "prezzo": 7788.33,
+      "variazione_1g_pct": 0.3,
+      "variazione_1m_pct": 1.99,
+      "variazione_1a_pct": 15.64,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 628.52,
-      "variazione_1g_pct": -0.27,
-      "variazione_1m_pct": -3.25,
-      "variazione_1a_pct": 9.54,
+      "prezzo": 632.79,
+      "variazione_1g_pct": 1.16,
+      "variazione_1m_pct": -1.19,
+      "variazione_1a_pct": 10.76,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 208.24,
-      "variazione_1g_pct": -0.2,
-      "variazione_1m_pct": -0.18,
-      "variazione_1a_pct": 15.16,
-      "sopra_media_50gg": true,
+      "prezzo": 208.32,
+      "variazione_1g_pct": 0.22,
+      "variazione_1m_pct": 0.42,
+      "variazione_1a_pct": 15.73,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.4,
-      "variazione_1g_pct": 2.12,
-      "variazione_1m_pct": -2.04,
-      "variazione_1a_pct": -5.52,
+      "prezzo": 15.07,
+      "variazione_1g_pct": -2.21,
+      "variazione_1m_pct": -8.44,
+      "variazione_1a_pct": -8.28,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-07",
-      "valore": 0.51,
-      "valore_anno_fa": 0.57,
-      "variazione": -0.06
+      "data": "2026-10-08",
+      "valore": 0.47,
+      "valore_anno_fa": 0.55,
+      "variazione": -0.08
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,53 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Unipol lancia aumento da 2,5 miliardi per le filiali Mps, sconto del 18,75%",
-      "link": "https://www.ilsole24ore.com/art/unipol-lancia-aumento-25-miliardi-le-filiali-mps-sconto-1875percento-AJbt4ycB"
+      "titolo": "UniCredit, oggi Cda informativo sul risiko e scenari M&amp;A",
+      "link": "https://www.ilsole24ore.com/art/unicredit-oggi-cda-informativo-risiko-e-scenari-ma-AJBI9QeB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse contrastate, le banche pesano su Milano. Richieste sussidi Usa meglio delle attese",
+      "titolo": "Borse ancora ostaggio di bond e greggio, a Milano (-1,3%) nuova caduta per le banche. Wall Street chiude contrastata",
       "link": "https://www.ilsole24ore.com/art/borsa-indici-giovedi-8-ottobre-2026-AJhb1wcB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Stellantis prosegue il recupero dai minimi con il settore auto europeo",
-      "link": "https://www.ilsole24ore.com/art/stellantis-prosegue-recupero-minimi-il-settore-auto-europeo-AJpVssbB"
+      "titolo": "Lottomatica-Cirsa, dai CdA sì alla fusione da 34 miliardi.  Agli azionisti un dividendo da 4 miliardi in 3 anni",
+      "link": "https://www.ilsole24ore.com/art/lottomatica-cirsa-cda-si-fusione-34-miliardiagli-azionisti-dividendo-4-miliardi-3-anni-AJnCXReB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Ieg arretra verso il prezzo di collocamento della quota del 3,4%",
-      "link": "https://www.ilsole24ore.com/art/ieg-arretra-il-prezzo-collocamento-quota-34percento-AJ97bqbB"
+      "titolo": "Trevi apre la porta a Webuild dopo il rilancio a 5,165 euro",
+      "link": "https://www.ilsole24ore.com/art/trevi-approva-l-offerta-webuild-il-rilancio-5165-euro-AJQebedB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Cvc e Gbl alzano l’offerta su Recordati a 53 euro per azione",
-      "link": "https://www.ilsole24ore.com/art/cvc-e-gbl-alzano-l-offerta-recordati-53-euro-azione-AJbA2caB"
+      "titolo": "Unipol lancia aumento da 2,5 miliardi per le filiali Mps, sconto del 18,75%",
+      "link": "https://www.ilsole24ore.com/art/unipol-lancia-aumento-25-miliardi-le-filiali-mps-sconto-1875percento-AJbt4ycB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Olanda, flessibilità? 'stanchi di questa discussione, bisogna spendere di meno'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/olanda-flessibilita-stanchi-di-questa-discussione-bisogna-spendere-di-meno_fe6a6119-52cb-4225-8ab6-923ec8fbb6eb.html"
+      "titolo": "Borsa: l'Europa prosegue in rialzo dopo Wall Street, Milano +1,2%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-leuropa-prosegue-in-rialzo-dopo-wall-street-milano-12_836f427c-00c1-4eb6-9db5-9e93adaefa32.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bce, un ulteriore aumento dei tassi sarebbe giustificato dall'inflazione",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/bce-un-ulteriore-aumento-dei-tassi-sarebbe-giustificato-dallinflazione_7ef2462f-2f6a-4a64-a78a-ed4a3688f67d.html"
+      "titolo": "Vacanze, estate meglio del previsto, ma chiude in calo per due terzi delle agenzie",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/vacanze-estate-meglio-del-previsto-ma-chiude-in-calo-per-due-terzi_98bbfa03-660b-42ef-8b22-375c825cbda5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano (-0,6%) riduce le perdite con l'Europa, lo spread scende a 110 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-06-riduce-le-perdite-con-leuropa-lo-spread-scende-a-110-punti_9e208748-4cfe-45c1-9a97-237f838794bf.html"
+      "titolo": "Bcc Lombardia in crescita, raccolta primo semestre supera 36,5 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bcc-lombardia-in-crescita-raccolta-primo-semestre-supera-365-miliardi_000a9d19-f95c-457b-b1e0-ce119b48691b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Klingbeil, flessibilità fiscale? Abbiamo appena rivisto le regole Ue",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/klingbeil-flessibilita-fiscale-abbiamo-appena-rivisto-le-regole-ue_037370ce-8b30-4951-a6ac-001245847487.html"
+      "titolo": "Nuova edizione campagna 'I Navigati' su cybersicurezza e prevenzione truffe finanza",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/nuova-edizione-campagna-i-navigati-su-cybersicurezza-e-prevenzione-truffe-finanza_ecbeaa7a-0a45-4126-af8a-eba858679a17.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nuovo piano di azionariato per i dipendenti di Generali. Donnet, 'percorso condiviso'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/nuovo-piano-di-azionariato-per-i-dipendenti-di-generali.-donnet-percorso-condiviso_2f334e12-0595-4fec-9e6d-d0ccc18cefb1.html"
+      "titolo": "Dombrovskis, 'extraprofitti sono in capo agli Stati, da Ue gruppo di lavoro'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/dombrovskis-extraprofitti-sono-in-capo-agli-stati-da-ue-gruppo-di-lavoro_51144cc4-bfe4-4062-abcd-ff232b17afb1.html"
     }
   ]
 }
