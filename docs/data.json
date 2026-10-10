@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-10-09T14:13:16.000246Z",
+  "aggiornato_il": "2026-10-10T13:22:47.482628Z",
   "sentiment": {
-    "punteggio": 90.3,
+    "punteggio": 91.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 81.25,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49833.2,
-      "variazione_1g_pct": 1.09,
-      "variazione_1m_pct": -3.94,
-      "variazione_1a_pct": 16.45,
+      "prezzo": 49746.0,
+      "variazione_1g_pct": 0.91,
+      "variazione_1m_pct": -4.1,
+      "variazione_1a_pct": 16.25,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7788.33,
-      "variazione_1g_pct": 0.3,
-      "variazione_1m_pct": 1.99,
-      "variazione_1a_pct": 15.64,
+      "prezzo": 7811.54,
+      "variazione_1g_pct": 0.59,
+      "variazione_1m_pct": 2.29,
+      "variazione_1a_pct": 15.98,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 632.79,
-      "variazione_1g_pct": 1.16,
-      "variazione_1m_pct": -1.19,
-      "variazione_1a_pct": 10.76,
+      "prezzo": 631.55,
+      "variazione_1g_pct": 0.97,
+      "variazione_1m_pct": -1.38,
+      "variazione_1a_pct": 10.54,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 208.32,
-      "variazione_1g_pct": 0.22,
-      "variazione_1m_pct": 0.42,
-      "variazione_1a_pct": 15.73,
-      "sopra_media_50gg": false,
+      "prezzo": 209.14,
+      "variazione_1g_pct": 0.61,
+      "variazione_1m_pct": 0.81,
+      "variazione_1a_pct": 16.19,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.07,
-      "variazione_1g_pct": -2.21,
-      "variazione_1m_pct": -8.44,
-      "variazione_1a_pct": -8.28,
+      "prezzo": 14.84,
+      "variazione_1g_pct": -3.7,
+      "variazione_1m_pct": -9.84,
+      "variazione_1a_pct": -9.68,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-08",
-      "valore": 0.47,
-      "valore_anno_fa": 0.55,
-      "variazione": -0.08
+      "data": "2026-10-09",
+      "valore": 0.44,
+      "valore_anno_fa": 0.54,
+      "variazione": -0.1
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,8 +110,8 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "UniCredit, oggi Cda informativo sul risiko e scenari M&amp;A",
-      "link": "https://www.ilsole24ore.com/art/unicredit-oggi-cda-informativo-risiko-e-scenari-ma-AJBI9QeB"
+      "titolo": "Iss ai soci di Mediobanca: votare a favore della fusione con Mps",
+      "link": "https://www.ilsole24ore.com/art/iss-soci-mediobanca-votare-favore-fusione-mps-AJmfimfB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -120,43 +120,43 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "Opa su Iveco Group, Tata rilancia di 0,3 euro",
+      "link": "https://www.ilsole24ore.com/art/opa-iveco-group-tata-rilancia-03-euro-AJ5J17eB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "SpaceX sbarca nella telefonia mobile",
+      "link": "https://www.ilsole24ore.com/art/spacex-sbarca-telefonia-mobile-AJ7L98eB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Lottomatica-Cirsa, dai CdA sì alla fusione da 34 miliardi.  Agli azionisti un dividendo da 4 miliardi in 3 anni",
       "link": "https://www.ilsole24ore.com/art/lottomatica-cirsa-cda-si-fusione-34-miliardiagli-azionisti-dividendo-4-miliardi-3-anni-AJnCXReB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Trevi apre la porta a Webuild dopo il rilancio a 5,165 euro",
-      "link": "https://www.ilsole24ore.com/art/trevi-approva-l-offerta-webuild-il-rilancio-5165-euro-AJQebedB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Unipol lancia aumento da 2,5 miliardi per le filiali Mps, sconto del 18,75%",
-      "link": "https://www.ilsole24ore.com/art/unipol-lancia-aumento-25-miliardi-le-filiali-mps-sconto-1875percento-AJbt4ycB"
+      "fonte": "ANSA Economia",
+      "titolo": "Lombardi,da Cse investimenti su innovazione e digitale banche,siamo partner affidabile",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/lombardida-cse-investimenti-su-innovazione-e-digitale-banchesiamo-partner-affidabile_bbbee4ba-2df1-43d2-b6cb-69fab9c1ba3c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa prosegue in rialzo dopo Wall Street, Milano +1,2%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-leuropa-prosegue-in-rialzo-dopo-wall-street-milano-12_836f427c-00c1-4eb6-9db5-9e93adaefa32.html"
+      "titolo": "Analisti, 'revoca sanzioni russe su diesel non risolve, problema è in Medio Oriente'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/analisti-revoca-sanzioni-russe-su-diesel-non-risolve-problema-e-in-medio-oriente_5f11c673-36b5-4a62-b81e-1e93384d085a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Vacanze, estate meglio del previsto, ma chiude in calo per due terzi delle agenzie",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/vacanze-estate-meglio-del-previsto-ma-chiude-in-calo-per-due-terzi_98bbfa03-660b-42ef-8b22-375c825cbda5.html"
+      "titolo": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/mazzi-a-settembre-litalia-prima-in-europa-per-saturazione_c8346b88-1b51-4b51-a11a-0f6ca91db33a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bcc Lombardia in crescita, raccolta primo semestre supera 36,5 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bcc-lombardia-in-crescita-raccolta-primo-semestre-supera-365-miliardi_000a9d19-f95c-457b-b1e0-ce119b48691b.html"
+      "titolo": "Dal 2019 al 2025 scomparse 111mila imprese al dettaglio nei comuni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/dal-2019-al-2025-scomparse-111mila-imprese-al-dettaglio-nei-comuni_f5450fea-ebc9-476f-aeae-5866feaa9569.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nuova edizione campagna 'I Navigati' su cybersicurezza e prevenzione truffe finanza",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/nuova-edizione-campagna-i-navigati-su-cybersicurezza-e-prevenzione-truffe-finanza_ecbeaa7a-0a45-4126-af8a-eba858679a17.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Dombrovskis, 'extraprofitti sono in capo agli Stati, da Ue gruppo di lavoro'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/dombrovskis-extraprofitti-sono-in-capo-agli-stati-da-ue-gruppo-di-lavoro_51144cc4-bfe4-4062-abcd-ff232b17afb1.html"
+      "titolo": "Oltre 50mila firme per proposta di legge sul commercio di prossimità",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/oltre-50mila-firme-per-proposta-di-legge-sul-commercio-di-prossimita_2c3b6108-6b5f-45c3-a5b3-e827d2f98bb7.html"
     }
   ]
 }
