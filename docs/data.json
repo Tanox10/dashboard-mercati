@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-11T13:51:05.281399Z",
+  "aggiornato_il": "2026-10-12T16:34:40.522969Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,49 +12,49 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49746.0,
-      "variazione_1g_pct": 0.91,
-      "variazione_1m_pct": -4.1,
-      "variazione_1a_pct": 16.25,
+      "prezzo": 50035.0,
+      "variazione_1g_pct": 0.58,
+      "variazione_1m_pct": -4.72,
+      "variazione_1a_pct": 18.99,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7811.54,
-      "variazione_1g_pct": 0.59,
-      "variazione_1m_pct": 2.29,
-      "variazione_1a_pct": 15.98,
+      "prezzo": 7810.21,
+      "variazione_1g_pct": -0.02,
+      "variazione_1m_pct": 2.0,
+      "variazione_1a_pct": 19.19,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 631.55,
-      "variazione_1g_pct": 0.97,
-      "variazione_1m_pct": -1.38,
-      "variazione_1a_pct": 10.54,
+      "prezzo": 635.65,
+      "variazione_1g_pct": 0.65,
+      "variazione_1m_pct": -0.54,
+      "variazione_1a_pct": 12.67,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 209.14,
-      "variazione_1g_pct": 0.61,
-      "variazione_1m_pct": 0.81,
-      "variazione_1a_pct": 16.19,
+      "prezzo": 209.07,
+      "variazione_1g_pct": -0.04,
+      "variazione_1m_pct": 0.66,
+      "variazione_1a_pct": 19.06,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 14.84,
-      "variazione_1g_pct": -3.7,
-      "variazione_1m_pct": -9.84,
-      "variazione_1a_pct": -9.68,
+      "prezzo": 15.12,
+      "variazione_1g_pct": 1.89,
+      "variazione_1m_pct": -4.55,
+      "variazione_1a_pct": -30.19,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "trend": "bear market"
     }
   },
   "macro": [
@@ -110,8 +110,8 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Iss ai soci di Mediobanca: votare a favore della fusione con Mps",
-      "link": "https://www.ilsole24ore.com/art/iss-soci-mediobanca-votare-favore-fusione-mps-AJmfimfB"
+      "titolo": "Borse, Europa positiva nonostante rialzo petrolio. Milano (+0,6%) riagguanta i 50mila punti",
+      "link": "https://www.ilsole24ore.com/art/aperture-miste-le-borse-asiatiche-attesa-i-dati-sull-inflazione-usa-AJ5nS7gB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Da gennaio oltre 700 morti sul lavoro. Mattarella: 'La Carta tutela la sicurezza, serve prevenzione'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/anmil-da-gennaio-ad-oggi-oltre-700-morti-sul-lavoro-istituire-reato_cf73ab34-468f-42d1-9268-b01d5af2b0da.html"
+      "titolo": "I futures su gas corrono a 84,16 euro al megawattora",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/i-futures-su-gas-corrono-a-8416-euro-al-megawattora_9e4d6364-b0bf-48e1-9c36-fddf5ca29e8f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il carrello sempre più vuoto, dal 2019 la spesa reale è diminuita del 9%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/carrello-sempre-piu-vuoto-dal-2019-la-spesa-reale-e-diminuita-del_0c92267f-d50e-4ce7-abb4-5ced27dca6ec.html"
+      "titolo": "Lo spread Btp-Bund a 109,9 punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/lo-spread-btp-bund-a-1099-punti_2ff9c3f9-2d7b-4376-863d-bc23d019c23f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cambia la spesa degli italiani, cala quella culturale, boom dei piatti pronti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/cambia-la-spesa-degli-italiani-cala-quella-culturale-boom-dei-piatti_98a7cf3d-1369-424c-93e5-f464c284b542.html"
+      "titolo": "Leonardo Maria Del Vecchio, 'con Essilux che perde 50% Milleri dovrebbe essere teso'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/leonardo-maria-del-vecchio-con-essilux-che-perde-50-milleri-dovrebbe_9e62557b-eae7-4753-8831-1411362f9799.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Mazzotta (Fincantieri), fondali e reti sottomarine asset strategici per il Paese",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/mazzotta-fincantieri-fondali-e-reti-sottomarine-asset-strategici-per-il-paese_6a7c2dc9-7622-4b6b-aba5-bb96c601a8e5.html"
+      "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,58%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/borsa-milano-chiude-in-rialzo-ftse-mib-058_2484c089-86f0-441e-a98d-cad4d7922938.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Folgiero, 'Preparazione e responsabilità, valori comuni in azienda e in barca'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/folgiero-preparazione-e-responsabilita-valori-comuni-in-azienda-e-in-barca_5274b0c1-9e45-49d0-95fe-312434b79195.html"
+      "titolo": "Upb, rischi al rialzo sulla traiettoria del debito",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/upb-rischi-al-rialzo-sulla-traiettoria-del-debito_e7629540-b05a-47e3-8ebf-704741270c59.html"
     }
   ]
 }
