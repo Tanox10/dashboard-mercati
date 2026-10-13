@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-12T16:34:40.522969Z",
+  "aggiornato_il": "2026-10-13T14:52:20.456401Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,49 +12,49 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50035.0,
-      "variazione_1g_pct": 0.58,
-      "variazione_1m_pct": -4.72,
-      "variazione_1a_pct": 18.99,
+      "prezzo": 50062.0,
+      "variazione_1g_pct": 0.05,
+      "variazione_1m_pct": -4.67,
+      "variazione_1a_pct": 18.72,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7810.21,
-      "variazione_1g_pct": -0.02,
-      "variazione_1m_pct": 2.0,
-      "variazione_1a_pct": 19.19,
+      "prezzo": 7800.19,
+      "variazione_1g_pct": -0.09,
+      "variazione_1m_pct": 1.87,
+      "variazione_1a_pct": 17.21,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 635.65,
-      "variazione_1g_pct": 0.65,
-      "variazione_1m_pct": -0.54,
-      "variazione_1a_pct": 12.67,
+      "prezzo": 635.46,
+      "variazione_1g_pct": -0.03,
+      "variazione_1m_pct": -0.57,
+      "variazione_1a_pct": 12.15,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 209.07,
-      "variazione_1g_pct": -0.04,
-      "variazione_1m_pct": 0.66,
-      "variazione_1a_pct": 19.06,
+      "prezzo": 209.09,
+      "variazione_1g_pct": 0.08,
+      "variazione_1m_pct": 0.67,
+      "variazione_1a_pct": 17.46,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.12,
-      "variazione_1g_pct": 1.89,
-      "variazione_1m_pct": -4.55,
-      "variazione_1a_pct": -30.19,
+      "prezzo": 15.27,
+      "variazione_1g_pct": 0.39,
+      "variazione_1m_pct": -3.6,
+      "variazione_1a_pct": -19.76,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "bear market"
+      "trend": "correzione"
     }
   },
   "macro": [
@@ -110,8 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, Europa positiva nonostante rialzo petrolio. Milano (+0,6%) riagguanta i 50mila punti",
-      "link": "https://www.ilsole24ore.com/art/aperture-miste-le-borse-asiatiche-attesa-i-dati-sull-inflazione-usa-AJ5nS7gB"
+      "titolo": "Borse, Wall Street contrastata dopo conti banche. A Milano ancora vendite sui tech",
+      "link": "https://www.ilsole24ore.com/art/borse-kospi-crolla-74percento-la-pressione-cinese-chip-petrolio-calo-AJIAnGiB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Corre Inwit, rumors su offerta dai fondi e delisting",
+      "link": "https://www.ilsole24ore.com/art/corre-inwit-rumors-offerta-fondi-e-delisting-AJbQPIhB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Acquisti sulle auto con l'intesa Ue-Cina sui limiti all'export delle ibride",
+      "link": "https://www.ilsole24ore.com/art/acquisti-auto-l-intesa-ue-cina-limiti-export-ibride-AJeCcOhB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,39 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/spacex-sbarca-telefonia-mobile-AJ7L98eB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Lottomatica-Cirsa, dai CdA sì alla fusione da 34 miliardi.  Agli azionisti un dividendo da 4 miliardi in 3 anni",
-      "link": "https://www.ilsole24ore.com/art/lottomatica-cirsa-cda-si-fusione-34-miliardiagli-azionisti-dividendo-4-miliardi-3-anni-AJnCXReB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Trevi apre la porta a Webuild dopo il rilancio a 5,165 euro",
-      "link": "https://www.ilsole24ore.com/art/trevi-approva-l-offerta-webuild-il-rilancio-5165-euro-AJQebedB"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa Milano azzera i guadagni con l'Europa e Wall Street dopo i conti della banche Usa",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/borsa-milano-azzera-i-guadagni-con-leuropa-e-wall-street-dopo-i-conti_f055a095-99d8-4c6c-8c28-dbdf21f84e4c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "I futures su gas corrono a 84,16 euro al megawattora",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/i-futures-su-gas-corrono-a-8416-euro-al-megawattora_9e4d6364-b0bf-48e1-9c36-fddf5ca29e8f.html"
+      "titolo": "UniCredit Foundation, oltre 16 milioni in 3 anni per l'istruzione dei giovani",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/unicredit-foundation-oltre-16-milioni-in-3-anni-per-listruzione-dei-giovani_a3951c32-216f-4585-9da0-8aa0365a9dec.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread Btp-Bund a 109,9 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/lo-spread-btp-bund-a-1099-punti_2ff9c3f9-2d7b-4376-863d-bc23d019c23f.html"
+      "titolo": "Citigroup, +40% gli utili nel terzo trimestre a 5,25 miliardi, +8% i ricavi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/citigroup-40-gli-utili-nel-terzo-trimestre-a-525-miliardi-8-i-ricavi_a0fb6a96-36d4-41e7-95c2-4705f7830218.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Leonardo Maria Del Vecchio, 'con Essilux che perde 50% Milleri dovrebbe essere teso'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/leonardo-maria-del-vecchio-con-essilux-che-perde-50-milleri-dovrebbe_9e62557b-eae7-4753-8831-1411362f9799.html"
+      "titolo": "I turisti italiani viaggeranno meno per Natale, ma gli stranieri sostengono la domanda",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/i-turisti-italiani-viaggeranno-meno-per-natale-ma-gli-stranieri-sostengono-la-domanda_5aaf5898-4230-4a26-b762-4b665b083c8a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano chiude in rialzo, Ftse Mib +0,58%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/borsa-milano-chiude-in-rialzo-ftse-mib-058_2484c089-86f0-441e-a98d-cad4d7922938.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Upb, rischi al rialzo sulla traiettoria del debito",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/upb-rischi-al-rialzo-sulla-traiettoria-del-debito_e7629540-b05a-47e3-8ebf-704741270c59.html"
+      "titolo": "JpMorgan, utile sotto le stime, pesa frenata dei mercati e investimenti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/jpmorgan-utile-sotto-le-stime-pesa-frenata-dei-mercati-e-investimenti_e47f7944-d122-4d48-a78e-38e8378514e7.html"
     }
   ]
 }
