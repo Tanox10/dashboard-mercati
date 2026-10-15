@@ -1,78 +1,78 @@
 {
-  "aggiornato_il": "2026-10-14T12:42:50.308049Z",
+  "aggiornato_il": "2026-10-15T12:30:56.888305Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 90.3,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50108.31,
-      "variazione_1g_pct": 0.1,
-      "variazione_1m_pct": -2.95,
-      "variazione_1a_pct": 19.09,
+      "prezzo": 49421.05,
+      "variazione_1g_pct": -0.67,
+      "variazione_1m_pct": -4.14,
+      "variazione_1a_pct": 17.93,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7805.45,
-      "variazione_1g_pct": -0.02,
-      "variazione_1m_pct": 1.94,
-      "variazione_1a_pct": 17.29,
+      "prezzo": 7718.94,
+      "variazione_1g_pct": -1.11,
+      "variazione_1m_pct": 1.3,
+      "variazione_1a_pct": 16.17,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 639.09,
-      "variazione_1g_pct": 0.64,
-      "variazione_1m_pct": 0.49,
-      "variazione_1a_pct": 13.21,
+      "prezzo": 637.12,
+      "variazione_1g_pct": -0.1,
+      "variazione_1m_pct": 0.46,
+      "variazione_1a_pct": 12.21,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 209.16,
-      "variazione_1g_pct": 0.11,
-      "variazione_1m_pct": 0.71,
-      "variazione_1a_pct": 17.5,
-      "sopra_media_50gg": true,
+      "prezzo": 207.26,
+      "variazione_1g_pct": -0.91,
+      "variazione_1m_pct": 0.22,
+      "variazione_1a_pct": 16.35,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 15.28,
-      "variazione_1g_pct": 0.07,
-      "variazione_1m_pct": -10.64,
-      "variazione_1a_pct": -26.57,
-      "sopra_media_50gg": false,
+      "prezzo": 17.57,
+      "variazione_1g_pct": 4.15,
+      "variazione_1m_pct": 2.15,
+      "variazione_1a_pct": -14.87,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": false,
-      "trend": "bear market"
+      "trend": "correzione"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-13",
-      "valore": 0.42,
+      "data": "2026-10-14",
+      "valore": 0.37,
       "valore_anno_fa": 0.55,
-      "variazione": -0.13
+      "variazione": -0.18
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
       "unita": "%",
-      "valore": 3.35,
+      "valore": 3.72,
       "valore_anno_fa": null,
       "variazione": null,
-      "data": "2026-08-01"
+      "data": "2026-09-01"
     },
     {
       "nome": "Disoccupazione USA",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "OpenAi scopre la talpa interna, arrestato un ingegnere spia a San Francisco",
-      "link": "https://www.ilsole24ore.com/art/openai-scopre-talpa-interna-arrestato-dipendente-san-francisco-AJVw2KjB"
+      "titolo": "Anthropic, ricavi trimestrali a 16,8 miliardi: +45% in vista dell’Ipo",
+      "link": "https://www.ilsole24ore.com/art/anthropic-ricavi-trimestrali-168-miliardi-45percento-vista-dell-ipo-AJHWOJkB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, Europa in cauto rialzo. Inflazione Usa sale al 3,7% sopra attese",
+      "titolo": "Borsa, tornano i timori della stretta Fed. Milano (-0,6%) paga dazio, giù Wall Street",
       "link": "https://www.ilsole24ore.com/art/borse-asiatiche-aperture-miste-tokyo-lieve-rialzo-028percento-attesa-dell-inflazione-usa-AJjYrGjB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "TAP, il Portogallo sceglie Lufthansa per 1,2 miliardi e il 44,9% della compagnia",
+      "link": "https://www.ilsole24ore.com/art/tap-portogallo-sceglie-lufthansa-12-miliardi-e-449percento-compagnia-AJvCfbjB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/mps-iss-contro-ops-bpm-e-banca-generali-AJy1YpiB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Corre Inwit, rumors su offerta dai fondi e delisting",
-      "link": "https://www.ilsole24ore.com/art/corre-inwit-rumors-offerta-fondi-e-delisting-AJbQPIhB"
+      "fonte": "ANSA Economia",
+      "titolo": "Hrc, l'allarme dei direttori del personale su talenti e welfare",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/hrc-lallarme-dei-direttori-del-personale-su-talenti-e-welfare_034d5f78-f644-4f11-950c-c93ac86a0642.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Uil, 'in Lombardia strage sul lavoro,101 morti e 75mila infortuni in 8 mesi'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/uil-in-lombardia-strage-sul-lavoro101-morti-e-75mila-infortuni-in-8-mesi_d4eeca3f-f77a-44ae-a968-61c728a5febd.html"
+      "titolo": "Russo (Conftrasporto), senza risposte governo rischio fermo nazionale",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/russo-conftrasporto-senza-risposte-governo-rischio-fermo-nazionale_828016eb-ea4d-4edc-86a0-14dbb5671bba.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Portogallo sceglie Lufthansa come partner per compagnia aerea Tap",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/portogallo-sceglie-lufthansa-come-partner-per-compagnia-aerea-tap_48fe0eee-a0d5-4fa4-8c6d-8efe121def13.html"
+      "titolo": "Borsa: l'Europa in ordine sparso, Milano -0,8%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-leuropa-in-ordine-sparso-milano-08_a0cefb5e-deb2-4093-a74e-74022ef810df.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Confcommercio, stop agli extracosti per i collegamenti con le isole",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/confcommercio-stop-agli-extracosti-per-i-collegamenti-con-le-isole_bd259a26-5d57-4a6a-8b2a-3b8965f10b95.html"
+      "titolo": "Mazzi, il 22 ottobre Salvini presenta a Stato-Regioni il bando tipo per i balneari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/mazzi-il-22-ottobre-salvini-presenta-a-stato-regioni-il-bando-tipo-per-i-balneari_d4b1d27d-e047-4284-a93f-14f20d9becff.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Descalzi, 'sospendere Ets fino a risoluzione delle guerre in corso'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/descalzi-sospendere-ets-fino-a-risoluzione-delle-guerre-in-corso_afd97851-fe61-431c-9889-7a02658bf2e8.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Meloni, il governo ha restituito ai lavoratori più di quanto preso con fiscal drag",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/meloni-il-governo-ha-restituito-ai-lavoratori-piu-di-quanto-preso-con-fiscal-drag_eb89160c-45b6-47fe-95eb-9a4b1c538d43.html"
+      "titolo": "Inps, oltre 4,5 milioni di pensionati con trattamenti inferiori a 1000 euro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/inps-oltre-45-milioni-di-pensionati-con-trattamenti-inferiori-a-1000-euro_12c12dd0-45bb-429b-a21f-e12f5529053f.html"
     }
   ]
 }
