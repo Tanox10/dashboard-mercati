@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-15T12:30:56.888305Z",
+  "aggiornato_il": "2026-10-16T12:09:31.289978Z",
   "sentiment": {
     "punteggio": 90.3,
     "semaforo": "verde",
@@ -12,59 +12,59 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49421.05,
-      "variazione_1g_pct": -0.67,
-      "variazione_1m_pct": -4.14,
-      "variazione_1a_pct": 17.93,
+      "prezzo": 49703.5,
+      "variazione_1g_pct": 0.62,
+      "variazione_1m_pct": -4.36,
+      "variazione_1a_pct": 17.3,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7718.94,
-      "variazione_1g_pct": -1.11,
-      "variazione_1m_pct": 1.3,
-      "variazione_1a_pct": 16.17,
+      "prezzo": 7744.06,
+      "variazione_1g_pct": 0.33,
+      "variazione_1m_pct": 2.09,
+      "variazione_1a_pct": 16.08,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 637.12,
-      "variazione_1g_pct": -0.1,
-      "variazione_1m_pct": 0.46,
-      "variazione_1a_pct": 12.21,
+      "prezzo": 642.79,
+      "variazione_1g_pct": 0.41,
+      "variazione_1m_pct": 0.89,
+      "variazione_1a_pct": 12.44,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.26,
-      "variazione_1g_pct": -0.91,
-      "variazione_1m_pct": 0.22,
-      "variazione_1a_pct": 16.35,
+      "prezzo": 208.11,
+      "variazione_1g_pct": 0.41,
+      "variazione_1m_pct": 1.21,
+      "variazione_1a_pct": 16.36,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.57,
-      "variazione_1g_pct": 4.15,
-      "variazione_1m_pct": 2.15,
-      "variazione_1a_pct": -14.87,
+      "prezzo": 16.14,
+      "variazione_1g_pct": -1.94,
+      "variazione_1m_pct": -8.87,
+      "variazione_1a_pct": -36.23,
       "sopra_media_50gg": true,
       "sopra_media_200gg": false,
-      "trend": "correzione"
+      "trend": "bear market"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-14",
-      "valore": 0.37,
+      "data": "2026-10-15",
+      "valore": 0.33,
       "valore_anno_fa": 0.55,
-      "variazione": -0.18
+      "variazione": -0.22
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,53 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Anthropic, ricavi trimestrali a 16,8 miliardi: +45% in vista dell’Ipo",
-      "link": "https://www.ilsole24ore.com/art/anthropic-ricavi-trimestrali-168-miliardi-45percento-vista-dell-ipo-AJHWOJkB"
+      "titolo": "Beretta conquista il 25% dell’americana Ruger: adesioni oltre le attese",
+      "link": "https://www.ilsole24ore.com/art/beretta-conquista-25percento-dell-americana-ruger-adesioni-oltre-attese-AJ6vLjlB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borsa, tornano i timori della stretta Fed. Milano (-0,6%) paga dazio, giù Wall Street",
-      "link": "https://www.ilsole24ore.com/art/borse-asiatiche-aperture-miste-tokyo-lieve-rialzo-028percento-attesa-dell-inflazione-usa-AJjYrGjB"
+      "titolo": "Prove di recupero per le Borse Ue, si raffreddano le attese sul rialzo tassi Fed. Scatta Cucinelli",
+      "link": "https://www.ilsole24ore.com/art/borse-asia-positiva-dichiarazioni-fed-crescita-usa-e-investimenti-ai-dollaro-calo-AJ1MWblB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "TAP, il Portogallo sceglie Lufthansa per 1,2 miliardi e il 44,9% della compagnia",
-      "link": "https://www.ilsole24ore.com/art/tap-portogallo-sceglie-lufthansa-12-miliardi-e-449percento-compagnia-AJvCfbjB"
+      "titolo": "Risanamento, è sempre più crisi",
+      "link": "https://www.ilsole24ore.com/art/risanamento-e-sempre-piu-crisi-AJwQyilB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Dalla Ipo di Spacex, boom da 100 miliardi di investimenti nello spazio",
-      "link": "https://www.ilsole24ore.com/art/dalla-ipo-spacex-boom-100-miliardi-investimenti-spazio-AJ8KIsiB"
+      "titolo": "Norvegia pronta a rivedere le regole del fondo Norges: potrà investire nella difesa e nel nucleare",
+      "link": "https://www.ilsole24ore.com/art/svolta-fondo-norges-governo-vuole-che-investa-armi-nucleari-AJCijBlB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Mps, Iss contro le Ops su Bpm e Banca Generali e la maxi-cedola da 4 miliardi",
-      "link": "https://www.ilsole24ore.com/art/mps-iss-contro-ops-bpm-e-banca-generali-AJy1YpiB"
+      "titolo": "Lufthansa su carenza di jet fuel a Francoforte: più carburante a bordo",
+      "link": "https://www.ilsole24ore.com/art/lufthansa-carenza-jet-fuel-francoforte-piu-carburante-bordo-AJKvWzkB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Hrc, l'allarme dei direttori del personale su talenti e welfare",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/hrc-lallarme-dei-direttori-del-personale-su-talenti-e-welfare_034d5f78-f644-4f11-950c-c93ac86a0642.html"
+      "titolo": "Italia destinazione digitale, alla Basilicata l'Oscar del turismo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/italia-destinazione-digitale-alla-basilicata-loscar-del-turismo_636efca1-2d36-449b-922a-8fec12bc6f99.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Russo (Conftrasporto), senza risposte governo rischio fermo nazionale",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/russo-conftrasporto-senza-risposte-governo-rischio-fermo-nazionale_828016eb-ea4d-4edc-86a0-14dbb5671bba.html"
+      "titolo": "L'asse strategico tra Milano e Piacenza debutta in Piazza Affari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/lasse-strategico-tra-milano-e-piacenza-debutta-in-piazza-affari_d2e267bf-0ba8-4a70-9082-b98f6ef694c2.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa in ordine sparso, Milano -0,8%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-leuropa-in-ordine-sparso-milano-08_a0cefb5e-deb2-4093-a74e-74022ef810df.html"
+      "titolo": "Panetta, sugli spread l'epicentro sono gli Usa, noi subiamo la tracimazione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/panetta-sugli-spread-lepicentro-sono-gli-usa-noi-subiamo-la-tracimazione_beda1939-3aaf-4b08-bc9e-7065856c6cb8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Mazzi, il 22 ottobre Salvini presenta a Stato-Regioni il bando tipo per i balneari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/mazzi-il-22-ottobre-salvini-presenta-a-stato-regioni-il-bando-tipo-per-i-balneari_d4b1d27d-e047-4284-a93f-14f20d9becff.html"
+      "titolo": "Giorgetti, 'il prelievo sulle banche sarà sostenibile, non morirà nessuno'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/giorgetti-il-prelievo-sulle-banche-sara-sostenibile-non-morira-nessuno_6d612453-f8ac-46f7-bfa0-c63a37e7d9ee.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Inps, oltre 4,5 milioni di pensionati con trattamenti inferiori a 1000 euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/inps-oltre-45-milioni-di-pensionati-con-trattamenti-inferiori-a-1000-euro_12c12dd0-45bb-429b-a21f-e12f5529053f.html"
+      "titolo": "Niulinx, 'senza modifiche al Codice della strada la guida autonoma va all'estero'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/niulinx-senza-modifiche-al-codice-della-strada-la-guida-autonoma-va-allestero_2b55aa9c-2ec3-490c-bcee-e3e024b24499.html"
     }
   ]
 }
