@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-16T12:09:31.289978Z",
+  "aggiornato_il": "2026-10-17T11:28:35.643767Z",
   "sentiment": {
     "punteggio": 90.3,
     "semaforo": "verde",
@@ -12,48 +12,48 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49703.5,
-      "variazione_1g_pct": 0.62,
-      "variazione_1m_pct": -4.36,
-      "variazione_1a_pct": 17.3,
+      "prezzo": 49857.0,
+      "variazione_1g_pct": 0.93,
+      "variazione_1m_pct": -4.06,
+      "variazione_1a_pct": 17.66,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7744.06,
-      "variazione_1g_pct": 0.33,
-      "variazione_1m_pct": 2.09,
-      "variazione_1a_pct": 16.08,
-      "sopra_media_50gg": true,
+      "prezzo": 7659.44,
+      "variazione_1g_pct": -1.09,
+      "variazione_1m_pct": 1.43,
+      "variazione_1a_pct": 15.54,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 642.79,
-      "variazione_1g_pct": 0.41,
-      "variazione_1m_pct": 0.89,
-      "variazione_1a_pct": 12.44,
-      "sopra_media_50gg": false,
+      "prezzo": 644.74,
+      "variazione_1g_pct": 0.72,
+      "variazione_1m_pct": 1.2,
+      "variazione_1a_pct": 12.78,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 208.11,
-      "variazione_1g_pct": 0.41,
-      "variazione_1m_pct": 1.21,
-      "variazione_1a_pct": 16.36,
+      "prezzo": 206.34,
+      "variazione_1g_pct": -0.85,
+      "variazione_1m_pct": 0.8,
+      "variazione_1a_pct": 15.77,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 16.14,
-      "variazione_1g_pct": -1.94,
-      "variazione_1m_pct": -8.87,
-      "variazione_1a_pct": -36.23,
+      "prezzo": 19.99,
+      "variazione_1g_pct": 21.45,
+      "variazione_1m_pct": 12.87,
+      "variazione_1a_pct": -21.02,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": false,
+      "sopra_media_200gg": true,
       "trend": "bear market"
     }
   },
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-15",
-      "valore": 0.33,
-      "valore_anno_fa": 0.55,
-      "variazione": -0.22
+      "data": "2026-10-16",
+      "valore": 0.35,
+      "valore_anno_fa": 0.58,
+      "variazione": -0.23
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,13 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Beretta conquista il 25% dell’americana Ruger: adesioni oltre le attese",
-      "link": "https://www.ilsole24ore.com/art/beretta-conquista-25percento-dell-americana-ruger-adesioni-oltre-attese-AJ6vLjlB"
+      "titolo": "Beretta: «Attacchi cyber in tutta Europa da intelligence straniere»",
+      "link": "https://www.ilsole24ore.com/art/beretta-attacchi-cyber-tutta-europa-intelligence-straniere-AJEReEmB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Prove di recupero per le Borse Ue, si raffreddano le attese sul rialzo tassi Fed. Scatta Cucinelli",
-      "link": "https://www.ilsole24ore.com/art/borse-asia-positiva-dichiarazioni-fed-crescita-usa-e-investimenti-ai-dollaro-calo-AJ1MWblB"
+      "titolo": "Risanamento, Santa Giulia resta in stallo: il titolo crolla del 46,7% e scatta l’allarme sui conti",
+      "link": "https://www.ilsole24ore.com/art/risanamento-tracolla-467percento-il-nuovo-allarme-conti-AJbdIBmB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -125,38 +125,38 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Norvegia pronta a rivedere le regole del fondo Norges: potrà investire nella difesa e nel nucleare",
-      "link": "https://www.ilsole24ore.com/art/svolta-fondo-norges-governo-vuole-che-investa-armi-nucleari-AJCijBlB"
+      "titolo": "Acquisti su De' Longhi, Akros e Intermonte alzano target price",
+      "link": "https://www.ilsole24ore.com/art/acquisti-de-longhi-akros-e-intermonte-alzano-target-price-AJG4kklB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Lufthansa su carenza di jet fuel a Francoforte: più carburante a bordo",
-      "link": "https://www.ilsole24ore.com/art/lufthansa-carenza-jet-fuel-francoforte-piu-carburante-bordo-AJKvWzkB"
+      "titolo": "Panetta: «Bene le fusioni fra banche. Lo spread? L’epicentro sono gli Usa»",
+      "link": "https://www.ilsole24ore.com/art/panetta-bene-fusioni-banche-spread-l-epicentro-sono-usa-AJZnY1lB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Italia destinazione digitale, alla Basilicata l'Oscar del turismo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/italia-destinazione-digitale-alla-basilicata-loscar-del-turismo_636efca1-2d36-449b-922a-8fec12bc6f99.html"
+      "titolo": "L'asinella Susy alla protesta nel Foggiano, 'costa meno del gasolio'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/lasinella-susy-alla-protesta-nel-foggiano-costa-meno-del-gasolio_bfd729e6-f918-415b-985d-9313daad7d1d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'asse strategico tra Milano e Piacenza debutta in Piazza Affari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/lasse-strategico-tra-milano-e-piacenza-debutta-in-piazza-affari_d2e267bf-0ba8-4a70-9082-b98f6ef694c2.html"
+      "titolo": "Salvini, banche mazzolate? Patuelli sorprendente, contributo da 5 miliardi il minimo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-contributo-da-5-miliardi-il-minimo_e4dd01ec-3ce8-4713-a8f4-49d4e6b2b204.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Panetta, sugli spread l'epicentro sono gli Usa, noi subiamo la tracimazione",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/panetta-sugli-spread-lepicentro-sono-gli-usa-noi-subiamo-la-tracimazione_beda1939-3aaf-4b08-bc9e-7065856c6cb8.html"
+      "titolo": "Tajani e Salvini lontani su banche. 'Sì al confronto'. '5 miliardi il minimo'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/tajani-su-contributo-banche-no-ad-aggressioni-violente-si-al-confronto_4700c65c-5916-43ed-b2a9-0cea1d436087.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti, 'il prelievo sulle banche sarà sostenibile, non morirà nessuno'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/giorgetti-il-prelievo-sulle-banche-sara-sostenibile-non-morira-nessuno_6d612453-f8ac-46f7-bfa0-c63a37e7d9ee.html"
+      "titolo": "Morto a 86 anni dopo una caduta, per oltre mezzo secolo al centro delle grande finanza",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/morto-a-86-anni-dopo-una-caduta-per-oltre-mezzo-secolo-al-centro_f95ff972-5127-406b-909d-e951c6a222ff.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Niulinx, 'senza modifiche al Codice della strada la guida autonoma va all'estero'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/niulinx-senza-modifiche-al-codice-della-strada-la-guida-autonoma-va-allestero_2b55aa9c-2ec3-490c-bcee-e3e024b24499.html"
+      "titolo": "Cgia, 'a Milano si pagano più tasse ma ci sono più servizi'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/cgia-a-milano-si-pagano-piu-tasse-ma-ci-sono-piu-servizi_e9c87d58-783b-46a1-affd-90f8a7318edc.html"
     }
   ]
 }
