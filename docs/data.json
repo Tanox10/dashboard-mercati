@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-17T11:28:35.643767Z",
+  "aggiornato_il": "2026-10-18T11:58:39.243052Z",
   "sentiment": {
     "punteggio": 90.3,
     "semaforo": "verde",
@@ -110,13 +110,13 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Beretta: «Attacchi cyber in tutta Europa da intelligence straniere»",
-      "link": "https://www.ilsole24ore.com/art/beretta-attacchi-cyber-tutta-europa-intelligence-straniere-AJEReEmB"
+      "titolo": "Ken Fisher: «Le Borse faranno festa con le elezioni di metà mandato»",
+      "link": "https://www.ilsole24ore.com/art/ken-fisher-le-borse-faranno-festa-le-elezioni-meta-mandato-AJTzpOmB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Risanamento, Santa Giulia resta in stallo: il titolo crolla del 46,7% e scatta l’allarme sui conti",
-      "link": "https://www.ilsole24ore.com/art/risanamento-tracolla-467percento-il-nuovo-allarme-conti-AJbdIBmB"
+      "titolo": "Beretta: «Attacchi cyber in tutta Europa da intelligence straniere»",
+      "link": "https://www.ilsole24ore.com/art/beretta-attacchi-cyber-tutta-europa-intelligence-straniere-AJEReEmB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "L'asinella Susy alla protesta nel Foggiano, 'costa meno del gasolio'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/lasinella-susy-alla-protesta-nel-foggiano-costa-meno-del-gasolio_bfd729e6-f918-415b-985d-9313daad7d1d.html"
+      "titolo": "Confcommercio, a Milano oltre mezzo milione di euro di danni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/confcommercio-a-milano-oltre-mezzo-milione-di-euro-di-danni_fb2d8576-5aed-4c56-8627-d901b82738e6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Salvini, banche mazzolate? Patuelli sorprendente, contributo da 5 miliardi il minimo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-contributo-da-5-miliardi-il-minimo_e4dd01ec-3ce8-4713-a8f4-49d4e6b2b204.html"
+      "titolo": "Mit, 6 milioni per 32 interventi ad edifici di culto in 12 regioni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/mit-6-milioni-per-32-interventi-ad-edifici-di-culto-in-12-regioni_94c24bb7-13f2-4eef-a05e-ab40114ba9a5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Tajani e Salvini lontani su banche. 'Sì al confronto'. '5 miliardi il minimo'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/tajani-su-contributo-banche-no-ad-aggressioni-violente-si-al-confronto_4700c65c-5916-43ed-b2a9-0cea1d436087.html"
+      "titolo": "È morto Vitaliano Borromeo Arese, era il presidente di Kaleon",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/e-morto-vitaliano-borromeo-arese-era-il-presidente-di-kaleon_502dc435-9050-43ec-b502-647b38771d1f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Morto a 86 anni dopo una caduta, per oltre mezzo secolo al centro delle grande finanza",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/morto-a-86-anni-dopo-una-caduta-per-oltre-mezzo-secolo-al-centro_f95ff972-5127-406b-909d-e951c6a222ff.html"
+      "titolo": "Mimit, benzina in lieve calo, in rialzo il diesel in autostrada",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/mimit-benzina-in-lieve-calo-in-rialzo-il-diesel-in-autostrada_120a9fba-c1b6-4288-87ad-27a2be627c0a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cgia, 'a Milano si pagano più tasse ma ci sono più servizi'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/cgia-a-milano-si-pagano-piu-tasse-ma-ci-sono-piu-servizi_e9c87d58-783b-46a1-affd-90f8a7318edc.html"
+      "titolo": "Danni climatici costati 915 miliardi per l'Europa dal 1980, caldo 2026 un punto di Pil",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/danni-climatici-costati-915-miliardi-per-leuropa-dal-1980-caldo_28b44006-6ac7-4b46-9a13-c805c70ad768.html"
     }
   ]
 }
