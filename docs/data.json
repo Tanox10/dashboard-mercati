@@ -1,60 +1,60 @@
 {
-  "aggiornato_il": "2026-10-18T11:58:39.243052Z",
+  "aggiornato_il": "2026-10-19T14:26:41.899578Z",
   "sentiment": {
-    "punteggio": 90.3,
+    "punteggio": 88.8,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 81.25,
+      "momentum": 75.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49857.0,
-      "variazione_1g_pct": 0.93,
-      "variazione_1m_pct": -4.06,
-      "variazione_1a_pct": 17.66,
+      "prezzo": 48902.52,
+      "variazione_1g_pct": -1.91,
+      "variazione_1m_pct": -5.13,
+      "variazione_1a_pct": 17.11,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
+      "sopra_media_200gg": false,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7659.44,
-      "variazione_1g_pct": -1.09,
-      "variazione_1m_pct": 1.43,
-      "variazione_1a_pct": 15.54,
-      "sopra_media_50gg": false,
+      "prezzo": 7711.65,
+      "variazione_1g_pct": 0.68,
+      "variazione_1m_pct": 0.8,
+      "variazione_1a_pct": 15.72,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 644.74,
-      "variazione_1g_pct": 0.72,
-      "variazione_1m_pct": 1.2,
-      "variazione_1a_pct": 12.78,
-      "sopra_media_50gg": true,
+      "prezzo": 637.38,
+      "variazione_1g_pct": -1.14,
+      "variazione_1m_pct": 0.3,
+      "variazione_1a_pct": 12.56,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 206.34,
-      "variazione_1g_pct": -0.85,
-      "variazione_1m_pct": 0.8,
-      "variazione_1a_pct": 15.77,
+      "prezzo": 207.18,
+      "variazione_1g_pct": 0.41,
+      "variazione_1m_pct": 0.2,
+      "variazione_1a_pct": 15.75,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 19.99,
-      "variazione_1g_pct": 21.45,
-      "variazione_1m_pct": 12.87,
-      "variazione_1a_pct": -21.02,
+      "prezzo": 18.21,
+      "variazione_1g_pct": -8.9,
+      "variazione_1m_pct": 22.96,
+      "variazione_1a_pct": -12.37,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "bear market"
+      "trend": "correzione"
     }
   },
   "macro": [
@@ -120,6 +120,11 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "La Ue contro Kkr: «Informazioni inesatte e fuorvianti sull’acquisto di Netco»",
+      "link": "https://www.ilsole24ore.com/art/la-ue-contro-kkr-informazioni-inesatte-e-fuorvianti-sull-acquisto-netco-AJXqb8nB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Risanamento, è sempre più crisi",
       "link": "https://www.ilsole24ore.com/art/risanamento-e-sempre-piu-crisi-AJwQyilB"
     },
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/acquisti-de-longhi-akros-e-intermonte-alzano-target-price-AJG4kklB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Panetta: «Bene le fusioni fra banche. Lo spread? L’epicentro sono gli Usa»",
-      "link": "https://www.ilsole24ore.com/art/panetta-bene-fusioni-banche-spread-l-epicentro-sono-usa-AJZnY1lB"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: l'Europa resta pesante dopo avvio di Wall Street, Milano -1,7%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-leuropa-resta-pesante-dopo-avvio-di-wall-street-milano-17_614a8889-cf28-473a-a69e-1c3243ab1a12.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Confcommercio, a Milano oltre mezzo milione di euro di danni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/confcommercio-a-milano-oltre-mezzo-milione-di-euro-di-danni_fb2d8576-5aed-4c56-8627-d901b82738e6.html"
+      "titolo": "Wall Street apre contrastata, Dj a -0,11% e Nasdaq a +1,07%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/wall-street-apre-contrastata-dj-a-011-e-nasdaq-a-107_9d0fd7e7-1a88-41e7-8458-0d35d88b93d7.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Mit, 6 milioni per 32 interventi ad edifici di culto in 12 regioni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/mit-6-milioni-per-32-interventi-ad-edifici-di-culto-in-12-regioni_94c24bb7-13f2-4eef-a05e-ab40114ba9a5.html"
+      "titolo": "Il Btp Valore favorito, 2 miliardi di controvalore in oltre 3 ore",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/il-btp-valore-favorito-2-miliardi-di-controvalore-in-oltre-3-ore_9153a935-0d29-4235-ba6f-2096b1ec2b94.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "È morto Vitaliano Borromeo Arese, era il presidente di Kaleon",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/e-morto-vitaliano-borromeo-arese-era-il-presidente-di-kaleon_502dc435-9050-43ec-b502-647b38771d1f.html"
+      "titolo": "Porto Trieste, nei 9 mesi movimentate 45,2 milioni di tonnellate (+3,1%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/porto-trieste-nei-9-mesi-movimentate-452-milioni-di-tonnellate-31_6cb9da2d-4843-4ce7-af05-7f2876f4cf60.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Mimit, benzina in lieve calo, in rialzo il diesel in autostrada",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/mimit-benzina-in-lieve-calo-in-rialzo-il-diesel-in-autostrada_120a9fba-c1b6-4288-87ad-27a2be627c0a.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Danni climatici costati 915 miliardi per l'Europa dal 1980, caldo 2026 un punto di Pil",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/danni-climatici-costati-915-miliardi-per-leuropa-dal-1980-caldo_28b44006-6ac7-4b46-9a13-c805c70ad768.html"
+      "titolo": "Barilla, continuità occupazionale prerequisito fondamentale cessione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/barilla-continuita-occupazionale-prerequisito-fondamentale-cessione-molini_2d28c597-f8ac-49c9-a181-dc25e4e5829b.html"
     }
   ]
 }
