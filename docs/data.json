@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-10-19T14:26:41.899578Z",
+  "aggiornato_il": "2026-10-20T12:35:40.316313Z",
   "sentiment": {
-    "punteggio": 88.8,
+    "punteggio": 87.2,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 75.0,
+      "momentum": 68.75,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 48902.52,
-      "variazione_1g_pct": -1.91,
-      "variazione_1m_pct": -5.13,
-      "variazione_1a_pct": 17.11,
+      "prezzo": 48565.52,
+      "variazione_1g_pct": -1.06,
+      "variazione_1m_pct": -5.78,
+      "variazione_1a_pct": 14.56,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7711.65,
-      "variazione_1g_pct": 0.68,
-      "variazione_1m_pct": 0.8,
-      "variazione_1a_pct": 15.72,
-      "sopra_media_50gg": true,
+      "prezzo": 7690.73,
+      "variazione_1g_pct": 0.41,
+      "variazione_1m_pct": 0.53,
+      "variazione_1a_pct": 15.41,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 637.38,
-      "variazione_1g_pct": -1.14,
-      "variazione_1m_pct": 0.3,
-      "variazione_1a_pct": 12.56,
+      "prezzo": 635.31,
+      "variazione_1g_pct": -0.66,
+      "variazione_1m_pct": -0.02,
+      "variazione_1a_pct": 11.05,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.18,
-      "variazione_1g_pct": 0.41,
-      "variazione_1m_pct": 0.2,
-      "variazione_1a_pct": 15.75,
+      "prezzo": 206.65,
+      "variazione_1g_pct": 0.15,
+      "variazione_1m_pct": -0.06,
+      "variazione_1a_pct": 15.46,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 18.21,
-      "variazione_1g_pct": -8.9,
-      "variazione_1m_pct": 22.96,
-      "variazione_1a_pct": -12.37,
+      "prezzo": 18.82,
+      "variazione_1g_pct": 2.06,
+      "variazione_1m_pct": 27.08,
+      "variazione_1a_pct": 3.24,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "correzione"
+      "trend": "trend positivo"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-16",
-      "valore": 0.35,
-      "valore_anno_fa": 0.58,
-      "variazione": -0.23
+      "data": "2026-10-19",
+      "valore": 0.38,
+      "valore_anno_fa": 0.54,
+      "variazione": -0.16
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,53 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "Borsa, l'Europa soffre ancora con i tech. Il petrolio sfonda quota 111 $",
+      "link": "https://www.ilsole24ore.com/art/borse-asia-aperture-calo-tokyo-041percento-attesa-gli-utili-spacex-e-netflix-AJODwvoB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "O’Leary (Ryanair): «Aumenti record delle tariffe aeree, fino al 20% in più nel 2027»",
+      "link": "https://www.ilsole24ore.com/art/o-leary-ryanair-aumenti-record-tariffe-aeree-fino-20percento-piu-2027-AJ9vL8oB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Banco Bpm sotto pressione, Jefferies stima terzo trimestre in calo",
+      "link": "https://www.ilsole24ore.com/art/banco-bpm-sotto-pressione-jefferies-stima-terzo-trimestre-calo-AJUAv1nB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Cioccolato Lindt a caccia di un nuovo vertice",
+      "link": "https://www.ilsole24ore.com/art/cioccolato-lindt-caccia-un-nuovo-vertice-AJtKBGoB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Ken Fisher: «Le Borse faranno festa con le elezioni di metà mandato»",
       "link": "https://www.ilsole24ore.com/art/ken-fisher-le-borse-faranno-festa-le-elezioni-meta-mandato-AJTzpOmB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Beretta: «Attacchi cyber in tutta Europa da intelligence straniere»",
-      "link": "https://www.ilsole24ore.com/art/beretta-attacchi-cyber-tutta-europa-intelligence-straniere-AJEReEmB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "La Ue contro Kkr: «Informazioni inesatte e fuorvianti sull’acquisto di Netco»",
-      "link": "https://www.ilsole24ore.com/art/la-ue-contro-kkr-informazioni-inesatte-e-fuorvianti-sull-acquisto-netco-AJXqb8nB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Risanamento, è sempre più crisi",
-      "link": "https://www.ilsole24ore.com/art/risanamento-e-sempre-piu-crisi-AJwQyilB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Acquisti su De' Longhi, Akros e Intermonte alzano target price",
-      "link": "https://www.ilsole24ore.com/art/acquisti-de-longhi-akros-e-intermonte-alzano-target-price-AJG4kklB"
+      "fonte": "ANSA Economia",
+      "titolo": "Messina (Intesa), io ho creduto ad accordo per contributo triennale delle banche",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/messina-intesa-io-ho-creduto-ad-accordo-per-contributo-triennale-delle-banche_c3a8a572-dc08-4dcf-8852-a201cc7377cf.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa resta pesante dopo avvio di Wall Street, Milano -1,7%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-leuropa-resta-pesante-dopo-avvio-di-wall-street-milano-17_614a8889-cf28-473a-a69e-1c3243ab1a12.html"
+      "titolo": "Inps, sui fondi per autoimpiego verifiche complesse, se ok al via pagamenti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/inps-sui-fondi-per-autoimpiego-verifiche-complesse-se-ok-al-via-pagamenti_cd27e607-3529-4624-a398-e073638ff759.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre contrastata, Dj a -0,11% e Nasdaq a +1,07%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/wall-street-apre-contrastata-dj-a-011-e-nasdaq-a-107_9d0fd7e7-1a88-41e7-8458-0d35d88b93d7.html"
+      "titolo": "Il prezzo del gas oltre i 90 euro al megawattora",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/il-prezzo-del-gas-oltre-i-90-euro-al-megawattora_9907bfa1-59db-4331-97b1-65a36191597f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il Btp Valore favorito, 2 miliardi di controvalore in oltre 3 ore",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/il-btp-valore-favorito-2-miliardi-di-controvalore-in-oltre-3-ore_9153a935-0d29-4235-ba6f-2096b1ec2b94.html"
+      "titolo": "Pg Cassazione 'no allo stop dell'ex Ilva, bilanciare salute e produzione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/pg-cassazione-no-allo-stop-dellex-ilva-bilanciare-salute-e-produzione_871bae8a-b9cb-44d3-91aa-b991bdb5bffb.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Porto Trieste, nei 9 mesi movimentate 45,2 milioni di tonnellate (+3,1%)",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/porto-trieste-nei-9-mesi-movimentate-452-milioni-di-tonnellate-31_6cb9da2d-4843-4ce7-af05-7f2876f4cf60.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Barilla, continuità occupazionale prerequisito fondamentale cessione",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/barilla-continuita-occupazionale-prerequisito-fondamentale-cessione-molini_2d28c597-f8ac-49c9-a181-dc25e4e5829b.html"
+      "titolo": "Intesa tra Ppe, socialisti e liberali su auto e Industrial Accelerator Act",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/intesa-tra-ppe-socialisti-e-liberali-su-auto-e-industrial-accelerator-act_6debb4a1-1204-48e3-800c-e201ced7523e.html"
     }
   ]
 }
