@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-10-21T12:47:06.496360Z",
+  "aggiornato_il": "2026-10-22T12:50:23.232396Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 90.3,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49488.46,
-      "variazione_1g_pct": 0.85,
-      "variazione_1m_pct": -5.51,
-      "variazione_1a_pct": 16.04,
+      "prezzo": 48781.84,
+      "variazione_1g_pct": -1.74,
+      "variazione_1m_pct": -6.36,
+      "variazione_1a_pct": 15.57,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
+      "sopra_media_200gg": false,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7712.57,
-      "variazione_1g_pct": 0.28,
-      "variazione_1m_pct": 0.81,
-      "variazione_1a_pct": 14.51,
+      "prezzo": 7757.17,
+      "variazione_1g_pct": 0.58,
+      "variazione_1m_pct": -0.1,
+      "variazione_1a_pct": 15.17,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 642.89,
-      "variazione_1g_pct": 0.67,
-      "variazione_1m_pct": 0.15,
-      "variazione_1a_pct": 12.14,
-      "sopra_media_50gg": true,
+      "prezzo": 639.77,
+      "variazione_1g_pct": -0.73,
+      "variazione_1m_pct": -0.47,
+      "variazione_1a_pct": 11.79,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.4,
-      "variazione_1g_pct": 0.36,
-      "variazione_1m_pct": 0.3,
-      "variazione_1a_pct": 14.86,
-      "sopra_media_50gg": false,
+      "prezzo": 208.49,
+      "variazione_1g_pct": 0.53,
+      "variazione_1m_pct": -0.58,
+      "variazione_1a_pct": 15.71,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.27,
-      "variazione_1g_pct": -0.23,
-      "variazione_1m_pct": 16.14,
-      "variazione_1a_pct": -3.36,
+      "prezzo": 18.0,
+      "variazione_1g_pct": 7.91,
+      "variazione_1m_pct": 26.67,
+      "variazione_1a_pct": -3.23,
       "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,9 +61,9 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-20",
-      "valore": 0.33,
-      "valore_anno_fa": 0.54,
+      "data": "2026-10-21",
+      "valore": 0.32,
+      "valore_anno_fa": 0.53,
       "variazione": -0.21
     },
     {
@@ -110,8 +110,8 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Boeing, con via libera al 737 Max 10 si chiude una lunga corsa alla certificazione",
-      "link": "https://www.ilsole24ore.com/art/boeing-via-libera-737-max-10-si-chiude-lunga-corsa-certificazione-AJQinvpB"
+      "titolo": "Pirelli sbarca in India Accordo strategico con BKT",
+      "link": "https://www.ilsole24ore.com/art/pirelli-sbarca-india-accordo-strategico-bkt-AJt7m3qB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -120,43 +120,43 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borsa, Europa in rialzo con gli occhi su trimestrali e tech. A Milano svetta Prysmian",
-      "link": "https://www.ilsole24ore.com/art/borsa-l-andamento-indici-mercoledi-21-ottobre-2026-AJ8wCvpB"
+      "titolo": "Add Capital con CX Living rilancia sugli studentati: in corsa per rilevare il 65%",
+      "link": "https://www.ilsole24ore.com/art/add-capital-cx-living-rilancia-studentati-corsa-rilevare-65percento-AJFP4hqB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, Europa ad alta volatilità. Milano strappa la parità ma pesano tech e petrolio",
-      "link": "https://www.ilsole24ore.com/art/borse-asia-aperture-calo-tokyo-041percento-attesa-gli-utili-spacex-e-netflix-AJODwvoB"
+      "titolo": "Barclays taglia 5mila dipendenti con la crescita dell’Ai",
+      "link": "https://www.ilsole24ore.com/art/barclays-taglia-5mila-dipendenti-la-crescita-dell-ai-AJcc47qB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Banco Bpm sotto pressione, Jefferies stima terzo trimestre in calo",
-      "link": "https://www.ilsole24ore.com/art/banco-bpm-sotto-pressione-jefferies-stima-terzo-trimestre-calo-AJUAv1nB"
+      "titolo": "Meta, ricavi oltre le stime. Titolo in rialzo. In rosso i flussi di cassa",
+      "link": "https://www.ilsole24ore.com/art/meta-ricavi-oltre-stime-investimenti-mandano-rosso-flussi-cassa-AJqPWiqB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa l'Europa sale, l'Ia torna protagonista, Milano +0,5%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/borsa-europa-leuropa-sale-lia-torna-protagonista-milano-05_fe01d4e7-aca7-47fb-92bc-3af51e933dc1.html"
+      "titolo": "Nei prossimi due anni il 60% dell'industria adotterà agenti Ai",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/nei-prossimi-due-anni-il-60-dellindustria-adottera-agenti-ai_32fedccf-6bef-479a-bc29-f40b79b2f821.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il Btp Valore raccoglie oltre 1,75 miliardi a metà giornata",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/il-btp-valore-raccoglie-oltre-175-miliardi-a-meta-giornata_349c7566-993e-45c4-aae8-3c1f2f947214.html"
+      "titolo": "Meta blinda Zuckerberg dalla tassa sui paperoni in California",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/meta-blinda-zuckerberg-dalla-tassa-sui-paperoni-in-california_2e50c303-6892-4e68-97c5-7e009eac3cb5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il Parlamento Ue approva 74,9 milioni in aiuti all'Italia per il ciclone Harry",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/il-parlamento-ue-approva-749-milioni-in-aiuti-allitalia-per-il-ciclone-harry_c88a48f4-52f7-46d2-b051-bbd16af8c53b.html"
+      "titolo": "Prezzi del gas in Ue aumentati del 177% dall'inizio crisi in Medio Oriente",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/prezzi-del-gas-in-ue-aumentati-del-177-dallinizio-crisi-in-medio-oriente_f5bc2bc5-15d6-45e6-9ba0-ed00d94e3cda.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Edison-Censis, 67% italiani punta a proteggersi da rialzi improvvisi dell'energia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/edison-censis-67-italiani-punta-a-proteggersi-da-rialzi-improvvisi-dellenergia_82d51bd6-2768-4593-8c31-ccf8031427da.html"
+      "titolo": "Via libera dal consiglio di Cdp Equity a ingresso in 2i Aeroporti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/via-libera-dal-consiglio-di-cdp-equity-a-ingresso-in-2i-aeroporti_a7d25755-708a-4e15-b2c2-e9b76e11643e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ue apre indagine su Booking, sospetti su truffe e annunci sponsorizzati",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/21/ue-apre-indagine-su-booking-sospetti-su-truffe-e-annunci-sponsorizzati_f29c3045-c16b-47d7-9fbe-78677d927197.html"
+      "titolo": "Borsa: Milano cede l'1,82%, lo spread risale e tocca 128 punti base",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/borsa-milano-cede-l182-lo-spread-risale-e-tocca-128-punti-base_54a95210-b4a0-4d5b-a441-2c634321a7df.html"
     }
   ]
 }
