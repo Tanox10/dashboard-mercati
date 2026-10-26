@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-25T12:24:19.386453Z",
+  "aggiornato_il": "2026-10-26T13:59:47.010930Z",
   "sentiment": {
     "punteggio": 87.2,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 48559.0,
-      "variazione_1g_pct": 0.36,
-      "variazione_1m_pct": -6.59,
-      "variazione_1a_pct": 14.57,
+      "prezzo": 49134.7,
+      "variazione_1g_pct": 1.19,
+      "variazione_1m_pct": -5.27,
+      "variazione_1a_pct": 15.65,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7623.68,
-      "variazione_1g_pct": -0.52,
-      "variazione_1m_pct": -1.07,
-      "variazione_1a_pct": 13.14,
+      "prezzo": 7655.52,
+      "variazione_1g_pct": 0.42,
+      "variazione_1m_pct": -1.14,
+      "variazione_1a_pct": 12.72,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 635.77,
-      "variazione_1g_pct": -0.31,
-      "variazione_1m_pct": -0.65,
-      "variazione_1a_pct": 10.68,
+      "prezzo": 640.24,
+      "variazione_1g_pct": 0.7,
+      "variazione_1m_pct": 0.25,
+      "variazione_1a_pct": 11.2,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 205.15,
-      "variazione_1g_pct": -0.49,
-      "variazione_1m_pct": -1.29,
-      "variazione_1a_pct": 13.67,
+      "prezzo": 205.82,
+      "variazione_1g_pct": 0.33,
+      "variazione_1m_pct": -1.39,
+      "variazione_1a_pct": 13.34,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 19.45,
-      "variazione_1g_pct": 2.21,
-      "variazione_1m_pct": 28.13,
-      "variazione_1a_pct": 12.43,
+      "prezzo": 18.78,
+      "variazione_1g_pct": -3.44,
+      "variazione_1m_pct": 26.29,
+      "variazione_1a_pct": 14.72,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
@@ -110,8 +110,8 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse europee, bilancio settimanale in rosso: Milano maglia nera (-2,6%)",
-      "link": "https://www.ilsole24ore.com/art/borsa-indici-venerdi-23-ottobre-2026-AJwiGEsB"
+      "titolo": "Borse positive nella settimana delle banche centrali. Il listino brasiliano (-17%) crolla dopo la vittoria di Lula",
+      "link": "https://www.ilsole24ore.com/art/borsa-asiatiche-contrastate-condizionate-indici-usa-greggio-e-ia-AJOVfQuB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Italia all'Ue, 'estendere aiuti mirati Pac anche ai rincari dei carburanti'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/italia-allue-estendere-aiuti-mirati-pac-anche-ai-rincari-dei-carburanti_fa4f71b5-492a-4db4-8c1a-d93c184d3dc1.html"
+      "titolo": "Anthropic al Nasdaq a novembre, verso Ipo fino a 100 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/anthropic-al-nasdaq-a-novembre-verso-ipo-fino-a-100-miliardi_ce72f9de-ad2c-4702-9667-190e5934a68b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Audi va in Usa e investe 4 miliardi di dollari per un impianto in Georgia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/audi-va-in-usa-e-investe-4-miliardi-di-dollari-per-un-impianto-in-georgia_17086dd0-0dc7-4052-890a-5068be132fef.html"
+      "titolo": "Bce, ulteriore stretta alle condizioni di finanziamento per le imprese",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/bce-ulteriore-stretta-alle-condizioni-di-finanziamento-per-le-imprese_df82c8ad-f18e-456a-a038-7d0b28a24939.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "E' tornata l'ora solare, lancette indietro di un'ora",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/e-tornata-lora-solare-lancette-indietro-di-unora_3b0f87be-a16f-4cd2-9b08-287a81c83690.html"
+      "titolo": "Cigierre chiude semestre con Ebitda +25,8% e fatturato +5,6%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/cigierre-chiude-semestre-con-ebitda-258-e-fatturato-56_1227c950-4609-48d0-9753-b50e919470dd.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La manovra guarda a giovani e mamme. Giorgetti: 'La coperta è corta'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/la-manovra-guarda-a-giovani-e-mamme.-giorgetti-la-coperta-e-corta_45b46f2c-5aee-4eb4-8420-f23173e1f48e.html"
+      "titolo": "Wall Street apre in rialzo, Dj +0,42%, Nasdaq +0,29%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/wall-street-apre-in-rialzo-dj-042-nasdaq-029_1a59fd6a-7f29-499b-addc-438d7bd4104e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il Nobel Card, bisogna rivedere le politiche di sostegno ai lavoratori poveri",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/24/il-nobel-card-bisogna-rivedere-le-politiche-di-sostegno-ai-lavoratori-poveri_197711ea-d96a-475e-9bbe-9b6b9ec29ef9.html"
+      "titolo": "Assolavoro, Anna Gionfriddo è la nuova presidente",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/assolavoro-anna-gionfriddo-e-la-nuova-presidente_d62e4c74-f9e5-41ad-b940-51a6ad24c2db.html"
     }
   ]
 }
