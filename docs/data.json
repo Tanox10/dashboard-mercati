@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-26T13:59:47.010930Z",
+  "aggiornato_il": "2026-10-27T13:02:44.408879Z",
   "sentiment": {
     "punteggio": 87.2,
     "semaforo": "verde",
@@ -12,48 +12,48 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49134.7,
-      "variazione_1g_pct": 1.19,
-      "variazione_1m_pct": -5.27,
-      "variazione_1a_pct": 15.65,
+      "prezzo": 49324.04,
+      "variazione_1g_pct": 0.28,
+      "variazione_1m_pct": -4.9,
+      "variazione_1a_pct": 14.94,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7655.52,
-      "variazione_1g_pct": 0.42,
-      "variazione_1m_pct": -1.14,
-      "variazione_1a_pct": 12.72,
+      "prezzo": 7676.77,
+      "variazione_1g_pct": 0.7,
+      "variazione_1m_pct": -0.86,
+      "variazione_1a_pct": 13.03,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 640.24,
-      "variazione_1g_pct": 0.7,
-      "variazione_1m_pct": 0.25,
-      "variazione_1a_pct": 11.2,
+      "prezzo": 641.39,
+      "variazione_1g_pct": 0.11,
+      "variazione_1m_pct": 0.43,
+      "variazione_1a_pct": 11.15,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 205.82,
-      "variazione_1g_pct": 0.33,
-      "variazione_1m_pct": -1.39,
-      "variazione_1a_pct": 13.34,
+      "prezzo": 206.22,
+      "variazione_1g_pct": 0.52,
+      "variazione_1m_pct": -1.2,
+      "variazione_1a_pct": 13.56,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 18.78,
-      "variazione_1g_pct": -3.44,
-      "variazione_1m_pct": 26.29,
-      "variazione_1a_pct": 14.72,
+      "prezzo": 17.77,
+      "variazione_1g_pct": -3.37,
+      "variazione_1m_pct": 19.5,
+      "variazione_1a_pct": 12.54,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
+      "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
   },
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-23",
-      "valore": 0.31,
+      "data": "2026-10-26",
+      "valore": 0.32,
       "valore_anno_fa": 0.53,
-      "variazione": -0.22
+      "variazione": -0.21
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,53 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse positive nella settimana delle banche centrali. Il listino brasiliano (-17%) crolla dopo la vittoria di Lula",
+      "titolo": "Boeing riduce le perdite nel terzo trimestre, ordini a livelli record",
+      "link": "https://www.ilsole24ore.com/art/boeing-riduce-perdite-terzo-trimestre-ordini-livelli-record-AJtscivB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Le Borse aprono la settimana con il piede giusto, Milano (+1,3%) rivede quota 49mila",
       "link": "https://www.ilsole24ore.com/art/borsa-asiatiche-contrastate-condizionate-indici-usa-greggio-e-ia-AJOVfQuB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Mps, il fondo Norges contro le Ops di Siena su Bpm e Banca Generali",
-      "link": "https://www.ilsole24ore.com/art/mps-fondo-norges-contro-ops-siena-bpm-e-banca-generali-AJxJiTtB"
+      "titolo": "Unipol, va in porto l’aumento di capitale da 2,5 miliardi",
+      "link": "https://www.ilsole24ore.com/art/unipol-va-porto-l-aumento-capitale-25-miliardi-AJfkC8uB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Lufthansa, ultimo volo per l’Airbus A340-600: si chiude l’era dei quadrimotori",
-      "link": "https://www.ilsole24ore.com/art/lufthansa-ultimo-volo-l-airbus-a340-600-si-chiude-l-era-quadrimotori-AJfjYSoB"
+      "titolo": "Toyota, maxi-richiamo per la Sienna Hybrid in Usa",
+      "link": "https://www.ilsole24ore.com/art/toyota-maxi-richiamo-la-sienna-hybrid-usa-AJgVBVvB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "In porto l’Opa Recordati, Cvc e Gbl al 74,58%",
-      "link": "https://www.ilsole24ore.com/art/in-porto-l-opa-recordati-cvc-e-gbl-7458percento-AJBzx5sB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Francia, ecco cosa c’è dietro la fuga dai titoli di Stato di Parigi",
-      "link": "https://www.ilsole24ore.com/art/francia-ecco-cosa-c-e-dietro-fuga-titoli-stato-parigi-AJWUFrrB"
+      "titolo": "Anthropic verso il Nasdaq, depositato il prospetto per l’Ipo",
+      "link": "https://www.ilsole24ore.com/art/anthropic-il-nasdaq-depositato-prospetto-l-ipo-AJ3BXkuB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Anthropic al Nasdaq a novembre, verso Ipo fino a 100 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/anthropic-al-nasdaq-a-novembre-verso-ipo-fino-a-100-miliardi_ce72f9de-ad2c-4702-9667-190e5934a68b.html"
+      "titolo": "Gozzi (Federacciai), bene decreto ex Ilva ma della cordata italiana non parlo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/gozzi-federacciai-bene-decreto-ex-ilva-ma-della-cordata-italiana-non-parlo_d2316865-5646-47c8-bffa-4e1255d20b02.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bce, ulteriore stretta alle condizioni di finanziamento per le imprese",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/bce-ulteriore-stretta-alle-condizioni-di-finanziamento-per-le-imprese_df82c8ad-f18e-456a-a038-7d0b28a24939.html"
+      "titolo": "Borsa: l'Europa gira in rialzo con il petrolio in discesa, Milano +0,25%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/borsa-leuropa-gira-in-rialzo-con-il-petrolio-in-discesa-milano-025_9f724503-0204-4263-8357-b6cae503cfe3.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cigierre chiude semestre con Ebitda +25,8% e fatturato +5,6%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/cigierre-chiude-semestre-con-ebitda-258-e-fatturato-56_1227c950-4609-48d0-9753-b50e919470dd.html"
+      "titolo": "Sace, al via il Latin America Champion Program, 20 miliardi export verso Sud America",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/sace-al-via-il-latin-america-champion-program-20-miliardi-export-verso-sud_f5f47239-e826-4f3f-af3c-8256723eb3a8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre in rialzo, Dj +0,42%, Nasdaq +0,29%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/wall-street-apre-in-rialzo-dj-042-nasdaq-029_1a59fd6a-7f29-499b-addc-438d7bd4104e.html"
+      "titolo": "Upb, stop bollo per 73% famiglie con auto, benefici maggiori per meno abbienti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/upb-stop-bollo-per-73-famiglie-con-auto-benefici-maggiori-per_494a6772-ee6c-45de-85c9-e4180d31448c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Assolavoro, Anna Gionfriddo è la nuova presidente",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/assolavoro-anna-gionfriddo-e-la-nuova-presidente_d62e4c74-f9e5-41ad-b940-51a6ad24c2db.html"
+      "titolo": "Iren approva il nuovo piano industriale, investimenti per 10,4 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/iren-approva-il-nuovo-piano-industriale-investimenti-per-104-miliardi_67eb288c-a4b6-4d0a-b929-414a3c14c61d.html"
     }
   ]
 }
