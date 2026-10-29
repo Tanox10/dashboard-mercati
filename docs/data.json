@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-28T13:53:26.288571Z",
+  "aggiornato_il": "2026-10-29T13:59:17.283503Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49763.54,
-      "variazione_1g_pct": 0.27,
-      "variazione_1m_pct": -3.86,
-      "variazione_1a_pct": 15.38,
+      "prezzo": 50007.3,
+      "variazione_1g_pct": 0.37,
+      "variazione_1m_pct": -3.47,
+      "variazione_1a_pct": 15.64,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7725.06,
-      "variazione_1g_pct": 0.03,
+      "prezzo": 7711.88,
+      "variazione_1g_pct": -0.41,
       "variazione_1m_pct": 0.54,
-      "variazione_1a_pct": 12.11,
+      "variazione_1a_pct": 11.92,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 644.49,
-      "variazione_1g_pct": 0.13,
-      "variazione_1m_pct": 0.91,
-      "variazione_1a_pct": 11.94,
+      "prezzo": 650.37,
+      "variazione_1g_pct": 0.97,
+      "variazione_1m_pct": 1.93,
+      "variazione_1a_pct": 13.03,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.31,
-      "variazione_1g_pct": -0.13,
-      "variazione_1m_pct": 0.06,
-      "variazione_1a_pct": 12.72,
+      "prezzo": 207.62,
+      "variazione_1g_pct": -0.22,
+      "variazione_1m_pct": 0.44,
+      "variazione_1a_pct": 13.15,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.54,
-      "variazione_1g_pct": 0.11,
-      "variazione_1m_pct": 9.15,
-      "variazione_1a_pct": 6.82,
+      "prezzo": 17.1,
+      "variazione_1g_pct": 1.12,
+      "variazione_1m_pct": 6.61,
+      "variazione_1a_pct": 1.06,
       "sopra_media_50gg": true,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-27",
-      "valore": 0.29,
-      "valore_anno_fa": 0.53,
-      "variazione": -0.24
+      "data": "2026-10-28",
+      "valore": 0.38,
+      "valore_anno_fa": 0.52,
+      "variazione": -0.14
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -85,10 +85,10 @@
     {
       "nome": "Debito/PIL USA",
       "unita": "%",
-      "data": "2026-01-01",
-      "valore": 122.59387,
-      "valore_anno_fa": 120.54515,
-      "variazione": 2.05
+      "data": "2026-04-01",
+      "valore": 121.18773,
+      "valore_anno_fa": 118.22156,
+      "variazione": 2.97
     },
     {
       "nome": "Inflazione Eurozona (HICP)",
@@ -110,53 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Opas su Mps, la Bce dà disco verde a Intesa Sanpaolo",
-      "link": "https://www.ilsole24ore.com/art/opas-mps-bce-da-disco-verde-intesa-sanpaolo-AJxyn5vB"
+      "titolo": "Airbus: ordini in crescita, confermata la guidance 2026",
+      "link": "https://www.ilsole24ore.com/art/airbus-ordini-crescita-confermata-guidance-2026-AJuw3xwB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, Wall Street cauta in attesa della Fed. A Milano corre Stellantis",
-      "link": "https://www.ilsole24ore.com/art/borsa-indici-mercoledi-28-ottobre-2026-AJhzuSwB"
+      "titolo": "Airbus accelera sul caccia europeo di nuova generazione: Berlino guarda anche al GCAP",
+      "link": "https://www.ilsole24ore.com/art/airbus-accelera-caccia-europeo-nuova-generazione-berlino-guarda-anche-gcap-AJXcpFxB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Unipol, va in porto l’aumento di capitale da 2,5 miliardi",
-      "link": "https://www.ilsole24ore.com/art/unipol-va-porto-l-aumento-capitale-25-miliardi-AJfkC8uB"
+      "titolo": "Alphabet delude le attese e cala a Wall Street, bene Microsoft",
+      "link": "https://www.ilsole24ore.com/art/alphabet-sotto-aspettative-ricavi-1112-miliardi-dollari-utile-netto-212-dollari-azione-AJa6TNxB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Boeing riduce le perdite nel terzo trimestre, ordini a livelli record",
-      "link": "https://www.ilsole24ore.com/art/boeing-riduce-perdite-terzo-trimestre-ordini-livelli-record-AJtscivB"
+      "titolo": "Il Fatto Quotidiano respinge la due diligence di Lmdv Media per l’Opa: no all’accesso ai conti",
+      "link": "https://www.ilsole24ore.com/art/il-fatto-chiude-porta-del-vecchio-no-all-accesso-conti-preparare-l-opa-AJPuS7wB"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Toyota, maxi-richiamo per la Sienna Hybrid in Usa",
-      "link": "https://www.ilsole24ore.com/art/toyota-maxi-richiamo-la-sienna-hybrid-usa-AJgVBVvB"
+      "titolo": "UniCredit, il presidente Padoan lascia a fine mandato",
+      "link": "https://www.ilsole24ore.com/art/unicredit-presidente-padoan-lascia-fine-mandato-AJzpfWwB"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre positiva, Dj a +0,10% e Nasdaq a +0,33%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/wall-street-apre-positiva-dj-a-010-e-nasdaq-a-033_c57541b8-0ab3-45bc-b23b-7ccd8e0cab4b.html"
+      "titolo": "Cassazione rigetta tutti i ricorsi contro lo stop area a caldo dell'ex Ilva",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/cassazione-rigetta-tutti-i-ricorsi-contro-lo-stop-area-a-caldo-dellex-ilva_9de0b319-149d-4e38-a5ee-a09bcce7bcdc.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il petrolio in rialzo a New York a 102,25 dollari al barile",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/il-petrolio-in-rialzo-a-new-york-a-10225-dollari-al-barile_9be6be0b-fb14-4943-a809-a5f846197f9d.html"
+      "titolo": "La Cassazione rigetta tutti i ricorsi contro lo stop area a caldo dell'ex Ilva",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/la-cassazione-rigetta-tutti-i-ricorsi-contro-lo-stop-area-a-caldo-dellex-ilva_5718d63d-7b4d-4fd9-bab3-4ebb7814d248.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Gardini, le cooperative investono 2,2 miliardi in sostenibilità ma pesa burocrazia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/gardini-le-cooperative-investono-22-miliardi-in-sostenibilita-ma-pesa-burocrazia_05db75ae-a340-40f9-ad87-4adee95847ab.html"
+      "titolo": "Lagarde si dimette dalla Bce dal 7 febbraio: 'Lascio un istituto pronto per il futuro'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/lagarde-si-dimette-dalla-bce-dal-7-febbraio-2027_3100c924-edf9-44a1-9175-21f84dd04681.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Confedilizia, dal Senato stop alle restrizioni Ue sulla proprietà privata",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/confedilizia-dal-senato-stop-alle-restrizioni-ue-sulla-proprieta-privata_5994ad5a-2548-4321-a2df-e2f0afca2f45.html"
+      "titolo": "Wall Street apre in calo, Dj -0,39%, Nasdaq -1,38%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/wall-street-apre-in-calo-dj-039-nasdaq-138_788d5b49-f347-481d-b7c5-85569a80191a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "A 'inCittà - Spazi che cambiano', a Bari l'evento nazionale di Confcommercio",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/a-incitta-spazi-che-cambiano-a-bari-levento-nazionale-di-confcommercio_e2e344df-aaf8-4d9b-b417-b61305838f39.html"
+      "titolo": "Borsa: l'Europa positiva dopo i dati Usa e la Bce, Milano cauta (+0,3%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-leuropa-positiva-dopo-i-dati-usa-e-la-bce-milano-cauta-03_52da77fe-c318-4408-9a97-c6469d11a6c5.html"
     }
   ]
 }
