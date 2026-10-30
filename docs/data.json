@@ -1,59 +1,59 @@
 {
-  "aggiornato_il": "2026-10-29T13:59:17.283503Z",
+  "aggiornato_il": "2026-10-30T13:54:02.767727Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 90.3,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 100,
-      "momentum": 87.5,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50007.3,
-      "variazione_1g_pct": 0.37,
-      "variazione_1m_pct": -3.47,
-      "variazione_1a_pct": 15.64,
+      "prezzo": 49643.17,
+      "variazione_1g_pct": -0.72,
+      "variazione_1m_pct": -3.37,
+      "variazione_1a_pct": 14.91,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7711.88,
-      "variazione_1g_pct": -0.41,
-      "variazione_1m_pct": 0.54,
-      "variazione_1a_pct": 11.92,
-      "sopra_media_50gg": true,
+      "prezzo": 7627.93,
+      "variazione_1g_pct": -1.2,
+      "variazione_1m_pct": -0.31,
+      "variazione_1a_pct": 11.81,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 650.37,
-      "variazione_1g_pct": 0.97,
-      "variazione_1m_pct": 1.93,
-      "variazione_1a_pct": 13.03,
+      "prezzo": 648.39,
+      "variazione_1g_pct": -0.11,
+      "variazione_1m_pct": 2.13,
+      "variazione_1a_pct": 12.8,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.62,
-      "variazione_1g_pct": -0.22,
-      "variazione_1m_pct": 0.44,
-      "variazione_1a_pct": 13.15,
+      "prezzo": 205.74,
+      "variazione_1g_pct": -1.07,
+      "variazione_1m_pct": -0.24,
+      "variazione_1a_pct": 13.07,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.1,
-      "variazione_1g_pct": 1.12,
-      "variazione_1m_pct": 6.61,
-      "variazione_1a_pct": 1.06,
+      "prezzo": 18.92,
+      "variazione_1g_pct": 10.0,
+      "variazione_1m_pct": 15.79,
+      "variazione_1a_pct": 11.89,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": false,
+      "sopra_media_200gg": true,
       "trend": "trend positivo"
     }
   },
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-28",
-      "valore": 0.38,
-      "valore_anno_fa": 0.52,
-      "variazione": -0.14
+      "data": "2026-10-29",
+      "valore": 0.37,
+      "valore_anno_fa": 0.49,
+      "variazione": -0.12
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,8 +110,23 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "The italian sea group, da novembre manca la liquidità",
+      "link": "https://www.ilsole24ore.com/art/the-italian-sea-group-novembre-manca-liquidita-AJa49xyB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Airbus: ordini in crescita, confermata la guidance 2026",
       "link": "https://www.ilsole24ore.com/art/airbus-ordini-crescita-confermata-guidance-2026-AJuw3xwB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Sanofi vola in Borsa a Parigi dopo conti oltre le attese",
+      "link": "https://www.ilsole24ore.com/art/sanofi-vola-borsa-parigi-conti-oltre-attese-AJVWiCzB"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Borse in rosso, tonfo del Nasdaq con Amazon e Intel. Continua la corsa del gas",
+      "link": "https://www.ilsole24ore.com/art/borsa-indici-venerdi-30-ottobre-2026-AJD2hvyB"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -119,44 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/airbus-accelera-caccia-europeo-nuova-generazione-berlino-guarda-anche-gcap-AJXcpFxB"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Alphabet delude le attese e cala a Wall Street, bene Microsoft",
-      "link": "https://www.ilsole24ore.com/art/alphabet-sotto-aspettative-ricavi-1112-miliardi-dollari-utile-netto-212-dollari-azione-AJa6TNxB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Il Fatto Quotidiano respinge la due diligence di Lmdv Media per l’Opa: no all’accesso ai conti",
-      "link": "https://www.ilsole24ore.com/art/il-fatto-chiude-porta-del-vecchio-no-all-accesso-conti-preparare-l-opa-AJPuS7wB"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "UniCredit, il presidente Padoan lascia a fine mandato",
-      "link": "https://www.ilsole24ore.com/art/unicredit-presidente-padoan-lascia-fine-mandato-AJzpfWwB"
+      "fonte": "ANSA Economia",
+      "titolo": "Criptovalute in calo dopo l'attacco hacker a Binance",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/criptovalute-in-calo-dopo-lattacco-hacker-a-binance_b829a33c-ca83-4568-adbe-a972197f45fa.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cassazione rigetta tutti i ricorsi contro lo stop area a caldo dell'ex Ilva",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/cassazione-rigetta-tutti-i-ricorsi-contro-lo-stop-area-a-caldo-dellex-ilva_9de0b319-149d-4e38-a5ee-a09bcce7bcdc.html"
+      "titolo": "Perrotta, 'la Ragioneria non dice mai no e non dice mai sì, dice \"così sì\"'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/perrotta-la-ragioneria-non-dice-mai-no-e-non-dice-mai-si-dice-cosi_d27c5598-bda2-40e2-8779-699ed113f00b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "La Cassazione rigetta tutti i ricorsi contro lo stop area a caldo dell'ex Ilva",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/la-cassazione-rigetta-tutti-i-ricorsi-contro-lo-stop-area-a-caldo-dellex-ilva_5718d63d-7b4d-4fd9-bab3-4ebb7814d248.html"
+      "titolo": "EssilorLuxottica sale in Borsa (+4%) dopo l'offerta su Delfin del ceco Strnad",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/essilorluxottica-sale-in-borsa-4-dopo-lofferta-su-delfin-del-ceco-strnad_07947473-68b8-4fcd-a8b4-84d2b39d0677.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lagarde si dimette dalla Bce dal 7 febbraio: 'Lascio un istituto pronto per il futuro'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/lagarde-si-dimette-dalla-bce-dal-7-febbraio-2027_3100c924-edf9-44a1-9175-21f84dd04681.html"
+      "titolo": "Giorgetti, alta inflazione 'drammatica conseguenza' caro energia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/giorgetti-alta-inflazione-drammatica-conseguenza-caro-energia_66a5e9a7-99ef-4a0a-a294-ebee55874fa0.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre in calo, Dj -0,39%, Nasdaq -1,38%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/wall-street-apre-in-calo-dj-039-nasdaq-138_788d5b49-f347-481d-b7c5-85569a80191a.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa positiva dopo i dati Usa e la Bce, Milano cauta (+0,3%)",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-leuropa-positiva-dopo-i-dati-usa-e-la-bce-milano-cauta-03_52da77fe-c318-4408-9a97-c6469d11a6c5.html"
+      "titolo": "Giorgetti, tutti devono contribuire, per le banche oneri significativi ma assorbibili",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/giorgetti-tutti-devono-contribuire-per-le-banche-oneri-significativi-ma-assorbibili_fda339ba-2b51-4bb1-8bb2-eba3fa08df7f.html"
     }
   ]
 }
