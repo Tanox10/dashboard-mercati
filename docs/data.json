@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-30T13:54:02.767727Z",
+  "aggiornato_il": "2026-10-31T13:26:02.877384Z",
   "sentiment": {
     "punteggio": 90.3,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49643.17,
-      "variazione_1g_pct": -0.72,
-      "variazione_1m_pct": -3.37,
-      "variazione_1a_pct": 14.91,
+      "prezzo": 49501.0,
+      "variazione_1g_pct": -1.0,
+      "variazione_1m_pct": -3.64,
+      "variazione_1a_pct": 14.58,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7627.93,
-      "variazione_1g_pct": -1.2,
-      "variazione_1m_pct": -0.31,
-      "variazione_1a_pct": 11.81,
+      "prezzo": 7580.07,
+      "variazione_1g_pct": -1.82,
+      "variazione_1m_pct": -0.93,
+      "variazione_1a_pct": 11.11,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 648.39,
-      "variazione_1g_pct": -0.11,
-      "variazione_1m_pct": 2.13,
-      "variazione_1a_pct": 12.8,
+      "prezzo": 646.75,
+      "variazione_1g_pct": -0.36,
+      "variazione_1m_pct": 1.87,
+      "variazione_1a_pct": 12.51,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 205.74,
-      "variazione_1g_pct": -1.07,
-      "variazione_1m_pct": -0.24,
-      "variazione_1a_pct": 13.07,
+      "prezzo": 204.64,
+      "variazione_1g_pct": -1.6,
+      "variazione_1m_pct": -0.77,
+      "variazione_1a_pct": 12.47,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 18.92,
-      "variazione_1g_pct": 10.0,
-      "variazione_1m_pct": 15.79,
-      "variazione_1a_pct": 11.89,
+      "prezzo": 19.42,
+      "variazione_1g_pct": 12.91,
+      "variazione_1m_pct": 18.85,
+      "variazione_1a_pct": 14.84,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
@@ -61,9 +61,9 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-10-29",
-      "valore": 0.37,
-      "valore_anno_fa": 0.49,
+      "data": "2026-10-30",
+      "valore": 0.38,
+      "valore_anno_fa": 0.5,
       "variazione": -0.12
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse in rosso, tonfo del Nasdaq con Amazon e Intel. Continua la corsa del gas",
+      "titolo": "Wall Street chiude negativa con i tecnologici e Intel. Piazza Affari maglia nera Ue a ottobre",
       "link": "https://www.ilsole24ore.com/art/borsa-indici-venerdi-30-ottobre-2026-AJD2hvyB"
     },
     {
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Criptovalute in calo dopo l'attacco hacker a Binance",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/criptovalute-in-calo-dopo-lattacco-hacker-a-binance_b829a33c-ca83-4568-adbe-a972197f45fa.html"
+      "titolo": "Lavoratori vestiti da Halloween davanti alla boutique di Valentino a Venezia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/lavoratori-vestiti-da-halloween-davanti-alla-boutique-di-valentino-a-venezia_58674634-88cd-4f98-8d9d-3ab63cd208e6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Perrotta, 'la Ragioneria non dice mai no e non dice mai sì, dice \"così sì\"'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/perrotta-la-ragioneria-non-dice-mai-no-e-non-dice-mai-si-dice-cosi_d27c5598-bda2-40e2-8779-699ed113f00b.html"
+      "titolo": "Il reddito reale delle famiglie Ue cresce appena dello 0,1%, volano i prezzi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/il-reddito-reale-delle-famiglie-ue-cresce-appena-dello-01-volano-i-prezzi_8beb2927-1129-4273-8249-39e51b5b9782.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "EssilorLuxottica sale in Borsa (+4%) dopo l'offerta su Delfin del ceco Strnad",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/essilorluxottica-sale-in-borsa-4-dopo-lofferta-su-delfin-del-ceco-strnad_07947473-68b8-4fcd-a8b4-84d2b39d0677.html"
+      "titolo": "Zecca dello Stato celebra il Falstaff di Verdi con una moneta da collezione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/zecca-dello-stato-celebra-il-falstaff-di-verdi-con-una-moneta-da-collezione_76d14290-4d5b-406a-afca-2e36be35c46a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti, alta inflazione 'drammatica conseguenza' caro energia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/giorgetti-alta-inflazione-drammatica-conseguenza-caro-energia_66a5e9a7-99ef-4a0a-a294-ebee55874fa0.html"
+      "titolo": "Manovra: si rivede il riparto dei fondi per gli asili nido per il calo delle nascite",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Giorgetti, tutti devono contribuire, per le banche oneri significativi ma assorbibili",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/giorgetti-tutti-devono-contribuire-per-le-banche-oneri-significativi-ma-assorbibili_fda339ba-2b51-4bb1-8bb2-eba3fa08df7f.html"
+      "titolo": "Manovra, cassa integrazione ai lavoratori pesca e 100 milioni per i pescherecci",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-cassa-integrazione-ai-lavoratori-pesca-e-100-milioni-per-i-pescherecci_860f6f00-e968-41ad-945e-3cd2261ceb33.html"
     }
   ]
 }
