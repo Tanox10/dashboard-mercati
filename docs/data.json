@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-01T14:07:39.632962Z",
+  "aggiornato_il": "2026-11-02T16:53:40.471551Z",
   "sentiment": {
     "punteggio": 90.3,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49501.0,
-      "variazione_1g_pct": -1.0,
-      "variazione_1m_pct": -3.64,
-      "variazione_1a_pct": 14.58,
+      "prezzo": 49947.94,
+      "variazione_1g_pct": 0.9,
+      "variazione_1m_pct": -1.06,
+      "variazione_1a_pct": 15.69,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7580.07,
-      "variazione_1g_pct": -1.82,
-      "variazione_1m_pct": -0.93,
-      "variazione_1a_pct": 11.11,
+      "prezzo": 7627.85,
+      "variazione_1g_pct": 0.63,
+      "variazione_1m_pct": -1.23,
+      "variazione_1a_pct": 11.52,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 646.75,
-      "variazione_1g_pct": -0.36,
-      "variazione_1m_pct": 1.87,
-      "variazione_1a_pct": 12.51,
+      "prezzo": 649.44,
+      "variazione_1g_pct": 0.42,
+      "variazione_1m_pct": 2.87,
+      "variazione_1a_pct": 13.56,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 204.64,
-      "variazione_1g_pct": -1.6,
-      "variazione_1m_pct": -0.77,
-      "variazione_1a_pct": 12.47,
+      "prezzo": 206.01,
+      "variazione_1g_pct": 0.67,
+      "variazione_1m_pct": -0.73,
+      "variazione_1a_pct": 12.99,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 19.42,
-      "variazione_1g_pct": 12.91,
-      "variazione_1m_pct": 18.85,
-      "variazione_1a_pct": 14.84,
+      "prezzo": 18.88,
+      "variazione_1g_pct": -2.78,
+      "variazione_1m_pct": 23.32,
+      "variazione_1a_pct": 8.26,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
@@ -110,13 +110,13 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "The italian sea group, da novembre manca la liquidità",
-      "link": "https://www.ilsole24ore.com/art/the-italian-sea-group-novembre-manca-liquidita-AJa49xyB"
+      "titolo": "Ryanair, il costo del jet fuel a 2 miliardi di dollari nel 2027. Utili in calo del 15%",
+      "link": "https://www.ilsole24ore.com/art/ryanair-costo-jet-fuel-2-miliardi-dollari-2027-utili-calo-15percento-AJ0RfX1B"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Airbus: ordini in crescita, confermata la guidance 2026",
-      "link": "https://www.ilsole24ore.com/art/airbus-ordini-crescita-confermata-guidance-2026-AJuw3xwB"
+      "titolo": "Le Borse europee riprendono quota con tonfo greggio e rimbalzo tech. Milano chiude a +0,9%",
+      "link": "https://www.ilsole24ore.com/art/positive-borse-cinesi-shanghai-09percento-e-shenzhen-18percento-AJpZfX1B"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Manovra: stretta sugli aumenti degli stipendi dei magistrati, rivisti i criteri",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_92f8d3d9-313d-4e9f-8c48-8fedb07ba2b3.html"
+      "titolo": "Borsa: Milano chiude in deciso rialzo (+0,9%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/02/borsa-milano-chiude-in-deciso-rialzo-09_8b7cc11a-9227-4e01-8286-8da7711cf693.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Manovra: per il piano clima regia al Mase e nomine in deroga, modello Pnrr",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-per-il-piano-clima-regia-al-mase-e-nomine-in-deroga-modello-pnrr_3fb0911e-61f8-4c3e-ab9c-b48a66c7d5c8.html"
+      "titolo": "Conclusa ipo da 60 mln di euro sulla Banca del Cairo, quotata in Borsa",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/02/conclusa-ipo-da-60-mln-di-euro-sulla-banca-del-cairo-quotata-in-borsa_e5860116-27b3-4676-9eb0-1252128334c8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Al via in Ue le commissioni da 2 euro per l'acquisto di pacchi cinesi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/al-via-in-ue-le-commissioni-da-2-euro-per-lacquisto-di-pacchi-cinesi_4bb94b00-7ed8-4ec9-9332-729dcabba694.html"
+      "titolo": "Nuovo cda dell'università Bocconi, Sironi presidente per il secondo mandato",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/02/nuovo-cda-delluniversita-bocconi-sironi-presidente-per-il-secondo-mandato_61951cdc-c31f-4c4a-9947-188f66e2738e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Entro domani le adesioni al concordato preventivo biennale",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/entro-domani-le-adesioni-al-concordato-preventivo-biennale_67be9f6a-61c3-42c3-8838-249797983fe4.html"
+      "titolo": "Borsa: Europa corre col crollo del petrolio, Milano +1,2%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/02/borsa-europa-corre-col-crollo-del-petrolio-milano-12_01fc1023-59dd-4b8f-8791-5c1208bfbd10.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Manifestazione nazionale Usb il 12 dicembre contro caro vita e governo Meloni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manifestazione-nazionale-usb-il-12-dicembre-contro-caro-vita-e-governo-meloni_4e6b2dab-57a1-4403-8d70-e92a3694b937.html"
+      "titolo": "Carlo Bonomi riconfermato vicepresidente dell'associazione mondiale Fiere",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/02/carlo-bonomi-riconfermato-vicepresidente-dellassociazione-mondiale-fiere_cf7f21dd-04fa-4e57-898c-e7646a60c415.html"
     }
   ]
 }
