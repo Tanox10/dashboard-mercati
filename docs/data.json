@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-11-03T14:54:17.665402Z",
+  "aggiornato_il": "2026-11-04T15:13:40.765181Z",
   "sentiment": {
-    "punteggio": 80.3,
+    "punteggio": 95.0,
     "semaforo": "verde",
     "dettaglio": {
-      "volatilita": 60,
-      "momentum": 81.25,
+      "volatilita": 100,
+      "momentum": 100.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50039.64,
-      "variazione_1g_pct": 0.18,
-      "variazione_1m_pct": -0.88,
-      "variazione_1a_pct": 15.77,
-      "sopra_media_50gg": false,
+      "prezzo": 51221.5,
+      "variazione_1g_pct": 2.56,
+      "variazione_1m_pct": 0.79,
+      "variazione_1a_pct": 18.4,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7561.22,
-      "variazione_1g_pct": 0.26,
-      "variazione_1m_pct": -2.09,
-      "variazione_1a_pct": 10.35,
-      "sopra_media_50gg": false,
+      "prezzo": 7704.91,
+      "variazione_1g_pct": 1.8,
+      "variazione_1m_pct": -0.89,
+      "variazione_1a_pct": 13.78,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 648.44,
-      "variazione_1g_pct": -0.15,
-      "variazione_1m_pct": 2.71,
-      "variazione_1a_pct": 13.31,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo"
-    },
-    "MSCI World ETF": {
-      "prezzo": 204.49,
-      "variazione_1g_pct": 0.17,
-      "variazione_1m_pct": -1.46,
-      "variazione_1a_pct": 11.96,
-      "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo"
-    },
-    "VIX (volatilitÃ  USA)": {
-      "prezzo": 20.94,
-      "variazione_1g_pct": -0.99,
-      "variazione_1m_pct": 36.77,
-      "variazione_1a_pct": 21.96,
+      "prezzo": 657.5,
+      "variazione_1g_pct": 1.83,
+      "variazione_1m_pct": 3.77,
+      "variazione_1a_pct": 15.23,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
+    },
+    "MSCI World ETF": {
+      "prezzo": 207.8,
+      "variazione_1g_pct": 1.73,
+      "variazione_1m_pct": -0.36,
+      "variazione_1a_pct": 15.19,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo forte"
+    },
+    "VIX (volatilitÃ  USA)": {
+      "prezzo": 17.25,
+      "variazione_1g_pct": -17.19,
+      "variazione_1m_pct": 11.15,
+      "variazione_1a_pct": -9.21,
+      "sopra_media_50gg": true,
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-02",
-      "valore": 0.32,
+      "data": "2026-11-03",
+      "valore": 0.34,
       "valore_anno_fa": 0.53,
-      "variazione": -0.21
+      "variazione": -0.19
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,23 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Dalla sanità all’AI, Borse in attesa dell’esito della tornata elettorale Usa",
-      "link": "https://www.ilsole24ore.com/art/dalla-sanita-all-ai-borse-attesa-dell-esito-tornata-elettorale-usa-AJ4KNr2B"
+      "titolo": "Intesa Sanpaolo: nei nove mesi l’utile sale a 8,2 miliardi (+8,2%), rivista al rialzo la guidance. Messina: «Con Siena utili a 16 miliardi nel 2029»",
+      "link": "https://www.ilsole24ore.com/art/intesa-sanpaolo-nove-mesi-l-utile-sale-82-miliardi-82percento-rivista-rialzo-guidance-AJ5uh02B"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Wall Street chiude contrastata alla vigilia delle midterm. Borse europee su con tonfo greggio",
-      "link": "https://www.ilsole24ore.com/art/positive-borse-cinesi-shanghai-09percento-e-shenzhen-18percento-AJpZfX1B"
+      "titolo": "Le Borse festeggiano il dopo-Midterm, vola Wall Street. Milano corre con le banche",
+      "link": "https://www.ilsole24ore.com/art/borse-cinesi-positive-shanghai-11percento-e-shenzhen-22percento-AJLS843B"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Bayer corre a Francoforte dopo la trimestrale e il rialzo stime 2026",
+      "link": "https://www.ilsole24ore.com/art/bayer-corre-francoforte-la-trimestrale-e-rialzo-stime-2026-AJiExw2B"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Dalla sanità all’AI, Borse in attesa dell’esito della tornata elettorale Usa",
+      "link": "https://www.ilsole24ore.com/art/dalla-sanita-all-ai-borse-attesa-dell-esito-tornata-elettorale-usa-AJ4KNr2B"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,39 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/lufthansa-aumenta-utili-e-fatturato-pesano-costi-jet-fuel-AJ0YHm2B"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Vendite su Stellantis, pesa il calo delle immatricolazioni di ottobre in Francia e in Italia",
-      "link": "https://www.ilsole24ore.com/art/vendite-stellantis-pesa-calo-immatricolazioni-ottobre-francia-e-italia-AJmirx2B"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Sanofi vola in Borsa a Parigi dopo conti oltre le attese",
-      "link": "https://www.ilsole24ore.com/art/sanofi-vola-borsa-parigi-conti-oltre-attese-AJVWiCzB"
+      "fonte": "ANSA Economia",
+      "titolo": "I big di Musk in calo a Wall Street, Tesla -4,13%, SpaceX -2,70%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-big-di-musk-in-calo-a-wall-street-tesla-413-spacex-270_b4a6c6b4-8e40-452f-a46e-9288cac47991.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre contrastata, Dj -0,37%, Nasdaq +0,44%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/03/wall-street-apre-contrastata-dj-037-nasdaq-044_e4f37297-6c31-4854-bde7-b843f4abd102.html"
+      "titolo": "Zecca dello Stato, una nuova 10 euro celebra Collodi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/zecca-dello-stato-una-nuova-10-euro-celebra-collodi_3b634788-6d57-4e23-8061-5ebde2b130d4.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Arera: '+9,1% il prezzo del gas a ottobre per i vulnerabili'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/03/arera-91-il-prezzo-del-gas-a-ottobre-per-i-vulnerabili_c9498159-d7f1-4f21-9f8c-3599111c1ad5.html"
+      "titolo": "I fratelli Capitaneo portano l'alta cucina in Stazione Centrale a Milano",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-fratelli-capitaneo-portano-lalta-cucina-in-stazione-centrale-a-milano_b66a5e88-5679-4f31-a4ad-eab994bb2f55.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bdm Banca, utile nove mesi a 29,42 milioni di euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/03/bdm-banca-utile-nove-mesi-a-2942-milioni-di-euro_cf6109d3-c762-4641-81c1-b7ddc52ee7aa.html"
+      "titolo": "Wall Street apre in volata dopo le elezioni, Dj +1,95%, Nasdaq +1,31%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/wall-street-apre-in-volata-dopo-le-elezioni-dj-195-nasdaq-131_e4cb0902-0e68-4d16-9575-cc40d4484c1a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il petrolio in calo a New York a 95,14 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/03/il-petrolio-in-calo-a-new-york-a-9514-dollari_5e2ced69-c739-4404-8dca-b0c34a6df0e3.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Intesa Fincantieri-Leonardo per rafforzare la jv Orizzonte sistemi navali",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/03/intesa-fincantieri-leonardo-per-rafforzare-la-jv-orizzonte-sistemi-navali_aaf3b77a-6930-4aae-af09-0b29a7b075c0.html"
+      "titolo": "Unioncamere, 1,5 miliardi di danni l'anno da interruzioni valichi alpini",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/unioncamere-15-miliardi-di-danni-lanno-da-interruzioni-valichi-alpini_ed27d556-af59-46c6-9460-2304671bdc9e.html"
     }
   ]
 }
