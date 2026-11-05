@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-11-04T15:13:40.765181Z",
+  "aggiornato_il": "2026-11-05T15:14:42.369545Z",
   "sentiment": {
-    "punteggio": 95.0,
+    "punteggio": 80.3,
     "semaforo": "verde",
     "dettaglio": {
-      "volatilita": 100,
-      "momentum": 100.0,
+      "volatilita": 60,
+      "momentum": 81.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51221.5,
-      "variazione_1g_pct": 2.56,
-      "variazione_1m_pct": 0.79,
-      "variazione_1a_pct": 18.4,
-      "sopra_media_50gg": true,
+      "prezzo": 50804.49,
+      "variazione_1g_pct": -0.44,
+      "variazione_1m_pct": -0.89,
+      "variazione_1a_pct": 16.96,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7704.91,
-      "variazione_1g_pct": 1.8,
-      "variazione_1m_pct": -0.89,
-      "variazione_1a_pct": 13.78,
-      "sopra_media_50gg": true,
+      "prezzo": 7520.34,
+      "variazione_1g_pct": -2.19,
+      "variazione_1m_pct": -3.82,
+      "variazione_1a_pct": 10.65,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 657.5,
-      "variazione_1g_pct": 1.83,
-      "variazione_1m_pct": 3.77,
-      "variazione_1a_pct": 15.23,
+      "prezzo": 657.41,
+      "variazione_1g_pct": 0.0,
+      "variazione_1m_pct": 3.26,
+      "variazione_1a_pct": 14.95,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 207.8,
-      "variazione_1g_pct": 1.73,
-      "variazione_1m_pct": -0.36,
-      "variazione_1a_pct": 15.19,
+      "prezzo": 203.67,
+      "variazione_1g_pct": -2.02,
+      "variazione_1m_pct": -2.89,
+      "variazione_1a_pct": 12.39,
+      "sopra_media_50gg": false,
+      "sopra_media_200gg": true,
+      "trend": "trend positivo"
+    },
+    "VIX (volatilitÃ  USA)": {
+      "prezzo": 20.75,
+      "variazione_1g_pct": 24.92,
+      "variazione_1m_pct": 38.24,
+      "variazione_1a_pct": 15.21,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
-    },
-    "VIX (volatilitÃ  USA)": {
-      "prezzo": 17.25,
-      "variazione_1g_pct": -17.19,
-      "variazione_1m_pct": 11.15,
-      "variazione_1a_pct": -9.21,
-      "sopra_media_50gg": true,
-      "sopra_media_200gg": false,
-      "trend": "trend positivo"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-03",
-      "valore": 0.34,
-      "valore_anno_fa": 0.53,
-      "variazione": -0.19
+      "data": "2026-11-04",
+      "valore": 0.32,
+      "valore_anno_fa": 0.52,
+      "variazione": -0.2
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,23 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Intesa Sanpaolo: nei nove mesi l’utile sale a 8,2 miliardi (+8,2%), rivista al rialzo la guidance. Messina: «Con Siena utili a 16 miliardi nel 2029»",
-      "link": "https://www.ilsole24ore.com/art/intesa-sanpaolo-nove-mesi-l-utile-sale-82-miliardi-82percento-rivista-rialzo-guidance-AJ5uh02B"
+      "titolo": "Icop lascia la partita per Trevi: «Crescita dei ricavi a 1 miliardo»",
+      "link": "https://www.ilsole24ore.com/art/icop-lascia-partita-trevi-crescita-ricavi-1-miliardo-AJzYBe5B"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Le Borse festeggiano il dopo-Midterm, vola Wall Street. Milano corre con le banche",
-      "link": "https://www.ilsole24ore.com/art/borse-cinesi-positive-shanghai-11percento-e-shenzhen-22percento-AJLS843B"
+      "titolo": "Wall Street, si spegne la volata post elettorale. Affonda il Nasdaq",
+      "link": "https://www.ilsole24ore.com/art/borsa-indici-giovedi-5-novembre-2026-AJerTS5B"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Leonardo, ricavi e utile in forte crescita. Portafoglio ordini a livelli record",
+      "link": "https://www.ilsole24ore.com/art/leonardo-ricavi-e-utile-forte-crescita-portafoglio-ordini-livelli-record-AJLAxV5B"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "KLM taglia del 15% i dipendenti e riduce la flotta",
+      "link": "https://www.ilsole24ore.com/art/klm-taglia-15percento-dipendenti-e-riduce-flotta-AJJ7EU5B"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,39 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/bayer-corre-francoforte-la-trimestrale-e-rialzo-stime-2026-AJiExw2B"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Dalla sanità all’AI, Borse in attesa dell’esito della tornata elettorale Usa",
-      "link": "https://www.ilsole24ore.com/art/dalla-sanita-all-ai-borse-attesa-dell-esito-tornata-elettorale-usa-AJ4KNr2B"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Lufthansa aumenta gli utili e il fatturato nel terzo trimestre. Pesano i costi del jet fuel",
-      "link": "https://www.ilsole24ore.com/art/lufthansa-aumenta-utili-e-fatturato-pesano-costi-jet-fuel-AJ0YHm2B"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: Milano tiene con l'Europa dopo Wall street, corre Tenaris",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-milano-tiene-con-leuropa-dopo-wall-street-corre-tenaris_c51dbce2-9972-44be-9a05-0961eddff19b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "I big di Musk in calo a Wall Street, Tesla -4,13%, SpaceX -2,70%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-big-di-musk-in-calo-a-wall-street-tesla-413-spacex-270_b4a6c6b4-8e40-452f-a46e-9288cac47991.html"
+      "titolo": "Oltre 600 ragazzi in Piazza Affari per incontrare Christine Lagarde",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/oltre-600-ragazzi-in-piazza-affari-per-incontrare-christine-lagarde_197d12cc-e654-4e02-bdf4-66b109894ee3.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Zecca dello Stato, una nuova 10 euro celebra Collodi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/zecca-dello-stato-una-nuova-10-euro-celebra-collodi_3b634788-6d57-4e23-8061-5ebde2b130d4.html"
+      "titolo": "Wall Street apre contrastata, Dj +0,53%, Nasdaq -1,14%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/wall-street-apre-contrastata-dj-053-nasdaq-114_474f2c3d-809a-415c-9142-5ff5b62bfd3e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "I fratelli Capitaneo portano l'alta cucina in Stazione Centrale a Milano",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-fratelli-capitaneo-portano-lalta-cucina-in-stazione-centrale-a-milano_b66a5e88-5679-4f31-a4ad-eab994bb2f55.html"
+      "titolo": "Il petrolio in rialzo a New York a 89,26 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-petrolio-in-rialzo-a-new-york-a-8926-dollari_2375cf2e-c355-4d09-83e6-f5bb0982de41.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre in volata dopo le elezioni, Dj +1,95%, Nasdaq +1,31%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/wall-street-apre-in-volata-dopo-le-elezioni-dj-195-nasdaq-131_e4cb0902-0e68-4d16-9575-cc40d4484c1a.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Unioncamere, 1,5 miliardi di danni l'anno da interruzioni valichi alpini",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/04/unioncamere-15-miliardi-di-danni-lanno-da-interruzioni-valichi-alpini_ed27d556-af59-46c6-9460-2304671bdc9e.html"
+      "titolo": "I ricavi di Brembo nei nove mesi salgono a 2,9 miliardi di euro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/i-ricavi-di-brembo-nei-nove-mesi-salgono-a-29-miliardi-di-euro_fe44606a-f500-45ca-a08d-35666ff1a720.html"
     }
   ]
 }
