@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-05T15:14:42.369545Z",
+  "aggiornato_il": "2026-11-06T14:50:54.149944Z",
   "sentiment": {
     "punteggio": 80.3,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50804.49,
-      "variazione_1g_pct": -0.44,
-      "variazione_1m_pct": -0.89,
-      "variazione_1a_pct": 16.96,
+      "prezzo": 49664.6,
+      "variazione_1g_pct": -1.67,
+      "variazione_1m_pct": -0.62,
+      "variazione_1a_pct": 15.31,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7520.34,
-      "variazione_1g_pct": -2.19,
-      "variazione_1m_pct": -3.82,
-      "variazione_1a_pct": 10.65,
+      "prezzo": 7426.93,
+      "variazione_1g_pct": 1.0,
+      "variazione_1m_pct": -4.8,
+      "variazione_1a_pct": 10.51,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 657.41,
-      "variazione_1g_pct": 0.0,
-      "variazione_1m_pct": 3.26,
-      "variazione_1a_pct": 14.95,
+      "prezzo": 643.09,
+      "variazione_1g_pct": -1.8,
+      "variazione_1m_pct": 2.04,
+      "variazione_1a_pct": 13.24,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 203.67,
-      "variazione_1g_pct": -2.02,
-      "variazione_1m_pct": -2.89,
-      "variazione_1a_pct": 12.39,
+      "prezzo": 200.72,
+      "variazione_1g_pct": 0.55,
+      "variazione_1m_pct": -3.81,
+      "variazione_1a_pct": 11.82,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 20.75,
-      "variazione_1g_pct": 24.92,
-      "variazione_1m_pct": 38.24,
-      "variazione_1a_pct": 15.21,
+      "prezzo": 26.3,
+      "variazione_1g_pct": -6.67,
+      "variazione_1m_pct": 74.4,
+      "variazione_1a_pct": 34.87,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-04",
-      "valore": 0.32,
-      "valore_anno_fa": 0.52,
-      "variazione": -0.2
+      "data": "2026-11-05",
+      "valore": 0.38,
+      "valore_anno_fa": 0.54,
+      "variazione": -0.16
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -115,8 +115,13 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Wall Street, si spegne la volata post elettorale. Affonda il Nasdaq",
+      "titolo": "Borse, Wall Street affonda e brucia 3.200 miliardi con la fuga dall’AI",
       "link": "https://www.ilsole24ore.com/art/borsa-indici-giovedi-5-novembre-2026-AJerTS5B"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "IAG (BA e Iberia): ricavi in crescita ma il caro carburante frena gli utili",
+      "link": "https://www.ilsole24ore.com/art/iag-ba-e-iberia-ricavi-crescita-ma-caro-carburante-frena-utili-AJgvgv6B"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/klm-taglia-15percento-dipendenti-e-riduce-flotta-AJJ7EU5B"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Bayer corre a Francoforte dopo la trimestrale e il rialzo stime 2026",
-      "link": "https://www.ilsole24ore.com/art/bayer-corre-francoforte-la-trimestrale-e-rialzo-stime-2026-AJiExw2B"
+      "fonte": "ANSA Economia",
+      "titolo": "Intelligenza artificiale per pmi del cratere, progetto per la formazione",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/intelligenza-artificiale-per-pmi-del-cratere-progetto-per-la-formazione_45db2a63-d248-4df7-aa9b-ec1b42e49931.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano tiene con l'Europa dopo Wall street, corre Tenaris",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-milano-tiene-con-leuropa-dopo-wall-street-corre-tenaris_c51dbce2-9972-44be-9a05-0961eddff19b.html"
+      "titolo": "Da oggi spenti tutti gli impianti dell'area a caldo dell'ex Ilva",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/tutti-spenti-gli-impianti-dellarea-a-caldo-dellex-ilva_7958b4e0-a2d1-4fb8-a1d7-4842a4085088.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Oltre 600 ragazzi in Piazza Affari per incontrare Christine Lagarde",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/oltre-600-ragazzi-in-piazza-affari-per-incontrare-christine-lagarde_197d12cc-e654-4e02-bdf4-66b109894ee3.html"
+      "titolo": "Ue contro TikTok, sul feed 'Per Te' contenuti dannosi per gli utenti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/ue-contro-tiktok-sul-feed-per-te-contenuti-dannosi-per-gli-utenti_873aefbb-baf6-4c1a-a988-08cb9e3433dc.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre contrastata, Dj +0,53%, Nasdaq -1,14%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/wall-street-apre-contrastata-dj-053-nasdaq-114_474f2c3d-809a-415c-9142-5ff5b62bfd3e.html"
+      "titolo": "Borsa: l'Europa scivola in attesa di Wall street, Milano (-1%) contiene le perdite",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-leuropa-scivola-in-attesa-di-wall-street-milano-1-contiene-le-perdite_4855f761-6047-4f65-b416-92667d88424c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il petrolio in rialzo a New York a 89,26 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-petrolio-in-rialzo-a-new-york-a-8926-dollari_2375cf2e-c355-4d09-83e6-f5bb0982de41.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "I ricavi di Brembo nei nove mesi salgono a 2,9 miliardi di euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/i-ricavi-di-brembo-nei-nove-mesi-salgono-a-29-miliardi-di-euro_fe44606a-f500-45ca-a08d-35666ff1a720.html"
+      "titolo": "Da Consob norme più semplici su quotazioni, Opa e ricerca finanziaria",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/da-consob-norme-piu-semplici-su-quotazioni-opa-e-ricerca-finanziaria_56ac32a5-bc51-4063-a7f7-4772bcbf79f3.html"
     }
   ]
 }
