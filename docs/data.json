@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-06T14:50:54.149944Z",
+  "aggiornato_il": "2026-11-07T13:47:10.437993Z",
   "sentiment": {
     "punteggio": 80.3,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49664.6,
-      "variazione_1g_pct": -1.67,
-      "variazione_1m_pct": -0.62,
-      "variazione_1a_pct": 15.31,
+      "prezzo": 50053.0,
+      "variazione_1g_pct": -0.9,
+      "variazione_1m_pct": 0.16,
+      "variazione_1a_pct": 16.22,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7426.93,
-      "variazione_1g_pct": 1.0,
-      "variazione_1m_pct": -4.8,
-      "variazione_1a_pct": 10.51,
+      "prezzo": 7376.86,
+      "variazione_1g_pct": 0.31,
+      "variazione_1m_pct": -5.45,
+      "variazione_1a_pct": 9.77,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 643.09,
-      "variazione_1g_pct": -1.8,
-      "variazione_1m_pct": 2.04,
-      "variazione_1a_pct": 13.24,
+      "prezzo": 648.33,
+      "variazione_1g_pct": -1.0,
+      "variazione_1m_pct": 2.87,
+      "variazione_1a_pct": 14.16,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 200.72,
-      "variazione_1g_pct": 0.55,
-      "variazione_1m_pct": -3.81,
-      "variazione_1a_pct": 11.82,
+      "prezzo": 199.67,
+      "variazione_1g_pct": 0.02,
+      "variazione_1m_pct": -4.31,
+      "variazione_1a_pct": 11.23,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 26.3,
-      "variazione_1g_pct": -6.67,
-      "variazione_1m_pct": 74.4,
-      "variazione_1a_pct": 34.87,
+      "prezzo": 25.64,
+      "variazione_1g_pct": -9.01,
+      "variazione_1m_pct": 70.03,
+      "variazione_1a_pct": 31.49,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-05",
-      "valore": 0.38,
+      "data": "2026-11-06",
+      "valore": 0.35,
       "valore_anno_fa": 0.54,
-      "variazione": -0.16
+      "variazione": -0.19
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -77,10 +77,10 @@
     {
       "nome": "Disoccupazione USA",
       "unita": "%",
-      "data": "2026-09-01",
-      "valore": 4.2,
+      "data": "2026-10-01",
+      "valore": 4.1,
       "valore_anno_fa": 4.4,
-      "variazione": -0.2
+      "variazione": -0.3
     },
     {
       "nome": "Debito/PIL USA",
@@ -115,8 +115,8 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, Wall Street affonda e brucia 3.200 miliardi con la fuga dall’AI",
-      "link": "https://www.ilsole24ore.com/art/borsa-indici-giovedi-5-novembre-2026-AJerTS5B"
+      "titolo": "Borse Ue positive nella settimana delle Midterm, Milano +1,1%. WS chiude contrastata. Giù i tech con dubbi su AI",
+      "link": "https://www.ilsole24ore.com/art/borsa-europa-avvio-calo-il-giovedi-nero-nasdaq-AJN9Lv6B"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -130,33 +130,33 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "KLM taglia del 15% i dipendenti e riduce la flotta",
-      "link": "https://www.ilsole24ore.com/art/klm-taglia-15percento-dipendenti-e-riduce-flotta-AJJ7EU5B"
+      "titolo": "AbitareIn verso la liquidazione",
+      "link": "https://www.ilsole24ore.com/art/abitarein-la-liquidazione-AJVozW7B"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Intelligenza artificiale per pmi del cratere, progetto per la formazione",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/intelligenza-artificiale-per-pmi-del-cratere-progetto-per-la-formazione_45db2a63-d248-4df7-aa9b-ec1b42e49931.html"
+      "titolo": "Lunedì riparte confronto su rinnovo contratto bancari, il nodo Manovra",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/lunedi-riparte-confronto-su-rinnovo-contratto-bancari-il-nodo-manovra_31b2f5b1-ded7-4eb3-bacd-65028dd9b091.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Da oggi spenti tutti gli impianti dell'area a caldo dell'ex Ilva",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/tutti-spenti-gli-impianti-dellarea-a-caldo-dellex-ilva_7958b4e0-a2d1-4fb8-a1d7-4842a4085088.html"
+      "titolo": "Codacons, a prezzi attuali bolletta invernale media del gas sale a 860 euro a famiglia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/codacons-a-prezzi-attuali-bolletta-invernale-media-del-gas-sale-a-860_a3ce85f1-31b7-46f7-897d-ac9694373a74.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ue contro TikTok, sul feed 'Per Te' contenuti dannosi per gli utenti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/ue-contro-tiktok-sul-feed-per-te-contenuti-dannosi-per-gli-utenti_873aefbb-baf6-4c1a-a988-08cb9e3433dc.html"
+      "titolo": "Per vacanze d'autunno l'Italia conquista gli europei, la sceglie uno su tre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/per-vacanze-dautunno-litalia-conquista-gli-europei-la-sceglie-uno-su-tre_480e42a9-cf8d-4ef3-8b7c-28842865e8f9.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa scivola in attesa di Wall street, Milano (-1%) contiene le perdite",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-leuropa-scivola-in-attesa-di-wall-street-milano-1-contiene-le-perdite_4855f761-6047-4f65-b416-92667d88424c.html"
+      "titolo": "Confcommercio, 'bollette sempre più pesanti per le imprese, urgente ridurre i costi'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/confcommercio-bollette-sempre-piu-pesanti-per-le-imprese-urgente-ridurre-i-costi_ed92c3fe-6348-4723-9d7d-e457c3d47d98.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Da Consob norme più semplici su quotazioni, Opa e ricerca finanziaria",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/da-consob-norme-piu-semplici-su-quotazioni-opa-e-ricerca-finanziaria_56ac32a5-bc51-4063-a7f7-4772bcbf79f3.html"
+      "titolo": "Il petrolio chiude in rialzo a New York a 90,83 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/il-petrolio-chiude-in-rialzo-a-new-york-a-9083-dollari_0cee4155-4cca-4a96-a5ca-48ee942124da.html"
     }
   ]
 }
