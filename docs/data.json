@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-07T13:47:10.437993Z",
+  "aggiornato_il": "2026-11-08T14:08:25.132829Z",
   "sentiment": {
     "punteggio": 80.3,
     "semaforo": "verde",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Icop lascia la partita per Trevi: «Crescita dei ricavi a 1 miliardo»",
-      "link": "https://www.ilsole24ore.com/art/icop-lascia-partita-trevi-crescita-ricavi-1-miliardo-AJzYBe5B"
+      "titolo": "Berkshire Hathaway, cresce a 377 miliardi di dollari la montagna di liquidità",
+      "link": "https://www.ilsole24ore.com/art/berkshire-hathaway-cresce-377-miliardi-dollari-montagna-liquidita-AJc4sY8B"
     },
     {
       "fonte": "Il Sole 24 Ore",
       "titolo": "Borse Ue positive nella settimana delle Midterm, Milano +1,1%. WS chiude contrastata. Giù i tech con dubbi su AI",
       "link": "https://www.ilsole24ore.com/art/borsa-europa-avvio-calo-il-giovedi-nero-nasdaq-AJN9Lv6B"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Icop lascia la partita per Trevi: «Crescita dei ricavi a 1 miliardo»",
+      "link": "https://www.ilsole24ore.com/art/icop-lascia-partita-trevi-crescita-ricavi-1-miliardo-AJzYBe5B"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/leonardo-ricavi-e-utile-forte-crescita-portafoglio-ordini-livelli-record-AJLAxV5B"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "AbitareIn verso la liquidazione",
-      "link": "https://www.ilsole24ore.com/art/abitarein-la-liquidazione-AJVozW7B"
+      "fonte": "ANSA Economia",
+      "titolo": "Canè (Renaissance), puntiamo su imprese familiari per accompagnarle all'estero",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/cane-renaissance-puntiamo-su-imprese-familiari-per-accompagnarle-allestero_a38b0a1f-ec6d-489d-9c63-3dce30cd968a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lunedì riparte confronto su rinnovo contratto bancari, il nodo Manovra",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/lunedi-riparte-confronto-su-rinnovo-contratto-bancari-il-nodo-manovra_31b2f5b1-ded7-4eb3-bacd-65028dd9b091.html"
+      "titolo": "Assoutenti, vacanze sulla neve sempre più costose, in 5 anni skipass fino a +43%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/assoutenti-vacanze-sulla-neve-sempre-piu-costose-in-5-anni-skipass-fino_3f62f1fb-829d-464d-a31e-e6a48802fbb6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Codacons, a prezzi attuali bolletta invernale media del gas sale a 860 euro a famiglia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/codacons-a-prezzi-attuali-bolletta-invernale-media-del-gas-sale-a-860_a3ce85f1-31b7-46f7-897d-ac9694373a74.html"
+      "titolo": "Ex Ilva, a mezzanotte scade il termine per le offerte vincolanti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/ex-ilva-a-mezzanotte-scade-il-termine-per-le-offerte-vincolanti_99cfe7b4-0b94-4e3b-ae5c-fb43a5163cea.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Per vacanze d'autunno l'Italia conquista gli europei, la sceglie uno su tre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/per-vacanze-dautunno-litalia-conquista-gli-europei-la-sceglie-uno-su-tre_480e42a9-cf8d-4ef3-8b7c-28842865e8f9.html"
+      "titolo": "De Felice (Intesa), l'export manifatturiero +53% dal 2016 al 2025",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/de-felice-intesa-lexport-manifatturiero-53-dal-2016-al-2025_7cf137c8-f934-4a19-90c3-22ecaed09064.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Confcommercio, 'bollette sempre più pesanti per le imprese, urgente ridurre i costi'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/07/confcommercio-bollette-sempre-piu-pesanti-per-le-imprese-urgente-ridurre-i-costi_ed92c3fe-6348-4723-9d7d-e457c3d47d98.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Il petrolio chiude in rialzo a New York a 90,83 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/06/il-petrolio-chiude-in-rialzo-a-new-york-a-9083-dollari_0cee4155-4cca-4a96-a5ca-48ee942124da.html"
+      "titolo": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/mimit-prezzi-carburanti-fermi-malgrado-stop-taglio-accise-gasolio-a-223_3a4e4aa5-2d2a-4119-bd93-63dba8a9828c.html"
     }
   ]
 }
