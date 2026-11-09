@@ -1,60 +1,60 @@
 {
-  "aggiornato_il": "2026-11-08T14:08:25.132829Z",
+  "aggiornato_il": "2026-11-09T17:15:36.677369Z",
   "sentiment": {
-    "punteggio": 80.3,
+    "punteggio": 81.9,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 60,
-      "momentum": 81.25,
+      "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50053.0,
-      "variazione_1g_pct": -0.9,
-      "variazione_1m_pct": 0.16,
-      "variazione_1a_pct": 16.22,
-      "sopra_media_50gg": false,
+      "prezzo": 51399.88,
+      "variazione_1g_pct": 2.69,
+      "variazione_1m_pct": 3.32,
+      "variazione_1a_pct": 19.76,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7376.86,
-      "variazione_1g_pct": 0.31,
-      "variazione_1m_pct": -5.45,
-      "variazione_1a_pct": 9.77,
+      "prezzo": 7544.58,
+      "variazione_1g_pct": 2.27,
+      "variazione_1m_pct": -3.42,
+      "variazione_1a_pct": 12.12,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 648.33,
-      "variazione_1g_pct": -1.0,
-      "variazione_1m_pct": 2.87,
-      "variazione_1a_pct": 14.16,
+      "prezzo": 656.52,
+      "variazione_1g_pct": 1.26,
+      "variazione_1m_pct": 3.95,
+      "variazione_1a_pct": 16.24,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 199.67,
-      "variazione_1g_pct": 0.02,
-      "variazione_1m_pct": -4.31,
-      "variazione_1a_pct": 11.23,
+      "prezzo": 204.48,
+      "variazione_1g_pct": 2.41,
+      "variazione_1m_pct": -2.23,
+      "variazione_1a_pct": 13.67,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 25.64,
-      "variazione_1g_pct": -9.01,
-      "variazione_1m_pct": 70.03,
-      "variazione_1a_pct": 31.49,
+      "prezzo": 20.52,
+      "variazione_1g_pct": -19.97,
+      "variazione_1m_pct": 38.27,
+      "variazione_1a_pct": 7.55,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     }
   },
   "macro": [
@@ -110,53 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Berkshire Hathaway, cresce a 377 miliardi di dollari la montagna di liquidità",
-      "link": "https://www.ilsole24ore.com/art/berkshire-hathaway-cresce-377-miliardi-dollari-montagna-liquidita-AJc4sY8B"
+      "titolo": "Crédit Agricole rompe gli indugi su BancoBpm: fusione amichevole in Italia, un miliardo di dividendo ai soci ma senza Opa",
+      "link": "https://www.ilsole24ore.com/art/credit-agricole-rompe-indugi-bancobpm-tavolo-fusione-italia-miliardo-dividendo-straordinario-soci-AJ16dt9B"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse Ue positive nella settimana delle Midterm, Milano +1,1%. WS chiude contrastata. Giù i tech con dubbi su AI",
-      "link": "https://www.ilsole24ore.com/art/borsa-europa-avvio-calo-il-giovedi-nero-nasdaq-AJN9Lv6B"
+      "titolo": "Borse, maxi rimbalzo con tech e calo greggio. A Milano (+2,7%) vola Banco Bpm",
+      "link": "https://www.ilsole24ore.com/art/borsa-indici-lunedi-9-novembre-2026-AJjuZt9B"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Icop lascia la partita per Trevi: «Crescita dei ricavi a 1 miliardo»",
-      "link": "https://www.ilsole24ore.com/art/icop-lascia-partita-trevi-crescita-ricavi-1-miliardo-AJzYBe5B"
+      "titolo": "Segnali di ripresa nei private equity, l’utile di Kkr vola del 29%",
+      "link": "https://www.ilsole24ore.com/art/segnali-ripresa-private-equity-l-utile-kkr-vola-29percento-AJAVvXAC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "IAG (BA e Iberia): ricavi in crescita ma il caro carburante frena gli utili",
-      "link": "https://www.ilsole24ore.com/art/iag-ba-e-iberia-ricavi-crescita-ma-caro-carburante-frena-utili-AJgvgv6B"
+      "titolo": "UniCredit in luce dopo i conti e il rialzo dei target, avanti con Commerzbank",
+      "link": "https://www.ilsole24ore.com/art/unicredit-luce-i-conti-e-rialzo-target-avanti-commerzbank-AJrHn59B"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Leonardo, ricavi e utile in forte crescita. Portafoglio ordini a livelli record",
-      "link": "https://www.ilsole24ore.com/art/leonardo-ricavi-e-utile-forte-crescita-portafoglio-ordini-livelli-record-AJLAxV5B"
+      "titolo": "Milano Santa Giulia, saltato l’accordo tra Bizzi e Lendlease",
+      "link": "https://www.ilsole24ore.com/art/milano-santa-giulia-saltato-l-accordo-bizzi-e-lendlease-AJxGI09B"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Canè (Renaissance), puntiamo su imprese familiari per accompagnarle all'estero",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/cane-renaissance-puntiamo-su-imprese-familiari-per-accompagnarle-allestero_a38b0a1f-ec6d-489d-9c63-3dce30cd968a.html"
+      "titolo": "Lo spread tra Btp e Bund chiude in calo a 103 punti base",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/lo-spread-tra-btp-e-bund-chiude-in-calo-a-103-punti-base_3c09259e-77f1-4142-830d-f30605c8b03e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Assoutenti, vacanze sulla neve sempre più costose, in 5 anni skipass fino a +43%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/assoutenti-vacanze-sulla-neve-sempre-piu-costose-in-5-anni-skipass-fino_3f62f1fb-829d-464d-a31e-e6a48802fbb6.html"
+      "titolo": "Borsa: l'Europa chiude positiva, Londra +1%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/borsa-leuropa-chiude-positiva-londra-1_c09d30fe-46d7-4bf9-9248-3bee0a06985f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ex Ilva, a mezzanotte scade il termine per le offerte vincolanti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/ex-ilva-a-mezzanotte-scade-il-termine-per-le-offerte-vincolanti_99cfe7b4-0b94-4e3b-ae5c-fb43a5163cea.html"
+      "titolo": "Banco Bpm conclude in corsa in Piazza Affari, +10%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/banco-bpm-conclude-in-corsa-in-piazza-affari-10_ef3b642f-a8a9-4413-8dcc-4ba3de13e161.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "De Felice (Intesa), l'export manifatturiero +53% dal 2016 al 2025",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/de-felice-intesa-lexport-manifatturiero-53-dal-2016-al-2025_7cf137c8-f934-4a19-90c3-22ecaed09064.html"
+      "titolo": "Borsa: Milano chiude in forte rialzo con le banche, Ftse Mib +2,69%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/borsa-milano-chiude-in-forte-rialzo-ftse-mib-269_715fcd25-4783-4993-8dc4-a2270981ec05.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/mimit-prezzi-carburanti-fermi-malgrado-stop-taglio-accise-gasolio-a-223_3a4e4aa5-2d2a-4119-bd93-63dba8a9828c.html"
+      "titolo": "VTech compie 50 anni, dal primo pc parlante al 'diario segreto' interattivo",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/vtech-compie-50-anni-dal-primo-pc-parlante-al-diario-segreto-interattivo_a6ccb6b9-667f-4ca0-a5b8-b2035c3c9017.html"
     }
   ]
 }
