@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-10T15:27:30.383916Z",
+  "aggiornato_il": "2026-11-11T14:58:28.461896Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 52016.94,
-      "variazione_1g_pct": 1.2,
-      "variazione_1m_pct": 4.57,
-      "variazione_1a_pct": 18.5,
+      "prezzo": 51659.52,
+      "variazione_1g_pct": -0.18,
+      "variazione_1m_pct": 3.25,
+      "variazione_1a_pct": 16.25,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7521.6,
-      "variazione_1g_pct": -0.38,
-      "variazione_1m_pct": -3.71,
-      "variazione_1a_pct": 10.09,
+      "prezzo": 7587.34,
+      "variazione_1g_pct": 0.88,
+      "variazione_1m_pct": -2.82,
+      "variazione_1a_pct": 10.82,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 660.98,
-      "variazione_1g_pct": 0.68,
-      "variazione_1m_pct": 4.66,
-      "variazione_1a_pct": 15.39,
+      "prezzo": 660.38,
+      "variazione_1g_pct": 0.31,
+      "variazione_1m_pct": 3.89,
+      "variazione_1a_pct": 13.83,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 203.96,
-      "variazione_1g_pct": -0.42,
-      "variazione_1m_pct": -2.48,
-      "variazione_1a_pct": 11.78,
+      "prezzo": 205.09,
+      "variazione_1g_pct": 0.6,
+      "variazione_1m_pct": -1.84,
+      "variazione_1a_pct": 12.04,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 19.96,
-      "variazione_1g_pct": 0.2,
-      "variazione_1m_pct": 34.5,
-      "variazione_1a_pct": 13.41,
+      "prezzo": 18.58,
+      "variazione_1g_pct": -4.52,
+      "variazione_1m_pct": 22.16,
+      "variazione_1a_pct": 7.52,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-09",
-      "valore": 0.32,
+      "data": "2026-11-10",
+      "valore": 0.25,
       "valore_anno_fa": 0.55,
-      "variazione": -0.23
+      "variazione": -0.3
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Crédit Agricole rompe gli indugi su BancoBpm: fusione amichevole in Italia, un miliardo di dividendo ai soci ma senza Opa",
-      "link": "https://www.ilsole24ore.com/art/credit-agricole-rompe-indugi-bancobpm-tavolo-fusione-italia-miliardo-dividendo-straordinario-soci-AJ16dt9B"
+      "titolo": "OpenAi, i ricavi balzano del 50%  ma la start up perde ancora a bocca di barile",
+      "link": "https://www.ilsole24ore.com/art/openai-ricavi-balzano-50percento-10-miliardi-perde-ancora-bocca-barile-AJLPhSCC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "L'inflazione più alta delle stime pesa su Wall Street, Milano tiene con le banche",
-      "link": "https://www.ilsole24ore.com/art/borse-asia-rialzo-trainata-tecnologici-e-chip-petrolio-calo-AJu167AC"
+      "titolo": "Borse in rialzo con i tech protagonisti. Scatta il Nasdaq e rimbalza Nvidia",
+      "link": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-mercoledi-11-novembre-2026-AJRZyLCC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "EasyJet, via libera all’acquisizione da 5,7 miliardi di sterline da parte di Apollo",
+      "link": "https://www.ilsole24ore.com/art/easyjet-via-libera-all-acquisizione-57-miliardi-sterline-parte-apollo-AJKzqpCC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/unicredit-luce-i-conti-e-rialzo-target-avanti-commerzbank-AJrHn59B"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Milano Santa Giulia, saltato l’accordo tra Bizzi e Lendlease",
-      "link": "https://www.ilsole24ore.com/art/milano-santa-giulia-saltato-l-accordo-bizzi-e-lendlease-AJxGI09B"
+      "fonte": "ANSA Economia",
+      "titolo": "Fondi pensione a 273 miliardi, meno del 20% investito in Italia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/fondi-pensione-a-273-miliardi-meno-del-20-investito-in-italia_646c8471-5e26-46be-9ccc-f407b3d39c53.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Riv-X debutta in Italia, acquista un orologio con scambio tra stablecoin ed Euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/riv-x-debutta-in-italia-acquista-un-orologio-con-scambio-tra-stablecoin-ed-euro_52450948-b0d9-47b0-bc4b-7a46b11f4981.html"
+      "titolo": "Prezzi dei carburanti in calo, gasolio scende a 2,225 euro con taglio accise",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/prezzi-dei-carburanti-in-calo-gasolio-scende-a-2225-euro-con-taglio_dea03f0b-5522-4c91-964e-eeee7c29a867.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "San Benedetto licenzia 120 dipendenti. 'Colpa dell'aumento di costi energetici e materie prime'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/san-benedetto-licenzia-120-dipendenti.-colpa-dellaumento-di-costi-energetici-e-materie_df513fbd-76f4-431a-8ebe-804081a91055.html"
+      "titolo": "Banca Ifis in perdita per 67 milioni nei 9 mesi per cessione business npl",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/banca-ifis-in-perdita-per-67-milioni-nei-9-mesi-per-cessione-business_ec6ba03e-836d-499d-8954-56e21f239e8d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nel ddl concorrenza torna il diritto alla doggy bag, emendamento della Lega",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/nel-ddl-concorrenza-torna-il-diritto-alla-doggy-bag-emendamento-della_a1dfa86b-eedd-45e2-a708-bad309fd81a3.html"
+      "titolo": "Snam chiude i 9 mesi con oltre 9 miliardi di ricavi e 1,1 di utile",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/snam-chiude-i-9-mesi-con-oltre-9-miliardi-di-ricavi-e-11-di-utile_12fba886-ebf9-4ee6-9536-0f57606c44ec.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Gruppo Sella, utile 9 mesi sale a 204 milioni, crescono raccolta e impieghi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/gruppo-sella-utile-9-mesi-sale-a-204-milioni-crescono-raccolta-e-impieghi_c7799cd8-774c-4d56-a056-5c8a6c1f6e97.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano rallenta (+1%) con l'Europa dopo l'avvio di Wall Street",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/borsa-milano-rallenta-1-con-leuropa-dopo-lavvio-di-wall-street_821a848f-d17c-496d-ad2f-57f55b4f79fd.html"
+      "titolo": "Borsa: l'Europa positiva attende Wall Street, Milano +0,1%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/borsa-leuropa-positiva-attende-wall-street-milano-01_ebc678f8-e8e0-4c10-a567-66ae64c5ce91.html"
     }
   ]
 }
