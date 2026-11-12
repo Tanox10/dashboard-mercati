@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-11T14:58:28.461896Z",
+  "aggiornato_il": "2026-11-12T15:50:36.550152Z",
   "sentiment": {
     "punteggio": 91.9,
     "semaforo": "verde",
@@ -12,48 +12,48 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51659.52,
-      "variazione_1g_pct": -0.18,
-      "variazione_1m_pct": 3.25,
-      "variazione_1a_pct": 16.25,
+      "prezzo": 51792.21,
+      "variazione_1g_pct": -0.3,
+      "variazione_1m_pct": 3.47,
+      "variazione_1a_pct": 15.63,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7587.34,
-      "variazione_1g_pct": 0.88,
-      "variazione_1m_pct": -2.82,
-      "variazione_1a_pct": 10.82,
+      "prezzo": 7603.85,
+      "variazione_1g_pct": -0.2,
+      "variazione_1m_pct": -2.58,
+      "variazione_1a_pct": 10.99,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 660.38,
-      "variazione_1g_pct": 0.31,
-      "variazione_1m_pct": 3.89,
-      "variazione_1a_pct": 13.83,
+      "prezzo": 663.18,
+      "variazione_1g_pct": 0.02,
+      "variazione_1m_pct": 4.44,
+      "variazione_1a_pct": 13.51,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 205.09,
-      "variazione_1g_pct": 0.6,
-      "variazione_1m_pct": -1.84,
-      "variazione_1a_pct": 12.04,
+      "prezzo": 205.47,
+      "variazione_1g_pct": -0.25,
+      "variazione_1m_pct": -1.76,
+      "variazione_1a_pct": 11.96,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 18.58,
-      "variazione_1g_pct": -4.52,
-      "variazione_1m_pct": 22.16,
-      "variazione_1a_pct": 7.52,
+      "prezzo": 18.18,
+      "variazione_1g_pct": 3.95,
+      "variazione_1m_pct": 19.06,
+      "variazione_1a_pct": 3.83,
       "sopra_media_50gg": true,
-      "sopra_media_200gg": true,
+      "sopra_media_200gg": false,
       "trend": "trend positivo"
     }
   },
@@ -115,48 +115,48 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse in rialzo con i tech protagonisti. Scatta il Nasdaq e rimbalza Nvidia",
-      "link": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-mercoledi-11-novembre-2026-AJRZyLCC"
+      "titolo": "Borse Ue in ordine sparso tra trimestrali e nuovo tonfo Nvidia. A Milano giù Technoprobe",
+      "link": "https://www.ilsole24ore.com/art/borse-asia-negativo-il-caso-nvidia-nonostante-rally-a-wall-street-AJPS9iDC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "EasyJet, via libera all’acquisizione da 5,7 miliardi di sterline da parte di Apollo",
-      "link": "https://www.ilsole24ore.com/art/easyjet-via-libera-all-acquisizione-57-miliardi-sterline-parte-apollo-AJKzqpCC"
+      "titolo": "Wizz Air, secondo trimestre migliore delle attese ma pesa il costo del jet fuel",
+      "link": "https://www.ilsole24ore.com/art/wizz-air-secondo-trimestre-migliore-attese-ma-pesa-costo-jet-fuel-AJ3HrmDC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Segnali di ripresa nei private equity, l’utile di Kkr vola del 29%",
-      "link": "https://www.ilsole24ore.com/art/segnali-ripresa-private-equity-l-utile-kkr-vola-29percento-AJAVvXAC"
+      "titolo": "Siemens Energy, dopo le elezioni Usa arriva il cambio di vento sulle rinnovabili",
+      "link": "https://www.ilsole24ore.com/art/siemens-energy-le-elezioni-usa-arriva-cambio-vento-rinnovabili-AJNKo6CC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "UniCredit in luce dopo i conti e il rialzo dei target, avanti con Commerzbank",
-      "link": "https://www.ilsole24ore.com/art/unicredit-luce-i-conti-e-rialzo-target-avanti-commerzbank-AJrHn59B"
+      "titolo": "Csg  frena nel terzo trimestre con ritardo consegne",
+      "link": "https://www.ilsole24ore.com/art/csg-frena-terzo-trimestre-ritardo-consegne-AJzMAVCC"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fondi pensione a 273 miliardi, meno del 20% investito in Italia",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/fondi-pensione-a-273-miliardi-meno-del-20-investito-in-italia_646c8471-5e26-46be-9ccc-f407b3d39c53.html"
+      "titolo": "Filosa, 'Leapmotor ci aiuterà su impianti europei, uno anche italiano'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/filosa-leapmotor-ci-aiutera-su-impianti-europei-uno-anche-italiano_39345c3f-62d5-4edc-bfe3-d328ae5906f0.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Prezzi dei carburanti in calo, gasolio scende a 2,225 euro con taglio accise",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/prezzi-dei-carburanti-in-calo-gasolio-scende-a-2225-euro-con-taglio_dea03f0b-5522-4c91-964e-eeee7c29a867.html"
+      "titolo": "Borsa: l'Europa sempre cauta con il tech in affanno, corre il gas",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/borsa-leuropa-sempre-cauta-con-il-tech-in-affanno-corre-il-gas_983de12f-6efe-4df5-808c-ce10378b5e99.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Banca Ifis in perdita per 67 milioni nei 9 mesi per cessione business npl",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/banca-ifis-in-perdita-per-67-milioni-nei-9-mesi-per-cessione-business_ec6ba03e-836d-499d-8954-56e21f239e8d.html"
+      "titolo": "Equita chiude i 9 mesi con ricavi e utile in crescita dell'8%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/equita-chiude-i-9-mesi-con-ricavi-e-utile-in-crescita-dell8_ee65356d-8e51-4b6c-83f1-003be98d5a5f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Snam chiude i 9 mesi con oltre 9 miliardi di ricavi e 1,1 di utile",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/snam-chiude-i-9-mesi-con-oltre-9-miliardi-di-ricavi-e-11-di-utile_12fba886-ebf9-4ee6-9536-0f57606c44ec.html"
+      "titolo": "Wall Street apre contrastata, Dj a +0,14% e Nasdaq a -1,44% con l'effetto Nvidia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/wall-street-apre-contrastata-dj-a-014-e-nasdaq-a-144-con-leffetto-nvidia_a6415fbd-955b-44be-ae45-4a553ccb5811.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa positiva attende Wall Street, Milano +0,1%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/borsa-leuropa-positiva-attende-wall-street-milano-01_ebc678f8-e8e0-4c10-a567-66ae64c5ce91.html"
+      "titolo": "Upb, benefici taglio Irpef per l'89% dei dirigenti e l'1% degli operai",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/upb-benefici-taglio-irpef-per-l89-dei-dirigenti-e-l1-degli-operai_685d5cc8-9706-47e3-b679-d0fbb5cf5121.html"
     }
   ]
 }
