@@ -1,10 +1,10 @@
 {
-  "aggiornato_il": "2026-11-15T14:35:11.058250Z",
+  "aggiornato_il": "2026-11-16T16:50:24.519567Z",
   "sentiment": {
-    "punteggio": 91.9,
+    "punteggio": 81.9,
     "semaforo": "verde",
     "dettaglio": {
-      "volatilita": 100,
+      "volatilita": 60,
       "momentum": 87.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51859.0,
-      "variazione_1g_pct": 0.1,
-      "variazione_1m_pct": 4.23,
-      "variazione_1a_pct": 15.87,
+      "prezzo": 51553.0,
+      "variazione_1g_pct": -0.59,
+      "variazione_1m_pct": 3.4,
+      "variazione_1a_pct": 17.18,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7561.67,
-      "variazione_1g_pct": -0.4,
-      "variazione_1m_pct": -2.04,
-      "variazione_1a_pct": 12.23,
+      "prezzo": 7471.36,
+      "variazione_1g_pct": -1.19,
+      "variazione_1m_pct": -2.46,
+      "variazione_1a_pct": 10.95,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 664.14,
-      "variazione_1g_pct": 0.02,
-      "variazione_1m_pct": 4.14,
-      "variazione_1a_pct": 14.37,
+      "prezzo": 662.61,
+      "variazione_1g_pct": -0.23,
+      "variazione_1m_pct": 2.77,
+      "variazione_1a_pct": 15.27,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     },
     "MSCI World ETF": {
-      "prezzo": 204.56,
-      "variazione_1g_pct": -0.27,
-      "variazione_1m_pct": -1.3,
-      "variazione_1a_pct": 13.3,
+      "prezzo": 202.31,
+      "variazione_1g_pct": -1.1,
+      "variazione_1m_pct": -1.95,
+      "variazione_1a_pct": 12.08,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 19.3,
-      "variazione_1g_pct": 3.21,
-      "variazione_1m_pct": 14.4,
-      "variazione_1a_pct": -3.5,
+      "prezzo": 20.86,
+      "variazione_1g_pct": 8.08,
+      "variazione_1m_pct": 4.35,
+      "variazione_1a_pct": 5.19,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
@@ -110,13 +110,23 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Apple aggiorna il record in Borsa: ora vale più di 5.200 miliardi di dollari",
-      "link": "https://www.ilsole24ore.com/art/apple-aggiorna-record-borsa-ora-vale-piu-5200-miliardi-dollari-AJxb71FC"
+      "titolo": "Revolut commissariata, da mesi  sotto la lente della Bce",
+      "link": "https://www.ilsole24ore.com/art/revolut-commissariata-riciclaggio-aggravante-mafiosa-AJ3ph3HC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Settimana positiva per le Borse Ue anche con caos Nvidia, a Milano (+3,6%) vola Bpm",
-      "link": "https://www.ilsole24ore.com/art/borse-asia-debole-le-dimissioni-jensen-huang-focus-titoli-ia-AJDa7BFC"
+      "titolo": "La doppia incognita Nvidia e Anthropic pesa sulle Borse, anche Milano (-0,6%) soffre",
+      "link": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-lunedi-16-novembre-2026-AJGnPuHC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Carmila e Igd verso l’integrazione (con Ops obbligatoria finalizzata al delisting)",
+      "link": "https://www.ilsole24ore.com/art/carmila-e-igd-l-integrazione-con-ops-obbligatoria-finalizzata-delisting-AJAaW1HC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Unicredit: ok incondizionato Commissione Ue ad acquisizione Commerz",
+      "link": "https://www.ilsole24ore.com/art/unicredit-ok-incondizionato-commissione-ue-ad-acquisizione-commerz-AJKFe9HC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,39 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/bpm-cda-ad-agricole-serve-valutazione-adeguata-perdita-contendibilita-AJL1mWEC"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Manovra, Messina: «Alcune misure sulle banche sono chiaramente incostituzionali»",
-      "link": "https://www.ilsole24ore.com/art/messina-manovra-alcune-misure-banche-sono-chiaramente-incostituzionali-AJ15d3DC"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Nvidia, Jensen Huang si è dimesso, al suo posto ad interim la cfo Kress",
-      "link": "https://www.ilsole24ore.com/art/jensen-huang-si-e-dimesso-effetto-immediato-ceo-nvidia-AJJtxDEC"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,65%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-chiude-in-calo-ftse-mib-065_8e4c7e7d-14e7-4698-bc96-ef321ef7700b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Folgiero, cantieri da alta intensità di lavoro ad alta intensità tecnologica",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/folgiero-cantieri-da-alta-intensita-di-lavoro-ad-alta-intensita-tecnologica_e7e753e2-85b7-4639-8b81-d721dc75d5a9.html"
+      "titolo": "Aea, i costi legati al clima in Ue crescono velocemente",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/aea-i-costi-legati-al-clima-in-ue-crescono-velocemente_6c1dc58f-836e-4162-9695-c555d4da51c1.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Bitcoin scende a 62.000 dollari, tocca i minimi da 4 mesi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/bitcoin-scende-a-62.000-dollari-tocca-i-minimi-da-4-mesi_29642167-4c39-40cf-9461-942d78d582a3.html"
+      "titolo": "Borghi (Lega): \"Quota 64 ci sarà ma con un provvedimento a parte\"",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Scende ancora il prezzo dei carburanti, benzina a 1,959 euro al litro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/scende-ancora-il-prezzo-dei-carburanti-benzina-a-1959-euro-al-litro_6844ad99-26c0-439e-baf9-f42a52e594aa.html"
+      "titolo": "Borsa: Milano rallenta (-0,5%) nel finale, scivola Stellantis",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-rallenta-05-nel-finale-scivola-stellantis_91afe244-e049-4db1-9712-0cd3ab1d5c59.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Negozi e ristoranti non sono più imprese per giovani, età media 52 anni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/negozi-e-ristoranti-non-sono-piu-imprese-per-giovani-eta-media_b5e17aae-e249-45be-aaaf-33d66d8e621d.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Dal superbonus alla sanità, la carica degli emendamenti alla manovra",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/dal-superbonus-alla-sanita-la-carica-degli-emendamenti-alla-manovra_8573b4c5-be0d-4e03-aa95-0c2d6ea8e11c.html"
+      "titolo": "Assosharing, 'non confondere monopattini in condivisione con i privati'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/assosharing-non-confondere-monopattini-in-condivisione-con-i-privati_6ce0866a-4268-45cb-aa24-d67cf736b294.html"
     }
   ]
 }
