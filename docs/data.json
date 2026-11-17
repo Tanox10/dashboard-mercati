@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-11-16T16:50:24.519567Z",
+  "aggiornato_il": "2026-11-17T16:45:20.886088Z",
   "sentiment": {
-    "punteggio": 81.9,
+    "punteggio": 78.8,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 60,
-      "momentum": 87.5,
+      "momentum": 75.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 51553.0,
-      "variazione_1g_pct": -0.59,
-      "variazione_1m_pct": 3.4,
-      "variazione_1a_pct": 17.18,
+      "prezzo": 50860.41,
+      "variazione_1g_pct": -1.28,
+      "variazione_1m_pct": 2.01,
+      "variazione_1a_pct": 16.21,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7471.36,
-      "variazione_1g_pct": -1.19,
-      "variazione_1m_pct": -2.46,
-      "variazione_1a_pct": 10.95,
+      "prezzo": 7314.94,
+      "variazione_1g_pct": -1.37,
+      "variazione_1m_pct": -4.5,
+      "variazione_1a_pct": 9.63,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
+      "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 662.61,
-      "variazione_1g_pct": -0.23,
-      "variazione_1m_pct": 2.77,
-      "variazione_1a_pct": 15.27,
+      "prezzo": 651.18,
+      "variazione_1g_pct": -1.68,
+      "variazione_1m_pct": 1.0,
+      "variazione_1a_pct": 13.91,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 202.31,
-      "variazione_1g_pct": -1.1,
-      "variazione_1m_pct": -1.95,
-      "variazione_1a_pct": 12.08,
+      "prezzo": 198.29,
+      "variazione_1g_pct": -1.28,
+      "variazione_1m_pct": -3.9,
+      "variazione_1a_pct": 11.01,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
+      "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 20.86,
-      "variazione_1g_pct": 8.08,
-      "variazione_1m_pct": 4.35,
-      "variazione_1a_pct": 5.19,
+      "prezzo": 25.85,
+      "variazione_1g_pct": 12.83,
+      "variazione_1m_pct": 29.31,
+      "variazione_1a_pct": 15.5,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-13",
-      "valore": 0.27,
+      "data": "2026-11-16",
+      "valore": 0.29,
       "valore_anno_fa": 0.53,
-      "variazione": -0.26
+      "variazione": -0.24
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,53 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Revolut commissariata, da mesi  sotto la lente della Bce",
-      "link": "https://www.ilsole24ore.com/art/revolut-commissariata-riciclaggio-aggravante-mafiosa-AJ3ph3HC"
+      "titolo": "Deutsche Bank cade a Francoforte dopo l'inchiesta giornalistica sui documenti riservati",
+      "link": "https://www.ilsole24ore.com/art/deutsche-bank-cade-francoforte-l-inchiesta-giornalistica-dei-documenti-riservati-AJzgWHJC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "La doppia incognita Nvidia e Anthropic pesa sulle Borse, anche Milano (-0,6%) soffre",
+      "titolo": "Borse, Wall Street chiude in calo: Dj -1,41%, Nasdaq -2,49%. Pesa il caso Nvidia",
       "link": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-lunedi-16-novembre-2026-AJGnPuHC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Carmila e Igd verso l’integrazione (con Ops obbligatoria finalizzata al delisting)",
-      "link": "https://www.ilsole24ore.com/art/carmila-e-igd-l-integrazione-con-ops-obbligatoria-finalizzata-delisting-AJAaW1HC"
+      "titolo": "Avio, la finlandese Iceye lancia opa volontaria da 2 miliardi",
+      "link": "https://www.ilsole24ore.com/art/avio-finlandese-iceye-lancia-opa-volontaria-2-mld-41-euro-azione-AJsSH9IC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Unicredit: ok incondizionato Commissione Ue ad acquisizione Commerz",
-      "link": "https://www.ilsole24ore.com/art/unicredit-ok-incondizionato-commissione-ue-ad-acquisizione-commerz-AJKFe9HC"
+      "titolo": "L’italiana NewPrinces torna a fare acquisizioni, accordo sulle attività francesi di Mondelez",
+      "link": "https://www.ilsole24ore.com/art/newprinces-torna-fare-acquisizioni-accordo-attivita-francesi-mondelez-AJ8wsIJC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Bpm: cda ad Agricole, «serve valutazione adeguata per perdita contendibilità»",
-      "link": "https://www.ilsole24ore.com/art/bpm-cda-ad-agricole-serve-valutazione-adeguata-perdita-contendibilita-AJL1mWEC"
+      "titolo": "Revolut commissariata, da mesi  sotto la lente della Bce",
+      "link": "https://www.ilsole24ore.com/art/revolut-commissariata-riciclaggio-aggravante-mafiosa-AJ3ph3HC"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano chiude in calo, Ftse Mib -0,65%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-chiude-in-calo-ftse-mib-065_8e4c7e7d-14e7-4698-bc96-ef321ef7700b.html"
+      "titolo": "Huang rompe il silenzio: 'Disposto a tornare a Nvidia se il cda lo ritiene'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-il-cda-lo-ritiene_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Aea, i costi legati al clima in Ue crescono velocemente",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/aea-i-costi-legati-al-clima-in-ue-crescono-velocemente_6c1dc58f-836e-4162-9695-c555d4da51c1.html"
+      "titolo": "Borsa: Milano peggiora a -1,3% e scende sotto i 51mila punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/borsa-milano-peggiora-a-13-e-scende-sotto-i-51mila-punti_7aa7c212-880e-4f78-b834-e414ccbfd752.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borghi (Lega): \"Quota 64 ci sarà ma con un provvedimento a parte\"",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html"
+      "titolo": "Borsa: l'Europa peggiora con Wall Street, Milano -0,6%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/borsa-leuropa-peggiora-con-wall-street-milano-06_be71f140-f391-481b-8e0b-8cc66304279c.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano rallenta (-0,5%) nel finale, scivola Stellantis",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-rallenta-05-nel-finale-scivola-stellantis_91afe244-e049-4db1-9712-0cd3ab1d5c59.html"
+      "titolo": "Wall Street apre contrastata in attesa di Nvidia, Dj -0,76%, Nasdaq +0,02%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/wall-street-apre-contrastata-in-attesa-di-nvidia-dj-076-nasdaq-002_d037cf69-cbb4-41d7-9498-a381555718bf.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Assosharing, 'non confondere monopattini in condivisione con i privati'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/assosharing-non-confondere-monopattini-in-condivisione-con-i-privati_6ce0866a-4268-45cb-aa24-d67cf736b294.html"
+      "titolo": "Il petrolio in rialzo a New York a 86,98 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/il-petrolio-in-rialzo-a-new-york-a-8698-dollari_b782ed14-9d29-4388-aedc-5e53793acc9e.html"
     }
   ]
 }
