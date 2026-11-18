@@ -1,70 +1,70 @@
 {
-  "aggiornato_il": "2026-11-17T16:45:20.886088Z",
+  "aggiornato_il": "2026-11-18T16:16:28.585851Z",
   "sentiment": {
-    "punteggio": 78.8,
+    "punteggio": 77.2,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 60,
-      "momentum": 75.0,
+      "momentum": 68.75,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50860.41,
-      "variazione_1g_pct": -1.28,
-      "variazione_1m_pct": 2.01,
-      "variazione_1a_pct": 16.21,
-      "sopra_media_50gg": true,
+      "prezzo": 50307.13,
+      "variazione_1g_pct": -1.06,
+      "variazione_1m_pct": 2.49,
+      "variazione_1a_pct": 17.43,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7314.94,
-      "variazione_1g_pct": -1.37,
-      "variazione_1m_pct": -4.5,
-      "variazione_1a_pct": 9.63,
+      "prezzo": 7303.23,
+      "variazione_1g_pct": -0.51,
+      "variazione_1m_pct": -5.04,
+      "variazione_1a_pct": 10.37,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 651.18,
-      "variazione_1g_pct": -1.68,
-      "variazione_1m_pct": 1.0,
-      "variazione_1a_pct": 13.91,
+      "prezzo": 645.07,
+      "variazione_1g_pct": -0.87,
+      "variazione_1m_pct": 0.86,
+      "variazione_1a_pct": 14.81,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 198.29,
-      "variazione_1g_pct": -1.28,
-      "variazione_1m_pct": -3.9,
-      "variazione_1a_pct": 11.01,
+      "prezzo": 197.45,
+      "variazione_1g_pct": -0.64,
+      "variazione_1m_pct": -4.45,
+      "variazione_1a_pct": 11.46,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 25.85,
-      "variazione_1g_pct": 12.83,
-      "variazione_1m_pct": 29.31,
-      "variazione_1a_pct": 15.5,
+      "prezzo": 24.74,
+      "variazione_1g_pct": -2.83,
+      "variazione_1m_pct": 34.16,
+      "variazione_1a_pct": 0.2,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "trend": "trend positivo"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-16",
-      "valore": 0.29,
+      "data": "2026-11-17",
+      "valore": 0.3,
       "valore_anno_fa": 0.53,
-      "variazione": -0.24
+      "variazione": -0.23
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,18 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Deutsche Bank cade a Francoforte dopo l'inchiesta giornalistica sui documenti riservati",
-      "link": "https://www.ilsole24ore.com/art/deutsche-bank-cade-francoforte-l-inchiesta-giornalistica-dei-documenti-riservati-AJzgWHJC"
+      "titolo": "Generali verso il superamento dei target al 2027",
+      "link": "https://www.ilsole24ore.com/art/generali-il-superamento-target-2027-AJx0sPKC"
     },
     {
       "fonte": "Il Sole 24 Ore",
       "titolo": "Borse, Wall Street chiude in calo: Dj -1,41%, Nasdaq -2,49%. Pesa il caso Nvidia",
       "link": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-lunedi-16-novembre-2026-AJGnPuHC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Deutsche Bank cade a Francoforte dopo l'inchiesta giornalistica sui documenti riservati",
+      "link": "https://www.ilsole24ore.com/art/deutsche-bank-cade-francoforte-l-inchiesta-giornalistica-dei-documenti-riservati-AJzgWHJC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/newprinces-torna-fare-acquisizioni-accordo-attivita-francesi-mondelez-AJ8wsIJC"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Revolut commissariata, da mesi  sotto la lente della Bce",
-      "link": "https://www.ilsole24ore.com/art/revolut-commissariata-riciclaggio-aggravante-mafiosa-AJ3ph3HC"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: Milano debole (-1%), frenano Leonardo e Bper, corre Technoprobe",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-milano-debole-1-frenano-leonardo-e-bper-corre-technoprobe_dcb7a8df-a17e-4fa5-8128-3b44cf89a6c4.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Huang rompe il silenzio: 'Disposto a tornare a Nvidia se il cda lo ritiene'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-il-cda-lo-ritiene_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html"
+      "titolo": "Banche restano deboli in borsa dopo emendamento su Ires e Bce",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/banche-restano-deboli-in-borsa-dopo-emendamento-su-ires-e-bce_4f3bd71a-0ab9-478f-a95d-15be04d8f4be.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano peggiora a -1,3% e scende sotto i 51mila punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/borsa-milano-peggiora-a-13-e-scende-sotto-i-51mila-punti_7aa7c212-880e-4f78-b834-e414ccbfd752.html"
+      "titolo": "Gava, 'via libera al credito d'imposta del 36% per le imprese plastica riciclata'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/gava-via-libera-al-credito-dimposta-del-36-per-le-imprese-plastica-riciclata_2c2deb7d-ef25-411c-b3ee-eb0b8fda9f12.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa peggiora con Wall Street, Milano -0,6%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/borsa-leuropa-peggiora-con-wall-street-milano-06_be71f140-f391-481b-8e0b-8cc66304279c.html"
+      "titolo": "Borsa: Europa più debole, New York contrastata, Milano -0,75%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-europa-piu-debole-new-york-contrastata-milano-075_f20ade66-5707-406f-a7b9-735972c6f321.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Wall Street apre contrastata in attesa di Nvidia, Dj -0,76%, Nasdaq +0,02%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/wall-street-apre-contrastata-in-attesa-di-nvidia-dj-076-nasdaq-002_d037cf69-cbb4-41d7-9498-a381555718bf.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Il petrolio in rialzo a New York a 86,98 dollari",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/il-petrolio-in-rialzo-a-new-york-a-8698-dollari_b782ed14-9d29-4388-aedc-5e53793acc9e.html"
+      "titolo": "Violenza di genere, imprese avanti sulle regole ma indietro sulle azioni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/violenza-di-genere-imprese-avanti-sulle-regole-ma-indietro-sulle-azioni_d6d96d50-f8d4-4910-b4e9-465de4ee5478.html"
     }
   ]
 }
