@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-11-18T16:16:28.585851Z",
+  "aggiornato_il": "2026-11-19T16:24:46.494177Z",
   "sentiment": {
-    "punteggio": 77.2,
+    "punteggio": 75.6,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 60,
-      "momentum": 68.75,
+      "momentum": 62.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50307.13,
-      "variazione_1g_pct": -1.06,
-      "variazione_1m_pct": 2.49,
-      "variazione_1a_pct": 17.43,
+      "prezzo": 50066.97,
+      "variazione_1g_pct": -0.21,
+      "variazione_1m_pct": 2.03,
+      "variazione_1a_pct": 17.39,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7303.23,
-      "variazione_1g_pct": -0.51,
-      "variazione_1m_pct": -5.04,
-      "variazione_1a_pct": 10.37,
+      "prezzo": 7305.67,
+      "variazione_1g_pct": -0.25,
+      "variazione_1m_pct": -5.28,
+      "variazione_1a_pct": 9.99,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 645.07,
-      "variazione_1g_pct": -0.87,
-      "variazione_1m_pct": 0.86,
-      "variazione_1a_pct": 14.81,
-      "sopra_media_50gg": true,
+      "prezzo": 639.59,
+      "variazione_1g_pct": -0.69,
+      "variazione_1m_pct": 0.15,
+      "variazione_1a_pct": 13.86,
+      "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 197.45,
-      "variazione_1g_pct": -0.64,
-      "variazione_1m_pct": -4.45,
-      "variazione_1a_pct": 11.46,
+      "prezzo": 196.91,
+      "variazione_1g_pct": -0.41,
+      "variazione_1m_pct": -5.06,
+      "variazione_1a_pct": 10.98,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 24.74,
-      "variazione_1g_pct": -2.83,
-      "variazione_1m_pct": 34.16,
-      "variazione_1a_pct": 0.2,
+      "prezzo": 25.57,
+      "variazione_1g_pct": 4.11,
+      "variazione_1m_pct": 47.72,
+      "variazione_1a_pct": 8.07,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-17",
-      "valore": 0.3,
-      "valore_anno_fa": 0.53,
-      "variazione": -0.23
+      "data": "2026-11-18",
+      "valore": 0.27,
+      "valore_anno_fa": 0.54,
+      "variazione": -0.27
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,23 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "UniCredit, accordo fatto con il governo tedesco su Commerzbank",
+      "link": "https://www.ilsole24ore.com/art/unicredit-accordo-fatto-il-governo-tedesco-commerzbank-AJO6cdLC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Generali verso il superamento dei target al 2027",
       "link": "https://www.ilsole24ore.com/art/generali-il-superamento-target-2027-AJx0sPKC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, Wall Street chiude in calo: Dj -1,41%, Nasdaq -2,49%. Pesa il caso Nvidia",
-      "link": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-lunedi-16-novembre-2026-AJGnPuHC"
+      "titolo": "Anthropic debutta al Nasdaq, verso un balzo di oltre il 20%",
+      "link": "https://www.ilsole24ore.com/art/anthropic-debutta-nasdaq-e-indicazioni-puntano-subito-un-forte-rialzo-AJ3XSjLC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Mfe, ricavi in calo a 4,1 miliardi ed Ebit positivo a 110 milioni",
+      "link": "https://www.ilsole24ore.com/art/mfe-ricavi-calo-41-miliardi-ed-ebit-positivo-110-milioni-AJJ7xFLC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -124,39 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/deutsche-bank-cade-francoforte-l-inchiesta-giornalistica-dei-documenti-riservati-AJzgWHJC"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Avio, la finlandese Iceye lancia opa volontaria da 2 miliardi",
-      "link": "https://www.ilsole24ore.com/art/avio-finlandese-iceye-lancia-opa-volontaria-2-mld-41-euro-azione-AJsSH9IC"
-    },
-    {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "L’italiana NewPrinces torna a fare acquisizioni, accordo sulle attività francesi di Mondelez",
-      "link": "https://www.ilsole24ore.com/art/newprinces-torna-fare-acquisizioni-accordo-attivita-francesi-mondelez-AJ8wsIJC"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: l'Europa peggiora con Wall street, Milano -0,1%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-peggiora-con-wall-street-milano-01_abf8202d-0d4a-4646-b12e-c8ed86c7f16f.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano debole (-1%), frenano Leonardo e Bper, corre Technoprobe",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-milano-debole-1-frenano-leonardo-e-bper-corre-technoprobe_dcb7a8df-a17e-4fa5-8128-3b44cf89a6c4.html"
+      "titolo": "Anthropic verso esordio a 105 dollari per azione, +26% rispetto a prezzo fissato",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-verso-esordio-a-100-dollari-per-azione-20-rispetto-a-prezzo-fissato_2e046503-9db2-43c7-bf74-f7a19ea93b97.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Banche restano deboli in borsa dopo emendamento su Ires e Bce",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/banche-restano-deboli-in-borsa-dopo-emendamento-su-ires-e-bce_4f3bd71a-0ab9-478f-a95d-15be04d8f4be.html"
+      "titolo": "Novità sul credito al consumo, da domani stretta su 'buy now pay later'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/novita-sul-credito-al-consumo-da-domani-stretta-su-buy-now-pay-later_28f5367b-7fca-4d12-8c7f-c5d214435e38.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Gava, 'via libera al credito d'imposta del 36% per le imprese plastica riciclata'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/gava-via-libera-al-credito-dimposta-del-36-per-le-imprese-plastica-riciclata_2c2deb7d-ef25-411c-b3ee-eb0b8fda9f12.html"
+      "titolo": "Inaugurato hotel a Botteghe Oscure, turisti Usa dormono nell'ex ufficio di Berlinguer",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/inaugurato-hotel-a-botteghe-oscure-turisti-usa-dormono-nellex-ufficio-di-berlinguer_60f20b7a-caf0-4240-a889-fa38d6ea9df5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa più debole, New York contrastata, Milano -0,75%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-europa-piu-debole-new-york-contrastata-milano-075_f20ade66-5707-406f-a7b9-735972c6f321.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Violenza di genere, imprese avanti sulle regole ma indietro sulle azioni",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/violenza-di-genere-imprese-avanti-sulle-regole-ma-indietro-sulle-azioni_d6d96d50-f8d4-4910-b4e9-465de4ee5478.html"
+      "titolo": "Borsa: l'Europa piatta dopo l'avvio di Wall street, Milano positiva (+0,6%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-piatta-dopo-lavvio-di-wall-street-milano-positiva-06_8e6049c6-51cf-4410-914a-88b1fa0bfa53.html"
     }
   ]
 }
