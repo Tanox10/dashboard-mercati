@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-11-19T16:24:46.494177Z",
+  "aggiornato_il": "2026-11-20T15:57:45.874972Z",
   "sentiment": {
-    "punteggio": 75.6,
+    "punteggio": 72.5,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 60,
-      "momentum": 62.5,
+      "momentum": 50.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 50066.97,
-      "variazione_1g_pct": -0.21,
-      "variazione_1m_pct": 2.03,
-      "variazione_1a_pct": 17.39,
+      "prezzo": 48838.24,
+      "variazione_1g_pct": -2.21,
+      "variazione_1m_pct": -1.62,
+      "variazione_1a_pct": 13.79,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
-      "trend": "trend positivo forte"
+      "sopra_media_200gg": false,
+      "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7305.67,
-      "variazione_1g_pct": -0.25,
-      "variazione_1m_pct": -5.28,
-      "variazione_1a_pct": 9.99,
+      "prezzo": 7084.75,
+      "variazione_1g_pct": -1.27,
+      "variazione_1m_pct": -8.67,
+      "variazione_1a_pct": 8.35,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 639.59,
-      "variazione_1g_pct": -0.69,
-      "variazione_1m_pct": 0.15,
-      "variazione_1a_pct": 13.86,
+      "prezzo": 627.03,
+      "variazione_1g_pct": -1.78,
+      "variazione_1m_pct": -2.71,
+      "variazione_1a_pct": 11.19,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": true,
+      "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 196.91,
-      "variazione_1g_pct": -0.41,
-      "variazione_1m_pct": -5.06,
-      "variazione_1a_pct": 10.98,
+      "prezzo": 191.53,
+      "variazione_1g_pct": -1.23,
+      "variazione_1m_pct": -8.13,
+      "variazione_1a_pct": 9.63,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 25.57,
-      "variazione_1g_pct": 4.11,
-      "variazione_1m_pct": 47.72,
-      "variazione_1a_pct": 8.07,
+      "prezzo": 29.88,
+      "variazione_1g_pct": 5.06,
+      "variazione_1m_pct": 79.14,
+      "variazione_1a_pct": 13.1,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
@@ -61,9 +61,9 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-18",
-      "valore": 0.27,
-      "valore_anno_fa": 0.54,
+      "data": "2026-11-19",
+      "valore": 0.28,
+      "valore_anno_fa": 0.55,
       "variazione": -0.27
     },
     {
@@ -120,8 +120,13 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Anthropic debutta al Nasdaq, verso un balzo di oltre il 20%",
-      "link": "https://www.ilsole24ore.com/art/anthropic-debutta-nasdaq-e-indicazioni-puntano-subito-un-forte-rialzo-AJ3XSjLC"
+      "titolo": "Borse, si spegne l’entusiasmo su Anthropic. Forti vendite sui tech",
+      "link": "https://www.ilsole24ore.com/art/borse-asiatiche-calo-anthropic-cauta-il-debutto-record-AJpG3xMC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
+      "titolo": "Sanofi valuta l’acquisizione di Insmed per oltre 30 miliardi di dollari",
+      "link": "https://www.ilsole24ore.com/art/sanofi-valuta-l-acquisizione-insmed-oltre-30-miliardi-dollari-AJqwJGMC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -129,34 +134,29 @@
       "link": "https://www.ilsole24ore.com/art/mfe-ricavi-calo-41-miliardi-ed-ebit-positivo-110-milioni-AJJ7xFLC"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "Deutsche Bank cade a Francoforte dopo l'inchiesta giornalistica sui documenti riservati",
-      "link": "https://www.ilsole24ore.com/art/deutsche-bank-cade-francoforte-l-inchiesta-giornalistica-dei-documenti-riservati-AJzgWHJC"
+      "fonte": "ANSA Economia",
+      "titolo": "Cop31: negoziatore, 'plenaria solo per ok a testi secondari'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/cop31-negoziatore-plenaria-solo-per-ok-a-testi-secondari_ae8c74d7-b763-43d2-8a29-4b66eb8651c1.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa peggiora con Wall street, Milano -0,1%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-peggiora-con-wall-street-milano-01_abf8202d-0d4a-4646-b12e-c8ed86c7f16f.html"
+      "titolo": "Fs, sciopero del personale dalle 21 di oggi alle 20 di domani",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/fs-sciopero-del-personale-dalle-21-di-oggi-alle-20-di-domani_49dc2219-ecfc-4749-b7a9-bd2a14257de5.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Anthropic verso esordio a 105 dollari per azione, +26% rispetto a prezzo fissato",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-verso-esordio-a-100-dollari-per-azione-20-rispetto-a-prezzo-fissato_2e046503-9db2-43c7-bf74-f7a19ea93b97.html"
+      "titolo": "Salvini, da Mit via libera a omologazione provvisoria sistema guida assistita Tesla",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/salvini-da-mit-via-libera-a-omologazione-provvisoria-sistema-guida-assistita-tesla_687cc8c6-c69a-46d3-8ffd-ff83558ba88a.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Novità sul credito al consumo, da domani stretta su 'buy now pay later'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/novita-sul-credito-al-consumo-da-domani-stretta-su-buy-now-pay-later_28f5367b-7fca-4d12-8c7f-c5d214435e38.html"
+      "titolo": "Cgil, 'un milione e mezzo in oltre 100 piazze, adesione sciopero al 60%'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/cgil-un-milione-e-mezzo-in-oltre-100-piazze-adesione-sciopero-al-60_7c93adfd-2295-4972-85e6-51926f73b3fa.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Inaugurato hotel a Botteghe Oscure, turisti Usa dormono nell'ex ufficio di Berlinguer",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/inaugurato-hotel-a-botteghe-oscure-turisti-usa-dormono-nellex-ufficio-di-berlinguer_60f20b7a-caf0-4240-a889-fa38d6ea9df5.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa piatta dopo l'avvio di Wall street, Milano positiva (+0,6%)",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-piatta-dopo-lavvio-di-wall-street-milano-positiva-06_8e6049c6-51cf-4410-914a-88b1fa0bfa53.html"
+      "titolo": "Lufthansa verso il taglio di 1.000 posti di lavoro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/lufthansa-verso-il-taglio-di-1.000-posti-di-lavoro_061e5719-4ac8-4315-b186-2d542184c82c.html"
     }
   ]
 }
