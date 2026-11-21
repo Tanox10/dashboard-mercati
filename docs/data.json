@@ -1,10 +1,10 @@
 {
-  "aggiornato_il": "2026-11-20T15:57:45.874972Z",
+  "aggiornato_il": "2026-11-21T15:09:36.398542Z",
   "sentiment": {
-    "punteggio": 72.5,
-    "semaforo": "verde",
+    "punteggio": 62.5,
+    "semaforo": "giallo",
     "dettaglio": {
-      "volatilita": 60,
+      "volatilita": 20,
       "momentum": 50.0,
       "curva_rendimenti": 80,
       "inflazione": 100.0
@@ -12,59 +12,59 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 48838.24,
-      "variazione_1g_pct": -2.21,
-      "variazione_1m_pct": -1.62,
-      "variazione_1a_pct": 13.79,
+      "prezzo": 48704.0,
+      "variazione_1g_pct": -2.48,
+      "variazione_1m_pct": -1.89,
+      "variazione_1a_pct": 13.48,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7084.75,
-      "variazione_1g_pct": -1.27,
-      "variazione_1m_pct": -8.67,
-      "variazione_1a_pct": 8.35,
+      "prezzo": 6910.39,
+      "variazione_1g_pct": -3.7,
+      "variazione_1m_pct": -10.92,
+      "variazione_1a_pct": 5.68,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 627.03,
-      "variazione_1g_pct": -1.78,
-      "variazione_1m_pct": -2.71,
-      "variazione_1a_pct": 11.19,
+      "prezzo": 625.65,
+      "variazione_1g_pct": -2.0,
+      "variazione_1m_pct": -2.92,
+      "variazione_1a_pct": 10.94,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 191.53,
-      "variazione_1g_pct": -1.23,
-      "variazione_1m_pct": -8.13,
-      "variazione_1a_pct": 9.63,
+      "prezzo": 187.43,
+      "variazione_1g_pct": -3.34,
+      "variazione_1m_pct": -10.1,
+      "variazione_1a_pct": 7.28,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 29.88,
-      "variazione_1g_pct": 5.06,
-      "variazione_1m_pct": 79.14,
-      "variazione_1a_pct": 13.1,
+      "prezzo": 35.89,
+      "variazione_1g_pct": 26.2,
+      "variazione_1m_pct": 115.17,
+      "variazione_1a_pct": 35.84,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
-      "trend": "trend positivo"
+      "trend": "trend positivo forte"
     }
   },
   "macro": [
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-19",
-      "valore": 0.28,
+      "data": "2026-11-20",
+      "valore": 0.29,
       "valore_anno_fa": 0.55,
-      "variazione": -0.27
+      "variazione": -0.26
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -120,7 +120,7 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, si spegne l’entusiasmo su Anthropic. Forti vendite sui tech",
+      "titolo": "Borse, venerdì nero per i tech. Nasdaq chiude in picchiata a -5,37% con Anthropic a -8,50% dopo l’Ipo dei record",
       "link": "https://www.ilsole24ore.com/art/borse-asiatiche-calo-anthropic-cauta-il-debutto-record-AJpG3xMC"
     },
     {
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cop31: negoziatore, 'plenaria solo per ok a testi secondari'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/cop31-negoziatore-plenaria-solo-per-ok-a-testi-secondari_ae8c74d7-b763-43d2-8a29-4b66eb8651c1.html"
+      "titolo": "Merz, 'nuova proposta bilancio Ue passo avanti ma ancora troppo alta",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/merz-nuova-proposta-bilancio-ue-passo-avanti-ma-ancora-troppo-alta_133c0910-fb48-4d0f-af19-283afaa413fd.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fs, sciopero del personale dalle 21 di oggi alle 20 di domani",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/fs-sciopero-del-personale-dalle-21-di-oggi-alle-20-di-domani_49dc2219-ecfc-4749-b7a9-bd2a14257de5.html"
+      "titolo": "Orcel: \"Unicredit crescerà ancora, ma la sede resterà a Milano\"",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/orcel-unicredit-crescera-ancora-ma-la-sede-restera-a-milano_0ee15d45-b006-4a35-97dd-9877ae1e333d.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Salvini, da Mit via libera a omologazione provvisoria sistema guida assistita Tesla",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/salvini-da-mit-via-libera-a-omologazione-provvisoria-sistema-guida-assistita-tesla_687cc8c6-c69a-46d3-8ffd-ff83558ba88a.html"
+      "titolo": "Cgia, 2,4 milioni di famiglie italiane a rischio povertà energetica",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/cgia-24-milioni-di-famiglie-italiane-a-rischio-poverta-energetica_aa26d2d8-fc76-487f-8296-94ab69016569.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Cgil, 'un milione e mezzo in oltre 100 piazze, adesione sciopero al 60%'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/cgil-un-milione-e-mezzo-in-oltre-100-piazze-adesione-sciopero-al-60_7c93adfd-2295-4972-85e6-51926f73b3fa.html"
+      "titolo": "Black Friday: Codacons, in Italia giro d'affari da 4,3 miliardi, resta rischio truffe",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-codacons-in-italia-giro-daffari-da-43-miliardi-resta-rischio-truffe_3c51b41d-01fc-4f71-bd68-6ac7f4a55279.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lufthansa verso il taglio di 1.000 posti di lavoro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/lufthansa-verso-il-taglio-di-1.000-posti-di-lavoro_061e5719-4ac8-4315-b186-2d542184c82c.html"
+      "titolo": "Black friday, oltre il 60% degli italiani pronto agli acquisti. Spesa media 262 euro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-oltre-il-60-degli-italiani-pronto-agli-acquisti.-spesa-media_08d772bb-f4a5-4ee9-acba-b9dd8fab9c72.html"
     }
   ]
 }
