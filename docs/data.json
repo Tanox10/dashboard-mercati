@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-21T15:09:36.398542Z",
+  "aggiornato_il": "2026-11-22T15:07:10.582758Z",
   "sentiment": {
     "punteggio": 62.5,
     "semaforo": "giallo",
@@ -135,6 +135,16 @@
     },
     {
       "fonte": "ANSA Economia",
+      "titolo": "Dal wedding dog sitter al pet detective, 18mila professionisti del benessere animale",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/22/dal-wedding-dog-sitter-al-pet-detective-18mila-professionisti-del-benessere_6eb2591b-6d09-4b8b-b5dd-cc3ac21cacd9.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Nuovi tagli al bilancio Ue, c'è una digital tax da 5,2 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/tagli-al-bilancio-ue-ce-una-digital-tax-da-52-miliardi_0e90b338-3f27-4ac8-83c2-5f3ac96954ff.html"
+    },
+    {
+      "fonte": "ANSA Economia",
       "titolo": "Merz, 'nuova proposta bilancio Ue passo avanti ma ancora troppo alta",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/merz-nuova-proposta-bilancio-ue-passo-avanti-ma-ancora-troppo-alta_133c0910-fb48-4d0f-af19-283afaa413fd.html"
     },
@@ -142,21 +152,6 @@
       "fonte": "ANSA Economia",
       "titolo": "Orcel: \"Unicredit crescerà ancora, ma la sede resterà a Milano\"",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/orcel-unicredit-crescera-ancora-ma-la-sede-restera-a-milano_0ee15d45-b006-4a35-97dd-9877ae1e333d.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Cgia, 2,4 milioni di famiglie italiane a rischio povertà energetica",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/cgia-24-milioni-di-famiglie-italiane-a-rischio-poverta-energetica_aa26d2d8-fc76-487f-8296-94ab69016569.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Black Friday: Codacons, in Italia giro d'affari da 4,3 miliardi, resta rischio truffe",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-codacons-in-italia-giro-daffari-da-43-miliardi-resta-rischio-truffe_3c51b41d-01fc-4f71-bd68-6ac7f4a55279.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Black friday, oltre il 60% degli italiani pronto agli acquisti. Spesa media 262 euro",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-oltre-il-60-degli-italiani-pronto-agli-acquisti.-spesa-media_08d772bb-f4a5-4ee9-acba-b9dd8fab9c72.html"
     }
   ]
 }
