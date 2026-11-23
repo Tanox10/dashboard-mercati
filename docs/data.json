@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-11-22T15:07:10.582758Z",
+  "aggiornato_il": "2026-11-23T19:03:23.772798Z",
   "sentiment": {
-    "punteggio": 62.5,
-    "semaforo": "giallo",
+    "punteggio": 74.1,
+    "semaforo": "verde",
     "dettaglio": {
-      "volatilita": 20,
-      "momentum": 50.0,
+      "volatilita": 60,
+      "momentum": 56.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 48704.0,
-      "variazione_1g_pct": -2.48,
-      "variazione_1m_pct": -1.89,
-      "variazione_1a_pct": 13.48,
+      "prezzo": 49021.93,
+      "variazione_1g_pct": 0.65,
+      "variazione_1m_pct": 0.95,
+      "variazione_1a_pct": 14.91,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 6910.39,
-      "variazione_1g_pct": -3.7,
-      "variazione_1m_pct": -10.92,
-      "variazione_1a_pct": 5.68,
+      "prezzo": 7247.58,
+      "variazione_1g_pct": 4.88,
+      "variazione_1m_pct": -4.93,
+      "variazione_1a_pct": 9.76,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 625.65,
-      "variazione_1g_pct": -2.0,
-      "variazione_1m_pct": -2.92,
-      "variazione_1a_pct": 10.94,
+      "prezzo": 636.97,
+      "variazione_1g_pct": 1.81,
+      "variazione_1m_pct": 0.19,
+      "variazione_1a_pct": 13.32,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
+      "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 187.43,
-      "variazione_1g_pct": -3.34,
-      "variazione_1m_pct": -10.1,
-      "variazione_1a_pct": 7.28,
+      "prezzo": 195.38,
+      "variazione_1g_pct": 4.24,
+      "variazione_1m_pct": -4.76,
+      "variazione_1a_pct": 10.66,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 35.89,
-      "variazione_1g_pct": 26.2,
-      "variazione_1m_pct": 115.17,
-      "variazione_1a_pct": 35.84,
+      "prezzo": 27.12,
+      "variazione_1g_pct": -24.44,
+      "variazione_1m_pct": 39.43,
+      "variazione_1a_pct": 15.75,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -110,48 +110,53 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "UniCredit, accordo fatto con il governo tedesco su Commerzbank",
-      "link": "https://www.ilsole24ore.com/art/unicredit-accordo-fatto-il-governo-tedesco-commerzbank-AJO6cdLC"
+      "titolo": "Huang torna a capo di Nvidia, reintegrato dal board",
+      "link": "https://www.ilsole24ore.com/art/nvidia-huang-torna-capo-colosso-tech-AJRmT8PC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Generali verso il superamento dei target al 2027",
-      "link": "https://www.ilsole24ore.com/art/generali-il-superamento-target-2027-AJx0sPKC"
+      "titolo": "Wall Street festeggia il ritorno di Huang, dal venerdì nero al lunedì del riscatto",
+      "link": "https://www.ilsole24ore.com/art/borse-asiatiche-prudenti-bene-shenzhen-22percento-AJa09lPC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, venerdì nero per i tech. Nasdaq chiude in picchiata a -5,37% con Anthropic a -8,50% dopo l’Ipo dei record",
-      "link": "https://www.ilsole24ore.com/art/borse-asiatiche-calo-anthropic-cauta-il-debutto-record-AJpG3xMC"
+      "titolo": "Lego investe 1 miliardo per il nuovo sito in Portogallo",
+      "link": "https://www.ilsole24ore.com/art/lego-investe-1-miliardo-il-nuovo-sito-portogallo-AJ7cRNQC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Sanofi valuta l’acquisizione di Insmed per oltre 30 miliardi di dollari",
-      "link": "https://www.ilsole24ore.com/art/sanofi-valuta-l-acquisizione-insmed-oltre-30-miliardi-dollari-AJqwJGMC"
+      "titolo": "Abivax replica alle accuse di Scorpion Capital e rimbalza a Parigi",
+      "link": "https://www.ilsole24ore.com/art/abivax-replica-accuse-scorpion-capital-e-rimbalza-parigi-AJTizwPC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Mfe, ricavi in calo a 4,1 miliardi ed Ebit positivo a 110 milioni",
-      "link": "https://www.ilsole24ore.com/art/mfe-ricavi-calo-41-miliardi-ed-ebit-positivo-110-milioni-AJJ7xFLC"
+      "titolo": "A Zurigo male Julius Baer, utile record ma pesano i deludenti flussi netti",
+      "link": "https://www.ilsole24ore.com/art/a-zurigo-male-julius-baer-utile-record-ma-pesano-deludenti-flussi-netti-AJoY10PC"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Dal wedding dog sitter al pet detective, 18mila professionisti del benessere animale",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/22/dal-wedding-dog-sitter-al-pet-detective-18mila-professionisti-del-benessere_6eb2591b-6d09-4b8b-b5dd-cc3ac21cacd9.html"
+      "titolo": "Goldman Sachs, l'economia italiana perde spinta con l'erosione del potere d'acquisto",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/goldman-sachs-leconomia-italiana-perde-spinta-con-lerosione-del-potere_24f7e1d8-dbda-438c-add8-c05027c79a09.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Nuovi tagli al bilancio Ue, c'è una digital tax da 5,2 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/tagli-al-bilancio-ue-ce-una-digital-tax-da-52-miliardi_0e90b338-3f27-4ac8-83c2-5f3ac96954ff.html"
+      "titolo": "Si amplia SafeTeen, il progetto di C'è Da Fare per la salute mentale degli adolescenti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/si-amplia-safeteen-il-progetto-di-ce-da-fare-per-la-salute-mentale-degli-adolescenti_90a38b0a-52fc-49fa-9af0-6b5b7c14c277.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Merz, 'nuova proposta bilancio Ue passo avanti ma ancora troppo alta",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/merz-nuova-proposta-bilancio-ue-passo-avanti-ma-ancora-troppo-alta_133c0910-fb48-4d0f-af19-283afaa413fd.html"
+      "titolo": "Ivass, boom dei reclami alle assicurazioni, +10% nel primo semestre",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/ivass-boom-dei-reclami-alle-assicurazioni-10-nel-primo-semestre_77fe3a00-ca1a-4cf3-a2f9-5b57005ce62b.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Orcel: \"Unicredit crescerà ancora, ma la sede resterà a Milano\"",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/orcel-unicredit-crescera-ancora-ma-la-sede-restera-a-milano_0ee15d45-b006-4a35-97dd-9877ae1e333d.html"
+      "titolo": "Pichetto, entro dieci giorni la proposta dei decreti attuativi sul nucleare",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/pichetto-entro-dieci-giorni-la-proposta-dei-decreti-attuativi-sul-nucleare_7f418ec6-efeb-46aa-ad80-95571e56cdf6.html"
+    },
+    {
+      "fonte": "ANSA Economia",
+      "titolo": "Studio Bce, in Italia ostacoli finanziari doppi per le imprese rispetto ai nordici",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/studio-bce-in-italia-ostacoli-finanziari-doppi-per-le-imprese-rispetto-ai-nordici_fa07ce79-0364-4405-8107-18b7c28a935f.html"
     }
   ]
 }
