@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-11-23T19:03:23.772798Z",
+  "aggiornato_il": "2026-11-24T18:42:58.643464Z",
   "sentiment": {
     "punteggio": 74.1,
     "semaforo": "verde",
@@ -12,46 +12,46 @@
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 49021.93,
-      "variazione_1g_pct": 0.65,
-      "variazione_1m_pct": 0.95,
-      "variazione_1a_pct": 14.91,
+      "prezzo": 48121.19,
+      "variazione_1g_pct": -1.84,
+      "variazione_1m_pct": -0.9,
+      "variazione_1a_pct": 13.77,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7247.58,
-      "variazione_1g_pct": 4.88,
-      "variazione_1m_pct": -4.93,
-      "variazione_1a_pct": 9.76,
+      "prezzo": 7204.21,
+      "variazione_1g_pct": -0.46,
+      "variazione_1m_pct": -5.5,
+      "variazione_1a_pct": 7.44,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 636.97,
-      "variazione_1g_pct": 1.81,
-      "variazione_1m_pct": 0.19,
-      "variazione_1a_pct": 13.32,
+      "prezzo": 632.74,
+      "variazione_1g_pct": -0.66,
+      "variazione_1m_pct": -0.48,
+      "variazione_1a_pct": 12.41,
       "sopra_media_50gg": false,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 195.38,
-      "variazione_1g_pct": 4.24,
-      "variazione_1m_pct": -4.76,
-      "variazione_1a_pct": 10.66,
+      "prezzo": 194.74,
+      "variazione_1g_pct": -0.26,
+      "variazione_1m_pct": -5.07,
+      "variazione_1a_pct": 9.09,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 27.12,
-      "variazione_1g_pct": -24.44,
-      "variazione_1m_pct": 39.43,
-      "variazione_1a_pct": 15.75,
+      "prezzo": 26.43,
+      "variazione_1g_pct": -0.71,
+      "variazione_1m_pct": 35.89,
+      "variazione_1a_pct": 28.8,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-20",
+      "data": "2026-11-23",
       "valore": 0.29,
-      "valore_anno_fa": 0.55,
-      "variazione": -0.26
+      "valore_anno_fa": 0.58,
+      "variazione": -0.29
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,13 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Huang torna a capo di Nvidia, reintegrato dal board",
-      "link": "https://www.ilsole24ore.com/art/nvidia-huang-torna-capo-colosso-tech-AJRmT8PC"
+      "titolo": "Sanofi vola in Borsa sulla  maxi acquisizione negli Usa da 37,6 miliardi di dollari",
+      "link": "https://www.ilsole24ore.com/art/sanofi-maxi-acquisizione-usa-376-miliardi-dollari-AJwKiyQC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Wall Street festeggia il ritorno di Huang, dal venerdì nero al lunedì del riscatto",
-      "link": "https://www.ilsole24ore.com/art/borse-asiatiche-prudenti-bene-shenzhen-22percento-AJa09lPC"
+      "titolo": "Sulle Borse si esaurisce l’effetto Huang, timori AI e dazi rubano la scena. Milano chiude a -1,8%",
+      "link": "https://www.ilsole24ore.com/art/borse-future-positivi-maxi-rimbalzo-nasdaq-greggio-calo-AJBRZxQC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Goldman Sachs, l'economia italiana perde spinta con l'erosione del potere d'acquisto",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/goldman-sachs-leconomia-italiana-perde-spinta-con-lerosione-del-potere_24f7e1d8-dbda-438c-add8-c05027c79a09.html"
+      "titolo": "L'Ue promuove il Documento programmatico di bilancio italiano, ok a tutte le misure della Nec per l'energia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/lue-promuove-il-documento-programmatico-di-bilancio-italiano-ok-a-tutte-le-misure-della-nec_2e3d1b80-5c76-4474-af33-e274f621afa9.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Si amplia SafeTeen, il progetto di C'è Da Fare per la salute mentale degli adolescenti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/si-amplia-safeteen-il-progetto-di-ce-da-fare-per-la-salute-mentale-degli-adolescenti_90a38b0a-52fc-49fa-9af0-6b5b7c14c277.html"
+      "titolo": "ContourGlobal in seconda asta Macse Terna per mercato Sud e Calabria",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/contourglobal-in-seconda-asta-macse-terna-per-mercato-sud-e-calabria_a02b10e7-79e2-4e29-a320-06586ebb1f79.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Ivass, boom dei reclami alle assicurazioni, +10% nel primo semestre",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/ivass-boom-dei-reclami-alle-assicurazioni-10-nel-primo-semestre_77fe3a00-ca1a-4cf3-a2f9-5b57005ce62b.html"
+      "titolo": "Manfredi (Anci), 'condono? Non si può far ricadere sui comuni problemi decennali'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/manfredi-anci-condono-non-si-puo-far-ricadere-sui-comuni-problemi_ebb86f27-1e31-49f7-9c2e-e7137eb8dab8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Pichetto, entro dieci giorni la proposta dei decreti attuativi sul nucleare",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/pichetto-entro-dieci-giorni-la-proposta-dei-decreti-attuativi-sul-nucleare_7f418ec6-efeb-46aa-ad80-95571e56cdf6.html"
+      "titolo": "Sono 700 gli emendamenti che saranno segnalati dai gruppi per la manovra",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/sono-700-gli-emendamenti-che-saranno-segnalati-dai-gruppi-per_0ce513cf-9081-4a0a-8bf8-dc1a4ca19d7e.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Studio Bce, in Italia ostacoli finanziari doppi per le imprese rispetto ai nordici",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/23/studio-bce-in-italia-ostacoli-finanziari-doppi-per-le-imprese-rispetto-ai-nordici_fa07ce79-0364-4405-8107-18b7c28a935f.html"
+      "titolo": "Geely punta sull'Europa: produzione locale e partnership industriali",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/geely-punta-sulleuropa-produzione-locale-e-partnership-industriali_7b72e9a2-1ac5-4e82-9601-9b7056568586.html"
     }
   ]
 }
