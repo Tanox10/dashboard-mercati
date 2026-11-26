@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-11-25T17:51:26.733396Z",
+  "aggiornato_il": "2026-11-26T17:35:52.054555Z",
   "sentiment": {
-    "punteggio": 62.5,
-    "semaforo": "giallo",
+    "punteggio": 74.1,
+    "semaforo": "verde",
     "dettaglio": {
-      "volatilita": 20,
-      "momentum": 50.0,
+      "volatilita": 60,
+      "momentum": 56.25,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 47249.15,
-      "variazione_1g_pct": -1.81,
-      "variazione_1m_pct": -3.94,
-      "variazione_1a_pct": 10.66,
+      "prezzo": 48362.35,
+      "variazione_1g_pct": 2.36,
+      "variazione_1m_pct": -2.55,
+      "variazione_1a_pct": 12.13,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7123.93,
-      "variazione_1g_pct": -1.07,
-      "variazione_1m_pct": -7.2,
-      "variazione_1a_pct": 5.29,
+      "prezzo": 7182.78,
+      "variazione_1g_pct": -0.25,
+      "variazione_1m_pct": -6.43,
+      "variazione_1a_pct": 6.16,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 626.03,
-      "variazione_1g_pct": -1.06,
-      "variazione_1m_pct": -2.28,
-      "variazione_1a_pct": 10.21,
+      "prezzo": 636.98,
+      "variazione_1g_pct": 1.75,
+      "variazione_1m_pct": -1.04,
+      "variazione_1a_pct": 10.93,
       "sopra_media_50gg": false,
-      "sopra_media_200gg": false,
+      "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 192.83,
-      "variazione_1g_pct": -0.89,
-      "variazione_1m_pct": -6.49,
-      "variazione_1a_pct": 6.81,
+      "prezzo": 194.55,
+      "variazione_1g_pct": -0.01,
+      "variazione_1m_pct": -5.66,
+      "variazione_1a_pct": 7.76,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 30.37,
-      "variazione_1g_pct": 15.21,
-      "variazione_1m_pct": 65.14,
-      "variazione_1a_pct": 63.63,
+      "prezzo": 26.8,
+      "variazione_1g_pct": -5.27,
+      "variazione_1m_pct": 52.97,
+      "variazione_1a_pct": 55.9,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -61,10 +61,10 @@
     {
       "nome": "Spread rendimenti USA 10Y-2Y",
       "unita": "punti %",
-      "data": "2026-11-24",
-      "valore": 0.28,
+      "data": "2026-11-25",
+      "valore": 0.24,
       "valore_anno_fa": 0.58,
-      "variazione": -0.3
+      "variazione": -0.34
     },
     {
       "nome": "Inflazione USA (CPI annuo)",
@@ -110,13 +110,13 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Sanofi vola in Borsa sulla  maxi acquisizione negli Usa da 37,6 miliardi di dollari",
-      "link": "https://www.ilsole24ore.com/art/sanofi-maxi-acquisizione-usa-376-miliardi-dollari-AJwKiyQC"
+      "titolo": "Norse Airways verso lo stop dei voli a rischio fallimento",
+      "link": "https://www.ilsole24ore.com/art/norse-airways-lo-stop-voli-rischio-fallimento-AJmO3ITC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Sulle Borse si esaurisce l’effetto Huang, timori AI e dazi rubano la scena. Milano chiude a -1,8%, WS contrastata",
-      "link": "https://www.ilsole24ore.com/art/borse-future-positivi-maxi-rimbalzo-nasdaq-greggio-calo-AJBRZxQC"
+      "titolo": "Borse, il Thanksgiving porta bene all’Europa. Milano vola con auto e tech",
+      "link": "https://www.ilsole24ore.com/art/borse-asiatiche-positive-tokyo-guadagna-l-1percento-AJkFC4SC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -135,28 +135,28 @@
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Resta invariata la lista Fsb delle 29 banche globali sistemiche",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/resta-invariata-la-lista-fsb-delle-29-banche-globali-sistemiche_47f9368b-9336-410e-8c78-215db3c7b138.html"
+      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in ribasso a 107 punti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-107-punti_65fc5c83-bcf7-4be0-a467-24ea616528f6.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread Btp-Bund conclude in aumento a 111,9 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/lo-spread-btp-bund-conclude-in-aumento-a-1119-punti_dcbcb8c9-2fb9-4310-b4cb-3f34bf2ae1d3.html"
+      "titolo": "Borsa: Milano regina d'Europa (+2,36%), botto di Sellantis e Prysmian",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-milano-regina-deuropa-236-botto-di-sellantis-e-prysmian_0ebae62a-9c6e-40af-bc97-3d88ad92ddaf.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Il prezzo del gas è in discesa a 86 euro ad Amsterdam",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/il-prezzo-del-gas-e-in-discesa-a-86-euro-ad-amsterdam_11a0bb65-bfcb-4498-ba6b-2e1565b46149.html"
+      "titolo": "Borsa: Europa brillante in chiusura, Parigi +1,61%, Londra +1,75%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-europa-brillante-in-chiusura-parigi-161-londra-175_ac5f6dee-46c8-4874-aef0-0f0d7a3da2a8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano zavorrata da Prysmian e Stm, in luce Stellantis",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-milano-zavorrata-da-prysmian-e-stm-in-luce-stellantis_c150f3fa-df21-45a3-ae80-b234db7662a0.html"
+      "titolo": "Fincantieri, contratto per la terza unità Lss per la Marina Militare",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/fincantieri-contratto-per-la-terza-unita-lss-per-la-marina-militare_17c82dbf-ab70-4d78-8630-b48194c1d6c8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: l'Europa conclude negativa, Francoforte -1,26%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-leuropa-conclude-negativa-francoforte-126_ee9e8e61-134d-44ef-92da-ab2e2b63d543.html"
+      "titolo": "Borsa: Milano chiude in forte rialzo, +2,36%",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-milano-chiude-in-forte-rialzo-236_4dcf4e5a-cc42-4c52-9da2-e23050aca16e.html"
     }
   ]
 }
