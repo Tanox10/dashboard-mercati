@@ -1,57 +1,57 @@
 {
-  "aggiornato_il": "2026-11-26T17:35:52.054555Z",
+  "aggiornato_il": "2026-11-27T17:17:52.067341Z",
   "sentiment": {
-    "punteggio": 74.1,
+    "punteggio": 75.6,
     "semaforo": "verde",
     "dettaglio": {
       "volatilita": 60,
-      "momentum": 56.25,
+      "momentum": 62.5,
       "curva_rendimenti": 80,
       "inflazione": 100.0
     }
   },
   "mercati": {
     "FTSE MIB (Italia)": {
-      "prezzo": 48362.35,
-      "variazione_1g_pct": 2.36,
-      "variazione_1m_pct": -2.55,
-      "variazione_1a_pct": 12.13,
+      "prezzo": 49275.6,
+      "variazione_1g_pct": 1.89,
+      "variazione_1m_pct": -1.1,
+      "variazione_1a_pct": 14.01,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "S&P 500 (USA)": {
-      "prezzo": 7182.78,
-      "variazione_1g_pct": -0.25,
-      "variazione_1m_pct": -6.43,
-      "variazione_1a_pct": 6.16,
+      "prezzo": 7278.78,
+      "variazione_1g_pct": 1.34,
+      "variazione_1m_pct": -6.01,
+      "variazione_1a_pct": 6.84,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "Stoxx 600 (Eurozona)": {
-      "prezzo": 636.98,
-      "variazione_1g_pct": 1.75,
-      "variazione_1m_pct": -1.04,
-      "variazione_1a_pct": 10.93,
-      "sopra_media_50gg": false,
+      "prezzo": 643.85,
+      "variazione_1g_pct": 1.08,
+      "variazione_1m_pct": -0.05,
+      "variazione_1a_pct": 11.97,
+      "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo"
     },
     "MSCI World ETF": {
-      "prezzo": 194.55,
-      "variazione_1g_pct": -0.01,
-      "variazione_1m_pct": -5.66,
-      "variazione_1a_pct": 7.76,
+      "prezzo": 196.88,
+      "variazione_1g_pct": 1.2,
+      "variazione_1m_pct": -5.38,
+      "variazione_1a_pct": 8.16,
       "sopra_media_50gg": false,
       "sopra_media_200gg": false,
       "trend": "trend positivo"
     },
     "VIX (volatilitÃ  USA)": {
-      "prezzo": 26.8,
-      "variazione_1g_pct": -5.27,
-      "variazione_1m_pct": 52.97,
-      "variazione_1a_pct": 55.9,
+      "prezzo": 24.65,
+      "variazione_1g_pct": -8.02,
+      "variazione_1m_pct": 45.77,
+      "variazione_1a_pct": 43.4,
       "sopra_media_50gg": true,
       "sopra_media_200gg": true,
       "trend": "trend positivo forte"
@@ -110,13 +110,13 @@
   "news": [
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Norse Airways verso lo stop dei voli a rischio fallimento",
-      "link": "https://www.ilsole24ore.com/art/norse-airways-lo-stop-voli-rischio-fallimento-AJmO3ITC"
+      "titolo": "Marlboro e West, fusione allo studio per creare il polo mondiale delle sigarette",
+      "link": "https://www.ilsole24ore.com/art/marlboro-e-west-fusione-studio-creare-polo-mondiale-sigarette-AJ6WkWUC"
     },
     {
       "fonte": "Il Sole 24 Ore",
-      "titolo": "Borse, il Thanksgiving porta bene all’Europa. Milano vola con auto e tech",
-      "link": "https://www.ilsole24ore.com/art/borse-asiatiche-positive-tokyo-guadagna-l-1percento-AJkFC4SC"
+      "titolo": "Borse, Milano (+1,9%) guida la ripresa in Europa. A Wall Street Anthropic torna sopra prezzo Ipo",
+      "link": "https://www.ilsole24ore.com/art/volano-borse-cinesi-shanghai-32percento-shenzhen-63percento-AJro4PUC"
     },
     {
       "fonte": "Il Sole 24 Ore",
@@ -125,38 +125,38 @@
     },
     {
       "fonte": "Il Sole 24 Ore",
+      "titolo": "Norse Airways verso lo stop dei voli a rischio fallimento",
+      "link": "https://www.ilsole24ore.com/art/norse-airways-lo-stop-voli-rischio-fallimento-AJmO3ITC"
+    },
+    {
+      "fonte": "Il Sole 24 Ore",
       "titolo": "Abivax replica alle accuse di Scorpion Capital e rimbalza a Parigi",
       "link": "https://www.ilsole24ore.com/art/abivax-replica-accuse-scorpion-capital-e-rimbalza-parigi-AJTizwPC"
     },
     {
-      "fonte": "Il Sole 24 Ore",
-      "titolo": "A Zurigo male Julius Baer, utile record ma pesano i deludenti flussi netti",
-      "link": "https://www.ilsole24ore.com/art/a-zurigo-male-julius-baer-utile-record-ma-pesano-deludenti-flussi-netti-AJoY10PC"
+      "fonte": "ANSA Economia",
+      "titolo": "Borsa: Tokyo, apertura in aumento (+0,39%)",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/27/borsa-tokyo-apertura-in-aumento-039_3695bcbd-aa6a-4e1e-a07c-320e3ff6c559.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Lo spread tra Btp e Bund tedeschi chiude in ribasso a 107 punti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-107-punti_65fc5c83-bcf7-4be0-a467-24ea616528f6.html"
+      "titolo": "Accordo per De Cos alla Bce, ma è muro contro muro sul bilancio Ue",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/accordo-per-de-cos-alla-bce-ma-e-muro-contro-muro-sul-bilancio_b89e1430-4300-482f-9508-c475065af9d8.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano regina d'Europa (+2,36%), botto di Sellantis e Prysmian",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-milano-regina-deuropa-236-botto-di-sellantis-e-prysmian_0ebae62a-9c6e-40af-bc97-3d88ad92ddaf.html"
+      "titolo": "Orsini, sul Superbonus rassicurazioni da Giorgetti che si torna a quello che era",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/orsini-sul-superbonus-rassicurazioni-da-giorgetti-che-si-torna-a-quello-che-era_8ab951a9-3a97-41dd-834a-148819d03ba7.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Borsa: Europa brillante in chiusura, Parigi +1,61%, Londra +1,75%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-europa-brillante-in-chiusura-parigi-161-londra-175_ac5f6dee-46c8-4874-aef0-0f0d7a3da2a8.html"
+      "titolo": "Adyen, cresce uso agenti Ai per e-commerce, sistema pagamenti e banche si adeguino",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/adyen-cresce-uso-agenti-ai-per-e-commerce-sistema-pagamenti-e-banche-si-adeguino_29e4231f-4d81-4903-9aec-210a263c41b1.html"
     },
     {
       "fonte": "ANSA Economia",
-      "titolo": "Fincantieri, contratto per la terza unità Lss per la Marina Militare",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/fincantieri-contratto-per-la-terza-unita-lss-per-la-marina-militare_17c82dbf-ab70-4d78-8630-b48194c1d6c8.html"
-    },
-    {
-      "fonte": "ANSA Economia",
-      "titolo": "Borsa: Milano chiude in forte rialzo, +2,36%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-milano-chiude-in-forte-rialzo-236_4dcf4e5a-cc42-4c52-9da2-e23050aca16e.html"
+      "titolo": "Jindal rilancia sull'ex Ilva, gli investimenti salgono a 7,5 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/jindal-rilancia-sullex-ilva-gli-investimenti-salgono-a-75-miliardi_788dba04-7995-40f9-8e2b-a59723e1bde1.html"
     }
   ]
 }
